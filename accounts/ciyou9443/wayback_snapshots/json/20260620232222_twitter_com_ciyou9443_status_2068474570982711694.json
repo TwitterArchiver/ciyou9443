@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2068364997806408082",
+    "created_at": "2026-06-20T23:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T00:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068474570982711694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3012350599",
+          "start": 0,
+          "username": "__Ju___Ju__"
+        },
+        {
+          "end": 29,
+          "id": "1214010428235247616",
+          "start": 13,
+          "username": "GiveProofToLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068474570982711694",
+    "in_reply_to_user_id": "3012350599",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068364997806408082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Ju___Ju__ @GiveProofToLove 打call～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_2068364989996597248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRO_-6aAAAdYAs.jpg",
+        "width": 370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2068364997806408082",
+        "created_at": "2026-06-20T23:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T00:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068474570982711694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3012350599",
+              "start": 0,
+              "username": "__Ju___Ju__"
+            },
+            {
+              "end": 29,
+              "id": "1214010428235247616",
+              "start": 13,
+              "username": "GiveProofToLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068474570982711694",
+        "in_reply_to_user_id": "3012350599",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068364997806408082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Ju___Ju__ @GiveProofToLove 打call～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068364989996597248"
+          ]
+        },
+        "author_id": "3012350599",
+        "conversation_id": "2068364997806408082",
+        "created_at": "2026-06-20T16:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068364997806408082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 55,
+              "id": "1214010428235247616",
+              "start": 39,
+              "username": "GiveProofToLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xoSkRyNms6",
+              "end": 79,
+              "expanded_url": "https://x.com/__Ju___Ju__/status/2068364997806408082/photo/1",
+              "media_key": "3_2068364989996597248",
+              "start": 56,
+              "url": "https://t.co/xoSkRyNms6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068364997806408082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "桔桔 x 玖玖联动四周年！！🎉🎈一晃在一起居然这么久了～今天是我们的纪念日喔\n@GiveProofToLove https://t.co/xoSkRyNms6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1844,
+          "following_count": 575,
+          "like_count": 12137,
+          "listed_count": 5,
+          "media_count": 434,
+          "tweet_count": 3342
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "为什么我不能只是一只毛绒小兔子？🐰🍊/#すこ部 推し /可以叫我桔桔/我要出去玩了！！\n💕@GiveProofToLove \n🫎@mukdengise\n🐑@jinpingslutflop",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "すこ部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "GiveProofToLove"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "mukdengise"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "jinpingslutflop"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "location": "Daegu, Republic of Korea",
+        "name": "夸张桔🍊",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029526662673752064/dKy6IwX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4474,
+          "following_count": 506,
+          "like_count": 43994,
+          "listed_count": 17,
+          "media_count": 3375,
+          "tweet_count": 47310
+        },
+        "url": "",
+        "username": "__Ju___Ju__",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-06T02:27:05.000Z",
+        "description": "正在思考：最近应该重新干什么。",
+        "id": "1214010428235247616",
+        "name": "凝",
+        "pinned_tweet_id": "1885151048106729959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029515883270516736/Va2RxZ2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1969,
+          "following_count": 18,
+          "like_count": 2986,
+          "listed_count": 5,
+          "media_count": 78,
+          "tweet_count": 2243
+        },
+        "url": "",
+        "username": "GiveProofToLove",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2068267324436881460",
+    "created_at": "2026-06-20T10:57:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T11:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068287186802487331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068287186802487331",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068275368411443224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@AcboxLiu 是的喵，注销墙内社交平台账号后会心情变得更好(*˘︶˘*).。.:*♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2068267324436881460",
+        "created_at": "2026-06-20T10:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068287186802487331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068287186802487331",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068275368411443224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@AcboxLiu 是的喵，注销墙内社交平台账号后会心情变得更好(*˘︶˘*).。.:*♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "2068267324436881460",
+        "created_at": "2026-06-20T10:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068275368411443224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068275368411443224",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068267324436881460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我说实话我从五月份注销掉墙内所有公共社交平台的账号后精神状态真的好了很多，本来我以为我给自己造的信息茧房终于能稳定一些了，结果你们搬的那些💩直接把我看ptsd了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1764,
+          "following_count": 574,
+          "like_count": 12118,
+          "listed_count": 5,
+          "media_count": 434,
+          "tweet_count": 3335
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "/ 📦神秘纸箱 / 💖现实中是一个很可爱的人\n/ https://t.co/hUTrNHa19i\n/ Co-founder of https://t.co/gLiVpv8l1t https://t.co/PSLnUgusnm\n/ 🐱家里有小猫和大猫 @Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 125,
+                "username": "Dustella_Chan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 48,
+                "expanded_url": "http://github.com/sheepbox8646",
+                "start": 25,
+                "url": "https://t.co/hUTrNHa19i"
+              },
+              {
+                "display_url": "memoh.ai",
+                "end": 88,
+                "expanded_url": "http://memoh.ai",
+                "start": 65,
+                "url": "https://t.co/gLiVpv8l1t"
+              },
+              {
+                "display_url": "felinic.ai",
+                "end": 112,
+                "expanded_url": "http://felinic.ai",
+                "start": 89,
+                "url": "https://t.co/PSLnUgusnm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/acboxawa",
+                "end": 23,
+                "expanded_url": "http://t.me/acboxawa",
+                "start": 0,
+                "url": "https://t.co/ItS4Ve8jNM"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "上海/深圳",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "2039222526803636555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12288,
+          "following_count": 2974,
+          "like_count": 3424,
+          "listed_count": 65,
+          "media_count": 1115,
+          "tweet_count": 6304
+        },
+        "url": "https://t.co/ItS4Ve8jNM",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982309835510083584"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1982309838769332352",
+    "created_at": "2025-10-26T04:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T05:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982309838769332352"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A1MeCXf7sC",
+          "end": 72,
+          "expanded_url": "https://x.com/ciyou9443/status/1982309838769332352/photo/1",
+          "media_key": "3_1982309835510083584",
+          "start": 49,
+          "url": "https://t.co/A1MeCXf7sC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982309838769332352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "姐姐，上次脱衣服的游戏很好玩，但是为什么我的肚子慢慢变大了，我发消息你也不回，再这样我告诉你妈妈 https://t.co/A1MeCXf7sC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_1982309835510083584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4KUSuxXcAAkwbW.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982309835510083584"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1982309838769332352",
+        "created_at": "2025-10-26T04:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T05:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982309838769332352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A1MeCXf7sC",
+              "end": 72,
+              "expanded_url": "https://x.com/ciyou9443/status/1982309838769332352/photo/1",
+              "media_key": "3_1982309835510083584",
+              "start": 49,
+              "url": "https://t.co/A1MeCXf7sC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982309838769332352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐姐，上次脱衣服的游戏很好玩，但是为什么我的肚子慢慢变大了，我发消息你也不回，再这样我告诉你妈妈 https://t.co/A1MeCXf7sC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/虽然主包是个精神病但是buff叠太多我还是会害怕😨",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 517,
+          "like_count": 7686,
+          "listed_count": 4,
+          "media_count": 233,
+          "tweet_count": 1775
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1987840514805350539",
+    "created_at": "2025-11-10T14:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T15:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987894369954021546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1659799899431669760",
+          "start": 0,
+          "username": "lesyeuxdavery"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987894369954021546",
+    "in_reply_to_user_id": "1659799899431669760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987840514805350539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lesyeuxdavery 哎呀🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987840506735550464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Y6aKoa4AAW20Y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1987840514805350539",
+        "created_at": "2025-11-10T14:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987894369954021546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659799899431669760",
+              "start": 0,
+              "username": "lesyeuxdavery"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987894369954021546",
+        "in_reply_to_user_id": "1659799899431669760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987840514805350539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lesyeuxdavery 哎呀🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987840506735550464"
+          ]
+        },
+        "author_id": "1659799899431669760",
+        "conversation_id": "1987840514805350539",
+        "created_at": "2025-11-10T11:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T12:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987840514805350539"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sfkJS0w6pB",
+              "end": 27,
+              "expanded_url": "https://x.com/lesyeuxdavery/status/1987840514805350539/photo/1",
+              "media_key": "3_1987840506735550464",
+              "start": 4,
+              "url": "https://t.co/sfkJS0w6pB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987840514805350539",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 https://t.co/sfkJS0w6pB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 529,
+          "like_count": 8411,
+          "listed_count": 4,
+          "media_count": 261,
+          "tweet_count": 1927
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T05:55:38.000Z",
+        "description": "",
+        "id": "1659799899431669760",
+        "name": "réflexions",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983787416319356932/Hfr5_J0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 165,
+          "like_count": 7602,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 1894
+        },
+        "username": "lesyeuxdavery",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1988969062169477565",
+    "created_at": "2025-11-13T13:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T14:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988969062169477565"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1988969062169477565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我小时候就不能上桌吃饭，没人爱的孩子也是没资格上桌的，沙东就是这样的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1988969062169477565",
+        "created_at": "2025-11-13T13:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T14:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988969062169477565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988969062169477565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我小时候就不能上桌吃饭，没人爱的孩子也是没资格上桌的，沙东就是这样的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1970553338472341959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 529,
+          "like_count": 8531,
+          "listed_count": 4,
+          "media_count": 266,
+          "tweet_count": 1973
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

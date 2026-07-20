@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1944085082513223680"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1944085137009840527",
+    "created_at": "2025-07-12T17:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T18:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944085137009840527"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZpCb85G6cm",
+          "end": 31,
+          "expanded_url": "https://x.com/ciyou9443/status/1944085137009840527/photo/1",
+          "media_key": "16_1944085082513223680",
+          "start": 8,
+          "url": "https://t.co/ZpCb85G6cm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944085137009840527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉身体被掏空 https://t.co/ZpCb85G6cm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 342,
+        "media_key": "16_1944085082513223680",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GvrHFRRWMAAduqv.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GvrHFRRWMAAduqv.mp4"
+          }
+        ],
+        "width": 378
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1944085082513223680"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1944085137009840527",
+        "created_at": "2025-07-12T17:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T18:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944085137009840527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZpCb85G6cm",
+              "end": 31,
+              "expanded_url": "https://x.com/ciyou9443/status/1944085137009840527/photo/1",
+              "media_key": "16_1944085082513223680",
+              "start": 8,
+              "url": "https://t.co/ZpCb85G6cm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944085137009840527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉身体被掏空 https://t.co/ZpCb85G6cm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1912156270657700280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 381,
+          "like_count": 3981,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 1098
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

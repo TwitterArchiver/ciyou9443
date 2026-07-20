@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1987112233760112681",
+    "created_at": "2025-11-08T16:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T17:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987200876147318913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1555961306913689600",
+          "start": 0,
+          "username": "3C3AHuangYou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987200876147318913",
+    "in_reply_to_user_id": "1555961306913689600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987112233760112681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3C3AHuangYou 好奇了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 432,
+        "media_key": "3_1987112231490965504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OkC97aUAARrra.jpg",
+        "width": 985
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1987112233760112681",
+        "created_at": "2025-11-08T16:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T17:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987200876147318913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1555961306913689600",
+              "start": 0,
+              "username": "3C3AHuangYou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987200876147318913",
+        "in_reply_to_user_id": "1555961306913689600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987112233760112681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3C3AHuangYou 好奇了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987112231490965504"
+          ]
+        },
+        "author_id": "1555961306913689600",
+        "conversation_id": "1987112233760112681",
+        "created_at": "2025-11-08T10:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987112233760112681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EjLbA4OXZ5",
+              "end": 23,
+              "expanded_url": "https://x.com/3C3AHuangYou/status/1987112233760112681/photo/1",
+              "media_key": "3_1987112231490965504",
+              "start": 0,
+              "url": "https://t.co/EjLbA4OXZ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987112233760112681",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3037,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EjLbA4OXZ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 523,
+          "like_count": 8293,
+          "listed_count": 4,
+          "media_count": 257,
+          "tweet_count": 1904
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-06T16:57:47.000Z",
+        "description": "我常怀悲缅 而苦难绵延大地  如风吹过林间  赓继如缕 累续无绝                                                                                                我燃尽的灰  @ButterInnerSide",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 135,
+                "username": "ButterInnerSide"
+              }
+            ]
+          }
+        },
+        "id": "1555961306913689600",
+        "location": "微笑的尸山",
+        "name": "人造黄油➡️no where",
+        "pinned_tweet_id": "1923079056955687153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921217447677644800/MuCe2H0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6782,
+          "following_count": 2691,
+          "like_count": 140595,
+          "listed_count": 11,
+          "media_count": 1671,
+          "tweet_count": 25414
+        },
+        "username": "3C3AHuangYou",
+        "verified": false
+      }
+    ]
+  }
+}

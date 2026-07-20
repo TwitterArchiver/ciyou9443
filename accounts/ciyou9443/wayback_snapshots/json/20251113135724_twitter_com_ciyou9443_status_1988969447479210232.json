@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1988218999159849206",
+    "created_at": "2025-11-13T13:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T14:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988969447479210232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445400963632750596",
+          "start": 0,
+          "username": "Im_Just__Girl"
+        },
+        {
+          "end": 27,
+          "id": "1338048339930071040",
+          "start": 15,
+          "username": "konoGuanine"
+        },
+        {
+          "end": 36,
+          "id": "1887864488973791232",
+          "start": 28,
+          "username": "06auser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988969447479210232",
+    "in_reply_to_user_id": "1445400963632750596",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988319792533737795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Im_Just__Girl @konoGuanine @06auser 恐怖临沂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1988218999159849206",
+        "created_at": "2025-11-13T13:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T14:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988969447479210232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445400963632750596",
+              "start": 0,
+              "username": "Im_Just__Girl"
+            },
+            {
+              "end": 27,
+              "id": "1338048339930071040",
+              "start": 15,
+              "username": "konoGuanine"
+            },
+            {
+              "end": 36,
+              "id": "1887864488973791232",
+              "start": 28,
+              "username": "06auser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988969447479210232",
+        "in_reply_to_user_id": "1445400963632750596",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988319792533737795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Im_Just__Girl @konoGuanine @06auser 恐怖临沂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445400963632750596",
+        "conversation_id": "1988218999159849206",
+        "created_at": "2025-11-11T18:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T19:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988319792533737795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            },
+            {
+              "end": 23,
+              "id": "1338048339930071040",
+              "start": 11,
+              "username": "konoGuanine"
+            },
+            {
+              "end": 32,
+              "id": "1887864488973791232",
+              "start": 24,
+              "username": "06auser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988319792533737795",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988255571662041232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 @konoGuanine @06auser 临沂素"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1970553338472341959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 529,
+          "like_count": 8531,
+          "listed_count": 4,
+          "media_count": 266,
+          "tweet_count": 1974
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "理工跨子永远都是男跨，文科跨女就是女性，计算机CS跨永远是男人。理工跨的审美和长相就是对MTF最大的侮辱。I'm a Good girl. Please don't hurt me.👧\n洪水将至🌈。烧女诬的烟往上冒，直到永永远远（女诬：诬告男性的女人）！阴湿女，喜欢阴冷潮湿的气候 。",
+        "id": "1445400963632750596",
+        "location": "Girls Home",
+        "name": "Danielle",
+        "pinned_tweet_id": "1987920278366941404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977019999081709568/Vs0ILDtR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 652,
+          "like_count": 9642,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 4600
+        },
+        "username": "Im_Just__Girl",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-13T09:09:29.000Z",
+        "description": "Ich dien|\na failed pharmacist ｜EN,CN,Cantonese",
+        "id": "1338048339930071040",
+        "location": "Macao",
+        "name": "roseae",
+        "pinned_tweet_id": "1497453314107064322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766750498974302208/VdL3gW9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 1428,
+          "like_count": 34012,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 5035
+        },
+        "username": "konoGuanine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T14:02:59.000Z",
+        "description": "07年,173cm,52kg  \n\n双相情感障碍//三级ASD//极度缺爱//广泛性焦虑障碍//重度社交障碍\n       不定时发疯     「疯狂找寻致幻剂中...」",
+        "id": "1887864488973791232",
+        "name": "yice​ ​🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1988611211337085318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974991767977316353/5ulQ2MRF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 171,
+          "like_count": 1019,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 129
+        },
+        "username": "06auser",
+        "verified": false
+      }
+    ]
+  }
+}

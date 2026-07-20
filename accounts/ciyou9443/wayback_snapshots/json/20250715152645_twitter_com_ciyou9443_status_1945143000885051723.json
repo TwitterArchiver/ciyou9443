@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1945142359609479398",
+    "created_at": "2025-07-15T15:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T16:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945143000885051723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907031442103943168",
+          "start": 0,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945143000885051723",
+    "in_reply_to_user_id": "1907031442103943168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945142359609479398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinemu123 还在嘴硬，还在嘴硬，哈基素伪音明显比哈基眠好，等着叭，扣晕你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1945142359609479398",
+        "created_at": "2025-07-15T15:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T16:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945143000885051723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945143000885051723",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945142359609479398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 还在嘴硬，还在嘴硬，哈基素伪音明显比哈基眠好，等着叭，扣晕你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "conversation_id": "1945142359609479398",
+        "created_at": "2025-07-15T15:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T16:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945142359609479398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945142359609479398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和哈基素比伪音，哈基素比不过就比到了手术材料上。\n哈基素：你只能做零深度。\n我：深度有什么用？哈基素你能用得到吗？\n哈基素：（伸出手指）\n我：你看我手指头也比你长，我手掌还比你小呢。\n哈基素：我手比你好看。\n我：你手好看以后也是扣我的逼😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 386,
+          "like_count": 4107,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 1114
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；一个领域很偏的软件工程师；一个并不会创作的音乐制作人；一个技术全忘了的技术音频；文学少女；古风女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1944377494439899484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 2577,
+          "like_count": 997,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 3773
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      }
+    ]
+  }
+}
