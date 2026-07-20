@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2027396039716790272"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2027396060403159280",
+    "created_at": "2026-02-27T14:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T15:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027396060403159280"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/otv703PfzK",
+          "end": 40,
+          "expanded_url": "https://x.com/ciyou9443/status/2027396060403159280/video/1",
+          "media_key": "7_2027396039716790272",
+          "start": 17,
+          "url": "https://t.co/otv703PfzK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027396060403159280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喵呜喵呜喵呜，happy眠眠猫呜 https://t.co/otv703PfzK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4701,
+        "height": 1280,
+        "media_key": "7_2027396039716790272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2027396039716790272/pu/img/WwZ_jmVZXB6KK_zf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027396039716790272/pu/vid/avc1/320x710/o5QojHNPatv1Kten.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027396039716790272/pu/vid/avc1/480x1066/_m6rmyv7w9xuoud9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027396039716790272/pu/vid/avc1/576x1280/_nVPaxBgO7eNKq7m.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2027396039716790272/pu/pl/5jB_i4UBDCdCWQMG.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2027396039716790272"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2027396060403159280",
+        "created_at": "2026-02-27T14:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027396060403159280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/otv703PfzK",
+              "end": 40,
+              "expanded_url": "https://x.com/ciyou9443/status/2027396060403159280/video/1",
+              "media_key": "7_2027396039716790272",
+              "start": 17,
+              "url": "https://t.co/otv703PfzK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027396060403159280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵呜喵呜喵呜，happy眠眠猫呜 https://t.co/otv703PfzK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "长夜何萤，惭言朔月\n                                                                    眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 82,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 108,
+                "start": 100,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "常曦",
+        "pinned_tweet_id": "2025548927907586120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010721996909514752/qGj_peZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 530,
+          "like_count": 10210,
+          "listed_count": 5,
+          "media_count": 358,
+          "tweet_count": 2611
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

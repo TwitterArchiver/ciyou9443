@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053406470033862656",
+        "3_2053406471392759808"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2053406474324644055",
+    "created_at": "2026-05-10T09:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T10:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053406474324644055"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LSOPlPJzpZ",
+          "end": 35,
+          "expanded_url": "https://x.com/ciyou9443/status/2053406474324644055/photo/1",
+          "media_key": "3_2053406470033862656",
+          "start": 12,
+          "url": "https://t.co/LSOPlPJzpZ"
+        },
+        {
+          "display_url": "pic.x.com/LSOPlPJzpZ",
+          "end": 35,
+          "expanded_url": "https://x.com/ciyou9443/status/2053406474324644055/photo/1",
+          "media_key": "3_2053406471392759808",
+          "start": 12,
+          "url": "https://t.co/LSOPlPJzpZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053406474324644055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没妈的孩子只能自己演妈 https://t.co/LSOPlPJzpZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1202,
+        "media_key": "3_2053406470033862656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8qThnbcAAQqgX.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1432,
+        "media_key": "3_2053406471392759808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8qTmrakAA8i5-.jpg",
+        "width": 1274
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053406470033862656",
+            "3_2053406471392759808"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2053406474324644055",
+        "created_at": "2026-05-10T09:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053406474324644055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LSOPlPJzpZ",
+              "end": 35,
+              "expanded_url": "https://x.com/ciyou9443/status/2053406474324644055/photo/1",
+              "media_key": "3_2053406470033862656",
+              "start": 12,
+              "url": "https://t.co/LSOPlPJzpZ"
+            },
+            {
+              "display_url": "pic.x.com/LSOPlPJzpZ",
+              "end": 35,
+              "expanded_url": "https://x.com/ciyou9443/status/2053406474324644055/photo/1",
+              "media_key": "3_2053406471392759808",
+              "start": 12,
+              "url": "https://t.co/LSOPlPJzpZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053406474324644055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没妈的孩子只能自己演妈 https://t.co/LSOPlPJzpZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "常曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 535,
+          "like_count": 10778,
+          "listed_count": 5,
+          "media_count": 388,
+          "tweet_count": 2816
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

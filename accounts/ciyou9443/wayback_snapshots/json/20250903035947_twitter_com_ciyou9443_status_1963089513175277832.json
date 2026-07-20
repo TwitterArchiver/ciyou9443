@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1963087652586193175",
+    "created_at": "2025-09-03T03:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T04:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963089513175277832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1927241523340460032",
+          "start": 0,
+          "username": "7770101s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963089513175277832",
+    "in_reply_to_user_id": "1927241523340460032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963087652586193175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7770101s 美貌分我点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963087640200413184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz5JztEbAAAdpg3.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1963087640192024579",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz5JztCbAAMbfct.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1963087652586193175",
+        "created_at": "2025-09-03T03:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T04:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963089513175277832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1927241523340460032",
+              "start": 0,
+              "username": "7770101s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963089513175277832",
+        "in_reply_to_user_id": "1927241523340460032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963087652586193175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7770101s 美貌分我点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963087640200413184",
+            "3_1963087640192024579"
+          ]
+        },
+        "author_id": "1927241523340460032",
+        "conversation_id": "1963087652586193175",
+        "created_at": "2025-09-03T03:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T04:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963087652586193175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HWMwC3nZAp",
+              "end": 46,
+              "expanded_url": "https://x.com/7770101s/status/1963087652586193175/photo/1",
+              "media_key": "3_1963087640200413184",
+              "start": 23,
+              "url": "https://t.co/HWMwC3nZAp"
+            },
+            {
+              "display_url": "pic.x.com/HWMwC3nZAp",
+              "end": 46,
+              "expanded_url": "https://x.com/7770101s/status/1963087652586193175/photo/1",
+              "media_key": "3_1963087640192024579",
+              "start": 23,
+              "url": "https://t.co/HWMwC3nZAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963087652586193175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想去把刘海修厚一点，但是又怕变成红姐🙂‍↕️ https://t.co/HWMwC3nZAp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1958676027850596862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 499,
+          "like_count": 6620,
+          "listed_count": 4,
+          "media_count": 140,
+          "tweet_count": 1481
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T05:52:49.000Z",
+        "description": "Do you have any ibuprofen? I got a headache.｜嗑药的｜poly｜永远❤️Saki",
+        "id": "1927241523340460032",
+        "location": "Milky Way Galaxy",
+        "name": "蒸汽动力齿轮",
+        "pinned_tweet_id": "1958542243612278821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955809807870627840/Dxeef82J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 200,
+          "like_count": 3043,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 485
+        },
+        "username": "7770101s",
+        "verified": true
+      }
+    ]
+  }
+}

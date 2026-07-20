@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1947664823648718980",
+    "created_at": "2025-07-22T14:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T15:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947665887773053310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880632778141921282",
+          "start": 0,
+          "username": "neko1264826"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947665887773053310",
+    "in_reply_to_user_id": "1880632778141921282",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947665154868396168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko1264826 ♥(｡￫v￩｡)♥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1947664823648718980",
+        "created_at": "2025-07-22T14:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T15:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947665887773053310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880632778141921282",
+              "start": 0,
+              "username": "neko1264826"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947665887773053310",
+        "in_reply_to_user_id": "1880632778141921282",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947665154868396168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko1264826 ♥(｡￫v￩｡)♥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880632778141921282",
+        "conversation_id": "1947664823648718980",
+        "created_at": "2025-07-22T14:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T15:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947665154868396168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947665154868396168",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947664823648718980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 谢谢喜欢！我真的很开心有人关注我😭第一次小火一把"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 411,
+          "like_count": 4592,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1176
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T15:06:23.000Z",
+        "description": "“江上无灯，风起青山。” 自介：女孩子/史同+二次/扩列聊天大欢迎！/江青激推者/姐：@Noisy_White",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 43,
+                "username": "Noisy_White"
+              }
+            ]
+          }
+        },
+        "id": "1880632778141921282",
+        "location": "*咬",
+        "name": "NEKO_绫",
+        "pinned_tweet_id": "1943515529215643767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946524101247410176/sHIgUaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 86,
+          "like_count": 487,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 244
+        },
+        "username": "neko1264826",
+        "verified": false
+      }
+    ]
+  }
+}

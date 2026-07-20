@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2054909255900365006",
+    "created_at": "2026-05-15T03:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T04:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055130526458282277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1233287775144693760",
+          "start": 0,
+          "username": "Yagi_Yui_Yo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055130526458282277",
+    "in_reply_to_user_id": "1233287775144693760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054909255900365006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yagi_Yui_Yo 姐姐好米🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2054909248145076224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISBEuVaMAA2n0Z.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2054909255900365006",
+        "created_at": "2026-05-15T03:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055130526458282277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1233287775144693760",
+              "start": 0,
+              "username": "Yagi_Yui_Yo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055130526458282277",
+        "in_reply_to_user_id": "1233287775144693760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054909255900365006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yagi_Yui_Yo 姐姐好米🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054909248145076224"
+          ]
+        },
+        "author_id": "1233287775144693760",
+        "conversation_id": "2054909255900365006",
+        "created_at": "2026-05-14T12:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054909255900365006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RpFQT3ojGp",
+              "end": 107,
+              "expanded_url": "https://x.com/Yagi_Yui_Yo/status/2054909255900365006/photo/1",
+              "media_key": "3_2054909248145076224",
+              "start": 84,
+              "url": "https://t.co/RpFQT3ojGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054909255900365006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 869,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天我收到了学校发的stipend\n巧了 claude也收到了我的subscription\n\n我导说拿了钱我就要开始push你了哦\n巧了 我也是这么跟claude说的 https://t.co/RpFQT3ojGp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "常曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 535,
+          "like_count": 10843,
+          "listed_count": 5,
+          "media_count": 390,
+          "tweet_count": 2850
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-28T07:08:23.000Z",
+        "description": "non-binary/gender fluid/#lolita/cla系/aka可昕/Ph.D student in Ch.E.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 24,
+                "tag": "lolita"
+              }
+            ]
+          }
+        },
+        "id": "1233287775144693760",
+        "location": "Australia",
+        "name": "🍔",
+        "pinned_tweet_id": "1958531914048094472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945631396875100160/B8Zd3bWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2437,
+          "following_count": 665,
+          "like_count": 32224,
+          "listed_count": 10,
+          "media_count": 301,
+          "tweet_count": 5304
+        },
+        "username": "Yagi_Yui_Yo",
+        "verified": false
+      }
+    ]
+  }
+}

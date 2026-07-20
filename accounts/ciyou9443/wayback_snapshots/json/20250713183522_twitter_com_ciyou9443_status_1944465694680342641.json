@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1944464647807242340",
+    "created_at": "2025-07-13T18:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T19:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944465694680342641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1723352247982239744",
+          "start": 0,
+          "username": "ban_le3330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944465694680342641",
+    "in_reply_to_user_id": "1723352247982239744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944464647807242340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ban_le3330 揉揉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1944464647807242340",
+        "created_at": "2025-07-13T18:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T19:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944465694680342641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1723352247982239744",
+              "start": 0,
+              "username": "ban_le3330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944465694680342641",
+        "in_reply_to_user_id": "1723352247982239744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944464647807242340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ban_le3330 揉揉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723352247982239744",
+        "conversation_id": "1944464647807242340",
+        "created_at": "2025-07-13T18:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T19:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944464647807242340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y4006948_3/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/y4006948_3/status/1944400469754851739",
+              "start": 18,
+              "url": "https://t.co/9dmpOphRDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944464647807242340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944400469754851739",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我平时很少挂人，除非它嘴巴实在太贱 https://t.co/9dmpOphRDB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1912156270657700280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 381,
+          "like_count": 4010,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 1103
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T14:49:46.000Z",
+        "description": "MTF🏳️‍⚧️丨女同性恋🌈丨Transfem丨男性恐惧症（恐男不是仇男，请不要给我扣仇恨帽子）丨希望所有人都能友好相处丨讨厌任何形式的性骚扰丨不发R18内容丨持证含糖丨避难所已暂停运营丨已有女友丨所爱之人：@binglvsuiyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "binglvsuiyu"
+              }
+            ]
+          }
+        },
+        "id": "1723352247982239744",
+        "location": "蛋糕之星",
+        "name": "彩音",
+        "pinned_tweet_id": "1889710512117584007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891381566615728128/-CvIiSSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 300,
+          "like_count": 3219,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 1331
+        },
+        "username": "ban_le3330",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1979346485092454793",
+    "created_at": "2025-10-18T15:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T16:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979567825724620943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903701047589343232",
+          "start": 0,
+          "username": "ceobrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979567825724620943",
+    "in_reply_to_user_id": "1903701047589343232",
+    "lang": "eu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979346485092454793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceobrus ruarua"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1060,
+        "media_key": "3_1979346482470789120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3gNI4cXIAAqLfj.jpg",
+        "width": 792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1979346485092454793",
+        "created_at": "2025-10-18T15:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T16:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979567825724620943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903701047589343232",
+              "start": 0,
+              "username": "ceobrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979567825724620943",
+        "in_reply_to_user_id": "1903701047589343232",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979346485092454793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceobrus ruarua"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979346482470789120"
+          ]
+        },
+        "author_id": "1903701047589343232",
+        "conversation_id": "1979346485092454793",
+        "created_at": "2025-10-18T00:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T01:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979346485092454793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XwlrwPP2pY",
+              "end": 41,
+              "expanded_url": "https://x.com/ceobrus/status/1979346485092454793/photo/1",
+              "media_key": "3_1979346482470789120",
+              "start": 18,
+              "url": "https://t.co/XwlrwPP2pY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979346485092454793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 942,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推文是六元钱买的，但是主包是免费的 https://t.co/XwlrwPP2pY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/只是搞点抽象，感到心理不适私我删改",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "玩偶姐姐",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977415827738796033/vSlVimgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 518,
+          "like_count": 7614,
+          "listed_count": 4,
+          "media_count": 220,
+          "tweet_count": 1741
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "femboy丨it、they丨可互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ceobrus",
+                "end": 23,
+                "expanded_url": "https://t.me/ceobrus",
+                "start": 0,
+                "url": "https://t.co/jjy2nzikWB"
+              }
+            ]
+          }
+        },
+        "id": "1903701047589343232",
+        "name": "小方二号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970098823126192129/wLmmXOnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3792,
+          "following_count": 1701,
+          "like_count": 8659,
+          "listed_count": 6,
+          "media_count": 124,
+          "tweet_count": 2114
+        },
+        "url": "https://t.co/jjy2nzikWB",
+        "username": "ceobrus",
+        "verified": false
+      }
+    ]
+  }
+}

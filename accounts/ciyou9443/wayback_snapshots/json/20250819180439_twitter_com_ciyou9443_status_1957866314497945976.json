@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1957857625678528755",
+    "created_at": "2025-08-19T18:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T19:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957866314497945976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957866314497945976",
+    "in_reply_to_user_id": "623965569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957857625678528755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand 舔舔"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4317,
+        "height": 960,
+        "media_key": "13_1957857392345116676",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957857392345116676/img/xTEaEvXDRrbhpS9o.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957857392345116676/vid/avc1/320x426/lITpdEvQQoTJZ5-5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957857392345116676/vid/avc1/480x640/qkJRWa8AOYmkqIdp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957857392345116676/vid/avc1/720x960/HAYPt5QMM2ArsQuH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957857392345116676/pl/Z8UanLT7SAuGmvN9.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1957857625678528755",
+        "created_at": "2025-08-19T18:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T19:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957866314497945976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957866314497945976",
+        "in_reply_to_user_id": "623965569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957857625678528755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand 舔舔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957857392345116676"
+          ]
+        },
+        "author_id": "623965569",
+        "conversation_id": "1957857625678528755",
+        "created_at": "2025-08-19T17:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T18:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957857625678528755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zU3wsQV5gu",
+              "end": 35,
+              "expanded_url": "https://x.com/nothousand/status/1957857625678528755/video/1",
+              "media_key": "13_1957857392345116676",
+              "start": 12,
+              "url": "https://t.co/zU3wsQV5gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957857625678528755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还没睡着……扮个鬼脸🤪 https://t.co/zU3wsQV5gu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1952311599215399294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 487,
+          "like_count": 6130,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 1369
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "/记录一些异世界的碎碎念w #INFJ\n##有奇怪想法和需求的人看黄男别来关注我关了也会被我清理！！\n/谨慎fo因为我们可能不是一类人，或者不是你以为的那类人喔\n/不定期删除三无号，不同频的人还请见谅\n/需要回fo请大胆和我说我会来仔细观察你然后给你答案\n//雷自残od各种赤裸色色看到这样的人会unfo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 14,
+                "tag": "INFJ"
+              },
+              {
+                "end": 48,
+                "start": 21,
+                "tag": "有奇怪想法和需求的人看黄男别来关注我关了也会被我清理"
+              }
+            ]
+          }
+        },
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊茉音華🏳️‍⚧️",
+        "pinned_tweet_id": "1940754100695769098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955139257632428032/6TjGW3Xl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 85,
+          "like_count": 3115,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 2389
+        },
+        "username": "nothousand",
+        "verified": false
+      }
+    ]
+  }
+}

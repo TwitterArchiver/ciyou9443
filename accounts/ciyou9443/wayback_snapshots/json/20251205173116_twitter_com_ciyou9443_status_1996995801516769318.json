@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1996667426323550249",
+    "created_at": "2025-12-05T17:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T18:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996995801516769318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1932805110712971266",
+          "start": 0,
+          "username": "Qingyue24100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996995801516769318",
+    "in_reply_to_user_id": "1932805110712971266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996667426323550249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qingyue24100 我也是😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1996667426323550249",
+        "created_at": "2025-12-05T17:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T18:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996995801516769318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1932805110712971266",
+              "start": 0,
+              "username": "Qingyue24100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996995801516769318",
+        "in_reply_to_user_id": "1932805110712971266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996667426323550249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qingyue24100 我也是😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932805110712971266",
+        "conversation_id": "1996667426323550249",
+        "created_at": "2025-12-04T19:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T20:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996667426323550249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996667426323550249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不想每天吃安眠药才能睡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠/深夜发的消息不关素的事",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1992888264173441156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 538,
+          "like_count": 9398,
+          "listed_count": 4,
+          "media_count": 288,
+          "tweet_count": 2253
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-11T14:20:30.000Z",
+        "description": "179cm｜4.22 2026结束｜不收门槛不加人谢谢｜被夸夸会超级开心",
+        "id": "1932805110712971266",
+        "name": "kuroniko🍓",
+        "pinned_tweet_id": "1996244738471829569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979956653504991232/Wyv9IW6u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 237,
+          "like_count": 3926,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 1034
+        },
+        "username": "Qingyue24100",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1989583071939793043",
+    "created_at": "2025-11-15T08:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T09:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989607435414491303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1407069627046416390",
+          "start": 0,
+          "username": "Areter19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989607435414491303",
+    "in_reply_to_user_id": "1407069627046416390",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989588517702283539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Areter19 揉揉揉揉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1989583071939793043",
+        "created_at": "2025-11-15T08:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T09:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989607435414491303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1407069627046416390",
+              "start": 0,
+              "username": "Areter19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989607435414491303",
+        "in_reply_to_user_id": "1407069627046416390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989588517702283539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Areter19 揉揉揉揉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407069627046416390",
+        "conversation_id": "1989583071939793043",
+        "created_at": "2025-11-15T06:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T07:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989588517702283539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989588517702283539",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989583071939793043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 你说话好可爱我揉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974504976752984101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 533,
+          "like_count": 8695,
+          "listed_count": 4,
+          "media_count": 271,
+          "tweet_count": 2043
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T20:15:41.000Z",
+        "description": "普普通通一男(?)的｜in my late 20s | 试着包容看到的世界｜NO Politics | Bi | INFP-T 9w1（划掉）intp4w5 | 波士顿的小伙伴可以线下玩 | ymsf警察 | depression & anxiety｜“牵引我们黑暗的心” | 绝赞求不到职中｜是猫",
+        "id": "1407069627046416390",
+        "location": "某个小房间",
+        "name": "Areter（日常版）",
+        "pinned_tweet_id": "1914395413697978840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984451285886611457/FJ5PWdAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 769,
+          "like_count": 24877,
+          "listed_count": 2,
+          "media_count": 654,
+          "tweet_count": 7124
+        },
+        "username": "Areter19",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1983112451026509886",
+    "created_at": "2025-10-29T10:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T11:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983487321749266671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1760890372585037824",
+          "start": 0,
+          "username": "puddings00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983487321749266671",
+    "in_reply_to_user_id": "1760890372585037824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983112451026509886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puddings00 可爱到掀桌(/≧▽≦)/~┴┴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1983112406294319104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4VuOf7X0AAfR_Y.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1983112451026509886",
+        "created_at": "2025-10-29T10:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T11:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983487321749266671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1760890372585037824",
+              "start": 0,
+              "username": "puddings00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983487321749266671",
+        "in_reply_to_user_id": "1760890372585037824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983112451026509886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puddings00 可爱到掀桌(/≧▽≦)/~┴┴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983112406294319104"
+          ]
+        },
+        "author_id": "1760890372585037824",
+        "conversation_id": "1983112451026509886",
+        "created_at": "2025-10-28T10:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T11:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983112451026509886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWxkKnSgy9",
+              "end": 66,
+              "expanded_url": "https://x.com/puddings00/status/1983112451026509886/photo/1",
+              "media_key": "3_1983112406294319104",
+              "start": 43,
+              "url": "https://t.co/bWxkKnSgy9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983112451026509886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7654,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "单手用手机后摄无预览图盲拍的\n在哪里捐款 笑的我快不行了哈哈哈🤣\n虽然但是还挺可爱的 https://t.co/bWxkKnSgy9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/虽然主包是个精神病但是buff叠太多我还是会害怕😨",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 516,
+          "like_count": 7769,
+          "listed_count": 4,
+          "media_count": 238,
+          "tweet_count": 1796
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T04:52:48.000Z",
+        "description": "🌈童话说雨后会有一道彩虹 我看见希望闪耀在虹之间/zh-CN&en-US/希望你可以喜欢我哦🍬/三坑/小只软妹🎀/Lesbian🩷/变得越来越可爱啦🥰/永远18(⁠≧⁠▽⁠≦)/infp-t/喜欢贴贴🌟/美食鉴赏家🤤/同频小可爱欢迎互fo喵🐢♥️/好友位🚪128/碎碎念小推:@puddings0x0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 138,
+                "username": "puddings0x0"
+              }
+            ]
+          }
+        },
+        "id": "1760890372585037824",
+        "location": "In your heart♥️",
+        "name": "†布丁喵呜🍮†",
+        "pinned_tweet_id": "1948409462303117785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964270189869961216/_7wYoKWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5034,
+          "following_count": 549,
+          "like_count": 9728,
+          "listed_count": 8,
+          "media_count": 830,
+          "tweet_count": 6073
+        },
+        "username": "puddings00",
+        "verified": false
+      }
+    ]
+  }
+}

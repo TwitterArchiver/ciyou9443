@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001228790060740609"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2001228792983900380",
+    "created_at": "2025-12-17T09:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T10:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001228792983900380"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sLyQnzzBou",
+          "end": 28,
+          "expanded_url": "https://x.com/ciyou9443/status/2001228792983900380/photo/1",
+          "media_key": "3_2001228790060740609",
+          "start": 5,
+          "url": "https://t.co/sLyQnzzBou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001228792983900380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "长尾巴啦 https://t.co/sLyQnzzBou"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001228790060740609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8XK-0na8AE30OK.jpg",
+        "width": 969
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001228790060740609"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2001228792983900380",
+        "created_at": "2025-12-17T09:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T10:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001228792983900380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sLyQnzzBou",
+              "end": 28,
+              "expanded_url": "https://x.com/ciyou9443/status/2001228792983900380/photo/1",
+              "media_key": "3_2001228790060740609",
+              "start": 5,
+              "url": "https://t.co/sLyQnzzBou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001228792983900380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长尾巴啦 https://t.co/sLyQnzzBou"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 538,
+          "like_count": 9592,
+          "listed_count": 4,
+          "media_count": 305,
+          "tweet_count": 2332
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

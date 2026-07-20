@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058920951207923712"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2058920953799917970",
+    "created_at": "2026-05-25T14:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058920953799917970"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0TM2bFa0BF",
+          "end": 39,
+          "expanded_url": "https://x.com/ciyou9443/status/2058920953799917970/photo/1",
+          "media_key": "3_2058920951207923712",
+          "start": 16,
+          "url": "https://t.co/0TM2bFa0BF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058920953799917970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "热完了，一出门头发就变成条形码 https://t.co/0TM2bFa0BF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1194,
+        "media_key": "3_2058920951207923712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLBsk1bkAAf354.jpg",
+        "width": 1558
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058920951207923712"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2058920953799917970",
+        "created_at": "2026-05-25T14:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058920953799917970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0TM2bFa0BF",
+              "end": 39,
+              "expanded_url": "https://x.com/ciyou9443/status/2058920953799917970/photo/1",
+              "media_key": "3_2058920951207923712",
+              "start": 16,
+              "url": "https://t.co/0TM2bFa0BF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058920953799917970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "热完了，一出门头发就变成条形码 https://t.co/0TM2bFa0BF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "常曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 539,
+          "like_count": 11023,
+          "listed_count": 5,
+          "media_count": 397,
+          "tweet_count": 2912
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

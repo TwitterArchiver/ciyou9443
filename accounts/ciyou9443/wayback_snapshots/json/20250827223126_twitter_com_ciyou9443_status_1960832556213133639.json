@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960832552316604416",
+        "3_1960832552647974925"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1960832556213133639",
+    "created_at": "2025-08-27T22:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T23:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960832556213133639"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HB1Udu7sEz",
+          "end": 35,
+          "expanded_url": "https://x.com/ciyou9443/status/1960832556213133639/photo/1",
+          "media_key": "3_1960832552316604416",
+          "start": 12,
+          "url": "https://t.co/HB1Udu7sEz"
+        },
+        {
+          "display_url": "pic.x.com/HB1Udu7sEz",
+          "end": 35,
+          "expanded_url": "https://x.com/ciyou9443/status/1960832556213133639/photo/1",
+          "media_key": "3_1960832552647974925",
+          "start": 12,
+          "url": "https://t.co/HB1Udu7sEz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960832556213133639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早上坏，没有觉睡怎么办 https://t.co/HB1Udu7sEz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960832552316604416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzZG0UDakAA9NPj.jpg",
+        "width": 1151
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1960832552647974925",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzZG0VSa4A0FDVy.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960832552316604416",
+            "3_1960832552647974925"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1960832556213133639",
+        "created_at": "2025-08-27T22:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T23:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960832556213133639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HB1Udu7sEz",
+              "end": 35,
+              "expanded_url": "https://x.com/ciyou9443/status/1960832556213133639/photo/1",
+              "media_key": "3_1960832552316604416",
+              "start": 12,
+              "url": "https://t.co/HB1Udu7sEz"
+            },
+            {
+              "display_url": "pic.x.com/HB1Udu7sEz",
+              "end": 35,
+              "expanded_url": "https://x.com/ciyou9443/status/1960832556213133639/photo/1",
+              "media_key": "3_1960832552647974925",
+              "start": 12,
+              "url": "https://t.co/HB1Udu7sEz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960832556213133639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上坏，没有觉睡怎么办 https://t.co/HB1Udu7sEz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "哈基眠不听话的丫鬟",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1958676027850596862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 501,
+          "like_count": 6469,
+          "listed_count": 4,
+          "media_count": 133,
+          "tweet_count": 1432
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

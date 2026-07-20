@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1887164476258148725",
+    "created_at": "2025-02-06T14:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T15:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887513993256067288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1828062670580543488",
+          "start": 0,
+          "username": "CallHtheXtime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887513993256067288",
+    "in_reply_to_user_id": "1828062670580543488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887164476258148725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CallHtheXtime 被吓一跳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1887164476258148725",
+        "created_at": "2025-02-06T14:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T15:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887513993256067288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1828062670580543488",
+              "start": 0,
+              "username": "CallHtheXtime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887513993256067288",
+        "in_reply_to_user_id": "1828062670580543488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887164476258148725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CallHtheXtime 被吓一跳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887164466355453952"
+          ]
+        },
+        "author_id": "1828062670580543488",
+        "conversation_id": "1887164476258148725",
+        "created_at": "2025-02-05T15:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T16:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887164476258148725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VNcCBfEvSK",
+              "end": 34,
+              "expanded_url": "https://x.com/CallHtheXtime/status/1887164476258148725/photo/1",
+              "media_key": "3_1887164466355453952",
+              "start": 11,
+              "url": "https://t.co/VNcCBfEvSK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887164476258148725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁把我小时候挂网上了 https://t.co/VNcCBfEvSK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "含糖mtf/欢迎互fo/困困困困困要困死了/冬季濒死限定/欢迎xyn来找我玩♥(｡￫v￩｡)♥🏳️‍⚧️🍥",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 118,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 199
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T13:31:28.000Z",
+        "description": "纯乐子人/多面不粘锅/高强度冲浪/私信秒回/抽象屌丝大手/互fo私信就行/没事发发梗图发发疯/爱正常人",
+        "id": "1828062670580543488",
+        "location": "熊本县",
+        "name": "风情主播喵梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885936378661523456/LU0Hp7AZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 159,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 902
+        },
+        "username": "CallHtheXtime",
+        "verified": false
+      }
+    ]
+  }
+}

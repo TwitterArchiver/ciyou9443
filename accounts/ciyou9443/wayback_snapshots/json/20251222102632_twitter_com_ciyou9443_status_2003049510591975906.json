@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003049507261739008",
+        "3_2003049507127529472",
+        "3_2003049505802084352"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2003049510591975906",
+    "created_at": "2025-12-22T10:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T11:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003049510591975906"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G3RSYiz2Dm",
+          "end": 27,
+          "expanded_url": "https://x.com/ciyou9443/status/2003049510591975906/photo/1",
+          "media_key": "3_2003049507261739008",
+          "start": 4,
+          "url": "https://t.co/G3RSYiz2Dm"
+        },
+        {
+          "display_url": "pic.x.com/G3RSYiz2Dm",
+          "end": 27,
+          "expanded_url": "https://x.com/ciyou9443/status/2003049510591975906/photo/1",
+          "media_key": "3_2003049507127529472",
+          "start": 4,
+          "url": "https://t.co/G3RSYiz2Dm"
+        },
+        {
+          "display_url": "pic.x.com/G3RSYiz2Dm",
+          "end": 27,
+          "expanded_url": "https://x.com/ciyou9443/status/2003049510591975906/photo/1",
+          "media_key": "3_2003049505802084352",
+          "start": 4,
+          "url": "https://t.co/G3RSYiz2Dm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003049510591975906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三连击 https://t.co/G3RSYiz2Dm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2256,
+        "media_key": "3_2003049507261739008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8xC6gvbcAAJxB7.jpg",
+        "width": 1413
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003049507127529472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8xC6gPbkAAaidk.jpg",
+        "width": 1223
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003049505802084352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8xC6bTa4AAolmT.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003049507261739008",
+            "3_2003049507127529472",
+            "3_2003049505802084352"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2003049510591975906",
+        "created_at": "2025-12-22T10:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003049510591975906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3RSYiz2Dm",
+              "end": 27,
+              "expanded_url": "https://x.com/ciyou9443/status/2003049510591975906/photo/1",
+              "media_key": "3_2003049507261739008",
+              "start": 4,
+              "url": "https://t.co/G3RSYiz2Dm"
+            },
+            {
+              "display_url": "pic.x.com/G3RSYiz2Dm",
+              "end": 27,
+              "expanded_url": "https://x.com/ciyou9443/status/2003049510591975906/photo/1",
+              "media_key": "3_2003049507127529472",
+              "start": 4,
+              "url": "https://t.co/G3RSYiz2Dm"
+            },
+            {
+              "display_url": "pic.x.com/G3RSYiz2Dm",
+              "end": 27,
+              "expanded_url": "https://x.com/ciyou9443/status/2003049510591975906/photo/1",
+              "media_key": "3_2003049505802084352",
+              "start": 4,
+              "url": "https://t.co/G3RSYiz2Dm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003049510591975906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三连击 https://t.co/G3RSYiz2Dm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 536,
+          "like_count": 9620,
+          "listed_count": 3,
+          "media_count": 313,
+          "tweet_count": 2353
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

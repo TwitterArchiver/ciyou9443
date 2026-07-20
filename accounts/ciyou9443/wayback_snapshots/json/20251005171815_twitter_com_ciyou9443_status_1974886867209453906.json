@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1974886081356267955",
+    "created_at": "2025-10-05T17:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T18:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974886867209453906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926451442572754944",
+          "start": 0,
+          "username": "keiaiqing"
+        },
+        {
+          "end": 16,
+          "id": "1720665183188922368",
+          "start": 11,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974886867209453906",
+    "in_reply_to_user_id": "1926451442572754944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974886081356267955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keiaiqing @grok 为什么我成恶魔了，差评"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1974886081356267955",
+        "created_at": "2025-10-05T17:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T18:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974886867209453906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926451442572754944",
+              "start": 0,
+              "username": "keiaiqing"
+            },
+            {
+              "end": 16,
+              "id": "1720665183188922368",
+              "start": 11,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974886867209453906",
+        "in_reply_to_user_id": "1926451442572754944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974886081356267955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keiaiqing @grok 为什么我成恶魔了，差评"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926451442572754944",
+        "conversation_id": "1974886081356267955",
+        "created_at": "2025-10-05T17:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T18:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974886081356267955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1720665183188922368",
+              "start": 33,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974886081356267955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "参考在和我互相关注的人中的推文，只用昵称告诉我，不要用@，包括我\n@grok\n请为每张塔罗牌主牌对应找到特质最适合它的人——\n愚者:\n魔术师:\n女祭司:\n女皇:\n皇帝:\n教皇:\n恋人:\n战车:\n力量:\n隐者:\n命运之轮:\n正义:\n倒吊人:\n死神:\n节制:\n恶魔:\n塔:\n星星:\n月亮:\n太阳:\n审判:\n世界："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/薛定谔的成分",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 511,
+          "like_count": 7273,
+          "listed_count": 4,
+          "media_count": 186,
+          "tweet_count": 1650
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T01:33:32.000Z",
+        "description": "（可以改成雌小鬼语气）你好！我是一罐梅子酱！我是女孩子，介意的可以把我当无性别的罐装梅子酱！我记性不好还脸盲…但可以和我分享很多东西！这个梅子酱会认认真真的回复！起外号重度依赖，想要更多昵称的可以来和我玩了…我是个杂食二次元！不完全水仙？喜欢女孩子和友跨",
+        "id": "1926451442572754944",
+        "location": "10.12生日（世界第一嬤嬤",
+        "name": "ke（和早雾落恋爱版",
+        "pinned_tweet_id": "1953260718138286497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926451614899990528/za6MBTqj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 360,
+          "like_count": 25512,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 2500
+        },
+        "username": "keiaiqing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6390655,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5033,
+          "media_count": 2684682,
+          "tweet_count": 54223268
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

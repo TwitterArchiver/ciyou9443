@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1997212490019885114",
+    "created_at": "2025-12-07T16:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T17:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997698835527897568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1940588552485761024",
+          "start": 0,
+          "username": "April940427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997698835527897568",
+    "in_reply_to_user_id": "1940588552485761024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997212490019885114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@April940427 好想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997141521561505792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7dFoe7bUAAsWBP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1997212490019885114",
+        "created_at": "2025-12-07T16:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T17:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997698835527897568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1940588552485761024",
+              "start": 0,
+              "username": "April940427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997698835527897568",
+        "in_reply_to_user_id": "1940588552485761024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997212490019885114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@April940427 好想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997141521561505792"
+          ]
+        },
+        "author_id": "1940588552485761024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1997212490019885114",
+        "created_at": "2025-12-06T07:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T08:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997212490019885114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/miT9uv4TGC",
+              "end": 35,
+              "expanded_url": "https://x.com/April940427/status/1997212490019885114/photo/1",
+              "media_key": "3_1997141521561505792",
+              "start": 12,
+              "url": "https://t.co/miT9uv4TGC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997212490019885114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 362,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃这个吧（退步的手艺～ https://t.co/miT9uv4TGC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠/深夜发的消息不关素的事",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1992888264173441156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 538,
+          "like_count": 9434,
+          "listed_count": 4,
+          "media_count": 291,
+          "tweet_count": 2265
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T01:49:09.000Z",
+        "description": "Amateur photographer.📷\ncapturing moments in life. \nWelcome chat with me.",
+        "id": "1940588552485761024",
+        "location": "山海关外",
+        "name": "Aprille",
+        "pinned_tweet_id": "1958172606609133672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947217503773446144/-XymI0Bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 409,
+          "like_count": 2837,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 3279
+        },
+        "username": "April940427",
+        "verified": false
+      }
+    ]
+  }
+}

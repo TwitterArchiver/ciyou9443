@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2051586622119145594",
+    "created_at": "2026-05-05T08:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T09:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051586622119145594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/A1oneSKy/statu…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/A1oneSKy/status/2051566450264223953",
+          "start": 26,
+          "url": "https://t.co/aBf13cpZPh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051586622119145594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051566450264223953",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么老乡见老乡两眼泪汪汪呢，当然是被老乡给骗哭了 https://t.co/aBf13cpZPh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2051566440218759168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHigzsZaEAAUvRS.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2051566440214622208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHigzsYa8AA74rG.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2051586622119145594",
+        "created_at": "2026-05-05T08:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051586622119145594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/A1oneSKy/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/A1oneSKy/status/2051566450264223953",
+              "start": 26,
+              "url": "https://t.co/aBf13cpZPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051586622119145594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051566450264223953",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么老乡见老乡两眼泪汪汪呢，当然是被老乡给骗哭了 https://t.co/aBf13cpZPh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051566440218759168",
+            "3_2051566440214622208"
+          ]
+        },
+        "author_id": "1242074475400548352",
+        "conversation_id": "2051566450264223953",
+        "created_at": "2026-05-05T07:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T08:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051566450264223953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c4fVf2fJMU",
+              "end": 57,
+              "expanded_url": "https://x.com/A1oneSKy/status/2051566450264223953/photo/1",
+              "media_key": "3_2051566440218759168",
+              "start": 34,
+              "url": "https://t.co/c4fVf2fJMU"
+            },
+            {
+              "display_url": "pic.x.com/c4fVf2fJMU",
+              "end": 57,
+              "expanded_url": "https://x.com/A1oneSKy/status/2051566450264223953/photo/1",
+              "media_key": "3_2051566440214622208",
+              "start": 34,
+              "url": "https://t.co/c4fVf2fJMU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051566450264223953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1769,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "得亏我看见中文感觉不对留了个心眼\n真买到假卡了\n老乡骗的就是老乡🤣 https://t.co/c4fVf2fJMU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "常曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 536,
+          "like_count": 10727,
+          "listed_count": 5,
+          "media_count": 384,
+          "tweet_count": 2795
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-23T13:03:36.000Z",
+        "description": "한국어 계정:@alonesky_kr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "alonesky_kr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "alonesky.moe",
+                "end": 23,
+                "expanded_url": "https://alonesky.moe",
+                "start": 0,
+                "url": "https://t.co/b8Rzwcvm1z"
+              }
+            ]
+          }
+        },
+        "id": "1242074475400548352",
+        "name": "𝓐𝓛𝓸𝓷𝓮𝓢𝓚𝔂",
+        "pinned_tweet_id": "1567905692379664384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950855415992078337/jdc1F1qB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 1497,
+          "like_count": 6187,
+          "listed_count": 5,
+          "media_count": 5316,
+          "tweet_count": 20684
+        },
+        "url": "https://t.co/b8Rzwcvm1z",
+        "username": "A1oneSKy",
+        "verified": true
+      }
+    ]
+  }
+}

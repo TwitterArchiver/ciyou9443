@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1982690742004060545",
+    "created_at": "2025-10-27T17:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T18:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982861652426195139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982861652426195139",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982690742004060545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@AcboxLiu 怎么会这么可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982690735053746176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PuuAJWMAAqA19.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1982690742004060545",
+        "created_at": "2025-10-27T17:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T18:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982861652426195139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982861652426195139",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982690742004060545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@AcboxLiu 怎么会这么可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982690735053746176"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "conversation_id": "1982690742004060545",
+        "created_at": "2025-10-27T06:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T07:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982690742004060545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JqKk0TGA3y",
+              "end": 23,
+              "expanded_url": "https://x.com/AcboxLiu/status/1982690742004060545/photo/1",
+              "media_key": "3_1982690735053746176",
+              "start": 0,
+              "url": "https://t.co/JqKk0TGA3y"
+            },
+            {
+              "display_url": "x.com/acboxliu/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/acboxliu/status/1982684523595973069",
+              "start": 24,
+              "url": "https://t.co/CBmAxEaN5r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982690742004060545",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 23359,
+          "like_count": 271,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982684523595973069",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "https://t.co/JqKk0TGA3y https://t.co/CBmAxEaN5r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/虽然主包是个精神病但是buff叠太多我还是会害怕😨",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 516,
+          "like_count": 7702,
+          "listed_count": 4,
+          "media_count": 234,
+          "tweet_count": 1782
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/💻开源开发/🎨平面设计/🚇轨道交通/全栈&LLM&UI&UX/🟦TypeScript重度依赖/🐱Github: sheepbox8646/💼日常远程工作/Building ChalkAI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvcLr"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳·西乡",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1964617558675611999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959456533550649344/-FieohZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7807,
+          "following_count": 2976,
+          "like_count": 2820,
+          "listed_count": 31,
+          "media_count": 1082,
+          "tweet_count": 5450
+        },
+        "url": "https://t.co/mRP5RDvcLr",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

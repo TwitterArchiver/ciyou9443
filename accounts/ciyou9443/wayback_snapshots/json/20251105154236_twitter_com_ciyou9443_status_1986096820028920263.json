@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1986017409376121204",
+    "created_at": "2025-11-05T15:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T16:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986096820028920263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767249379285741569",
+          "start": 0,
+          "username": "caomeiaaaok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986096820028920263",
+    "in_reply_to_user_id": "1767249379285741569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986017409376121204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiaaaok 橙姐姐pass的喵，声音哑导致的吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986017402048622592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_ATgbaMAAc4AC.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1986017409376121204",
+        "created_at": "2025-11-05T15:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T16:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986096820028920263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767249379285741569",
+              "start": 0,
+              "username": "caomeiaaaok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986096820028920263",
+        "in_reply_to_user_id": "1767249379285741569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986017409376121204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiaaaok 橙姐姐pass的喵，声音哑导致的吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986017402048622592"
+          ]
+        },
+        "author_id": "1767249379285741569",
+        "conversation_id": "1986017409376121204",
+        "created_at": "2025-11-05T10:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T11:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986017409376121204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZhnGgE7SMA",
+              "end": 49,
+              "expanded_url": "https://x.com/caomeiaaaok/status/1986017409376121204/photo/1",
+              "media_key": "3_1986017402048622592",
+              "start": 26,
+              "url": "https://t.co/ZhnGgE7SMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986017409376121204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天出门坐火车被发现了  果然还是不够pass😭😭 https://t.co/ZhnGgE7SMA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 523,
+          "like_count": 8158,
+          "listed_count": 4,
+          "media_count": 251,
+          "tweet_count": 1863
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T18:01:08.000Z",
+        "description": "你好，可以叫我橙子， 179  66kg 🍊🍥🏳️‍⚧️૮₍ ˃ ⤙ ˂ ₎ა 发私信哦\n门槛一顿疯狂星期四哦 推荐支付宝口令红包🧧  醉醉醉好朋友@Syy2933",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 74,
+                "username": "Syy2933"
+              }
+            ]
+          }
+        },
+        "id": "1767249379285741569",
+        "location": "离你2.5km",
+        "name": "橙橙橙橙子🍊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965339776862568449/bhw5zHxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 366,
+          "like_count": 4689,
+          "listed_count": 3,
+          "media_count": 89,
+          "tweet_count": 1955
+        },
+        "username": "caomeiaaaok",
+        "verified": false
+      }
+    ]
+  }
+}

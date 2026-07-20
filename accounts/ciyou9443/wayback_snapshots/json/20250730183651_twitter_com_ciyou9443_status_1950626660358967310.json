@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1950545064876294320",
+    "created_at": "2025-07-30T18:36:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T19:36:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950626660358967310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1764815088882688000",
+          "start": 0,
+          "username": "_xuejin24713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950626660358967310",
+    "in_reply_to_user_id": "1764815088882688000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950545064876294320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_xuejin24713 吹吹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2046,
+        "media_key": "3_1950544919770062848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxG6RSVWYAAHEkl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1950545064876294320",
+        "created_at": "2025-07-30T18:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T19:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950626660358967310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1764815088882688000",
+              "start": 0,
+              "username": "_xuejin24713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950626660358967310",
+        "in_reply_to_user_id": "1764815088882688000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950545064876294320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_xuejin24713 吹吹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950544919770062848"
+          ]
+        },
+        "author_id": "1764815088882688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1950545064876294320",
+        "created_at": "2025-07-30T13:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T14:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950545064876294320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tVofLQg2zr",
+              "end": 47,
+              "expanded_url": "https://x.com/_xuejin24713/status/1950545064876294320/photo/1",
+              "media_key": "3_1950544919770062848",
+              "start": 24,
+              "url": "https://t.co/tVofLQg2zr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950545064876294320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有花刀，是真的是受伤了惹₍ᐡඉ ̫ ඉᐡ₎💭 https://t.co/tVofLQg2zr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 444,
+          "like_count": 5485,
+          "listed_count": 3,
+          "media_count": 149,
+          "tweet_count": 1283
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T00:48:13.000Z",
+        "description": "985落榜研究生，日语N1肆业，文史哲魔法师，职场精嘤，月入可能不足一万。坚信可爱即正义！生活就要多体验，24.10断续含糖🍬",
+        "id": "1764815088882688000",
+        "name": "れい（怜依）🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944971285664071680/MGpzjjmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 327,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 191
+        },
+        "username": "_xuejin24713",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1969059036998832319",
+    "created_at": "2025-09-19T15:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T16:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969059036998832319"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshinemu123/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/hoshinemu123/status/1969058721285251311",
+          "start": 11,
+          "url": "https://t.co/pVWTmQCNeC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969059036998832319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969058721285251311",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太可爱啦我的小小姐喵 https://t.co/pVWTmQCNeC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10734,
+        "height": 1280,
+        "media_key": "7_1969058680223186944",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1969058680223186944/pu/img/dIFPqqnEyncQsfFv.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1969058680223186944/pu/vid/avc1/320x568/OVKRcxITjJVYc38i.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1969058680223186944/pu/vid/avc1/480x852/GQoQVIryoJw4v_Pe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1969058680223186944/pu/vid/avc1/720x1280/MGdkeNMEQYSZsDgv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1969058680223186944/pu/pl/hNQHDBSVmxaHRhH4.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969058683033440256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1OAcJAbUAAwuGo.jpg",
+        "width": 1153
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969058683578642432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1OAcLCacAAl6wt.jpg",
+        "width": 1153
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969058685839388672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1OAcTdasAAz-w9.jpg",
+        "width": 1153
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1969059036998832319",
+        "created_at": "2025-09-19T15:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T16:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969059036998832319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinemu123/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/hoshinemu123/status/1969058721285251311",
+              "start": 11,
+              "url": "https://t.co/pVWTmQCNeC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969059036998832319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969058721285251311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太可爱啦我的小小姐喵 https://t.co/pVWTmQCNeC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1969058680223186944",
+            "3_1969058683033440256",
+            "3_1969058683578642432",
+            "3_1969058685839388672"
+          ]
+        },
+        "author_id": "1907031442103943168",
+        "conversation_id": "1969058721285251311",
+        "created_at": "2025-09-19T15:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T16:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969058721285251311"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "尾巴",
+              "probability": 0.7785,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VpxaYvq58Y",
+              "end": 28,
+              "expanded_url": "https://x.com/hoshinemu123/status/1969058721285251311/video/1",
+              "media_key": "7_1969058680223186944",
+              "start": 5,
+              "url": "https://t.co/VpxaYvq58Y"
+            },
+            {
+              "display_url": "pic.x.com/VpxaYvq58Y",
+              "end": 28,
+              "expanded_url": "https://x.com/hoshinemu123/status/1969058721285251311/video/1",
+              "media_key": "3_1969058683033440256",
+              "start": 5,
+              "url": "https://t.co/VpxaYvq58Y"
+            },
+            {
+              "display_url": "pic.x.com/VpxaYvq58Y",
+              "end": 28,
+              "expanded_url": "https://x.com/hoshinemu123/status/1969058721285251311/video/1",
+              "media_key": "3_1969058683578642432",
+              "start": 5,
+              "url": "https://t.co/VpxaYvq58Y"
+            },
+            {
+              "display_url": "pic.x.com/VpxaYvq58Y",
+              "end": 28,
+              "expanded_url": "https://x.com/hoshinemu123/status/1969058721285251311/video/1",
+              "media_key": "3_1969058685839388672",
+              "start": 5,
+              "url": "https://t.co/VpxaYvq58Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969058721285251311",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尾巴甩甩 https://t.co/VpxaYvq58Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 510,
+          "like_count": 6962,
+          "listed_count": 4,
+          "media_count": 158,
+          "tweet_count": 1566
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；半个软件工程师加半个音乐人；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；文学少女；古风/汉服女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1968657751669678178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1930,
+          "following_count": 2975,
+          "like_count": 2518,
+          "listed_count": 2,
+          "media_count": 443,
+          "tweet_count": 5555
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      }
+    ]
+  }
+}

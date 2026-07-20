@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1992630739679219720",
+    "created_at": "2025-11-24T02:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T03:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992780864129048873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1739915785441861632",
+          "start": 0,
+          "username": "Lem_PackageMain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992780864129048873",
+    "in_reply_to_user_id": "1739915785441861632",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992630739679219720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lem_PackageMain 😰😰😰😰😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1992630739679219720",
+        "created_at": "2025-11-24T02:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T03:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992780864129048873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1739915785441861632",
+              "start": 0,
+              "username": "Lem_PackageMain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992780864129048873",
+        "in_reply_to_user_id": "1739915785441861632",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992630739679219720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lem_PackageMain 😰😰😰😰😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739915785441861632",
+        "conversation_id": "1992630739679219720",
+        "created_at": "2025-11-23T16:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992630739679219720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992630739679219720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 549,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坏了我不会xp真出什么问题了吧……今天跟舍友开在本舍很日常的玩笑，说了句“想吃xxx（舍友名字）的大鸡脖”，结果我tm……硬了……😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠/深夜发的消息不关素的事",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 538,
+          "like_count": 9165,
+          "listed_count": 4,
+          "media_count": 280,
+          "tweet_count": 2182
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T07:47:12.000Z",
+        "description": "MtX/F   ▏183cm天空树🫥    ▏过期JK    ▏天残家暴党🙃    ▏照骗皆为高P，线下查无此人Or2   ▏拉力B照持有者   ▏有大证但是好像并没有什么卵用……   ▏缺爱b一个🤕   ▏是一个大面包所以容易膨胀、任人拿捏、一点不抗压（",
+        "id": "1739915785441861632",
+        "location": "Sonderland",
+        "name": "柠檬味的Main包🍥",
+        "pinned_tweet_id": "1983147113874895083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787256133910155264/kksrVeC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 242,
+          "like_count": 20088,
+          "listed_count": 2,
+          "media_count": 283,
+          "tweet_count": 5421
+        },
+        "username": "Lem_PackageMain",
+        "verified": false
+      }
+    ]
+  }
+}

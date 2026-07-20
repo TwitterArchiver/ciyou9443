@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2029811780978102274"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2029811802096496845",
+    "created_at": "2026-03-06T06:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T07:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029811802096496845"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X1QjsccSYm",
+          "end": 39,
+          "expanded_url": "https://x.com/ciyou9443/status/2029811802096496845/video/1",
+          "media_key": "7_2029811780978102274",
+          "start": 16,
+          "url": "https://t.co/X1QjsccSYm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029811802096496845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "总所周知，猫一天要睡16个小时 https://t.co/X1QjsccSYm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1962,
+        "height": 1280,
+        "media_key": "7_2029811780978102274",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2029811780978102274/pu/img/fMvCBX7wrYqk4gqg.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029811780978102274/pu/vid/avc1/320x568/LONoDIK47q2ru8fy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029811780978102274/pu/vid/avc1/480x852/7kQYHDdnOtzyKQJn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029811780978102274/pu/vid/avc1/720x1280/I6nVyDKYBrk6Kadi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2029811780978102274/pu/pl/suL5LwDTfU8-FaYT.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2029811780978102274"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2029811802096496845",
+        "created_at": "2026-03-06T06:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T07:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029811802096496845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X1QjsccSYm",
+              "end": 39,
+              "expanded_url": "https://x.com/ciyou9443/status/2029811802096496845/video/1",
+              "media_key": "7_2029811780978102274",
+              "start": 16,
+              "url": "https://t.co/X1QjsccSYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029811802096496845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总所周知，猫一天要睡16个小时 https://t.co/X1QjsccSYm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "长夜何萤，惭言朔月                                                             眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 100,
+                "start": 92,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "常曦",
+        "pinned_tweet_id": "2025548927907586120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010721996909514752/qGj_peZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 532,
+          "like_count": 10265,
+          "listed_count": 5,
+          "media_count": 361,
+          "tweet_count": 2633
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

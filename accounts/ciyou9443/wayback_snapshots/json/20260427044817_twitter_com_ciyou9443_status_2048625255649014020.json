@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2048261051985416539",
+    "created_at": "2026-04-27T04:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T05:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048625255649014020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1988433436554809344",
+          "start": 0,
+          "username": "XiaoFei6774"
+        },
+        {
+          "end": 27,
+          "id": "1931313690139312128",
+          "start": 13,
+          "username": "xin1256153923"
+        },
+        {
+          "end": 38,
+          "id": "1535816117226074113",
+          "start": 28,
+          "username": "PianistXH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048625255649014020",
+    "in_reply_to_user_id": "1988433436554809344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048580724023021791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoFei6774 @xin1256153923 @PianistXH 你二手烟没有确确实实影响别人健康吗，这种话怎么有脸说，你自己躲屋里抽死也没人管你，你先强制要求别人闻你的二手烟害别人，这是喜恶的事吗。\n看到最后更绷不住，你也知道没理的是你啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2048261051985416539",
+        "created_at": "2026-04-27T04:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048625255649014020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1988433436554809344",
+              "start": 0,
+              "username": "XiaoFei6774"
+            },
+            {
+              "end": 27,
+              "id": "1931313690139312128",
+              "start": 13,
+              "username": "xin1256153923"
+            },
+            {
+              "end": 38,
+              "id": "1535816117226074113",
+              "start": 28,
+              "username": "PianistXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048625255649014020",
+        "in_reply_to_user_id": "1988433436554809344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048580724023021791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoFei6774 @xin1256153923 @PianistXH 你二手烟没有确确实实影响别人健康吗，这种话怎么有脸说，你自己躲屋里抽死也没人管你，你先强制要求别人闻你的二手烟害别人，这是喜恶的事吗。\n看到最后更绷不住，你也知道没理的是你啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988433436554809344",
+        "conversation_id": "2048261051985416539",
+        "created_at": "2026-04-27T01:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048580724023021791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1931313690139312128",
+              "start": 0,
+              "username": "xin1256153923"
+            },
+            {
+              "end": 25,
+              "id": "1535816117226074113",
+              "start": 15,
+              "username": "PianistXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048580724023021791",
+        "in_reply_to_user_id": "1931313690139312128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048544494904320267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xin1256153923 @PianistXH 不能因为自己的喜恶强制要求别人怎么样，己所不欲勿施于人，同理己所欲更不能施于人，不按规则行事，随意给的道德审判，得理不饶人，总有你倒霉的一天。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "常曦",
+        "pinned_tweet_id": "2047609900608708807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 534,
+          "like_count": 10619,
+          "listed_count": 5,
+          "media_count": 382,
+          "tweet_count": 2736
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T02:27:54.000Z",
+        "description": "",
+        "id": "1988433436554809344",
+        "name": "苏小费",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988433544855859200/9k8bUFSV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 13,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 512
+        },
+        "username": "XiaoFei6774",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-07T11:34:08.000Z",
+        "description": "素质不高 脾气不小",
+        "id": "1931313690139312128",
+        "name": "晚点睡能吃上香香的饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039084357785354241/KrRYqMUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 70,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1232
+        },
+        "username": "xin1256153923",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T02:48:05.000Z",
+        "description": "@pianisthanh 不是互关不要申请",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "pianisthanh"
+              }
+            ]
+          }
+        },
+        "id": "1535816117226074113",
+        "name": "涵",
+        "pinned_tweet_id": "2039713747728781729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974476197200560129/L8efNCVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54959,
+          "following_count": 279,
+          "like_count": 5107,
+          "listed_count": 120,
+          "media_count": 97,
+          "tweet_count": 2762
+        },
+        "username": "PianistXH",
+        "verified": true
+      }
+    ]
+  }
+}

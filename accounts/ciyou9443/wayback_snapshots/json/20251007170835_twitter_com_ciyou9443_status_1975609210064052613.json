@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1975609210064052613",
+    "created_at": "2025-10-07T17:08:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T18:08:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975609210064052613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1907031442103943168",
+          "start": 3,
+          "username": "hoshinemu123"
+        },
+        {
+          "end": 30,
+          "id": "1646128645331890176",
+          "start": 18,
+          "username": "1203Adl6221"
+        },
+        {
+          "end": 47,
+          "id": "1903485351437692928",
+          "start": 31,
+          "username": "oj554ZWSps70186"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975609210064052613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975607401131974657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinemu123: @1203Adl6221 @oj554ZWSps70186 所以月经崇拜是一种生殖崇拜吗？如果是这样的话那么人类的属性是否退化成了生育工具？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1975609210064052613",
+        "created_at": "2025-10-07T17:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T18:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975609210064052613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907031442103943168",
+              "start": 3,
+              "username": "hoshinemu123"
+            },
+            {
+              "end": 30,
+              "id": "1646128645331890176",
+              "start": 18,
+              "username": "1203Adl6221"
+            },
+            {
+              "end": 47,
+              "id": "1903485351437692928",
+              "start": 31,
+              "username": "oj554ZWSps70186"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975609210064052613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975607401131974657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinemu123: @1203Adl6221 @oj554ZWSps70186 所以月经崇拜是一种生殖崇拜吗？如果是这样的话那么人类的属性是否退化成了生育工具？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "conversation_id": "1975158493457117513",
+        "created_at": "2025-10-07T17:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T18:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975607401131974657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1646128645331890176",
+              "start": 0,
+              "username": "1203Adl6221"
+            },
+            {
+              "end": 29,
+              "id": "1903485351437692928",
+              "start": 13,
+              "username": "oj554ZWSps70186"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975607401131974657",
+        "in_reply_to_user_id": "1646128645331890176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975523973099303334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1203Adl6221 @oj554ZWSps70186 所以月经崇拜是一种生殖崇拜吗？如果是这样的话那么人类的属性是否退化成了生育工具？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/薛定谔的成分",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1975486293636489408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 512,
+          "like_count": 7335,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 1669
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；半个软件工程师加半个音乐人；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；文学少女；古风/汉服女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1975169707985486036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2118,
+          "following_count": 3027,
+          "like_count": 2728,
+          "listed_count": 2,
+          "media_count": 509,
+          "tweet_count": 5982
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T12:30:36.000Z",
+        "description": "女巫，女鬼，恶女，坏女人。",
+        "id": "1646128645331890176",
+        "name": "阿德露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927255960344535040/yqig_6Dz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 190,
+          "like_count": 1148,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 717
+        },
+        "username": "1203Adl6221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T16:34:27.000Z",
+        "description": "",
+        "id": "1903485351437692928",
+        "name": "fuilu_80s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919335880315252736/PBm_vAjt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "oj554ZWSps70186",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975907251266486272"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1975907254173061258",
+    "created_at": "2025-10-08T12:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T13:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975907254173061258"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7SYaqCpUHA",
+          "end": 36,
+          "expanded_url": "https://x.com/ciyou9443/status/1975907254173061258/photo/1",
+          "media_key": "3_1975907251266486272",
+          "start": 13,
+          "url": "https://t.co/7SYaqCpUHA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975907254173061258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天敢吃饭，明天就敢吃人 https://t.co/7SYaqCpUHA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_1975907251266486272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2vVLRzbgAAvgSg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975907251266486272"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1975907254173061258",
+        "created_at": "2025-10-08T12:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T13:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975907254173061258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7SYaqCpUHA",
+              "end": 36,
+              "expanded_url": "https://x.com/ciyou9443/status/1975907254173061258/photo/1",
+              "media_key": "3_1975907251266486272",
+              "start": 13,
+              "url": "https://t.co/7SYaqCpUHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975907254173061258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天敢吃饭，明天就敢吃人 https://t.co/7SYaqCpUHA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/薛定谔的成分",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 512,
+          "like_count": 7348,
+          "listed_count": 4,
+          "media_count": 196,
+          "tweet_count": 1675
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

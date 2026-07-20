@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1967068198500790462",
+    "created_at": "2025-09-14T03:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T04:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967068198500790462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967068198500790462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966789006466970066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 😂中国是一个很神奇的国度，大家都在跟女性说，出门注意点，穿裙子要穿安全裤，不要一个人出门，离陌生男人远一点。\n\n但所有的性骚扰案件一定都是诬告。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1967068198500790462",
+        "created_at": "2025-09-14T03:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T04:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967068198500790462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967068198500790462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966789006466970066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 😂中国是一个很神奇的国度，大家都在跟女性说，出门注意点，穿裙子要穿安全裤，不要一个人出门，离陌生男人远一点。\n\n但所有的性骚扰案件一定都是诬告。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1966789006466970066",
+        "created_at": "2025-09-13T09:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T10:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966789006466970066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966789006466970066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 61700,
+          "like_count": 833,
+          "quote_count": 6,
+          "reply_count": 41,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "😂中国是一个很神奇的国度，大家都在跟女性说，出门注意点，穿裙子要穿安全裤，不要一个人出门，离陌生男人远一点。\n\n但所有的性骚扰案件一定都是诬告。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 506,
+          "like_count": 6861,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 1542
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19926,
+          "following_count": 194,
+          "like_count": 619,
+          "listed_count": 69,
+          "media_count": 90,
+          "tweet_count": 19656
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

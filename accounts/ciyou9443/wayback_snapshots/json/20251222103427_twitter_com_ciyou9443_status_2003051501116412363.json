@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2003050852903510079",
+    "created_at": "2025-12-22T10:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T11:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003051501116412363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907031442103943168",
+          "start": 0,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003051501116412363",
+    "in_reply_to_user_id": "1907031442103943168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003050852903510079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinemu123 镜子之罪，非我也"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2003050836063383553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8xEH26bcAEy626.jpg",
+        "width": 1081
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2003050852903510079",
+        "created_at": "2025-12-22T10:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003051501116412363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003051501116412363",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003050852903510079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 镜子之罪，非我也"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003050836063383553"
+          ]
+        },
+        "author_id": "1907031442103943168",
+        "conversation_id": "2003050852903510079",
+        "created_at": "2025-12-22T10:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003050852903510079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H89X0M5tEA",
+              "end": 63,
+              "expanded_url": "https://x.com/hoshinemu123/status/2003050852903510079/photo/1",
+              "media_key": "3_2003050836063383553",
+              "start": 40,
+              "url": "https://t.co/H89X0M5tEA"
+            },
+            {
+              "display_url": "x.com/ciyou9443/stat…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/ciyou9443/status/2003049510591975906",
+              "start": 64,
+              "url": "https://t.co/xKiVFq3M1p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003050852903510079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003049510591975906",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这条裙子有这样的暗纹，是吉元家最经典的一款。不是图里拍的那样糊成一团，望周知。 https://t.co/H89X0M5tEA https://t.co/xKiVFq3M1p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 536,
+          "like_count": 9621,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 2355
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；半个软件工程师加半个音乐人；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；文学少女；古风/汉服女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1999856930492391590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2520,
+          "following_count": 3149,
+          "like_count": 3098,
+          "listed_count": 4,
+          "media_count": 679,
+          "tweet_count": 7687
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      }
+    ]
+  }
+}

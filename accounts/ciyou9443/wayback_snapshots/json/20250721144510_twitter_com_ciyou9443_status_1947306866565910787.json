@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947306862199861248",
+        "3_1947306862355070976",
+        "3_1947306860136304640"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1947306866565910787",
+    "created_at": "2025-07-21T14:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T15:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947306866565910787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bvy8euE6IG",
+          "end": 54,
+          "expanded_url": "https://x.com/ciyou9443/status/1947306866565910787/photo/1",
+          "media_key": "3_1947306862199861248",
+          "start": 31,
+          "url": "https://t.co/bvy8euE6IG"
+        },
+        {
+          "display_url": "pic.x.com/bvy8euE6IG",
+          "end": 54,
+          "expanded_url": "https://x.com/ciyou9443/status/1947306866565910787/photo/1",
+          "media_key": "3_1947306862355070976",
+          "start": 31,
+          "url": "https://t.co/bvy8euE6IG"
+        },
+        {
+          "display_url": "pic.x.com/bvy8euE6IG",
+          "end": 54,
+          "expanded_url": "https://x.com/ciyou9443/status/1947306866565910787/photo/1",
+          "media_key": "3_1947306860136304640",
+          "start": 31,
+          "url": "https://t.co/bvy8euE6IG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947306866565910787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买ps家衣服赠送的纹身贴，可爱捏～\n咱喵也是地雷系少女了喵～ https://t.co/bvy8euE6IG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1947306862199861248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwY5Rh4acAAPBHX.jpg",
+        "width": 899
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1947306862355070976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwY5RidawAAAiP8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 876,
+        "media_key": "3_1947306860136304640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwY5RaMbEAAo5_Y.jpg",
+        "width": 802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947306862199861248",
+            "3_1947306862355070976",
+            "3_1947306860136304640"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1947306866565910787",
+        "created_at": "2025-07-21T14:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T15:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947306866565910787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvy8euE6IG",
+              "end": 54,
+              "expanded_url": "https://x.com/ciyou9443/status/1947306866565910787/photo/1",
+              "media_key": "3_1947306862199861248",
+              "start": 31,
+              "url": "https://t.co/bvy8euE6IG"
+            },
+            {
+              "display_url": "pic.x.com/bvy8euE6IG",
+              "end": 54,
+              "expanded_url": "https://x.com/ciyou9443/status/1947306866565910787/photo/1",
+              "media_key": "3_1947306862355070976",
+              "start": 31,
+              "url": "https://t.co/bvy8euE6IG"
+            },
+            {
+              "display_url": "pic.x.com/bvy8euE6IG",
+              "end": 54,
+              "expanded_url": "https://x.com/ciyou9443/status/1947306866565910787/photo/1",
+              "media_key": "3_1947306860136304640",
+              "start": 31,
+              "url": "https://t.co/bvy8euE6IG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947306866565910787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买ps家衣服赠送的纹身贴，可爱捏～\n咱喵也是地雷系少女了喵～ https://t.co/bvy8euE6IG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 410,
+          "like_count": 4522,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1164
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

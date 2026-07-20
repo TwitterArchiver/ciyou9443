@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1919393235329314927",
+    "created_at": "2025-05-05T14:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T15:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919401893341663329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1824148089546084357",
+          "start": 0,
+          "username": "xiaoxun16ProMax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919401893341663329",
+    "in_reply_to_user_id": "1824148089546084357",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919393235329314927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxun16ProMax 加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1919393235329314927",
+        "created_at": "2025-05-05T14:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T15:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919401893341663329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1824148089546084357",
+              "start": 0,
+              "username": "xiaoxun16ProMax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919401893341663329",
+        "in_reply_to_user_id": "1824148089546084357",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919393235329314927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxun16ProMax 加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824148089546084357",
+        "conversation_id": "1919393235329314927",
+        "created_at": "2025-05-05T14:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T15:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919393235329314927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919393235329314927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经过五天的全力反抗，头发暂时是保住了，但愿可以一直保下去🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/没有家长党",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1919285021896253823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 285,
+          "like_count": 2564,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 826
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T18:16:29.000Z",
+        "description": "05/坐标江苏/INFP/无证含糖/mtf🏳‍⚧️/梦想变成可爱的女孩子/社恐/喜欢唱歌/爱玩音游/胸部发育中/想赚零花钱/会做饭(超级好吃)/🚪58加qv/同类可互fo/最爱的妈咪@Luoqi1337/欢迎找我闲聊鸭～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 91,
+                "username": "Luoqi1337"
+              }
+            ]
+          }
+        },
+        "id": "1824148089546084357",
+        "location": "江苏",
+        "name": "小薰不是杂鱼🍥🏳‍⚧️",
+        "pinned_tweet_id": "1918673454771114420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916496947877392384/tQXsdUj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 106,
+          "like_count": 733,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 155
+        },
+        "username": "xiaoxun16ProMax",
+        "verified": false
+      }
+    ]
+  }
+}

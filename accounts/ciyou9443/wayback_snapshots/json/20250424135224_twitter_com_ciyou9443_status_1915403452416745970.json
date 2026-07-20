@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1915361346859712973",
+    "created_at": "2025-04-24T13:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T14:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915403452416745970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "872113640064786432",
+          "start": 0,
+          "username": "ChariseStever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915403452416745970",
+    "in_reply_to_user_id": "872113640064786432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915361346859712973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChariseStever 上上你～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1915361335879008256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpS6_KmWAAA2Yvp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1915361346859712973",
+        "created_at": "2025-04-24T13:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T14:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915403452416745970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "872113640064786432",
+              "start": 0,
+              "username": "ChariseStever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915403452416745970",
+        "in_reply_to_user_id": "872113640064786432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915361346859712973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChariseStever 上上你～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915361335879008256"
+          ]
+        },
+        "author_id": "872113640064786432",
+        "conversation_id": "1915361346859712973",
+        "created_at": "2025-04-24T11:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T12:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915361346859712973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5FHbxDuCOq",
+              "end": 33,
+              "expanded_url": "https://x.com/ChariseStever/status/1915361346859712973/photo/1",
+              "media_key": "3_1915361335879008256",
+              "start": 10,
+              "url": "https://t.co/5FHbxDuCOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915361346859712973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毕业前的最后一节课 https://t.co/5FHbxDuCOq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/没有家长党",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1906693278533374051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 283,
+          "like_count": 2354,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 779
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-06T15:31:09.000Z",
+        "description": "Goblin/Imp 感兴趣的领域: Information Retrieval (信息检索）& Recommender Systems （推荐系统）",
+        "id": "872113640064786432",
+        "location": "Goblin Den",
+        "name": "nil",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530459917060120576/MxIH3gkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 83,
+          "like_count": 541,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 764
+        },
+        "username": "ChariseStever",
+        "verified": false
+      }
+    ]
+  }
+}

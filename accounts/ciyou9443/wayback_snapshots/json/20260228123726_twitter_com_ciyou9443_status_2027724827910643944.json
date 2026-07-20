@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2027723454385135644",
+    "created_at": "2026-02-28T12:37:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T13:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027724827910643944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907031442103943168",
+          "start": 0,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027724827910643944",
+    "in_reply_to_user_id": "1907031442103943168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027723454385135644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinemu123 不得不每日以冰属性功疗伤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48780,
+        "height": 960,
+        "media_key": "13_2027723328610570247",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027723328610570247/img/tcru3-hK0U9D6_Np.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027723328610570247/pl/sjE5FMZibzIvTkgt.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027723328610570247/vid/avc1/960x720/2IjqYQOxB0coyB9Y.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027723328610570247/vid/avc1/360x270/a-9NytWZFOW86FHP.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027723328610570247/vid/avc1/1280x960/RaW8Av-QOf2mUPRn.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027723328610570247/vid/avc1/480x360/hgHT_IkiNjxBEVeF.mp4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2027723454385135644",
+        "created_at": "2026-02-28T12:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027724827910643944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027724827910643944",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027723454385135644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 不得不每日以冰属性功疗伤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027723328610570247"
+          ]
+        },
+        "author_id": "1907031442103943168",
+        "conversation_id": "2027723454385135644",
+        "created_at": "2026-02-28T12:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027723454385135644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fU1kIqDJYk",
+              "end": 93,
+              "expanded_url": "https://x.com/hoshinemu123/status/2027723454385135644/video/1",
+              "media_key": "13_2027723328610570247",
+              "start": 70,
+              "url": "https://t.co/fU1kIqDJYk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027723454385135644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "练剑第七天，比武时遇到一种扁形长柄单侧弯刃刀和一种前端会放电把人烤熟的棍子的攻击。攻击难以抵挡，于是眼部受伤。\n学艺不精，遂在家带伤练剑。 https://t.co/fU1kIqDJYk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "长夜何萤，惭言朔月                                                             眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 100,
+                "start": 92,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "常曦",
+        "pinned_tweet_id": "2025548927907586120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010721996909514752/qGj_peZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 531,
+          "like_count": 10219,
+          "listed_count": 5,
+          "media_count": 359,
+          "tweet_count": 2620
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同。仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘。星眠生活号，不定期推音乐/美术作品，爱好古风。汉服复兴运动。北京/长春，欢迎小女孩们来找我玩。\n三人关系：素素：@ciyou9443 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 91,
+                "username": "ciyou9443"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "2021956150368104748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2863,
+          "following_count": 3225,
+          "like_count": 3260,
+          "listed_count": 2,
+          "media_count": 818,
+          "tweet_count": 8829
+        },
+        "username": "hoshinemu123",
+        "verified": true
+      }
+    ]
+  }
+}

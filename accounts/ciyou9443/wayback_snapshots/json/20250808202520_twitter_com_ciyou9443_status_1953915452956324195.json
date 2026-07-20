@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953915438934683648",
+        "16_1953915442730610697"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1953915452956324195",
+    "created_at": "2025-08-08T20:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T21:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953915452956324195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wpTMTrVDlk",
+          "end": 37,
+          "expanded_url": "https://x.com/ciyou9443/status/1953915452956324195/photo/1",
+          "media_key": "3_1953915438934683648",
+          "start": 14,
+          "url": "https://t.co/wpTMTrVDlk"
+        },
+        {
+          "display_url": "pic.x.com/wpTMTrVDlk",
+          "end": 37,
+          "expanded_url": "https://x.com/ciyou9443/status/1953915452956324195/photo/1",
+          "media_key": "16_1953915442730610697",
+          "start": 14,
+          "url": "https://t.co/wpTMTrVDlk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953915452956324195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大小姐碎片之二～小猫探头～ https://t.co/wpTMTrVDlk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953915438934683648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx2zvUracAAVqZz.jpg",
+        "width": 1151
+      },
+      {
+        "height": 240,
+        "media_key": "16_1953915442730610697",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gx2zvi0bsAkUlxp.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gx2zvi0bsAkUlxp.mp4"
+          }
+        ],
+        "width": 268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953915438934683648",
+            "16_1953915442730610697"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1953915452956324195",
+        "created_at": "2025-08-08T20:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T21:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953915452956324195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wpTMTrVDlk",
+              "end": 37,
+              "expanded_url": "https://x.com/ciyou9443/status/1953915452956324195/photo/1",
+              "media_key": "3_1953915438934683648",
+              "start": 14,
+              "url": "https://t.co/wpTMTrVDlk"
+            },
+            {
+              "display_url": "pic.x.com/wpTMTrVDlk",
+              "end": 37,
+              "expanded_url": "https://x.com/ciyou9443/status/1953915452956324195/photo/1",
+              "media_key": "16_1953915442730610697",
+              "start": 14,
+              "url": "https://t.co/wpTMTrVDlk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953915452956324195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大小姐碎片之二～小猫探头～ https://t.co/wpTMTrVDlk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1952311599215399294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 467,
+          "like_count": 5856,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 1372
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

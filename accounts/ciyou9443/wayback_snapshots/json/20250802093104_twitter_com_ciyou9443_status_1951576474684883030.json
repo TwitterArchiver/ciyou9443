@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951576471543447552",
+        "3_1951576471128203264"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1951576474684883030",
+    "created_at": "2025-08-02T09:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T10:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951576474684883030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HH74uCNBl1",
+          "end": 46,
+          "expanded_url": "https://x.com/ciyou9443/status/1951576474684883030/photo/1",
+          "media_key": "3_1951576471543447552",
+          "start": 23,
+          "url": "https://t.co/HH74uCNBl1"
+        },
+        {
+          "display_url": "pic.x.com/HH74uCNBl1",
+          "end": 46,
+          "expanded_url": "https://x.com/ciyou9443/status/1951576474684883030/photo/1",
+          "media_key": "3_1951576471128203264",
+          "start": 23,
+          "url": "https://t.co/HH74uCNBl1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951576474684883030",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "裙子好看捏～上衣差评差评且差评(●'◡'●) https://t.co/HH74uCNBl1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_1951576471543447552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxVkdgJbgAAGXqf.jpg",
+        "width": 962
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1951576471128203264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxVkdembYAA7xYG.jpg",
+        "width": 1360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951576471543447552",
+            "3_1951576471128203264"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1951576474684883030",
+        "created_at": "2025-08-02T09:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T10:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951576474684883030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HH74uCNBl1",
+              "end": 46,
+              "expanded_url": "https://x.com/ciyou9443/status/1951576474684883030/photo/1",
+              "media_key": "3_1951576471543447552",
+              "start": 23,
+              "url": "https://t.co/HH74uCNBl1"
+            },
+            {
+              "display_url": "pic.x.com/HH74uCNBl1",
+              "end": 46,
+              "expanded_url": "https://x.com/ciyou9443/status/1951576474684883030/photo/1",
+              "media_key": "3_1951576471128203264",
+              "start": 23,
+              "url": "https://t.co/HH74uCNBl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951576474684883030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "裙子好看捏～上衣差评差评且差评(●'◡'●) https://t.co/HH74uCNBl1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 451,
+          "like_count": 5622,
+          "listed_count": 3,
+          "media_count": 155,
+          "tweet_count": 1314
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2068393223773655267",
+    "created_at": "2026-06-21T02:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T03:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068516284149739627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1851171470728134657",
+          "start": 0,
+          "username": "yuki40582"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068516284149739627",
+    "in_reply_to_user_id": "1851171470728134657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068393223773655267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuki40582 中成药纯是医院创收( •̥́ ˍ •̀ू )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2068393223773655267",
+        "created_at": "2026-06-21T02:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068516284149739627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1851171470728134657",
+              "start": 0,
+              "username": "yuki40582"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068516284149739627",
+        "in_reply_to_user_id": "1851171470728134657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068393223773655267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki40582 中成药纯是医院创收( •̥́ ˍ •̀ू )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851171470728134657",
+        "conversation_id": "2068393223773655267",
+        "created_at": "2026-06-20T17:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068393223773655267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068393223773655267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前去的那个二甲医院，一直在给我开中成药和止痛药，第一次给我开的是通天口服液，特别贵，55元一盒而且特别难喝，喝了一口就直接扔掉了因为我感觉它像樟脑丸的味道，而且当时甚至没有任何问诊环节。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 577,
+          "like_count": 12175,
+          "listed_count": 5,
+          "media_count": 435,
+          "tweet_count": 3349
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-29T07:57:36.000Z",
+        "description": "短时间发很多说明我很想倾诉\n把推当空间发\n发不了评论只能引用进行评论。\n转帖/碎碎念/舞萌\n最好的朋友@bolckAshley @Usam8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "Usam8964"
+              }
+            ]
+          }
+        },
+        "id": "1851171470728134657",
+        "location": "欢迎音游痴扩列",
+        "name": "Yuki",
+        "pinned_tweet_id": "2016528144241705391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066001303390830592/sc_UD6db_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 165,
+          "like_count": 19314,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 697
+        },
+        "url": "",
+        "username": "yuki40582",
+        "verified": false
+      }
+    ]
+  }
+}

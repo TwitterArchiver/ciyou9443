@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942224446783098880"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1942224463355162916",
+    "created_at": "2025-07-07T14:09:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T15:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942224463355162916"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "mtf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EJO5RE5AHe",
+          "end": 50,
+          "expanded_url": "https://x.com/ciyou9443/status/1942224463355162916/photo/1",
+          "media_key": "3_1942224446783098880",
+          "start": 27,
+          "url": "https://t.co/EJO5RE5AHe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942224463355162916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "噗，哈基素也是出息了，居然能被在线下认出来\n#mtf https://t.co/EJO5RE5AHe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942224446783098880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvQq2BCWEAA1Jl4.jpg",
+        "width": 899
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942224446783098880"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1942224463355162916",
+        "created_at": "2025-07-07T14:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T15:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942224463355162916"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EJO5RE5AHe",
+              "end": 50,
+              "expanded_url": "https://x.com/ciyou9443/status/1942224463355162916/photo/1",
+              "media_key": "3_1942224446783098880",
+              "start": 27,
+              "url": "https://t.co/EJO5RE5AHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942224463355162916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "噗，哈基素也是出息了，居然能被在线下认出来\n#mtf https://t.co/EJO5RE5AHe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1912156270657700280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 374,
+          "like_count": 3801,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 1065
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

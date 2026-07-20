@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1963320584479425022",
+    "created_at": "2025-09-03T19:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T20:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963321105109979451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "764856941151596549",
+          "start": 0,
+          "username": "_AkitaYura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963321105109979451",
+    "in_reply_to_user_id": "764856941151596549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963320584479425022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_AkitaYura 晚上好大美女"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 466,
+        "media_key": "3_1963320582164090880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz8dqtgakAARoTs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1963320584479425022",
+        "created_at": "2025-09-03T19:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T20:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963321105109979451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "764856941151596549",
+              "start": 0,
+              "username": "_AkitaYura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963321105109979451",
+        "in_reply_to_user_id": "764856941151596549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963320584479425022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_AkitaYura 晚上好大美女"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963320582164090880"
+          ]
+        },
+        "author_id": "764856941151596549",
+        "conversation_id": "1963320584479425022",
+        "created_at": "2025-09-03T19:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T20:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963320584479425022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kx3UDB4eJp",
+              "end": 23,
+              "expanded_url": "https://x.com/_AkitaYura/status/1963320584479425022/photo/1",
+              "media_key": "3_1963320582164090880",
+              "start": 0,
+              "url": "https://t.co/kx3UDB4eJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963320584479425022",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kx3UDB4eJp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1961407992886411770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 494,
+          "like_count": 6700,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1494
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T16:11:19.000Z",
+        "description": "女双女p🏳‍🌈|喵拉图女爵👑|麻辣烫#1🌶|颜控💅|减脂🫠\n\n▫️🦈@I_love_yumira\n▫️🐑@ShikuiL23822",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 34,
+                "username": "I_love_yumira"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "ShikuiL23822"
+              }
+            ]
+          }
+        },
+        "id": "764856941151596549",
+        "location": "R18禁止💢|文爱禁止💢",
+        "name": "Akita Yura",
+        "pinned_tweet_id": "1933062488725319684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878406135503540224/BC7Tb7V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 654,
+          "like_count": 60877,
+          "listed_count": 8,
+          "media_count": 1668,
+          "tweet_count": 14882
+        },
+        "username": "_AkitaYura",
+        "verified": false
+      }
+    ]
+  }
+}

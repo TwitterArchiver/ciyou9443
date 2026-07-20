@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1941815881266569650",
+    "created_at": "2025-07-06T14:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T15:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941861123499995188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907031442103943168",
+          "start": 0,
+          "username": "hoshinemu123"
+        },
+        {
+          "end": 30,
+          "id": "1812014790958829568",
+          "start": 14,
+          "username": "MiaoJiang080923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941861123499995188",
+    "in_reply_to_user_id": "1907031442103943168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941860577942659107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinemu123 @MiaoJiang080923 哈基眠原形毕露"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1941815881266569650",
+        "created_at": "2025-07-06T14:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T15:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941861123499995188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            },
+            {
+              "end": 30,
+              "id": "1812014790958829568",
+              "start": 14,
+              "username": "MiaoJiang080923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941861123499995188",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941860577942659107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 @MiaoJiang080923 哈基眠原形毕露"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "1941815881266569650",
+        "created_at": "2025-07-06T14:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T15:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941860577942659107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1812014790958829568",
+              "start": 0,
+              "username": "MiaoJiang080923"
+            },
+            {
+              "end": 27,
+              "id": "1805373961020260353",
+              "start": 17,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941860577942659107",
+        "in_reply_to_user_id": "1812014790958829568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941815881266569650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiaoJiang080923 @ciyou9443 你异父异母的双胞胎姐妹，还都戴了药娘口罩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 374,
+          "like_count": 3779,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 1061
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；一个领域很偏的软件工程师；一个并不会创作的音乐制作人；一个技术全忘了的技术音频；文学少女；古风女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1941726708065009773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 2438,
+          "like_count": 796,
+          "listed_count": 0,
+          "media_count": 303,
+          "tweet_count": 3537
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T06:42:55.000Z",
+        "description": "08年药娘🍥/一个笨蛋的可爱狸花猫／\n/时不时会情绪爆炸/\n/门槛🚪30/同类免费互fo/某个笨蛋@WinkCat1234 /  永远最喜欢最爱的笨蛋姐姐  @orugannokasa  / 广州佛山随机刷新",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 49,
+                "username": "WinkCat1234"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "orugannokasa"
+              }
+            ]
+          }
+        },
+        "id": "1812014790958829568",
+        "location": "广州",
+        "name": "小阿元和喵酱🍥🏳️‍⚧",
+        "pinned_tweet_id": "1918193003317133587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918933948165672960/9cvSqk9A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 294,
+          "like_count": 219,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 196
+        },
+        "username": "MiaoJiang080923",
+        "verified": false
+      }
+    ]
+  }
+}

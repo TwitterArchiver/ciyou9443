@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1896024928220295284",
+    "created_at": "2025-03-02T03:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T04:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896042318895239393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1825458190328205313",
+          "start": 0,
+          "username": "Bocchiovo233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896042318895239393",
+    "in_reply_to_user_id": "1825458190328205313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896024928220295284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bocchiovo233 贴贴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1896024925506572288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlAIn8obEAAR-Pp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1896024928220295284",
+        "created_at": "2025-03-02T03:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T04:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896042318895239393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1825458190328205313",
+              "start": 0,
+              "username": "Bocchiovo233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896042318895239393",
+        "in_reply_to_user_id": "1825458190328205313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896024928220295284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bocchiovo233 贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896024925506572288"
+          ]
+        },
+        "author_id": "1825458190328205313",
+        "conversation_id": "1896024928220295284",
+        "created_at": "2025-03-02T02:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T03:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896024928220295284"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fF87j4FjGa",
+              "end": 43,
+              "expanded_url": "https://x.com/Bocchiovo233/status/1896024928220295284/photo/1",
+              "media_key": "3_1896024925506572288",
+              "start": 20,
+              "url": "https://t.co/fF87j4FjGa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896024928220295284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没看哪吒2被朋友抓去当浮力集了 #男娘 https://t.co/fF87j4FjGa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "欢迎互fo/困困困困困要困死了/薛定谔的颜值/欢迎xyn来找我玩♥(｡￫v￩｡)♥🏳️‍⚧️🍥",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 126,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 249
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T09:02:12.000Z",
+        "description": "07年/160/40\n你我相遇在这茫茫人世，向我倾诉你的渴望\nhttps://t.co/jOQ3JE4aZU 这是提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/azusa235121329/",
+                "end": 54,
+                "expanded_url": "https://ngl.link/azusa235121329/",
+                "start": 31,
+                "url": "https://t.co/jOQ3JE4aZU"
+              }
+            ]
+          }
+        },
+        "id": "1825458190328205313",
+        "location": "Black Mesa",
+        "name": "小寻爱吃麦当当",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868227241848545280/ZW0p_sqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 383,
+          "like_count": 4619,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 958
+        },
+        "username": "Bocchiovo233",
+        "verified": false
+      }
+    ]
+  }
+}

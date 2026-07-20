@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950817564898312192",
+        "3_1950817566064304128"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1950817568786399646",
+    "created_at": "2025-07-31T07:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T08:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950817568786399646"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BN3Qbb4EB6",
+          "end": 47,
+          "expanded_url": "https://x.com/ciyou9443/status/1950817568786399646/photo/1",
+          "media_key": "3_1950817564898312192",
+          "start": 24,
+          "url": "https://t.co/BN3Qbb4EB6"
+        },
+        {
+          "display_url": "pic.x.com/BN3Qbb4EB6",
+          "end": 47,
+          "expanded_url": "https://x.com/ciyou9443/status/1950817568786399646/photo/1",
+          "media_key": "3_1950817566064304128",
+          "start": 24,
+          "url": "https://t.co/BN3Qbb4EB6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950817568786399646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "团扇美颜款，附带哈基眠彩蛋，看小说入迷是这样的 https://t.co/BN3Qbb4EB6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1048,
+        "media_key": "3_1950817564898312192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxKyPUlbQAAU2Ap.jpg",
+        "width": 968
+      },
+      {
+        "height": 1298,
+        "media_key": "3_1950817566064304128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxKyPY7a4AAVtAu.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950817564898312192",
+            "3_1950817566064304128"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1950817568786399646",
+        "created_at": "2025-07-31T07:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T08:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950817568786399646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BN3Qbb4EB6",
+              "end": 47,
+              "expanded_url": "https://x.com/ciyou9443/status/1950817568786399646/photo/1",
+              "media_key": "3_1950817564898312192",
+              "start": 24,
+              "url": "https://t.co/BN3Qbb4EB6"
+            },
+            {
+              "display_url": "pic.x.com/BN3Qbb4EB6",
+              "end": 47,
+              "expanded_url": "https://x.com/ciyou9443/status/1950817568786399646/photo/1",
+              "media_key": "3_1950817566064304128",
+              "start": 24,
+              "url": "https://t.co/BN3Qbb4EB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950817568786399646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "团扇美颜款，附带哈基眠彩蛋，看小说入迷是这样的 https://t.co/BN3Qbb4EB6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 446,
+          "like_count": 5500,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 1289
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1812320832099868928",
+    "created_at": "2024-07-14T08:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T09:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812405795817968000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1428010616426479628",
+          "start": 0,
+          "username": "CYLDMW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812405795817968000",
+    "in_reply_to_user_id": "1428010616426479628",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812320832099868928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CYLDMW 抱抱凌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1812320832099868928",
+        "created_at": "2024-07-14T08:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T09:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812405795817968000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1428010616426479628",
+              "start": 0,
+              "username": "CYLDMW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812405795817968000",
+        "in_reply_to_user_id": "1428010616426479628",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812320832099868928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CYLDMW 抱抱凌"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812320756904153088"
+          ]
+        },
+        "author_id": "1428010616426479628",
+        "conversation_id": "1812320832099868928",
+        "created_at": "2024-07-14T02:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T03:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812320832099868928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Bpp8wKZfrJ",
+              "end": 46,
+              "expanded_url": "https://twitter.com/CYLDMW/status/1812320832099868928/photo/1",
+              "media_key": "3_1812320756904153088",
+              "start": 23,
+              "url": "https://t.co/Bpp8wKZfrJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812320832099868928",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搬物资好悬没摔地上 是不是太废物了 沮丧死了 https://t.co/Bpp8wKZfrJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "含糖mtf/175cm97g想胖一点点呢，有没有不通过饮食的办法呢/欢迎互fo/困困困困困要困死了",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811045712156594176/VNfVWKJC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 46,
+          "like_count": 59,
+          "listed_count": 0,
+          "tweet_count": 32
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-18T15:07:36.000Z",
+        "description": "广东mtf 门槛20 可以线下陪玩（英雄联盟高手）逛街之类",
+        "id": "1428010616426479628",
+        "location": "深圳市",
+        "name": "是弱弱凌",
+        "pinned_tweet_id": "1507694086823845889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810456884761292800/q_1p2IKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 176,
+          "like_count": 22,
+          "listed_count": 2,
+          "tweet_count": 794
+        },
+        "username": "CYLDMW",
+        "verified": false
+      }
+    ]
+  }
+}

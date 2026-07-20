@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1947987652600340770",
+    "created_at": "2025-07-23T12:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T13:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947990924572930120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947990924572930120",
+    "in_reply_to_user_id": "623965569",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947987652600340770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand *⁂((✪⥎✪))⁂*"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11646,
+        "height": 960,
+        "media_key": "13_1947987594761154560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1947987594761154560/img/sWm9g8PE-rjAXEMr.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947987594761154560/vid/avc1/320x426/R3HR8tIi77mQvbGs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947987594761154560/vid/avc1/480x640/sRmypTjAFtfAB8cD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947987594761154560/vid/avc1/720x960/S6UIyxdd2kSoLjZJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1947987594761154560/pl/a8mvMkpCu1Kep3Ap.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1947987652600340770",
+        "created_at": "2025-07-23T12:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T13:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947990924572930120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947990924572930120",
+        "in_reply_to_user_id": "623965569",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947987652600340770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand *⁂((✪⥎✪))⁂*"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1947987594761154560"
+          ]
+        },
+        "author_id": "623965569",
+        "conversation_id": "1947987652600340770",
+        "created_at": "2025-07-23T11:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T12:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947987652600340770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJphOEfhsi",
+              "end": 28,
+              "expanded_url": "https://x.com/nothousand/status/1947987652600340770/video/1",
+              "media_key": "13_1947987594761154560",
+              "start": 5,
+              "url": "https://t.co/bJphOEfhsi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947987652600340770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "困成狗了 https://t.co/bJphOEfhsi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 413,
+          "like_count": 4655,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 1184
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "/记录一些异世界的碎碎念w #INFJ\n##有奇怪想法和需求的人wsn别来关注我关了也会被我清理！！\n/谨慎fo因为我们可能不是一类人，或者不是你以为的那类人喔\n/不定期删除三无号，不同频的人还请见谅\n/需要回fo请大胆和我说我会来仔细观察你然后给你答案\n//雷自残od各种赤裸色色看到这样的人会unfo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 14,
+                "tag": "INFJ"
+              },
+              {
+                "end": 48,
+                "start": 21,
+                "tag": "有奇怪想法和需求的人wsn别来关注我关了也会被我清理"
+              }
+            ]
+          }
+        },
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊茉音華🏳️‍⚧️",
+        "pinned_tweet_id": "1940754100695769098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937700873003823104/vKI_0ofL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 76,
+          "like_count": 1838,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1345
+        },
+        "username": "nothousand",
+        "verified": false
+      }
+    ]
+  }
+}

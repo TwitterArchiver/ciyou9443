@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2075614974219792561",
+    "created_at": "2026-07-10T16:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T17:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075618517114908768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075618517114908768",
+    "in_reply_to_user_id": "623965569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075614974219792561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand 拼拼乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075614771622367232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4Qo0Ea0AA06jd.jpg",
+        "width": 1152
+      },
+      {
+        "height": 534,
+        "media_key": "16_2075614771622420480",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HM4Qo0EboAAlGVz.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HM4Qo0EboAAlGVz.mp4"
+          }
+        ],
+        "width": 400
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2075614771639132160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4Qo0IaoAAsxtT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075614771651772416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4Qo0LbgAA2Tbs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2075614974219792561",
+        "created_at": "2026-07-10T16:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075618517114908768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075618517114908768",
+        "in_reply_to_user_id": "623965569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075614974219792561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand 拼拼乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075614771622367232",
+            "16_2075614771622420480",
+            "3_2075614771639132160",
+            "3_2075614771651772416"
+          ]
+        },
+        "author_id": "623965569",
+        "conversation_id": "2075614974219792561",
+        "created_at": "2026-07-10T16:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075614974219792561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZNvB82EDbf",
+              "end": 41,
+              "expanded_url": "https://x.com/nothousand/status/2075614974219792561/photo/1",
+              "media_key": "3_2075614771622367232",
+              "start": 18,
+              "url": "https://t.co/ZNvB82EDbf"
+            },
+            {
+              "display_url": "pic.x.com/ZNvB82EDbf",
+              "end": 41,
+              "expanded_url": "https://x.com/nothousand/status/2075614974219792561/photo/1",
+              "media_key": "16_2075614771622420480",
+              "start": 18,
+              "url": "https://t.co/ZNvB82EDbf"
+            },
+            {
+              "display_url": "pic.x.com/ZNvB82EDbf",
+              "end": 41,
+              "expanded_url": "https://x.com/nothousand/status/2075614974219792561/photo/1",
+              "media_key": "3_2075614771639132160",
+              "start": 18,
+              "url": "https://t.co/ZNvB82EDbf"
+            },
+            {
+              "display_url": "pic.x.com/ZNvB82EDbf",
+              "end": 41,
+              "expanded_url": "https://x.com/nothousand/status/2075614974219792561/photo/1",
+              "media_key": "3_2075614771651772416",
+              "start": 18,
+              "url": "https://t.co/ZNvB82EDbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075614974219792561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "术前最后一次逛大展了。bw2026 https://t.co/ZNvB82EDbf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  \n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 578,
+          "like_count": 12501,
+          "listed_count": 4,
+          "media_count": 421,
+          "tweet_count": 3316
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "并非这个世界的生命体",
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊茉音華",
+        "pinned_tweet_id": "2067307566095556947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053291654728364032/lNmB5dJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2540,
+          "following_count": 126,
+          "like_count": 9101,
+          "listed_count": 8,
+          "media_count": 553,
+          "tweet_count": 5763
+        },
+        "url": "",
+        "username": "nothousand",
+        "verified": false
+      }
+    ]
+  }
+}

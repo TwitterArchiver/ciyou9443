@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2019791659353935960",
+    "created_at": "2026-02-06T17:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T18:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019819478910177584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3387569464",
+          "start": 0,
+          "username": "UFP_YujunL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019819478910177584",
+    "in_reply_to_user_id": "3387569464",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019791659353935960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UFP_YujunL *⁂((✪⥎✪))⁂**⁂((✪⥎✪))⁂**⁂((✪⥎✪))⁂**⁂((✪⥎✪))⁂**⁂((✪⥎✪))⁂*(/≧▽≦)/~┴┴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019791648922992641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAe9zapbAAE4s1J.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2019791659353935960",
+        "created_at": "2026-02-06T17:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T18:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019819478910177584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3387569464",
+              "start": 0,
+              "username": "UFP_YujunL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019819478910177584",
+        "in_reply_to_user_id": "3387569464",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019791659353935960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UFP_YujunL *⁂((✪⥎✪))⁂**⁂((✪⥎✪))⁂**⁂((✪⥎✪))⁂**⁂((✪⥎✪))⁂**⁂((✪⥎✪))⁂*(/≧▽≦)/~┴┴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019791648922992641"
+          ]
+        },
+        "author_id": "3387569464",
+        "conversation_id": "2019791659353935960",
+        "created_at": "2026-02-06T15:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T16:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019791659353935960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LAVQWV279h",
+              "end": 23,
+              "expanded_url": "https://x.com/UFP_YujunL/status/2019791659353935960/photo/1",
+              "media_key": "3_2019791648922992641",
+              "start": 0,
+              "url": "https://t.co/LAVQWV279h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019791659353935960",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 356,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LAVQWV279h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "长夜何萤，惭言朔月",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "常曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010721996909514752/qGj_peZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 535,
+          "like_count": 10110,
+          "listed_count": 4,
+          "media_count": 347,
+          "tweet_count": 2561
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-22T15:56:17.000Z",
+        "description": "如果我牺牲了,请用我的骨灰在火星乌托邦平原种下一棵胡杨树(建制左派)|家用车驾驶王| 前𝗧𝗢𝗬𝗢𝗧𝗔 𝗖𝗔𝗠𝗥𝗬 𝗫𝗦𝗘 𝗔𝗪𝗗(不)省油车主|比亚迪汉L EV-p准车主 | 一种#le|我真回流了你怎么还没润？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yujunl.com.cn",
+                "end": 23,
+                "expanded_url": "http://yujunl.com.cn",
+                "start": 0,
+                "url": "https://t.co/ImIAme7ZMM"
+              }
+            ]
+          }
+        },
+        "id": "3387569464",
+        "location": "星际联邦地球广州人类抽象史博物馆",
+        "name": "彧君姨姨(一种宠物🐑)",
+        "pinned_tweet_id": "1745632726252650789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981033913788071938/Ao3StKvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13268,
+          "following_count": 853,
+          "like_count": 149286,
+          "listed_count": 48,
+          "media_count": 3924,
+          "tweet_count": 51393
+        },
+        "url": "https://t.co/ImIAme7ZMM",
+        "username": "UFP_YujunL",
+        "verified": false
+      }
+    ]
+  }
+}

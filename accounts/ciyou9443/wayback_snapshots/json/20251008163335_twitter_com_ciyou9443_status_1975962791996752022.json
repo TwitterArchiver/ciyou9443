@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975962788519710720"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1975962791996752022",
+    "created_at": "2025-10-08T16:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T17:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975962791996752022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1907031442103943168",
+          "start": 5,
+          "username": "hoshinemu123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TRzpRLy96a",
+          "end": 42,
+          "expanded_url": "https://x.com/ciyou9443/status/1975962791996752022/photo/1",
+          "media_key": "3_1975962788519710720",
+          "start": 19,
+          "url": "https://t.co/TRzpRLy96a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975962791996752022",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上面是我 @hoshinemu123 https://t.co/TRzpRLy96a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1261,
+        "media_key": "3_1975962788519710720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2wHr-MbkAAJ6rH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975962788519710720"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1975962791996752022",
+        "created_at": "2025-10-08T16:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T17:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975962791996752022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1907031442103943168",
+              "start": 5,
+              "username": "hoshinemu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TRzpRLy96a",
+              "end": 42,
+              "expanded_url": "https://x.com/ciyou9443/status/1975962791996752022/photo/1",
+              "media_key": "3_1975962788519710720",
+              "start": 19,
+              "url": "https://t.co/TRzpRLy96a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975962791996752022",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上面是我 @hoshinemu123 https://t.co/TRzpRLy96a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/薛定谔的成分",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975908722846367744/FnFHFKBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 513,
+          "like_count": 7369,
+          "listed_count": 4,
+          "media_count": 199,
+          "tweet_count": 1679
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；半个软件工程师加半个音乐人；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；文学少女；古风/汉服女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1975169707985486036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 3034,
+          "like_count": 2759,
+          "listed_count": 2,
+          "media_count": 511,
+          "tweet_count": 6021
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      }
+    ]
+  }
+}

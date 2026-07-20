@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064359573268598784",
+        "3_2064359574556286976"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2064359577785921752",
+    "created_at": "2026-06-09T14:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064359577785921752"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EekXsf03Y0",
+          "end": 42,
+          "expanded_url": "https://x.com/ciyou9443/status/2064359577785921752/photo/1",
+          "media_key": "3_2064359573268598784",
+          "start": 19,
+          "url": "https://t.co/EekXsf03Y0"
+        },
+        {
+          "display_url": "pic.x.com/EekXsf03Y0",
+          "end": 42,
+          "expanded_url": "https://x.com/ciyou9443/status/2064359577785921752/photo/1",
+          "media_key": "3_2064359574556286976",
+          "start": 19,
+          "url": "https://t.co/EekXsf03Y0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064359577785921752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "叶老师帮一直偷懒不顺毛的素子顺了顺毛 https://t.co/EekXsf03Y0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064359573268598784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYUGC1aEAAMpzF.jpg",
+        "width": 1520
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064359574556286976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYUGHoaoAAz9Pb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064359573268598784",
+            "3_2064359574556286976"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2064359577785921752",
+        "created_at": "2026-06-09T14:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064359577785921752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EekXsf03Y0",
+              "end": 42,
+              "expanded_url": "https://x.com/ciyou9443/status/2064359577785921752/photo/1",
+              "media_key": "3_2064359573268598784",
+              "start": 19,
+              "url": "https://t.co/EekXsf03Y0"
+            },
+            {
+              "display_url": "pic.x.com/EekXsf03Y0",
+              "end": 42,
+              "expanded_url": "https://x.com/ciyou9443/status/2064359577785921752/photo/1",
+              "media_key": "3_2064359574556286976",
+              "start": 19,
+              "url": "https://t.co/EekXsf03Y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064359577785921752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叶老师帮一直偷懒不顺毛的素子顺了顺毛 https://t.co/EekXsf03Y0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2062510740637139247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 553,
+          "like_count": 11762,
+          "listed_count": 5,
+          "media_count": 418,
+          "tweet_count": 3177
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

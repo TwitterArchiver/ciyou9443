@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927292486726144000"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1927292495815233829",
+    "created_at": "2025-05-27T09:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T10:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927292495815233829"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rAq8kJlySL",
+          "end": 23,
+          "expanded_url": "https://x.com/ciyou9443/status/1927292495815233829/photo/1",
+          "media_key": "3_1927292486726144000",
+          "start": 0,
+          "url": "https://t.co/rAq8kJlySL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927292495815233829",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/rAq8kJlySL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_1927292486726144000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr8eTjGXUAAdsd2.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927292486726144000"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1927292495815233829",
+        "created_at": "2025-05-27T09:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T10:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927292495815233829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rAq8kJlySL",
+              "end": 23,
+              "expanded_url": "https://x.com/ciyou9443/status/1927292495815233829/photo/1",
+              "media_key": "3_1927292486726144000",
+              "start": 0,
+              "url": "https://t.co/rAq8kJlySL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927292495815233829",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rAq8kJlySL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/有两个人格/没有家长党🏳️‍⚧️🍥/一星期没更就可以当我似了",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 312,
+          "like_count": 3087,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 939
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

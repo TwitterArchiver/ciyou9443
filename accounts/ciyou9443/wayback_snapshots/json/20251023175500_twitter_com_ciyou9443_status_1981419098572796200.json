@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981419095389081600"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1981419098572796200",
+    "created_at": "2025-10-23T17:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T18:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981419098572796200"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oGnbIRY5iW",
+          "end": 48,
+          "expanded_url": "https://x.com/ciyou9443/status/1981419098572796200/photo/1",
+          "media_key": "3_1981419095389081600",
+          "start": 25,
+          "url": "https://t.co/oGnbIRY5iW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981419098572796200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我服了，眠眠猫和前对象都想当老鸨，然后让我去接客 https://t.co/oGnbIRY5iW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1349,
+        "media_key": "3_1981419095389081600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G39qK1PXkAAHR-l.jpg",
+        "width": 1308
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981419095389081600"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1981419098572796200",
+        "created_at": "2025-10-23T17:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T18:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981419098572796200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oGnbIRY5iW",
+              "end": 48,
+              "expanded_url": "https://x.com/ciyou9443/status/1981419098572796200/photo/1",
+              "media_key": "3_1981419095389081600",
+              "start": 25,
+              "url": "https://t.co/oGnbIRY5iW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981419098572796200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我服了，眠眠猫和前对象都想当老鸨，然后让我去接客 https://t.co/oGnbIRY5iW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/buff叠太多我会害怕😨",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 518,
+          "like_count": 7662,
+          "listed_count": 4,
+          "media_count": 230,
+          "tweet_count": 1769
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

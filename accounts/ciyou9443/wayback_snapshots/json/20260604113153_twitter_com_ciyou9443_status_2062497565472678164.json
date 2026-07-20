@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2062488801721942145",
+    "created_at": "2026-06-04T11:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T12:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062497565472678164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1714571705694420992",
+          "start": 0,
+          "username": "Ayuki_Believe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062497565472678164",
+    "in_reply_to_user_id": "1714571705694420992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062488801721942145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayuki_Believe 好好好米(*˘︶˘*).。.:*♡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062488790648958976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9uoKfbMAA1C0j.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2062488801721942145",
+        "created_at": "2026-06-04T11:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062497565472678164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1714571705694420992",
+              "start": 0,
+              "username": "Ayuki_Believe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062497565472678164",
+        "in_reply_to_user_id": "1714571705694420992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062488801721942145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayuki_Believe 好好好米(*˘︶˘*).。.:*♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062488790648958976"
+          ]
+        },
+        "author_id": "1714571705694420992",
+        "conversation_id": "2062488801721942145",
+        "created_at": "2026-06-04T10:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062488801721942145"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "洛丽塔"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "花嫁"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y2GOn1TfSb",
+              "end": 69,
+              "expanded_url": "https://x.com/Ayuki_Believe/status/2062488801721942145/photo/1",
+              "media_key": "3_2062488790648958976",
+              "start": 46,
+              "url": "https://t.co/y2GOn1TfSb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062488801721942145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "半年前穿的洛丽塔 今天才想起来没修\n将就看一下\n是elpress的西苔岛\n#洛丽塔 #花嫁 https://t.co/y2GOn1TfSb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2061791515169767788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 538,
+          "like_count": 11459,
+          "listed_count": 5,
+          "media_count": 403,
+          "tweet_count": 3068
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T09:19:08.000Z",
+        "description": "一个抽象可爱碎碎念高强度冲浪小女孩 喜欢分享自己的一切 （中文繁體English ok） 🫶爱人：@Takitsuki_Shoko| 🥰好妹妹： @Kisen0v0| 碎碎念小号 @Ayuki_Rotsuki 欢迎扩列",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "Takitsuki_Shoko"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "Kisen0v0"
+              },
+              {
+                "end": 104,
+                "start": 90,
+                "username": "Ayuki_Rotsuki"
+              }
+            ]
+          }
+        },
+        "id": "1714571705694420992",
+        "location": "美乐蒂家",
+        "name": "TekeliLi_iLilekeT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054592931852701696/W1JmW_Gf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3685,
+          "following_count": 527,
+          "like_count": 9474,
+          "listed_count": 8,
+          "media_count": 1381,
+          "tweet_count": 3983
+        },
+        "username": "Ayuki_Believe",
+        "verified": false
+      }
+    ]
+  }
+}

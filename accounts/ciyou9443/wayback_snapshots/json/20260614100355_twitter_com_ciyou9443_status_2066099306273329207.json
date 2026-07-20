@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2066084716177129655",
+    "created_at": "2026-06-14T10:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066099306273329207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1720266757838184448",
+          "start": 0,
+          "username": "Nosugar2"
+        },
+        {
+          "end": 20,
+          "id": "1513209080491360256",
+          "start": 10,
+          "username": "Li_basara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066099306273329207",
+    "in_reply_to_user_id": "1720266757838184448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066084716177129655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nosugar2 @Li_basara 蹭一口"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2066084707444629504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw1GEcaoAATncS.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2066084716177129655",
+        "created_at": "2026-06-14T10:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066099306273329207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720266757838184448",
+              "start": 0,
+              "username": "Nosugar2"
+            },
+            {
+              "end": 20,
+              "id": "1513209080491360256",
+              "start": 10,
+              "username": "Li_basara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066099306273329207",
+        "in_reply_to_user_id": "1720266757838184448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066084716177129655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nosugar2 @Li_basara 蹭一口"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066084707444629504"
+          ]
+        },
+        "author_id": "1720266757838184448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066084716177129655",
+        "created_at": "2026-06-14T09:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066084716177129655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1513209080491360256",
+              "start": 9,
+              "username": "Li_basara"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D6tOWfKsjC",
+              "end": 43,
+              "expanded_url": "https://x.com/Nosugar2/status/2066084716177129655/photo/1",
+              "media_key": "3_2066084707444629504",
+              "start": 20,
+              "url": "https://t.co/D6tOWfKsjC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066084716177129655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃大姐姐做的软饭\n@Li_basara https://t.co/D6tOWfKsjC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 560,
+          "like_count": 11933,
+          "listed_count": 5,
+          "media_count": 423,
+          "tweet_count": 3245
+        },
+        "username": "ciyou9443",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-03T02:29:29.000Z",
+        "description": "爱吃爱拍。peace and love~",
+        "id": "1720266757838184448",
+        "location": "蘑菇树屋",
+        "name": "桔饭🍚🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836252859555569664/5XNb7xVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 41,
+          "like_count": 804,
+          "listed_count": 0,
+          "media_count": 1189,
+          "tweet_count": 2744
+        },
+        "username": "Nosugar2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T17:36:08.000Z",
+        "description": "/cast 潜行",
+        "id": "1513209080491360256",
+        "location": "暴风城",
+        "name": "Lithium🏳️‍⚧️🍔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013441782210519040/AuaFpsd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 86,
+          "like_count": 35,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 328
+        },
+        "username": "Li_basara",
+        "verified": false
+      }
+    ]
+  }
+}

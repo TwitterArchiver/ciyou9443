@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1985267337726210169",
+    "created_at": "2025-11-03T08:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T09:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985268278416269314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "764856941151596549",
+          "start": 0,
+          "username": "_AkitaYura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985268278416269314",
+    "in_reply_to_user_id": "764856941151596549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985267337726210169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_AkitaYura 可能不是，但不是不太可能"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985267327227793408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G40WHZ-aEAAylzS.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1985267337726210169",
+        "created_at": "2025-11-03T08:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T09:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985268278416269314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "764856941151596549",
+              "start": 0,
+              "username": "_AkitaYura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985268278416269314",
+        "in_reply_to_user_id": "764856941151596549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985267337726210169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_AkitaYura 可能不是，但不是不太可能"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985267327227793408"
+          ]
+        },
+        "author_id": "764856941151596549",
+        "conversation_id": "1985267337726210169",
+        "created_at": "2025-11-03T08:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T09:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985267337726210169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bOARAn4ZWe",
+              "end": 34,
+              "expanded_url": "https://x.com/_AkitaYura/status/1985267337726210169/photo/1",
+              "media_key": "3_1985267327227793408",
+              "start": 11,
+              "url": "https://t.co/bOARAn4ZWe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985267337726210169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的不是情趣内衣吗？ https://t.co/bOARAn4ZWe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 523,
+          "like_count": 8074,
+          "listed_count": 4,
+          "media_count": 248,
+          "tweet_count": 1840
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T16:11:19.000Z",
+        "description": "双🏳‍🌈|喵拉图女爵👑|麻辣烫#1🌶|颜控💅|吾独爱猪猪🐷\n▫️🐑@ShikuiL23822",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "ShikuiL23822"
+              }
+            ]
+          }
+        },
+        "id": "764856941151596549",
+        "location": "R18禁止💢|文爱禁止💢",
+        "name": "Akita Yura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878406135503540224/BC7Tb7V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 650,
+          "like_count": 65377,
+          "listed_count": 9,
+          "media_count": 1837,
+          "tweet_count": 15974
+        },
+        "username": "_AkitaYura",
+        "verified": false
+      }
+    ]
+  }
+}

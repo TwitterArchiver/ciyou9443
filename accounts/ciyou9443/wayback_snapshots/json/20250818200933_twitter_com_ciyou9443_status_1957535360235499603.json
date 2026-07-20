@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1957534900976017871",
+    "created_at": "2025-08-18T20:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T21:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957535360235499603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1943699809933963264",
+          "start": 0,
+          "username": "SetsuGlow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957535360235499603",
+    "in_reply_to_user_id": "1943699809933963264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957534900976017871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SetsuGlow 揉揉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1957534900976017871",
+        "created_at": "2025-08-18T20:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T21:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957535360235499603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1943699809933963264",
+              "start": 0,
+              "username": "SetsuGlow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957535360235499603",
+        "in_reply_to_user_id": "1943699809933963264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957534900976017871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SetsuGlow 揉揉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943699809933963264",
+        "conversation_id": "1957534900976017871",
+        "created_at": "2025-08-18T20:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T21:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957534900976017871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957534900976017871",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "惊醒……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1952311599215399294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 484,
+          "like_count": 6049,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 1371
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T15:52:13.000Z",
+        "description": "|cosplay📷 / 女装👗 / 碎碎念💭|\n\n追逐时间的碎片🌠\n用力点亮一束光🎇\n在有限的日子里⏳\n做着不愿醒的梦💤\n感谢你驻足欣赏✨\n哪怕各自向远方🪽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/setsuglow",
+                "end": 23,
+                "expanded_url": "https://ngl.link/setsuglow",
+                "start": 0,
+                "url": "https://t.co/dA1WZ1mzq6"
+              }
+            ]
+          }
+        },
+        "id": "1943699809933963264",
+        "location": "beijing",
+        "name": "雪灯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944525696652722177/lROcugeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 210,
+          "like_count": 1888,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 602
+        },
+        "url": "https://t.co/dA1WZ1mzq6",
+        "username": "SetsuGlow",
+        "verified": true
+      }
+    ]
+  }
+}

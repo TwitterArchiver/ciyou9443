@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2051631061176856854",
+    "created_at": "2026-05-05T11:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T12:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051631061176856854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ciyou9443/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/ciyou9443/status/2051586622119145594",
+          "start": 15,
+          "url": "https://t.co/0BpNY8H59v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051631061176856854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051586622119145594",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "脑子不好使的素被骗好几回钱了 https://t.co/0BpNY8H59v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2051631061176856854",
+        "created_at": "2026-05-05T11:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051631061176856854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ciyou9443/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/ciyou9443/status/2051586622119145594",
+              "start": 15,
+              "url": "https://t.co/0BpNY8H59v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051631061176856854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051586622119145594",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "脑子不好使的素被骗好几回钱了 https://t.co/0BpNY8H59v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2051586622119145594",
+        "created_at": "2026-05-05T08:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051586622119145594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/A1oneSKy/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/A1oneSKy/status/2051566450264223953",
+              "start": 26,
+              "url": "https://t.co/aBf13cpZPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051586622119145594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051566450264223953",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么老乡见老乡两眼泪汪汪呢，当然是被老乡给骗哭了 https://t.co/aBf13cpZPh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "常曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 537,
+          "like_count": 10741,
+          "listed_count": 5,
+          "media_count": 384,
+          "tweet_count": 2803
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

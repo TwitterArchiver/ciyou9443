@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983053405485744128"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1983053408115597447",
+    "created_at": "2025-10-28T06:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T07:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983053408115597447"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "跨男"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "跨女"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "御姐"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "猛男"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OogARdNyRW",
+          "end": 67,
+          "expanded_url": "https://x.com/ciyou9443/status/1983053408115597447/photo/1",
+          "media_key": "3_1983053405485744128",
+          "start": 44,
+          "url": "https://t.co/OogARdNyRW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983053408115597447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ai说，this me。我觉得没什么问题(*¯︶¯*)\n#跨男 #跨女 #御姐 #猛男 https://t.co/OogARdNyRW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2018,
+        "media_key": "3_1983053405485744128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4U4kMybQAANAX1.jpg",
+        "width": 1514
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983053405485744128"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1983053408115597447",
+        "created_at": "2025-10-28T06:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T07:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983053408115597447"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "跨男"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "跨女"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "御姐"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "猛男"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OogARdNyRW",
+              "end": 67,
+              "expanded_url": "https://x.com/ciyou9443/status/1983053408115597447/photo/1",
+              "media_key": "3_1983053405485744128",
+              "start": 44,
+              "url": "https://t.co/OogARdNyRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983053408115597447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ai说，this me。我觉得没什么问题(*¯︶¯*)\n#跨男 #跨女 #御姐 #猛男 https://t.co/OogARdNyRW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/虽然主包是个精神病但是buff叠太多我还是会害怕😨",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 516,
+          "like_count": 7720,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 1785
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

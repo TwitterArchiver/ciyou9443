@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1926487959068463205",
+    "created_at": "2025-05-26T03:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T04:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926849493347037273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1821640942396358656",
+          "start": 0,
+          "username": "wwl15956a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926849493347037273",
+    "in_reply_to_user_id": "1821640942396358656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926487959068463205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwl15956a 啊，资本怎么这么坏，让我也吃一口一起受罪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_1926487954232348673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrxClmAWkAETLx9.jpg",
+        "width": 1560
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926487955415224320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrxClqaX0AAf__l.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1919,
+        "media_key": "3_1926487954626658304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrxClneXQAAkPXV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1926487959068463205",
+        "created_at": "2025-05-26T03:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T04:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926849493347037273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1821640942396358656",
+              "start": 0,
+              "username": "wwl15956a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926849493347037273",
+        "in_reply_to_user_id": "1821640942396358656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926487959068463205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwl15956a 啊，资本怎么这么坏，让我也吃一口一起受罪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926487954232348673",
+            "3_1926487955415224320",
+            "3_1926487954626658304"
+          ]
+        },
+        "author_id": "1821640942396358656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1926487959068463205",
+        "created_at": "2025-05-25T03:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T04:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926487959068463205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nWRr6EXwkC",
+              "end": 41,
+              "expanded_url": "https://x.com/wwl15956a/status/1926487959068463205/photo/1",
+              "media_key": "3_1926487954232348673",
+              "start": 18,
+              "url": "https://t.co/nWRr6EXwkC"
+            },
+            {
+              "display_url": "pic.x.com/nWRr6EXwkC",
+              "end": 41,
+              "expanded_url": "https://x.com/wwl15956a/status/1926487959068463205/photo/1",
+              "media_key": "3_1926487955415224320",
+              "start": 18,
+              "url": "https://t.co/nWRr6EXwkC"
+            },
+            {
+              "display_url": "pic.x.com/nWRr6EXwkC",
+              "end": 41,
+              "expanded_url": "https://x.com/wwl15956a/status/1926487959068463205/photo/1",
+              "media_key": "3_1926487954626658304",
+              "start": 18,
+              "url": "https://t.co/nWRr6EXwkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926487959068463205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1103,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就说我最近脸这么圆了🥲被资本做局了 https://t.co/nWRr6EXwkC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/戾气现在很重/有两个人格/没有家长党🏳️‍⚧️🍥/",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 322,
+          "like_count": 3022,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 925
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T20:13:48.000Z",
+        "description": "这里是黑猫🐈‍⬛可以叫我kuroneko/07年男高＋正太向＋男娘 日常清水推/（偶尔会有瑟瑟但一定会有敏感警告⚠️放心关注喵）臭搞cos的但不play 这是我超级无敌世界第一可爱的女儿：@beastere_susu 🚪52喜欢有礼貌的人！回fo必查成分🥺礼貌一点plz🥺😸喜欢假小子和可爱的小女男孩😆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 94,
+                "username": "beastere_susu"
+              }
+            ]
+          }
+        },
+        "id": "1821640942396358656",
+        "location": "深圳/以及你的心里❤",
+        "name": "黑猫猫猫猫猫猫",
+        "pinned_tweet_id": "1903157017578979723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882847436030279680/EWICQn4V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2357,
+          "following_count": 809,
+          "like_count": 11742,
+          "listed_count": 6,
+          "media_count": 370,
+          "tweet_count": 4011
+        },
+        "username": "wwl15956a",
+        "verified": false
+      }
+    ]
+  }
+}

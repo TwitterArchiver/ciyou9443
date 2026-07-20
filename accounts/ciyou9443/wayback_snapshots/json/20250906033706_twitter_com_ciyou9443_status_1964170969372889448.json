@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1964170969372889448",
+    "created_at": "2025-09-06T03:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T04:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964170969372889448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1346974977434771460",
+          "start": 3,
+          "username": "N0rthern_Land"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964170969372889448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963998460023112151",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N0rthern_Land: 夸别人到底需要啥意义，抖m喜欢挨骂是吗？又在表演特立独行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1964170969372889448",
+        "created_at": "2025-09-06T03:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T04:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964170969372889448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1346974977434771460",
+              "start": 3,
+              "username": "N0rthern_Land"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964170969372889448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963998460023112151",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N0rthern_Land: 夸别人到底需要啥意义，抖m喜欢挨骂是吗？又在表演特立独行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1346974977434771460",
+        "conversation_id": "1963998460023112151",
+        "created_at": "2025-09-05T16:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T17:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963998460023112151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/revive_meink/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/revive_meink/status/1963859503893319909",
+              "start": 30,
+              "url": "https://t.co/AmvPysXDHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963998460023112151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3573,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963859503893319909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "夸别人到底需要啥意义，抖m喜欢挨骂是吗？又在表演特立独行了 https://t.co/AmvPysXDHA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1961407992886411770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1448,
+          "following_count": 493,
+          "like_count": 6760,
+          "listed_count": 4,
+          "media_count": 143,
+          "tweet_count": 1504
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-07T00:20:49.000Z",
+        "description": "从那不勒斯到今天走了有多远/🏳️‍🌈/粉红别关注我/女朋友@ayashikinoco/里帐：@san45142",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "ayashikinoco"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "san45142"
+              }
+            ]
+          }
+        },
+        "id": "1346974977434771460",
+        "name": "北长尾山雀",
+        "pinned_tweet_id": "1777993830031302950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922171885707485184/cia_yxjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62861,
+          "following_count": 801,
+          "like_count": 91943,
+          "listed_count": 151,
+          "media_count": 3098,
+          "tweet_count": 29584
+        },
+        "username": "N0rthern_Land",
+        "verified": true
+      }
+    ]
+  }
+}

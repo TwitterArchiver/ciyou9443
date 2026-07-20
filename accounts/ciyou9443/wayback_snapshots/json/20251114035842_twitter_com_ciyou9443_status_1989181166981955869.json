@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1989181166981955869",
+    "created_at": "2025-11-14T03:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T04:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989181166981955869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1805373961020260353",
+          "start": 3,
+          "username": "ciyou9443"
+        },
+        {
+          "end": 25,
+          "id": "1926451442572754944",
+          "start": 15,
+          "username": "keiaiqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989181166981955869",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989180903915184594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ciyou9443: @keiaiqing 呜呜呜，我雄激素吃成雌激素了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1989181166981955869",
+        "created_at": "2025-11-14T03:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T04:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989181166981955869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1805373961020260353",
+              "start": 3,
+              "username": "ciyou9443"
+            },
+            {
+              "end": 25,
+              "id": "1926451442572754944",
+              "start": 15,
+              "username": "keiaiqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989181166981955869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989180903915184594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ciyou9443: @keiaiqing 呜呜呜，我雄激素吃成雌激素了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1989175870465167750",
+        "created_at": "2025-11-14T03:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T04:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989180903915184594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926451442572754944",
+              "start": 0,
+              "username": "keiaiqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989180903915184594",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989178768167161999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keiaiqing 呜呜呜，我雄激素吃成雌激素了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974504976752984101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 529,
+          "like_count": 8588,
+          "listed_count": 4,
+          "media_count": 268,
+          "tweet_count": 2002
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T01:33:32.000Z",
+        "description": "我是女同性恋🏳️‍🌈🏳️‍🌈🏳️‍🌈😭😭😭我讨厌百合破坏，我不喜欢男性性器官😭😭😭我喜欢左右脑互搏，有时候会说想要个屌，真的有了，我只会猛击自己的屌300下😭😭😭我是反差重度爱好者😭😭😭",
+        "id": "1926451442572754944",
+        "location": "10.12生日（世界第一嬤嬤",
+        "name": "ke（和早雾落恋爱版",
+        "pinned_tweet_id": "1978579998748410118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926451614899990528/za6MBTqj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 368,
+          "like_count": 30467,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 3132
+        },
+        "username": "keiaiqing",
+        "verified": false
+      }
+    ]
+  }
+}

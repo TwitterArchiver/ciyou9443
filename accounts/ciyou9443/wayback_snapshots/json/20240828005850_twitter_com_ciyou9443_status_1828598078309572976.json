@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1828461496416051525",
+    "created_at": "2024-08-28T00:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T01:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828598078309572976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "795240655287177216",
+          "start": 0,
+          "username": "ShaDow_0528"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828598078309572976",
+    "in_reply_to_user_id": "795240655287177216",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828461496416051525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShaDow_0528 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1828461496416051525",
+        "created_at": "2024-08-28T00:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T01:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828598078309572976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "795240655287177216",
+              "start": 0,
+              "username": "ShaDow_0528"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828598078309572976",
+        "in_reply_to_user_id": "795240655287177216",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828461496416051525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShaDow_0528 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "795240655287177216",
+        "conversation_id": "1828461496416051525",
+        "created_at": "2024-08-27T15:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T16:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828461496416051525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1828461496416051525",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 478,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "各位以後不要亂用這個表符「🥺」了\n\n因為這是要求對方和自己做愛的意思\n\n明白了嗎🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "含糖mtf/175cm49kg/欢迎互fo/困困困困困要困死了",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1824053680586514553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823218547381972993/M1KAROl-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 94,
+          "like_count": 163,
+          "listed_count": 0,
+          "tweet_count": 73
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-06T12:25:21.000Z",
+        "description": "香港人🇭🇰想平凡的活著/中 ENG 粵 JP/ 動漫&VT /蘿莉控 獸娘控 偽娘控 / 💜一生摯愛💜@qiand33 /喜歡諧音&地獄梗 / 中二病 / LGBT友好 / 假面愚者🎭讓世界多幾分快樂🎉 / 梗圖bot / 回fo請私 / 自閉房間 @Shadow0528_SUB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "qiand33"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "Shadow0528_SUB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/shadow0528",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/shadow0528",
+                "start": 0,
+                "url": "https://t.co/CxwKhCdRgS"
+              }
+            ]
+          }
+        },
+        "id": "795240655287177216",
+        "location": "虛幻之境",
+        "name": "白影Shadow 🇭🇰🍙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823749594020503554/IaFn86mT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 629,
+          "like_count": 37880,
+          "listed_count": 3,
+          "tweet_count": 6401
+        },
+        "url": "https://t.co/CxwKhCdRgS",
+        "username": "ShaDow_0528",
+        "verified": false
+      }
+    ]
+  }
+}

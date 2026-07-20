@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928185008755535872"
+      ],
+      "media_source_tweet_id": [
+        "1928185012127482077"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1928242829576315227",
+    "created_at": "2025-05-30T00:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T01:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928242829576315227"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 18,
+          "tag": "男娘"
+        },
+        {
+          "end": 27,
+          "start": 22,
+          "tag": "男娘母狗"
+        },
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "原味"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "定制"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "陪玩"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1861311810714116098",
+          "start": 3,
+          "username": "YaoXiao91300"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h4MtjnwWEs",
+          "end": 63,
+          "expanded_url": "https://x.com/YaoXiao91300/status/1928185012127482077/photo/1",
+          "media_key": "3_1928185008755535872",
+          "start": 40,
+          "url": "https://t.co/h4MtjnwWEs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928242829576315227",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928185012127482077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YaoXiao91300: #男娘 #男娘母狗 #原味 #定制 #陪玩 https://t.co/h4MtjnwWEs"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1928242829576315227].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1928242829576315227",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1928242829576315227"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1928185008755535872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsJKDKwbcAAAV12.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928185008755535872"
+          ]
+        },
+        "author_id": "1861311810714116098",
+        "conversation_id": "1928185012127482077",
+        "created_at": "2025-05-29T20:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T21:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928185012127482077"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "男娘母狗"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "原味"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "定制"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "陪玩"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h4MtjnwWEs",
+              "end": 45,
+              "expanded_url": "https://x.com/YaoXiao91300/status/1928185012127482077/photo/1",
+              "media_key": "3_1928185008755535872",
+              "start": 22,
+              "url": "https://t.co/h4MtjnwWEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928185012127482077",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #男娘母狗 #原味 #定制 #陪玩 https://t.co/h4MtjnwWEs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/两个人格交替行动/没有家长党🏳️‍⚧️🍥/一星期没更就可以当我似了/大概是个清水推",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 319,
+          "like_count": 3259,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 985
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T07:31:44.000Z",
+        "description": "这里小尧/男娘不是药娘/🚪52/出原味/接铲铲云顶瓦王者娱乐陪！娱乐陪！/线下也请先发口令过门哦",
+        "id": "1861311810714116098",
+        "name": "小尧",
+        "pinned_tweet_id": "1928185012127482077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861466625951834114/kZ4m2vbn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 81,
+          "like_count": 944,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 270
+        },
+        "username": "YaoXiao91300",
+        "verified": false
+      }
+    ]
+  }
+}

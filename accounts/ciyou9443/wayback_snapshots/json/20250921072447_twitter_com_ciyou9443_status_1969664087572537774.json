@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969664062784225283",
+        "3_1969664063811829764"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1969664087572537774",
+    "created_at": "2025-09-21T07:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T08:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969664087572537774"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y9Zbe9TWsJ",
+          "end": 43,
+          "expanded_url": "https://x.com/ciyou9443/status/1969664087572537774/photo/1",
+          "media_key": "3_1969664062784225283",
+          "start": 20,
+          "url": "https://t.co/y9Zbe9TWsJ"
+        },
+        {
+          "display_url": "pic.x.com/y9Zbe9TWsJ",
+          "end": 43,
+          "expanded_url": "https://x.com/ciyou9443/status/1969664087572537774/photo/1",
+          "media_key": "3_1969664063811829764",
+          "start": 20,
+          "url": "https://t.co/y9Zbe9TWsJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969664087572537774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因为蛐蛐二次元被打了一拳（bushi） https://t.co/y9Zbe9TWsJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969664062784225283",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1WnB4UbQAMpc40.jpg",
+        "width": 922
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1969664063811829764",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1WnB8JbQAQTrXR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969664062784225283",
+            "3_1969664063811829764"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1969664087572537774",
+        "created_at": "2025-09-21T07:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T08:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969664087572537774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y9Zbe9TWsJ",
+              "end": 43,
+              "expanded_url": "https://x.com/ciyou9443/status/1969664087572537774/photo/1",
+              "media_key": "3_1969664062784225283",
+              "start": 20,
+              "url": "https://t.co/y9Zbe9TWsJ"
+            },
+            {
+              "display_url": "pic.x.com/y9Zbe9TWsJ",
+              "end": 43,
+              "expanded_url": "https://x.com/ciyou9443/status/1969664087572537774/photo/1",
+              "media_key": "3_1969664063811829764",
+              "start": 20,
+              "url": "https://t.co/y9Zbe9TWsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969664087572537774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为蛐蛐二次元被打了一拳（bushi） https://t.co/y9Zbe9TWsJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 511,
+          "like_count": 6982,
+          "listed_count": 4,
+          "media_count": 162,
+          "tweet_count": 1579
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

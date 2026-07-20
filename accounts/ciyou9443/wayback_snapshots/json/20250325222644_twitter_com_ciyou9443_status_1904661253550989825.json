@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1904570275263582687",
+    "created_at": "2025-03-25T22:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T23:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904661253550989825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901204651888009216",
+          "start": 0,
+          "username": "ynziy3257014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904661253550989825",
+    "in_reply_to_user_id": "1901204651888009216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904570275263582687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynziy3257014 心疼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2269,
+        "media_key": "3_1904570271979454464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm5kkk8awAAcYtq.jpg",
+        "width": 1440
+      },
+      {
+        "height": 677,
+        "media_key": "3_1904570271455232000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm5kki_bwAAbaiv.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1904570275263582687",
+        "created_at": "2025-03-25T22:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T23:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904661253550989825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901204651888009216",
+              "start": 0,
+              "username": "ynziy3257014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904661253550989825",
+        "in_reply_to_user_id": "1901204651888009216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904570275263582687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynziy3257014 心疼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904570271979454464",
+            "3_1904570271455232000"
+          ]
+        },
+        "author_id": "1901204651888009216",
+        "conversation_id": "1904570275263582687",
+        "created_at": "2025-03-25T16:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T17:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904570275263582687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AdZLinScmv",
+              "end": 58,
+              "expanded_url": "https://x.com/ynziy3257014/status/1904570275263582687/photo/1",
+              "media_key": "3_1904570271979454464",
+              "start": 35,
+              "url": "https://t.co/AdZLinScmv"
+            },
+            {
+              "display_url": "pic.x.com/AdZLinScmv",
+              "end": 58,
+              "expanded_url": "https://x.com/ynziy3257014/status/1904570275263582687/photo/1",
+              "media_key": "3_1904570271455232000",
+              "start": 35,
+              "url": "https://t.co/AdZLinScmv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904570275263582687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那些话一直待在我的脑海里挥之不去。好难过好伤人，我睡不着觉一直掉眼泪 https://t.co/AdZLinScmv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/没回fo可以私我",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 253,
+          "like_count": 1272,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 478
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T09:31:58.000Z",
+        "description": "2008.12.13/中焦重抑/休学/GD🍥",
+        "id": "1901204651888009216",
+        "location": "zhengzhou",
+        "name": "沫沫沫沫沫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902754785742487553/MNbsLCv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 128,
+          "like_count": 2668,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 59
+        },
+        "username": "ynziy3257014",
+        "verified": false
+      }
+    ]
+  }
+}

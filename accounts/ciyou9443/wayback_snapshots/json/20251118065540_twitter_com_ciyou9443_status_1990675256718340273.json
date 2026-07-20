@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1990675256718340273",
+    "created_at": "2025-11-18T06:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T07:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990675256718340273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990675256718340273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990652354425995274",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 我跟亚明一直以来都在做的一件事情马上也要有成效了……\n我们现在已经充分的证明了\n在中国想要依靠司法体系\n还给扭转机构受害者公平\n是不可能的\n而指望官僚体系判这些开机构的自家人更是无稽之谈\n中国的司法是失灵的不能解决青少年被持续性迫害伤害…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1990675256718340273",
+        "created_at": "2025-11-18T06:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T07:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990675256718340273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990675256718340273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990652354425995274",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 我跟亚明一直以来都在做的一件事情马上也要有成效了……\n我们现在已经充分的证明了\n在中国想要依靠司法体系\n还给扭转机构受害者公平\n是不可能的\n而指望官僚体系判这些开机构的自家人更是无稽之谈\n中国的司法是失灵的不能解决青少年被持续性迫害伤害…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1990652354425995274",
+        "created_at": "2025-11-18T05:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T06:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990652354425995274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990652354425995274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 627,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我跟亚明一直以来都在做的一件事情马上也要有成效了……\n我们现在已经充分的证明了\n在中国想要依靠司法体系\n还给扭转机构受害者公平\n是不可能的\n而指望官僚体系判这些开机构的自家人更是无稽之谈\n中国的司法是失灵的不能解决青少年被持续性迫害伤害跟非法囚禁\n过几天会把这一年半以来的成果发布出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠/深夜发的消息不关素的事",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974504976752984101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 534,
+          "like_count": 8889,
+          "listed_count": 4,
+          "media_count": 275,
+          "tweet_count": 2128
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 1112,
+          "like_count": 880,
+          "listed_count": 6,
+          "media_count": 262,
+          "tweet_count": 1443
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

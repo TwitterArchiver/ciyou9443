@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068667554210729984",
+        "3_2068667553531219968"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2068667556962128057",
+    "created_at": "2026-06-21T12:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068667556962128057"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g9MxlgBM3u",
+          "end": 44,
+          "expanded_url": "https://x.com/ciyou9443/status/2068667556962128057/photo/1",
+          "media_key": "3_2068667554210729984",
+          "start": 21,
+          "url": "https://t.co/g9MxlgBM3u"
+        },
+        {
+          "display_url": "pic.x.com/g9MxlgBM3u",
+          "end": 44,
+          "expanded_url": "https://x.com/ciyou9443/status/2068667556962128057/photo/1",
+          "media_key": "3_2068667553531219968",
+          "start": 21,
+          "url": "https://t.co/g9MxlgBM3u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068667556962128057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很好的kitty西施，为这碟醋包了个饺子 https://t.co/g9MxlgBM3u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1723,
+        "media_key": "3_2068667554210729984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLViLicbUAAb9XL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2068667553531219968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLViLf6a0AAyDVc.jpg",
+        "width": 1466
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068667554210729984",
+            "3_2068667553531219968"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2068667556962128057",
+        "created_at": "2026-06-21T12:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068667556962128057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g9MxlgBM3u",
+              "end": 44,
+              "expanded_url": "https://x.com/ciyou9443/status/2068667556962128057/photo/1",
+              "media_key": "3_2068667554210729984",
+              "start": 21,
+              "url": "https://t.co/g9MxlgBM3u"
+            },
+            {
+              "display_url": "pic.x.com/g9MxlgBM3u",
+              "end": 44,
+              "expanded_url": "https://x.com/ciyou9443/status/2068667556962128057/photo/1",
+              "media_key": "3_2068667553531219968",
+              "start": 21,
+              "url": "https://t.co/g9MxlgBM3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068667556962128057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很好的kitty西施，为这碟醋包了个饺子 https://t.co/g9MxlgBM3u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 575,
+          "like_count": 12229,
+          "listed_count": 5,
+          "media_count": 438,
+          "tweet_count": 3362
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      }
+    ]
+  }
+}

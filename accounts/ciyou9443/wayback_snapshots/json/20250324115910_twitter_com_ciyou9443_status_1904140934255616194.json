@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1903944911386546498",
+    "created_at": "2025-03-24T11:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T12:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904140934255616194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1843319670138720256",
+          "start": 0,
+          "username": "WangPu90983"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904140934255616194",
+    "in_reply_to_user_id": "1843319670138720256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904104355264942145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WangPu90983 咬～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1903944911386546498",
+        "created_at": "2025-03-24T11:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T12:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904140934255616194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1843319670138720256",
+              "start": 0,
+              "username": "WangPu90983"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904140934255616194",
+        "in_reply_to_user_id": "1843319670138720256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904104355264942145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WangPu90983 咬～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843319670138720256",
+        "conversation_id": "1903944911386546498",
+        "created_at": "2025-03-24T09:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T10:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904104355264942145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904104355264942145",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903944911386546498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 给我咬一口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/没回fo可以私我",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 251,
+          "like_count": 1225,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 466
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T15:57:24.000Z",
+        "description": "大家好 来找我说话",
+        "id": "1843319670138720256",
+        "location": "自己猜吧",
+        "name": "玻璃鱼_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878403926355255296/O91yAHUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 424,
+          "like_count": 2582,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 98
+        },
+        "username": "WangPu90983",
+        "verified": false
+      }
+    ]
+  }
+}

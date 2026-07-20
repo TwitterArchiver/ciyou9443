@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1988139034238144997",
+    "created_at": "2025-11-11T13:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T14:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988244718887858236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        },
+        {
+          "end": 28,
+          "id": "1444716723978981380",
+          "start": 12,
+          "username": "EleanorAnatidae"
+        },
+        {
+          "end": 39,
+          "id": "852324263977558017",
+          "start": 29,
+          "username": "20mmMG151"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988244718887858236",
+    "in_reply_to_user_id": "623965569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988240615709307273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand @EleanorAnatidae @20mmMG151 娘炮跟了我一整个青少年时代"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1988139034238144997",
+        "created_at": "2025-11-11T13:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T14:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988244718887858236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            },
+            {
+              "end": 28,
+              "id": "1444716723978981380",
+              "start": 12,
+              "username": "EleanorAnatidae"
+            },
+            {
+              "end": 39,
+              "id": "852324263977558017",
+              "start": 29,
+              "username": "20mmMG151"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988244718887858236",
+        "in_reply_to_user_id": "623965569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988240615709307273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand @EleanorAnatidae @20mmMG151 娘炮跟了我一整个青少年时代"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "623965569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1988139034238144997",
+        "created_at": "2025-11-11T13:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T14:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988240615709307273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1444716723978981380",
+              "start": 0,
+              "username": "EleanorAnatidae"
+            },
+            {
+              "end": 27,
+              "id": "852324263977558017",
+              "start": 17,
+              "username": "20mmMG151"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988240615709307273",
+        "in_reply_to_user_id": "1444716723978981380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988240103383450083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EleanorAnatidae @20mmMG151 我初中的时候发育也比同龄略慢一点，体育成绩很差。好多考核项目都很难按男生标准及格，甚至当时体育课代表还开玩笑和我说，“你把下面剪掉就能及格了哈哈”。。。我还倒是想呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 527,
+          "like_count": 8462,
+          "listed_count": 4,
+          "media_count": 262,
+          "tweet_count": 1944
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "/记录一些异世界的碎碎念w #INFJ\n##有奇怪想法和需求的人看黄男别来关注我关了也会被我清理！！\n/谨慎fo因为我们可能不是一类人，或者不是你以为的那类人喔\n/不定期删除三无号，不同频的人还请见谅\n/需要回fo请大胆和我说我会来仔细观察你然后给你答案\n//雷自残od各种赤裸色色看到这样的人会unfo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 14,
+                "tag": "INFJ"
+              },
+              {
+                "end": 48,
+                "start": 21,
+                "tag": "有奇怪想法和需求的人看黄男别来关注我关了也会被我清理"
+              }
+            ]
+          }
+        },
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊茉音華🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986123192122155009/VGLVlSvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1634,
+          "following_count": 114,
+          "like_count": 5786,
+          "listed_count": 4,
+          "media_count": 340,
+          "tweet_count": 4088
+        },
+        "username": "nothousand",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "mtf🏳️‍⚧️/👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 46,
+                "start": 32,
+                "username": "Shirlene_girl"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772859713987960832/7mLglH_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2935,
+          "following_count": 1776,
+          "like_count": 20745,
+          "listed_count": 9,
+          "media_count": 123,
+          "tweet_count": 5557
+        },
+        "username": "EleanorAnatidae",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-13T00:55:14.000Z",
+        "description": "跨女🏳️‍⚧️，hrt 2025/4/22\n无情的点赞机器 \n杂食，啥都看",
+        "id": "852324263977558017",
+        "location": "Gotham City, Sewer",
+        "name": "🐭wowo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960288056701030400/IDF5MIjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 548,
+          "like_count": 61754,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 3029
+        },
+        "username": "20mmMG151",
+        "verified": false
+      }
+    ]
+  }
+}

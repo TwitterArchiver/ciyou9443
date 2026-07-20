@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1904551369480241251",
+    "created_at": "2025-03-25T22:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T23:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904666099553361998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1758152770560159744",
+          "start": 0,
+          "username": "kokorofufu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904666099553361998",
+    "in_reply_to_user_id": "1758152770560159744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904551369480241251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokorofufu 同感～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1904551365747392512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm5TYFvbwAA7t-k.jpg",
+        "width": 668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1904551369480241251",
+        "created_at": "2025-03-25T22:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T23:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904666099553361998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1758152770560159744",
+              "start": 0,
+              "username": "kokorofufu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904666099553361998",
+        "in_reply_to_user_id": "1758152770560159744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904551369480241251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokorofufu 同感～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904551365747392512"
+          ]
+        },
+        "author_id": "1758152770560159744",
+        "conversation_id": "1904551369480241251",
+        "created_at": "2025-03-25T15:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T16:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904551369480241251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3rJzCrmDC6",
+              "end": 55,
+              "expanded_url": "https://x.com/kokorofufu/status/1904551369480241251/photo/1",
+              "media_key": "3_1904551365747392512",
+              "start": 32,
+              "url": "https://t.co/3rJzCrmDC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904551369480241251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "掐自己脖子窒息好舒服，酥酥麻麻的，比割手还舒服多了，掐到发情了 https://t.co/3rJzCrmDC6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/没回fo可以私我",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 254,
+          "like_count": 1292,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 488
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T15:34:29.000Z",
+        "description": "mtx | 间歇性发情 | m | 对大唧唧没有抵抗力 | 喜欢文爱哦 | 随缘更新 | 只是发泄自己的欲望 | 喜欢有礼貌的人 |  社恐一枚 | 可互推 | 私信一般都会回",
+        "id": "1758152770560159744",
+        "location": "在世界中心呼唤爱💓",
+        "name": "Mohanan🍥",
+        "pinned_tweet_id": "1902912173611028659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902373591712468992/U-yAt0yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 646,
+          "like_count": 5,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 97
+        },
+        "username": "kokorofufu",
+        "verified": false
+      }
+    ]
+  }
+}

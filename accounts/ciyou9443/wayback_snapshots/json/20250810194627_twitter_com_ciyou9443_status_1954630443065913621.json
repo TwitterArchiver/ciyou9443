@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1954476934785798385",
+    "created_at": "2025-08-10T19:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T20:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954630443065913621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "764856941151596549",
+          "start": 0,
+          "username": "_AkitaYura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954630443065913621",
+    "in_reply_to_user_id": "764856941151596549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954476934785798385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_AkitaYura 你喷我也没用，因为我已经对你打完胶了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1419,
+        "media_key": "3_1954476910563749888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx-yZRfa8AASrBy.jpg",
+        "width": 813
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1954476934785798385",
+        "created_at": "2025-08-10T19:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T20:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954630443065913621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "764856941151596549",
+              "start": 0,
+              "username": "_AkitaYura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954630443065913621",
+        "in_reply_to_user_id": "764856941151596549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954476934785798385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_AkitaYura 你喷我也没用，因为我已经对你打完胶了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954476910563749888"
+          ]
+        },
+        "author_id": "764856941151596549",
+        "conversation_id": "1954476934785798385",
+        "created_at": "2025-08-10T09:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T10:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954476934785798385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gceYJp8XyX",
+              "end": 46,
+              "expanded_url": "https://x.com/_AkitaYura/status/1954476934785798385/photo/1",
+              "media_key": "3_1954476910563749888",
+              "start": 23,
+              "url": "https://t.co/gceYJp8XyX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954476934785798385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "表情包杀我ﾞ━=͟͟͞͞(Ŏ◊Ŏ ‧̣̥̇) https://t.co/gceYJp8XyX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1952311599215399294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 471,
+          "like_count": 5910,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 1380
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T16:11:19.000Z",
+        "description": "双性恋之颜性恋🏳‍🌈|喵拉图女爵👑|麻辣烫#1🌶|颜控💅|\n▫️🍰@I_love_yumira\n▫️🥜@ShikuiL23822",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "I_love_yumira"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "ShikuiL23822"
+              }
+            ]
+          }
+        },
+        "id": "764856941151596549",
+        "location": "R18禁止💢|文爱禁止💢",
+        "name": "Akita Yura",
+        "pinned_tweet_id": "1933062488725319684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878406135503540224/BC7Tb7V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 671,
+          "like_count": 58464,
+          "listed_count": 8,
+          "media_count": 1544,
+          "tweet_count": 13818
+        },
+        "username": "_AkitaYura",
+        "verified": false
+      }
+    ]
+  }
+}

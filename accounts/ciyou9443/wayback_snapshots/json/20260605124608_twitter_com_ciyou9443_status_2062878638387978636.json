@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2062878624072798208"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2062871457408114882",
+    "created_at": "2026-06-05T12:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062878638387978636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907031442103943168",
+          "start": 0,
+          "username": "hoshinemu123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2aBbqglKnl",
+          "end": 47,
+          "expanded_url": "https://x.com/ciyou9443/status/2062878638387978636/photo/1",
+          "media_key": "16_2062878624072798208",
+          "start": 24,
+          "url": "https://t.co/2aBbqglKnl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062878638387978636",
+    "in_reply_to_user_id": "1907031442103943168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062871793250259286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinemu123 你练不过我你知道吗 https://t.co/2aBbqglKnl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "16_2062878624072798208",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKDRLdKbEAAhX95.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKDRLdKbEAAhX95.mp4"
+          }
+        ],
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2062878624072798208"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2062871457408114882",
+        "created_at": "2026-06-05T12:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062878638387978636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2aBbqglKnl",
+              "end": 47,
+              "expanded_url": "https://x.com/ciyou9443/status/2062878638387978636/photo/1",
+              "media_key": "16_2062878624072798208",
+              "start": 24,
+              "url": "https://t.co/2aBbqglKnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062878638387978636",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062871793250259286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 你练不过我你知道吗 https://t.co/2aBbqglKnl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "conversation_id": "2062871457408114882",
+        "created_at": "2026-06-05T12:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062871793250259286"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062871793250259286",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062871457408114882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "即将进入医院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2062510740637139247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 543,
+          "like_count": 11596,
+          "listed_count": 5,
+          "media_count": 406,
+          "tweet_count": 3117
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "梦想是成为女侠客。\n“我曾淋我来时雪，亦将长歌去时晖”\n星眠的生活号，不定期推音乐＆美术作品。古风狂热爱好者，音乐策划，汉服袍子。隐居宣州，长三角随机出没，欢迎小女孩们来找我玩。家里茶室对外开放。不化妆修图是因为懒。\n坏事都是她做的：@ciyou9443 指导教师：@ilobius\n头像画师：飞鸟壹号机；主页头图：Z6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "ciyou9443"
+              },
+              {
+                "end": 141,
+                "start": 133,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠子",
+        "pinned_tweet_id": "2021956150368104748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3374,
+          "following_count": 3325,
+          "like_count": 3730,
+          "listed_count": 5,
+          "media_count": 973,
+          "tweet_count": 10251
+        },
+        "username": "hoshinemu123",
+        "verified": true
+      }
+    ]
+  }
+}

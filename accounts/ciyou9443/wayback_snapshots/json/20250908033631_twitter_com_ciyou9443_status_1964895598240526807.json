@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1964835528756650479",
+    "created_at": "2025-09-08T03:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T04:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964895598240526807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767249379285741569",
+          "start": 0,
+          "username": "caomeiaaaok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964895598240526807",
+    "in_reply_to_user_id": "1767249379285741569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964835528756650479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiaaaok 哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5033,
+        "height": 1280,
+        "media_key": "7_1964835503011942400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1964835503011942400/pu/img/8AJyqgzgbNPJUi5s.jpg",
+        "public_metrics": {
+          "view_count": 49
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964835503011942400/pu/vid/avc1/320x568/9Wq8WeAU06NMa9Y_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964835503011942400/pu/vid/avc1/480x852/_zQxVE7vh9YPvD3e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964835503011942400/pu/vid/avc1/720x1280/vTobVvzLryQL6pQj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1964835503011942400/pu/pl/IGOkDS7K4C-GWSlJ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1964835528756650479",
+        "created_at": "2025-09-08T03:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T04:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964895598240526807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767249379285741569",
+              "start": 0,
+              "username": "caomeiaaaok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964895598240526807",
+        "in_reply_to_user_id": "1767249379285741569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964835528756650479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiaaaok 哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1964835503011942400"
+          ]
+        },
+        "author_id": "1767249379285741569",
+        "conversation_id": "1964835528756650479",
+        "created_at": "2025-09-07T23:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T00:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964835528756650479"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "男娘"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "药娘"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YXP82O7OuY",
+              "end": 44,
+              "expanded_url": "https://x.com/caomeiaaaok/status/1964835528756650479/video/1",
+              "media_key": "7_1964835503011942400",
+              "start": 21,
+              "url": "https://t.co/YXP82O7OuY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964835528756650479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上出门逛逛😴 #男娘 #药娘 #mtf https://t.co/YXP82O7OuY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1961407992886411770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1448,
+          "following_count": 493,
+          "like_count": 6779,
+          "listed_count": 4,
+          "media_count": 145,
+          "tweet_count": 1515
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T18:01:08.000Z",
+        "description": "你好，可以叫我橙子， 179  66kg 🍊🍥🏳️‍⚧️૮₍ ˃ ⤙ ˂ ₎ა  (我要是两个月没有更新那就是去另一个世界了)",
+        "id": "1767249379285741569",
+        "location": "离你2.5km",
+        "name": "橙橙橙橙子🍊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960689255552049157/VOtS26AP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 359,
+          "like_count": 4579,
+          "listed_count": 3,
+          "media_count": 81,
+          "tweet_count": 1753
+        },
+        "username": "caomeiaaaok",
+        "verified": false
+      }
+    ]
+  }
+}

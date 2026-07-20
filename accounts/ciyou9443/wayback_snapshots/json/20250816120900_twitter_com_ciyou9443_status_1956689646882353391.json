@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956689547846361088",
+        "3_1956689643795361792"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1956689646882353391",
+    "created_at": "2025-08-16T12:09:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T13:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956689646882353391"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R7LI8aAEpZ",
+          "end": 46,
+          "expanded_url": "https://x.com/ciyou9443/status/1956689646882353391/photo/1",
+          "media_key": "3_1956689547846361088",
+          "start": 23,
+          "url": "https://t.co/R7LI8aAEpZ"
+        },
+        {
+          "display_url": "pic.x.com/R7LI8aAEpZ",
+          "end": 46,
+          "expanded_url": "https://x.com/ciyou9443/status/1956689646882353391/photo/1",
+          "media_key": "3_1956689643795361792",
+          "start": 23,
+          "url": "https://t.co/R7LI8aAEpZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956689646882353391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈基眠买来参加小药娘葬礼的衣服\n确实挺不错的 https://t.co/R7LI8aAEpZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1956689547846361088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyeOxtsaIAABCAK.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1956689643795361792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyeO3TIbsAApAPl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956689547846361088",
+            "3_1956689643795361792"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1956689646882353391",
+        "created_at": "2025-08-16T12:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T13:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956689646882353391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R7LI8aAEpZ",
+              "end": 46,
+              "expanded_url": "https://x.com/ciyou9443/status/1956689646882353391/photo/1",
+              "media_key": "3_1956689547846361088",
+              "start": 23,
+              "url": "https://t.co/R7LI8aAEpZ"
+            },
+            {
+              "display_url": "pic.x.com/R7LI8aAEpZ",
+              "end": 46,
+              "expanded_url": "https://x.com/ciyou9443/status/1956689646882353391/photo/1",
+              "media_key": "3_1956689643795361792",
+              "start": 23,
+              "url": "https://t.co/R7LI8aAEpZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956689646882353391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈基眠买来参加小药娘葬礼的衣服\n确实挺不错的 https://t.co/R7LI8aAEpZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1952311599215399294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 472,
+          "like_count": 5969,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 1389
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

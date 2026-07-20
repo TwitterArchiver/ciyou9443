@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2064018023309328578",
+    "created_at": "2026-06-09T10:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T11:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064295448769442186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1599053272341680129",
+          "start": 0,
+          "username": "RandomFemboyII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064295448769442186",
+    "in_reply_to_user_id": "1599053272341680129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064018023309328578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RandomFemboyII 帅姐姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2064018023309328578",
+        "created_at": "2026-06-09T10:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064295448769442186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599053272341680129",
+              "start": 0,
+              "username": "RandomFemboyII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064295448769442186",
+        "in_reply_to_user_id": "1599053272341680129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064018023309328578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RandomFemboyII 帅姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599053272341680129",
+        "conversation_id": "2064018023309328578",
+        "created_at": "2026-06-08T16:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064018023309328578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/randomfemboyii…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/randomfemboyii/status/2063580961921802743",
+              "start": 17,
+              "url": "https://t.co/wi6tlTr9nz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064018023309328578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4845,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063580961921802743",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我长得很男嘛，有个人说我一眼男😔 https://t.co/wi6tlTr9nz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2062510740637139247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 549,
+          "like_count": 11744,
+          "listed_count": 5,
+          "media_count": 416,
+          "tweet_count": 3171
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T14:49:56.000Z",
+        "description": "自我认同混乱，也许mtf｜喜欢重力系的见到我就老实了（",
+        "id": "1599053272341680129",
+        "location": "绿林大学",
+        "name": "月桂冠",
+        "pinned_tweet_id": "2063580961921802743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062144659976228864/WgKOndjG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 166,
+          "like_count": 19793,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 2334
+        },
+        "username": "RandomFemboyII",
+        "verified": true
+      }
+    ]
+  }
+}

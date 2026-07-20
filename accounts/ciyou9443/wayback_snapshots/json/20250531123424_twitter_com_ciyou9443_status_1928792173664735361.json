@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1928760168634097957",
+    "created_at": "2025-05-31T12:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T13:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928792173664735361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823835476366692352",
+          "start": 0,
+          "username": "Mao_050729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928792173664735361",
+    "in_reply_to_user_id": "1823835476366692352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928764008401694847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mao_050729 来闻"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1928764008401694847].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1928764008401694847",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1928764008401694847"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1928760168634097957",
+        "created_at": "2025-05-31T12:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T13:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928792173664735361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823835476366692352",
+              "start": 0,
+              "username": "Mao_050729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928792173664735361",
+        "in_reply_to_user_id": "1823835476366692352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928764008401694847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mao_050729 来闻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/两个人格交替行动/🏳️‍⚧️🍥/一星期没更就可以当我似了/清水推",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 318,
+          "like_count": 3318,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 999
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T21:34:24.000Z",
+        "description": "| 中年少女 | 随机漫步 | 虚度时光 | 股票套牢 | 期货暂停 | 心理变态 | 家徒四壁 |  专科学校 | 又矮又丑 | 阳子表姐 | 城堡丢了 | 唯心主义 | 自由市场 | 交个朋友 | 金阁寺啊 | 天塌了没 | 喵了个喵 | 热爱生活 | 岡田奈々推 | きっき",
+        "id": "1823835476366692352",
+        "location": "Kobe City Chuo Ward, Hyogo",
+        "name": "五百城 茉央 🏳️‍⚧️",
+        "pinned_tweet_id": "1904450701851320558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911696403753005056/Id62Nojt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 645,
+          "like_count": 39965,
+          "listed_count": 0,
+          "media_count": 347,
+          "tweet_count": 7589
+        },
+        "username": "Mao_050729",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1881021331170603315",
+    "created_at": "2025-01-20T03:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T04:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881189169747411102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1707715916442779649",
+          "start": 0,
+          "username": "qsh1483373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881189169747411102",
+    "in_reply_to_user_id": "1707715916442779649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881021331170603315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qsh1483373 加油加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1881021331170603315",
+        "created_at": "2025-01-20T03:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T04:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881189169747411102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1707715916442779649",
+              "start": 0,
+              "username": "qsh1483373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881189169747411102",
+        "in_reply_to_user_id": "1707715916442779649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881021331170603315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qsh1483373 加油加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707715916442779649",
+        "conversation_id": "1881021331170603315",
+        "created_at": "2025-01-19T16:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T17:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881021331170603315"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881021331170603315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1549,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的父母不认可我有精神病，我无论如何解释，他们也不肯承认我的疾病，最后，我骑着自行车跑了，我打算自己去看病，去市里，市里不行就省，国，直到治好病，我骑了70多公里来到了市精卫，开了证明，如今，我需要再次骑上我的自行车，我认为这是我必须要做的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "含糖mtf/欢迎互fo/困困困困困要困死了/冬季濒死限定/欢迎xyn来找我玩♥(｡￫v￩｡)♥",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 78,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 138
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-29T11:16:32.000Z",
+        "description": "",
+        "id": "1707715916442779649",
+        "name": "yoyo🏳️‍⚧️",
+        "pinned_tweet_id": "1880959085505581400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879324221576208384/YuRB2Be4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 318,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 280
+        },
+        "username": "qsh1483373",
+        "verified": false
+      }
+    ]
+  }
+}

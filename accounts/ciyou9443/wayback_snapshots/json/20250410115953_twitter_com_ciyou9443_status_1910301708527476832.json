@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1910301687019159552"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1910301708527476832",
+    "created_at": "2025-04-10T11:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T12:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1910301708527476832"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/B4lMAmoMAX",
+          "end": 39,
+          "expanded_url": "https://x.com/ciyou9443/status/1910301708527476832/photo/1",
+          "media_key": "16_1910301687019159552",
+          "start": 16,
+          "url": "https://t.co/B4lMAmoMAX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910301708527476832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "素素别死哇，还有新衣服没穿呢！ https://t.co/B4lMAmoMAX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "16_1910301687019159552",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GoLBQ1ybQAAomuA.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GoLBQ1ybQAAomuA.mp4"
+          }
+        ],
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1910301687019159552"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1910301708527476832",
+        "created_at": "2025-04-10T11:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T12:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910301708527476832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B4lMAmoMAX",
+              "end": 39,
+              "expanded_url": "https://x.com/ciyou9443/status/1910301708527476832/photo/1",
+              "media_key": "16_1910301687019159552",
+              "start": 16,
+              "url": "https://t.co/B4lMAmoMAX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910301708527476832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素素别死哇，还有新衣服没穿呢！ https://t.co/B4lMAmoMAX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1902304011421888656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 264,
+          "like_count": 1804,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 666
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

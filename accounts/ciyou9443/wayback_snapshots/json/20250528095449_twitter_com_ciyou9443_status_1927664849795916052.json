@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1927649342028132599",
+    "created_at": "2025-05-28T09:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T10:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927664849795916052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753581477705777152",
+          "start": 0,
+          "username": "PoloCoconut2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927664849795916052",
+    "in_reply_to_user_id": "1753581477705777152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 21,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927649342028132599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PoloCoconut2 愿卿为吾妻喵!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1927649342028132599",
+        "created_at": "2025-05-28T09:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T10:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927664849795916052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753581477705777152",
+              "start": 0,
+              "username": "PoloCoconut2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927664849795916052",
+        "in_reply_to_user_id": "1753581477705777152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927649342028132599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PoloCoconut2 愿卿为吾妻喵!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753581477705777152",
+        "conversation_id": "1927649342028132599",
+        "created_at": "2025-05-28T08:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T09:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927649342028132599"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927649342028132599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卿言内皆带喵呼？甚可爱喵！甚可爱喵！愿与卿结为夫妻喵！起轿喵！拜堂喵！白头偕老喵！愿卿为吾妻喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/两个人格交替行动/没有家长党🏳️‍⚧️🍥/一星期没更就可以当我似了/大概是个清水推",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1902304011421888656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 317,
+          "like_count": 3214,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 975
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T00:49:48.000Z",
+        "description": "这里是可爱的🥥，请和我眼熟吧！/互fo/友跨人士/双相患者/INTP-T/可爱猫猫\n大号@PoloCoconut永封 三代目：@PoloCoconut3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "PoloCoconut"
+              },
+              {
+                "end": 76,
+                "start": 63,
+                "username": "PoloCoconut3"
+              }
+            ]
+          }
+        },
+        "id": "1753581477705777152",
+        "name": "PoloCoconut 二代目",
+        "pinned_tweet_id": "1904737269728379088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901421541348585472/7_3z3M5B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 1003,
+          "like_count": 4255,
+          "listed_count": 3,
+          "media_count": 374,
+          "tweet_count": 1535
+        },
+        "username": "PoloCoconut2",
+        "verified": false
+      }
+    ]
+  }
+}

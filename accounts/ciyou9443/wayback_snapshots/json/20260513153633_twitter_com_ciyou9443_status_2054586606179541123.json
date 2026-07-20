@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2054482765756924198",
+    "created_at": "2026-05-13T15:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T16:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054586606179541123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "471019735",
+          "start": 0,
+          "username": "Gelm01"
+        },
+        {
+          "end": 22,
+          "id": "1981918860883488768",
+          "start": 8,
+          "username": "Anonymous_L13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054586606179541123",
+    "in_reply_to_user_id": "471019735",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054556967730073794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gelm01 @Anonymous_L13 来面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2054482765756924198",
+        "created_at": "2026-05-13T15:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T16:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054586606179541123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "471019735",
+              "start": 0,
+              "username": "Gelm01"
+            },
+            {
+              "end": 22,
+              "id": "1981918860883488768",
+              "start": 8,
+              "username": "Anonymous_L13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054586606179541123",
+        "in_reply_to_user_id": "471019735",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054556967730073794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gelm01 @Anonymous_L13 来面"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "471019735",
+        "conversation_id": "2054482765756924198",
+        "created_at": "2026-05-13T13:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054556967730073794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1981918860883488768",
+              "start": 0,
+              "username": "Anonymous_L13"
+            },
+            {
+              "end": 25,
+              "id": "1805373961020260353",
+              "start": 15,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054556967730073794",
+        "in_reply_to_user_id": "1981918860883488768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054552036495306801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anonymous_L13 @ciyou9443 来面👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "常曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 535,
+          "like_count": 10821,
+          "listed_count": 5,
+          "media_count": 389,
+          "tweet_count": 2836
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-22T12:07:07.000Z",
+        "description": "彩りは一切ないのに。not a digital-native but a genderqueer。",
+        "id": "471019735",
+        "location": "境外势力-月球",
+        "name": "少年期の終り🏵✝️",
+        "pinned_tweet_id": "2049808123117105549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036039753032945664/2G9RYITl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 568,
+          "like_count": 4913,
+          "listed_count": 5,
+          "media_count": 271,
+          "tweet_count": 4706
+        },
+        "username": "Gelm01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T03:01:09.000Z",
+        "description": "incomplete",
+        "id": "1981918860883488768",
+        "location": "北校C栋天台-α Lyrae车站",
+        "name": "❅中学莉💜",
+        "pinned_tweet_id": "2048808000635486535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048626859773210624/uKU8aza-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 164,
+          "like_count": 2426,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1362
+        },
+        "username": "Anonymous_L13",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2067585918677201257",
+    "created_at": "2026-06-20T06:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068212916957147569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1925363092931960832",
+          "start": 0,
+          "username": "lingyuanyuan07"
+        },
+        {
+          "end": 27,
+          "id": "1781876534967746560",
+          "start": 16,
+          "username": "OuGenDuQin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068212916957147569",
+    "in_reply_to_user_id": "1925363092931960832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067925076075581662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingyuanyuan07 @OuGenDuQin 萌袖是对的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2067585918677201257",
+        "created_at": "2026-06-20T06:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068212916957147569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1925363092931960832",
+              "start": 0,
+              "username": "lingyuanyuan07"
+            },
+            {
+              "end": 27,
+              "id": "1781876534967746560",
+              "start": 16,
+              "username": "OuGenDuQin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068212916957147569",
+        "in_reply_to_user_id": "1925363092931960832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067925076075581662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingyuanyuan07 @OuGenDuQin 萌袖是对的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1925363092931960832",
+        "conversation_id": "2067585918677201257",
+        "created_at": "2026-06-19T10:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067925076075581662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1781876534967746560",
+              "start": 0,
+              "username": "OuGenDuQin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067925076075581662",
+        "in_reply_to_user_id": "1781876534967746560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067585918677201257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuGenDuQin 萌袖是对的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 574,
+          "like_count": 12099,
+          "listed_count": 5,
+          "media_count": 432,
+          "tweet_count": 3329
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-22T01:28:43.000Z",
+        "description": "一只极坏巨坏超级坏的阴暗猫\n(发呆)/社恐/喜欢可爱的东西/想要巨乳/\nε(*･ω･)_/ﾟ:･☆(q924641769)社交废物",
+        "id": "1925363092931960832",
+        "name": "泠鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927640098541379584/WCdK-iFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 413,
+          "like_count": 1280,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 1761
+        },
+        "url": "",
+        "username": "lingyuanyuan07",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T02:44:20.000Z",
+        "description": "海鹽檸檬氣泡ぃ",
+        "id": "1781876534967746560",
+        "location": "Nara-shi, Nara",
+        "name": "♡Tosaka☆Makuku♡",
+        "pinned_tweet_id": "2063864859553661035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063211937689985025/QmCk3beq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 329,
+          "like_count": 3162,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 728
+        },
+        "url": "",
+        "username": "OuGenDuQin",
+        "verified": false
+      }
+    ]
+  }
+}

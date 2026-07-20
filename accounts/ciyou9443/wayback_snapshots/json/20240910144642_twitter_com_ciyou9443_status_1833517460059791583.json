@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1833516003915186176",
+        "3_1833516016938455042"
+      ],
+      "media_source_tweet_id": [
+        "1833516024924397877",
+        "1833516024924397877"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1833517460059791583",
+    "created_at": "2024-09-10T14:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T15:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833517460059791583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1710370770386321409",
+          "start": 3,
+          "username": "Snigelie_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vgdvlclnwn",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Snigelie_/status/1833516024924397877/photo/1",
+          "media_key": "3_1833516003915186176",
+          "start": 35,
+          "url": "https://t.co/VgDvlCLnWN"
+        },
+        {
+          "display_url": "pic.x.com/vgdvlclnwn",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Snigelie_/status/1833516024924397877/photo/1",
+          "media_key": "3_1833516016938455042",
+          "start": 35,
+          "url": "https://t.co/VgDvlCLnWN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833517460059791583",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833516024924397877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Snigelie_: 脑袋放空，然后告诉自己这没什么大不了的 https://t.co/VgDvlCLnWN"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1833517460059791583].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1833517460059791583",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1833517460059791583"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1833516003915186176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXH1F1dbwAAaf-I.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1833516016938455042",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXH1Gl-bEAIRWQF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833516003915186176",
+            "3_1833516016938455042"
+          ]
+        },
+        "author_id": "1710370770386321409",
+        "conversation_id": "1833516024924397877",
+        "created_at": "2024-09-10T14:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T15:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833516024924397877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vgdvlclnwn",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Snigelie_/status/1833516024924397877/photo/1",
+              "media_key": "3_1833516003915186176",
+              "start": 20,
+              "url": "https://t.co/VgDvlCLnWN"
+            },
+            {
+              "display_url": "pic.x.com/vgdvlclnwn",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Snigelie_/status/1833516024924397877/photo/1",
+              "media_key": "3_1833516016938455042",
+              "start": 20,
+              "url": "https://t.co/VgDvlCLnWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833516024924397877",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "脑袋放空，然后告诉自己这没什么大不了的 https://t.co/VgDvlCLnWN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "含糖mtf/175cm49kg/欢迎互fo/困困困困困要困死了",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1824053680586514553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823218547381972993/M1KAROl-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 110,
+          "like_count": 221,
+          "listed_count": 0,
+          "tweet_count": 83
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-06T19:05:53.000Z",
+        "description": "",
+        "id": "1710370770386321409",
+        "name": "今朝",
+        "pinned_tweet_id": "1833516024924397877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789175625179451392/DDLwxiKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 11,
+          "like_count": 43,
+          "listed_count": 1,
+          "tweet_count": 34
+        },
+        "username": "Snigelie_",
+        "verified": false
+      }
+    ]
+  }
+}

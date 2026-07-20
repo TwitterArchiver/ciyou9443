@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1964279101264634049",
+    "created_at": "2025-09-06T12:52:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T13:52:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964310850002383222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        },
+        {
+          "end": 24,
+          "id": "1940588552485761024",
+          "start": 12,
+          "username": "April940427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964310850002383222",
+    "in_reply_to_user_id": "623965569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964279584381423883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand @April940427 那还不来和我们逛街*⁂((✪⥎✪))⁂*"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1964279101264634049",
+        "created_at": "2025-09-06T12:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T13:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964310850002383222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            },
+            {
+              "end": 24,
+              "id": "1940588552485761024",
+              "start": 12,
+              "username": "April940427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964310850002383222",
+        "in_reply_to_user_id": "623965569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964279584381423883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand @April940427 那还不来和我们逛街*⁂((✪⥎✪))⁂*"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "623965569",
+        "conversation_id": "1964279101264634049",
+        "created_at": "2025-09-06T10:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T11:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964279584381423883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1940588552485761024",
+              "start": 0,
+              "username": "April940427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964279584381423883",
+        "in_reply_to_user_id": "1940588552485761024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964279101264634049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@April940427 和顺女一起逛街感觉超级好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1961407992886411770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 493,
+          "like_count": 6773,
+          "listed_count": 4,
+          "media_count": 144,
+          "tweet_count": 1508
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "/记录一些异世界的碎碎念w #INFJ\n##有奇怪想法和需求的人看黄男别来关注我关了也会被我清理！！\n/谨慎fo因为我们可能不是一类人，或者不是你以为的那类人喔\n/不定期删除三无号，不同频的人还请见谅\n/需要回fo请大胆和我说我会来仔细观察你然后给你答案\n//雷自残od各种赤裸色色看到这样的人会unfo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 14,
+                "tag": "INFJ"
+              },
+              {
+                "end": 48,
+                "start": 21,
+                "tag": "有奇怪想法和需求的人看黄男别来关注我关了也会被我清理"
+              }
+            ]
+          }
+        },
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊茉音華🏳️‍⚧️",
+        "pinned_tweet_id": "1940754100695769098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955139257632428032/6TjGW3Xl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 94,
+          "like_count": 3740,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 2768
+        },
+        "username": "nothousand",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T01:49:09.000Z",
+        "description": "Amateur photographer.📷\ncapturing moments in life. \nWelcome chat with me.\n94大龄跨子 摄影爱好者 记录生活瞬间 欢迎关注 欢迎来聊天",
+        "id": "1940588552485761024",
+        "location": "山海关外",
+        "name": "Aprille",
+        "pinned_tweet_id": "1958172606609133672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947217503773446144/-XymI0Bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 328,
+          "like_count": 901,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1290
+        },
+        "username": "April940427",
+        "verified": false
+      }
+    ]
+  }
+}

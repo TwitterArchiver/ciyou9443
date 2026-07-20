@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1948057745372193217",
+    "created_at": "2025-07-24T17:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T18:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948430401233715275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1855672476245831680",
+          "start": 0,
+          "username": "chnxiodawang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948430401233715275",
+    "in_reply_to_user_id": "1855672476245831680",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948428998796579101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnxiodawang !"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1948057745372193217",
+        "created_at": "2025-07-24T17:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T18:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948430401233715275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1855672476245831680",
+              "start": 0,
+              "username": "chnxiodawang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948430401233715275",
+        "in_reply_to_user_id": "1855672476245831680",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948428998796579101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnxiodawang !"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855672476245831680",
+        "conversation_id": "1948057745372193217",
+        "created_at": "2025-07-24T17:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T18:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948428998796579101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948428998796579101",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948057745372193217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 我小时候以为有这条线是因为我生过孩子🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 422,
+          "like_count": 4877,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 1210
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T18:03:02.000Z",
+        "description": "🚪188",
+        "id": "1855672476245831680",
+        "name": "ymh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855724368850276352/18U3C6fM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32064,
+          "following_count": 32,
+          "like_count": 430,
+          "listed_count": 110,
+          "media_count": 136,
+          "tweet_count": 1151
+        },
+        "username": "chnxiodawang",
+        "verified": false
+      }
+    ]
+  }
+}

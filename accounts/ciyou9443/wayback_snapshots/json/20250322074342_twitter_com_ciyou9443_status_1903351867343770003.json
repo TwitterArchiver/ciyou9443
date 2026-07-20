@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1903351843335577600",
+        "3_1903351845281841152"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1903351867343770003",
+    "created_at": "2025-03-22T07:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T08:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903351867343770003"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "mtf"
+        },
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "男娘"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "药娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SU4haBGnet",
+          "end": 65,
+          "expanded_url": "https://x.com/ciyou9443/status/1903351867343770003/video/1",
+          "media_key": "7_1903351843335577600",
+          "start": 42,
+          "url": "https://t.co/SU4haBGnet"
+        },
+        {
+          "display_url": "pic.x.com/SU4haBGnet",
+          "end": 65,
+          "expanded_url": "https://x.com/ciyou9443/status/1903351867343770003/video/1",
+          "media_key": "3_1903351845281841152",
+          "start": 42,
+          "url": "https://t.co/SU4haBGnet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903351867343770003",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不要胡说（｀Δ´）ゞ包不是飞机场的～我是御姐，不会骗你～ #mtf #男娘 #药娘 https://t.co/SU4haBGnet"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3066,
+        "height": 720,
+        "media_key": "7_1903351843335577600",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1903351843335577600/pu/img/rS-GCie88C38z_3q.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903351843335577600/pu/vid/avc1/480x270/gOrxUs7QE86gBt8K.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903351843335577600/pu/vid/avc1/640x360/PHg3NKlB9JJiXe_E.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903351843335577600/pu/vid/avc1/1280x720/pyTtIHi_maI-gAao.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1903351843335577600/pu/pl/1vD21D2DRM4SZPTg.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 899,
+        "media_key": "3_1903351845281841152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmoQazybwAATic0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1903351843335577600",
+            "3_1903351845281841152"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1903351867343770003",
+        "created_at": "2025-03-22T07:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T08:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903351867343770003"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "mtf"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "男娘"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SU4haBGnet",
+              "end": 65,
+              "expanded_url": "https://x.com/ciyou9443/status/1903351867343770003/video/1",
+              "media_key": "7_1903351843335577600",
+              "start": 42,
+              "url": "https://t.co/SU4haBGnet"
+            },
+            {
+              "display_url": "pic.x.com/SU4haBGnet",
+              "end": 65,
+              "expanded_url": "https://x.com/ciyou9443/status/1903351867343770003/video/1",
+              "media_key": "3_1903351845281841152",
+              "start": 42,
+              "url": "https://t.co/SU4haBGnet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903351867343770003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要胡说（｀Δ´）ゞ包不是飞机场的～我是御姐，不会骗你～ #mtf #男娘 #药娘 https://t.co/SU4haBGnet"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/没回fo可以私我",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 227,
+          "like_count": 1011,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 404
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

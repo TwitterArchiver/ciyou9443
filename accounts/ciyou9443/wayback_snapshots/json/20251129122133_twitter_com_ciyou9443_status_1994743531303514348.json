@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1994743498856435713"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1994743531303514348",
+    "created_at": "2025-11-29T12:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T13:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994743531303514348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 22,
+          "id": "1907031442103943168",
+          "start": 9,
+          "username": "hoshinemu123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GJUdf4QVq6",
+          "end": 46,
+          "expanded_url": "https://x.com/ciyou9443/status/1994743531303514348/video/1",
+          "media_key": "7_1994743498856435713",
+          "start": 23,
+          "url": "https://t.co/GJUdf4QVq6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994743531303514348",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "比素忙的眠眠猫3 @hoshinemu123 https://t.co/GJUdf4QVq6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5317,
+        "height": 1280,
+        "media_key": "7_1994743498856435713",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1994743498856435713/pu/img/jykoGVsC-KSaT6M-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994743498856435713/pu/vid/avc1/320x710/qax660ghwZFVU5pK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994743498856435713/pu/vid/avc1/480x1066/x9_cYTNxAI5y4fWm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994743498856435713/pu/vid/avc1/576x1280/XFjEN1XeWk1wcL8f.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1994743498856435713/pu/pl/MDAw7OhswVHfC7bJ.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1994743498856435713"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1994743531303514348",
+        "created_at": "2025-11-29T12:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T13:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994743531303514348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1907031442103943168",
+              "start": 9,
+              "username": "hoshinemu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJUdf4QVq6",
+              "end": 46,
+              "expanded_url": "https://x.com/ciyou9443/status/1994743531303514348/video/1",
+              "media_key": "7_1994743498856435713",
+              "start": 23,
+              "url": "https://t.co/GJUdf4QVq6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994743531303514348",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比素忙的眠眠猫3 @hoshinemu123 https://t.co/GJUdf4QVq6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠/深夜发的消息不关素的事",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1992888264173441156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 538,
+          "like_count": 9333,
+          "listed_count": 4,
+          "media_count": 288,
+          "tweet_count": 2222
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；半个软件工程师加半个音乐人；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；文学少女；古风/汉服女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1992564566790918198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2438,
+          "following_count": 3168,
+          "like_count": 3055,
+          "listed_count": 3,
+          "media_count": 628,
+          "tweet_count": 7317
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      }
+    ]
+  }
+}

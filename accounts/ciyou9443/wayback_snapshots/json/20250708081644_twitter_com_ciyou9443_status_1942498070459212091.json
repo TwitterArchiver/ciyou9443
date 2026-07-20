@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1942170948368515267",
+    "created_at": "2025-07-08T08:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T09:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942498070459212091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1802962366654476288",
+          "start": 0,
+          "username": "Syy2933"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942498070459212091",
+    "in_reply_to_user_id": "1802962366654476288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942170948368515267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Syy2933 哇～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1952,
+        "media_key": "3_1942170923634655232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvP6KjxWAAAIk-J.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1942170948368515267",
+        "created_at": "2025-07-08T08:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T09:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942498070459212091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1802962366654476288",
+              "start": 0,
+              "username": "Syy2933"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942498070459212091",
+        "in_reply_to_user_id": "1802962366654476288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942170948368515267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Syy2933 哇～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942170923634655232"
+          ]
+        },
+        "author_id": "1802962366654476288",
+        "conversation_id": "1942170948368515267",
+        "created_at": "2025-07-07T10:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T11:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942170948368515267"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sEDpoQdB7",
+              "end": 32,
+              "expanded_url": "https://x.com/Syy2933/status/1942170948368515267/photo/1",
+              "media_key": "3_1942170923634655232",
+              "start": 9,
+              "url": "https://t.co/3sEDpoQdB7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942170948368515267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 \n贴贴🥰 https://t.co/3sEDpoQdB7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1912156270657700280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 374,
+          "like_count": 3820,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 1071
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T07:12:02.000Z",
+        "description": "04/无证含糖🍥/现居江苏/社恐/170-52",
+        "id": "1802962366654476288",
+        "location": "湖南",
+        "name": "舒雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942080353696468992/0Widk2Tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 27,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 23
+        },
+        "username": "Syy2933",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1972003083933946113",
+    "created_at": "2025-09-28T04:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T05:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972154283333448088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1910324259127439360",
+          "start": 0,
+          "username": "xinxinjiang66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972154283333448088",
+    "in_reply_to_user_id": "1910324259127439360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972003083933946113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinxinjiang66 揉揉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972003075759144960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G132WWqaAAAoemS.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1972003083933946113",
+        "created_at": "2025-09-28T04:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T05:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972154283333448088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1910324259127439360",
+              "start": 0,
+              "username": "xinxinjiang66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972154283333448088",
+        "in_reply_to_user_id": "1910324259127439360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972003083933946113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinxinjiang66 揉揉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972003075759144960"
+          ]
+        },
+        "author_id": "1910324259127439360",
+        "conversation_id": "1972003083933946113",
+        "created_at": "2025-09-27T18:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T19:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972003083933946113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tltTGV29k8",
+              "end": 160,
+              "expanded_url": "https://x.com/xinxinjiang66/status/1972003083933946113/photo/1",
+              "media_key": "3_1972003075759144960",
+              "start": 137,
+              "url": "https://t.co/tltTGV29k8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972003083933946113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4574,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前互推的时候你怎么也没说时间呢？我给你推了以后，看到你先取消我的帖子了，我才取消你的。真会贼喊抓贼，不想推，直接说。没听说过超三个小时不回复就不推的。互推这么多人，没听说过这种说法。你跟比你粉丝多的大佬，你敢说这话吗？不就以为你多玩两年推，多点粉丝，你就觉得自己了不起？ https://t.co/tltTGV29k8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 510,
+          "like_count": 7124,
+          "listed_count": 4,
+          "media_count": 177,
+          "tweet_count": 1614
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T13:29:39.000Z",
+        "description": "男娘/168、59/坐标徐州/欢迎可爱的男娘，药娘涩涩/贴贴/交流/互fo/互推/接寄拍/测评。直男好友位有🚪88（不定时删帖，过门槛送视频完整版 ）/直男私信只回复口令。同好扩列请私信。唯一备用小号@xinxinjiang77 ‼️置顶推广， 真伪自辨‼️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 100,
+                "username": "xinxinjiang77"
+              }
+            ]
+          }
+        },
+        "id": "1910324259127439360",
+        "location": "你的心里",
+        "name": "馨馨酱（互fo互推)",
+        "pinned_tweet_id": "1971049714637512737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948033364134711296/THhMo0DU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26107,
+          "following_count": 1059,
+          "like_count": 51067,
+          "listed_count": 95,
+          "media_count": 87,
+          "tweet_count": 2571
+        },
+        "username": "xinxinjiang66",
+        "verified": false
+      }
+    ]
+  }
+}

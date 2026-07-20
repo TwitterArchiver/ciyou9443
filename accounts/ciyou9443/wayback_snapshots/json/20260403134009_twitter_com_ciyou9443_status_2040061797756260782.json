@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2039514644705087665",
+    "created_at": "2026-04-03T13:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T14:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040061797756260782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767249379285741569",
+          "start": 0,
+          "username": "caomeiaaaok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040061797756260782",
+    "in_reply_to_user_id": "1767249379285741569",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039514644705087665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiaaaok 🥰🥰🥰🥰🥰🥰🥰🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5504,
+        "height": 720,
+        "media_key": "7_2039514593983385600",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2039514593983385600/pu/img/Dc0etrO51RRgLBAw.jpg",
+        "public_metrics": {
+          "view_count": 192
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039514593983385600/pu/vid/avc1/480x270/yYgOGw4EQJbdCPVF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039514593983385600/pu/vid/avc1/640x360/Jx5NL2WAVeNKsG4k.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039514593983385600/pu/vid/avc1/1280x720/QguKzBc5caNogHK1.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2039514593983385600/pu/pl/bvQIeojMNkBSfcHj.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2039514644705087665",
+        "created_at": "2026-04-03T13:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T14:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040061797756260782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767249379285741569",
+              "start": 0,
+              "username": "caomeiaaaok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040061797756260782",
+        "in_reply_to_user_id": "1767249379285741569",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039514644705087665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiaaaok 🥰🥰🥰🥰🥰🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2039514593983385600"
+          ]
+        },
+        "author_id": "1767249379285741569",
+        "conversation_id": "2039514644705087665",
+        "created_at": "2026-04-02T01:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T02:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039514644705087665"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 10,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "男娘"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "药娘"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "泡澡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eAFL9zNpYL",
+              "end": 53,
+              "expanded_url": "https://x.com/caomeiaaaok/status/2039514644705087665/video/1",
+              "media_key": "7_2039514593983385600",
+              "start": 30,
+              "url": "https://t.co/eAFL9zNpYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039514644705087665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 471,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "可以和我一起泡澡吗 #可爱的男孩子 #男娘 #药娘 #泡澡 https://t.co/eAFL9zNpYL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "常曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010721996909514752/qGj_peZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 525,
+          "like_count": 10316,
+          "listed_count": 5,
+          "media_count": 376,
+          "tweet_count": 2679
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T18:01:08.000Z",
+        "description": "179  66kg ૮₍ ˃ ⤙ ˂ ₎ა欢迎找我聊天（会发色色）  \n门槛52哦 推荐支付宝口令红包🧧 （可以解锁永久好友  聊天 陪玩三角洲 代肝哈夫币 端游手游都可以 ） 谢谢你救活了橙子！！",
+        "id": "1767249379285741569",
+        "location": "离你2.5km",
+        "name": "橙子🍊橙受不住",
+        "pinned_tweet_id": "2017229328296321340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030875809871953920/ULHQzPDW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 357,
+          "like_count": 5320,
+          "listed_count": 4,
+          "media_count": 105,
+          "tweet_count": 2342
+        },
+        "username": "caomeiaaaok",
+        "verified": false
+      }
+    ]
+  }
+}

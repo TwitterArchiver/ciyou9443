@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1903638834837143795",
+    "created_at": "2025-03-23T02:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T03:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903638834837143795"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1903638834837143795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "泥补药打我了，衣服洗好了，饭也做好了，家里也打扫了，孩子也哄睡着了，我现在去上夜班，上个月给我的工资都给你转过去了，这个月能不能多给我10块钱，一个月50还是有点不够，今天中午下班小王去喝了蜜雪冰城柠檬水，四块钱，我也好想喝，打我一顿给我发4块钱行吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1903638834837143795",
+        "created_at": "2025-03-23T02:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T03:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903638834837143795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903638834837143795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泥补药打我了，衣服洗好了，饭也做好了，家里也打扫了，孩子也哄睡着了，我现在去上夜班，上个月给我的工资都给你转过去了，这个月能不能多给我10块钱，一个月50还是有点不够，今天中午下班小王去喝了蜜雪冰城柠檬水，四块钱，我也好想喝，打我一顿给我发4块钱行吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/没回fo可以私我",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 239,
+          "like_count": 1074,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 422
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

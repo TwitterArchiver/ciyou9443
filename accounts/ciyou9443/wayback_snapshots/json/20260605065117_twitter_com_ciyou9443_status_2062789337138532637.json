@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062472704960483328"
+      ],
+      "media_source_tweet_id": [
+        "2062473006602146067"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "2062789337138532637",
+    "created_at": "2026-06-05T06:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T07:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062789337138532637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "18501587",
+          "start": 3,
+          "username": "yuduna"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rzxRnjH0Z8",
+          "end": 54,
+          "expanded_url": "https://x.com/yuduna/status/2062473006602146067/photo/1",
+          "media_key": "3_2062472704960483328",
+          "start": 31,
+          "url": "https://t.co/rzxRnjH0Z8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062789337138532637",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 779
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062473006602146067",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuduna: （創作百合） あなたへの服従のキス❤ https://t.co/rzxRnjH0Z8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_2062472704960483328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9f_2ob0AAq1Cf.jpg",
+        "width": 779
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062472704960483328"
+          ],
+          "media_source_tweet_id": [
+            "2062473006602146067"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2062789337138532637",
+        "created_at": "2026-06-05T06:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062789337138532637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "18501587",
+              "start": 3,
+              "username": "yuduna"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rzxRnjH0Z8",
+              "end": 54,
+              "expanded_url": "https://x.com/yuduna/status/2062473006602146067/photo/1",
+              "media_key": "3_2062472704960483328",
+              "start": 31,
+              "url": "https://t.co/rzxRnjH0Z8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062789337138532637",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 779
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062473006602146067",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuduna: （創作百合） あなたへの服従のキス❤ https://t.co/rzxRnjH0Z8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062472704960483328"
+          ]
+        },
+        "author_id": "18501587",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2062473006602146067",
+        "created_at": "2026-06-04T09:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062473006602146067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rzxRnjH0Z8",
+              "end": 42,
+              "expanded_url": "https://x.com/yuduna/status/2062473006602146067/photo/1",
+              "media_key": "3_2062472704960483328",
+              "start": 19,
+              "url": "https://t.co/rzxRnjH0Z8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062473006602146067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1530,
+          "impression_count": 108112,
+          "like_count": 11677,
+          "quote_count": 12,
+          "reply_count": 18,
+          "retweet_count": 779
+        },
+        "reply_settings": "everyone",
+        "text": "（創作百合） あなたへの服従のキス❤ https://t.co/rzxRnjH0Z8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 541,
+          "like_count": 11546,
+          "listed_count": 5,
+          "media_count": 404,
+          "tweet_count": 3100
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-31T07:09:50.000Z",
+        "description": "イラストレーター・漫画家🖋｜百合シリーズ「生徒会長と番犬」更新中 ◆お仕事のご依頼⇒ https://t.co/PPZHie5T57 (6月下旬着手～◎)\n｜BOOTH（本の通販）https://t.co/f4HHmVLi8O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yuduna2525.tumblr.com/works",
+                "end": 66,
+                "expanded_url": "https://yuduna2525.tumblr.com/works",
+                "start": 43,
+                "url": "https://t.co/PPZHie5T57"
+              },
+              {
+                "display_url": "yuduna.booth.pm",
+                "end": 113,
+                "expanded_url": "https://yuduna.booth.pm/",
+                "start": 90,
+                "url": "https://t.co/f4HHmVLi8O"
+              }
+            ]
+          }
+        },
+        "id": "18501587",
+        "name": "住咲ゆづな❤COMITIA156／そ42a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807679129556586496/FcIk2Zu6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88423,
+          "following_count": 512,
+          "like_count": 5097,
+          "listed_count": 1250,
+          "media_count": 213,
+          "tweet_count": 5666
+        },
+        "username": "yuduna",
+        "verified": true
+      }
+    ]
+  }
+}

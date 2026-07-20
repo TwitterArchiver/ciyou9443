@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1974817202110148615",
+    "created_at": "2025-10-05T12:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T13:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974817202110148615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974817202110148615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974811124626489394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 就这么说吧，对于大部分人来说，在父母面前炸柜是剧情杀，绝大多数人都会被剧情杀。能不爆柜就不爆柜。很对人术后都是深柜。\n\n满级药娘大佬指点萌新相当于：\n\n萌新：怎么办，我遇到路西法了，只有一个初始技能点。\n大佬：*帮萌新点了嘲讽*"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1974817202110148615",
+        "created_at": "2025-10-05T12:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T13:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974817202110148615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974817202110148615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974811124626489394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 就这么说吧，对于大部分人来说，在父母面前炸柜是剧情杀，绝大多数人都会被剧情杀。能不爆柜就不爆柜。很对人术后都是深柜。\n\n满级药娘大佬指点萌新相当于：\n\n萌新：怎么办，我遇到路西法了，只有一个初始技能点。\n大佬：*帮萌新点了嘲讽*"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1974811124626489394",
+        "created_at": "2025-10-05T12:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T13:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974811124626489394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974811124626489394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 196,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "就这么说吧，对于大部分人来说，在父母面前炸柜是剧情杀，绝大多数人都会被剧情杀。能不爆柜就不爆柜。很对人术后都是深柜。\n\n满级药娘大佬指点萌新相当于：\n\n萌新：怎么办，我遇到路西法了，只有一个初始技能点。\n大佬：*帮萌新点了嘲讽*"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/薛定谔的成分",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 510,
+          "like_count": 7255,
+          "listed_count": 4,
+          "media_count": 184,
+          "tweet_count": 1647
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21029,
+          "following_count": 198,
+          "like_count": 649,
+          "listed_count": 72,
+          "media_count": 93,
+          "tweet_count": 20430
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

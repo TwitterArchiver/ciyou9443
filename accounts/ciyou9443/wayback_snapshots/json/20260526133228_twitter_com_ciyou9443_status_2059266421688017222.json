@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2059154807852872001",
+    "created_at": "2026-05-26T13:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059266421688017222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2986593764",
+          "start": 0,
+          "username": "anguslin55"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059266421688017222",
+    "in_reply_to_user_id": "2986593764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059246319957622833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anguslin55 谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2059154807852872001",
+        "created_at": "2026-05-26T13:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059266421688017222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2986593764",
+              "start": 0,
+              "username": "anguslin55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059266421688017222",
+        "in_reply_to_user_id": "2986593764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059246319957622833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anguslin55 谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2986593764",
+        "conversation_id": "2059154807852872001",
+        "created_at": "2026-05-26T12:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059246319957622833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059246319957622833",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059154807852872001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 生日快樂！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "常曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 539,
+          "like_count": 11058,
+          "listed_count": 5,
+          "media_count": 398,
+          "tweet_count": 2933
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-17T07:05:57.000Z",
+        "description": "臺灣民間信仰、習俗愛好與研究者（台湾の民間信仰、習俗の趣味と研究者）\n\nペこらの野うさぎ   ふぁんでっど　まつりす　スバ友  起司團  茸民 龍貓候補生",
+        "id": "2986593764",
+        "location": "Taiwan",
+        "name": "因泰勒斯（いんたいろくし）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614155524018159616/h68ygkTC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 1355,
+          "like_count": 126391,
+          "listed_count": 6,
+          "media_count": 363,
+          "tweet_count": 15347
+        },
+        "username": "anguslin55",
+        "verified": false
+      }
+    ]
+  }
+}

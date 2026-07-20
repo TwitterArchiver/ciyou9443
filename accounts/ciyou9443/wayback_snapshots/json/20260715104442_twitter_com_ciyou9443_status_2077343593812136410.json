@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2077056429354320009",
+    "created_at": "2026-07-15T10:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T11:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077343593812136410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1937016241396621312",
+          "start": 0,
+          "username": "Ringle___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077343593812136410",
+    "in_reply_to_user_id": "1937016241396621312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077056429354320009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ringle___ 不觉得有，断片梦游一点也不好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077056421385101312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMvz38aYAAXQhl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2077056429354320009",
+        "created_at": "2026-07-15T10:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077343593812136410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1937016241396621312",
+              "start": 0,
+              "username": "Ringle___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077343593812136410",
+        "in_reply_to_user_id": "1937016241396621312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077056429354320009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ringle___ 不觉得有，断片梦游一点也不好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077056421385101312"
+          ]
+        },
+        "author_id": "1937016241396621312",
+        "conversation_id": "2077056429354320009",
+        "created_at": "2026-07-14T15:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077056429354320009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yGMh87tKzP",
+              "end": 34,
+              "expanded_url": "https://x.com/Ringle___/status/2077056429354320009/photo/1",
+              "media_key": "3_2077056421385101312",
+              "start": 11,
+              "url": "https://t.co/yGMh87tKzP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077056429354320009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这玩意有没有滥用价值 https://t.co/yGMh87tKzP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  \n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1893,
+          "following_count": 583,
+          "like_count": 12581,
+          "listed_count": 4,
+          "media_count": 422,
+          "tweet_count": 3330
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-23T05:14:08.000Z",
+        "description": "=凌歌\n女/oder/pan 💖💛💙/很好说话欢迎互fo～",
+        "id": "1937016241396621312",
+        "name": "溺水的人鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953001704330543105/cdb7sNUj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 164,
+          "like_count": 620,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "Ringle___",
+        "verified": false
+      }
+    ]
+  }
+}

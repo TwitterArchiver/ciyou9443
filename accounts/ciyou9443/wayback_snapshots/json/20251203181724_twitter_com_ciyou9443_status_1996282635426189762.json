@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1996282635426189762",
+    "created_at": "2025-12-03T18:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T19:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996282635426189762"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ciyou9443/stat…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/ciyou9443/status/1996282580904321088",
+          "start": 44,
+          "url": "https://t.co/i6zCS82Nzm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996282635426189762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996282580904321088",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "租房的时候你是客户，打车的时候你是乘客，什么人才会这种时候把你到底是男是女放在第一位呀 https://t.co/i6zCS82Nzm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1996282635426189762",
+        "created_at": "2025-12-03T18:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T19:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996282635426189762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ciyou9443/stat…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/ciyou9443/status/1996282580904321088",
+              "start": 44,
+              "url": "https://t.co/i6zCS82Nzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996282635426189762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996282580904321088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "租房的时候你是客户，打车的时候你是乘客，什么人才会这种时候把你到底是男是女放在第一位呀 https://t.co/i6zCS82Nzm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1996282580904321088",
+        "created_at": "2025-12-03T18:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T19:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996282580904321088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ciyou9443/stat…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/ciyou9443/status/1996267142610911288",
+              "start": 34,
+              "url": "https://t.co/6eX8Dlvops"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996282580904321088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996267142610911288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日常生活里行为合理，打扮自然，吃饱了撑得才会想到鉴你到底是男是女。 https://t.co/6eX8Dlvops"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠/深夜发的消息不关素的事",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1992888264173441156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 537,
+          "like_count": 9351,
+          "listed_count": 4,
+          "media_count": 288,
+          "tweet_count": 2236
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

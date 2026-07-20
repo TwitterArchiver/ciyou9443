@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1964551025144320006"
+      ],
+      "media_source_tweet_id": [
+        "1964551071403229294"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1964582739828756985",
+    "created_at": "2025-09-07T06:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T07:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964582739828756985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1907031442103943168",
+          "start": 3,
+          "username": "hoshinemu123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vmKlFZb3Fd",
+          "end": 54,
+          "expanded_url": "https://x.com/hoshinemu123/status/1964551071403229294/video/1",
+          "media_key": "7_1964551025144320006",
+          "start": 31,
+          "url": "https://t.co/vmKlFZb3Fd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964582739828756985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964551071403229294",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinemu123: 誒，我总是能把自己萌到。 https://t.co/vmKlFZb3Fd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19545,
+        "height": 1280,
+        "media_key": "7_1964551025144320006",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1964551025144320006/pu/img/DAn-45ITmndZVjzb.jpg",
+        "public_metrics": {
+          "view_count": 56
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964551025144320006/pu/vid/avc1/320x568/-V_UYkjuJQfvWBAu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964551025144320006/pu/vid/avc1/480x852/bWIxRLEAXPSCGK33.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964551025144320006/pu/vid/avc1/720x1280/9c-cGyYp_iNMhSJL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1964551025144320006/pu/pl/t8PW4srr0IqqLCc2.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1964551025144320006"
+          ],
+          "media_source_tweet_id": [
+            "1964551071403229294"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1964582739828756985",
+        "created_at": "2025-09-07T06:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T07:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964582739828756985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907031442103943168",
+              "start": 3,
+              "username": "hoshinemu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vmKlFZb3Fd",
+              "end": 54,
+              "expanded_url": "https://x.com/hoshinemu123/status/1964551071403229294/video/1",
+              "media_key": "7_1964551025144320006",
+              "start": 31,
+              "url": "https://t.co/vmKlFZb3Fd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964582739828756985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964551071403229294",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinemu123: 誒，我总是能把自己萌到。 https://t.co/vmKlFZb3Fd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1964551025144320006"
+          ]
+        },
+        "author_id": "1907031442103943168",
+        "conversation_id": "1964551071403229294",
+        "created_at": "2025-09-07T04:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T05:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964551071403229294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vmKlFZb3Fd",
+              "end": 36,
+              "expanded_url": "https://x.com/hoshinemu123/status/1964551071403229294/video/1",
+              "media_key": "7_1964551025144320006",
+              "start": 13,
+              "url": "https://t.co/vmKlFZb3Fd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964551071403229294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "誒，我总是能把自己萌到。 https://t.co/vmKlFZb3Fd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1961407992886411770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 493,
+          "like_count": 6777,
+          "listed_count": 4,
+          "media_count": 144,
+          "tweet_count": 1511
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；半个软件工程师加半个音乐人；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；文学少女；古风/汉服女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1961103974091936202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 2941,
+          "like_count": 2198,
+          "listed_count": 1,
+          "media_count": 417,
+          "tweet_count": 5261
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      }
+    ]
+  }
+}

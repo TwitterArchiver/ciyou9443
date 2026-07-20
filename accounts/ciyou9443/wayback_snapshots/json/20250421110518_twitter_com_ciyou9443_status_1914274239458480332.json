@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1914274239458480332",
+    "created_at": "2025-04-21T11:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T12:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914274239458480332"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1914274239458480332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天去逛商场，上厕所的时候一个男的看着我进男厕一脸懵，我用手指指了指路他才反应过来，等出去的时候，正好顺女姐姐说你以后少上点男厕所的时候他又听到了，他表情很明显快绷不住了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1914274239458480332",
+        "created_at": "2025-04-21T11:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T12:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914274239458480332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914274239458480332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去逛商场，上厕所的时候一个男的看着我进男厕一脸懵，我用手指指了指路他才反应过来，等出去的时候，正好顺女姐姐说你以后少上点男厕所的时候他又听到了，他表情很明显快绷不住了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/没有家长党",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1906693278533374051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 281,
+          "like_count": 2188,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 743
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

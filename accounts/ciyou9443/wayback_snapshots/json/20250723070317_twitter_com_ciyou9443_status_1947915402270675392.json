@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947915327389765632",
+        "7_1947915326349578243"
+      ],
+      "media_source_tweet_id": [
+        "1947915344393474071",
+        "1947915344393474071"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "1947915402270675392",
+    "created_at": "2025-07-23T07:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T08:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947915402270675392"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 40,
+          "tag": "mtf"
+        },
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "药娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1805373961020260353",
+          "start": 3,
+          "username": "ciyou9443"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hLF31N6Cr2",
+          "end": 72,
+          "expanded_url": "https://x.com/ciyou9443/status/1947915344393474071/video/1",
+          "media_key": "3_1947915327389765632",
+          "start": 49,
+          "url": "https://t.co/hLF31N6Cr2"
+        },
+        {
+          "display_url": "pic.x.com/hLF31N6Cr2",
+          "end": 72,
+          "expanded_url": "https://x.com/ciyou9443/status/1947915344393474071/video/1",
+          "media_key": "7_1947915326349578243",
+          "start": 49,
+          "url": "https://t.co/hLF31N6Cr2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947915402270675392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947915344393474071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ciyou9443: 文学跨女，在线扎针，快来挨扎 (˘͈ᵕ ˘͈❀)\n#mtf #药娘 https://t.co/hLF31N6Cr2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1947915327389765632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwhiq3WbEAAKHg_.jpg",
+        "width": 1796
+      },
+      {
+        "duration_ms": 3407,
+        "height": 1280,
+        "media_key": "7_1947915326349578243",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1947915326349578243/pu/img/CmdSqgdMXiiZOMrP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1947915326349578243/pu/vid/avc1/320x568/-zLlC-snNsGhBAgf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1947915326349578243/pu/vid/avc1/480x852/VnERkgqm8Fx7xcY1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1947915326349578243/pu/vid/avc1/720x1280/MkMxCj3ZVATzByy6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1947915326349578243/pu/pl/ro1Nur7dc9hYogSZ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947915327389765632",
+            "7_1947915326349578243"
+          ],
+          "media_source_tweet_id": [
+            "1947915344393474071",
+            "1947915344393474071"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1947915402270675392",
+        "created_at": "2025-07-23T07:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T08:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947915402270675392"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "mtf"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "药娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1805373961020260353",
+              "start": 3,
+              "username": "ciyou9443"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hLF31N6Cr2",
+              "end": 72,
+              "expanded_url": "https://x.com/ciyou9443/status/1947915344393474071/video/1",
+              "media_key": "3_1947915327389765632",
+              "start": 49,
+              "url": "https://t.co/hLF31N6Cr2"
+            },
+            {
+              "display_url": "pic.x.com/hLF31N6Cr2",
+              "end": 72,
+              "expanded_url": "https://x.com/ciyou9443/status/1947915344393474071/video/1",
+              "media_key": "7_1947915326349578243",
+              "start": 49,
+              "url": "https://t.co/hLF31N6Cr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947915402270675392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947915344393474071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ciyou9443: 文学跨女，在线扎针，快来挨扎 (˘͈ᵕ ˘͈❀)\n#mtf #药娘 https://t.co/hLF31N6Cr2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947915327389765632",
+            "7_1947915326349578243"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1947915344393474071",
+        "created_at": "2025-07-23T07:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T08:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947915344393474071"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "mtf"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hLF31N6Cr2",
+              "end": 57,
+              "expanded_url": "https://x.com/ciyou9443/status/1947915344393474071/video/1",
+              "media_key": "3_1947915327389765632",
+              "start": 34,
+              "url": "https://t.co/hLF31N6Cr2"
+            },
+            {
+              "display_url": "pic.x.com/hLF31N6Cr2",
+              "end": 57,
+              "expanded_url": "https://x.com/ciyou9443/status/1947915344393474071/video/1",
+              "media_key": "7_1947915326349578243",
+              "start": 34,
+              "url": "https://t.co/hLF31N6Cr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947915344393474071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "文学跨女，在线扎针，快来挨扎 (˘͈ᵕ ˘͈❀)\n#mtf #药娘 https://t.co/hLF31N6Cr2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 411,
+          "like_count": 4635,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 1183
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

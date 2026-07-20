@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1983509107945439381",
+    "created_at": "2025-10-30T15:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T16:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983918645299368066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1718887354826637312",
+          "start": 0,
+          "username": "MeowSakur76073"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983918645299368066",
+    "in_reply_to_user_id": "1718887354826637312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983509107945439381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowSakur76073 私信可不可以来点真人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 643,
+        "media_key": "3_1983509103281643520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bXBTXbIAAe6_J.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1983509107945439381",
+        "created_at": "2025-10-30T15:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T16:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983918645299368066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1718887354826637312",
+              "start": 0,
+              "username": "MeowSakur76073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983918645299368066",
+        "in_reply_to_user_id": "1718887354826637312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983509107945439381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowSakur76073 私信可不可以来点真人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983509103281643520"
+          ]
+        },
+        "author_id": "1718887354826637312",
+        "conversation_id": "1983509107945439381",
+        "created_at": "2025-10-29T12:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983509107945439381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ek0xHQ5itN",
+              "end": 49,
+              "expanded_url": "https://x.com/MeowSakur76073/status/1983509107945439381/photo/1",
+              "media_key": "3_1983509103281643520",
+              "start": 26,
+              "url": "https://t.co/ek0xHQ5itN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983509107945439381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 998,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hello😡可以认识吗？\n话说私信能不能来点真人🙃 https://t.co/ek0xHQ5itN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/虽然主包是个精神病但是buff叠太多我还是会害怕😨",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 516,
+          "like_count": 7796,
+          "listed_count": 4,
+          "media_count": 240,
+          "tweet_count": 1805
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-30T07:08:23.000Z",
+        "description": "黑暗的角落闪烁点点荧光，在屏幕里窥探无法得到的幸福。a walking dead｜self heater｜bisexual |🦊| @cangshengsunset",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "cangshengsunset"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meowsakur76073…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meowsakur7607356428",
+                "start": 0,
+                "url": "https://t.co/MDv9HA9aPa"
+              }
+            ]
+          }
+        },
+        "id": "1718887354826637312",
+        "location": "Heaven",
+        "name": "Meow Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889690311200481284/v8dC5B1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 2225,
+          "like_count": 33542,
+          "listed_count": 4,
+          "media_count": 744,
+          "tweet_count": 11592
+        },
+        "url": "https://t.co/MDv9HA9aPa",
+        "username": "MeowSakur76073",
+        "verified": false
+      }
+    ]
+  }
+}

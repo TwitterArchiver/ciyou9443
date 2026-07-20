@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976253358991343619"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1976253373293998139",
+    "created_at": "2025-10-09T11:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T12:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976253373293998139"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mCC3Sk9l7w",
+          "end": 28,
+          "expanded_url": "https://x.com/ciyou9443/status/1976253373293998139/photo/1",
+          "media_key": "3_1976253358991343619",
+          "start": 5,
+          "url": "https://t.co/mCC3Sk9l7w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976253373293998139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猛t吃人 https://t.co/mCC3Sk9l7w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976253358991343619",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G20P9ZjaAAMHXus.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976253358991343619"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1976253373293998139",
+        "created_at": "2025-10-09T11:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T12:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976253373293998139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mCC3Sk9l7w",
+              "end": 28,
+              "expanded_url": "https://x.com/ciyou9443/status/1976253373293998139/photo/1",
+              "media_key": "3_1976253358991343619",
+              "start": 5,
+              "url": "https://t.co/mCC3Sk9l7w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976253373293998139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猛t吃人 https://t.co/mCC3Sk9l7w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/薛定谔的成分",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975908722846367744/FnFHFKBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 513,
+          "like_count": 7377,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 1680
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

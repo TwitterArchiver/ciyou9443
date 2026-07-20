@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927391525312364544",
+        "7_1927391538817978370"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1927391659043496273",
+    "created_at": "2025-05-27T15:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T16:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927391659043496273"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "mtf"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "男娘"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "药娘"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "娇喘"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "捆绑"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/92sEZ5zOmR",
+          "end": 71,
+          "expanded_url": "https://x.com/ciyou9443/status/1927391659043496273/video/1",
+          "media_key": "3_1927391525312364544",
+          "start": 48,
+          "url": "https://t.co/92sEZ5zOmR"
+        },
+        {
+          "display_url": "pic.x.com/92sEZ5zOmR",
+          "end": 71,
+          "expanded_url": "https://x.com/ciyou9443/status/1927391659043496273/video/1",
+          "media_key": "7_1927391538817978370",
+          "start": 48,
+          "url": "https://t.co/92sEZ5zOmR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927391659043496273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那你来捆我(ᇂ_ᇂ|||)那你来强我(ᇂ_ᇂ|||)\n#mtf #男娘 #药娘 #娇喘 #捆绑 https://t.co/92sEZ5zOmR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1151,
+        "media_key": "3_1927391525312364544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr94YWlXgAAqmPQ.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 9891,
+        "height": 1264,
+        "media_key": "7_1927391538817978370",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1927391538817978370/pu/img/yDZYHktidDl3xSW1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1927391538817978370/pu/vid/avc1/320x722/fkKEVCJuPHmEYVjp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1927391538817978370/pu/vid/avc1/480x1082/BqIU1hHJwxX93KL4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1927391538817978370/pu/vid/avc1/560x1264/zI8CWzlFNFjywq-N.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1927391538817978370/pu/pl/V8kmLcBAnAwFaR89.m3u8?tag=12"
+          }
+        ],
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927391525312364544",
+            "7_1927391538817978370"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1927391659043496273",
+        "created_at": "2025-05-27T15:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T16:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927391659043496273"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "mtf"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "男娘"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "药娘"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "娇喘"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "捆绑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/92sEZ5zOmR",
+              "end": 71,
+              "expanded_url": "https://x.com/ciyou9443/status/1927391659043496273/video/1",
+              "media_key": "3_1927391525312364544",
+              "start": 48,
+              "url": "https://t.co/92sEZ5zOmR"
+            },
+            {
+              "display_url": "pic.x.com/92sEZ5zOmR",
+              "end": 71,
+              "expanded_url": "https://x.com/ciyou9443/status/1927391659043496273/video/1",
+              "media_key": "7_1927391538817978370",
+              "start": 48,
+              "url": "https://t.co/92sEZ5zOmR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927391659043496273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那你来捆我(ᇂ_ᇂ|||)那你来强我(ᇂ_ᇂ|||)\n#mtf #男娘 #药娘 #娇喘 #捆绑 https://t.co/92sEZ5zOmR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/两个人格交替行动/没有家长党🏳️‍⚧️🍥/一星期没更就可以当我似了/大概是个清水推",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1902304011421888656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 311,
+          "like_count": 3151,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 957
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

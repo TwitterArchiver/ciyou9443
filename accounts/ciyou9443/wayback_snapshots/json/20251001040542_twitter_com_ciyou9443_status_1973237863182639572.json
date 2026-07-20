@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1973237863182639572",
+    "created_at": "2025-10-01T04:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T05:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973237863182639572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshinemu123/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/hoshinemu123/status/1973237368892305899",
+          "start": 16,
+          "url": "https://t.co/qKpgnoJIk6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973237863182639572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973237368892305899",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诅咒哈基素死的比猫早是吧，挂你 https://t.co/qKpgnoJIk6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973237365645910017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2JY7ezaIAE1ron.jpg",
+        "width": 1229
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1973237354719748096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2JY62GaIAAJOzW.jpg",
+        "width": 1229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1973237863182639572",
+        "created_at": "2025-10-01T04:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T05:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973237863182639572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinemu123/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/hoshinemu123/status/1973237368892305899",
+              "start": 16,
+              "url": "https://t.co/qKpgnoJIk6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973237863182639572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973237368892305899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诅咒哈基素死的比猫早是吧，挂你 https://t.co/qKpgnoJIk6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973237365645910017",
+            "3_1973237354719748096"
+          ]
+        },
+        "author_id": "1907031442103943168",
+        "conversation_id": "1973237368892305899",
+        "created_at": "2025-10-01T04:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T05:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973237368892305899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Ohwiy8Ini",
+              "end": 35,
+              "expanded_url": "https://x.com/hoshinemu123/status/1973237368892305899/photo/1",
+              "media_key": "3_1973237365645910017",
+              "start": 12,
+              "url": "https://t.co/9Ohwiy8Ini"
+            },
+            {
+              "display_url": "pic.x.com/9Ohwiy8Ini",
+              "end": 35,
+              "expanded_url": "https://x.com/hoshinemu123/status/1973237368892305899/photo/1",
+              "media_key": "3_1973237354719748096",
+              "start": 12,
+              "url": "https://t.co/9Ohwiy8Ini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973237368892305899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫在小时候来到人的家。 https://t.co/9Ohwiy8Ini"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1504,
+          "following_count": 511,
+          "like_count": 7150,
+          "listed_count": 4,
+          "media_count": 177,
+          "tweet_count": 1623
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；半个软件工程师加半个音乐人；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；文学少女；古风/汉服女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1969658733556089345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 3004,
+          "like_count": 2655,
+          "listed_count": 2,
+          "media_count": 484,
+          "tweet_count": 5877
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      }
+    ]
+  }
+}

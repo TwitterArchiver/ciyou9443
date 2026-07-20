@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1953420818215588062",
+    "created_at": "2025-08-08T07:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T08:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953723113994117325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1224014088381952002",
+          "start": 0,
+          "username": "YeBuYiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953723113994117325",
+    "in_reply_to_user_id": "1224014088381952002",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953637285729280140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YeBuYiya ₍˄·͈༝·͈˄*₎◞ ̑̑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1953420818215588062",
+        "created_at": "2025-08-08T07:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T08:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953723113994117325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1224014088381952002",
+              "start": 0,
+              "username": "YeBuYiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953723113994117325",
+        "in_reply_to_user_id": "1224014088381952002",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953637285729280140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeBuYiya ₍˄·͈༝·͈˄*₎◞ ̑̑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224014088381952002",
+        "conversation_id": "1953420818215588062",
+        "created_at": "2025-08-08T02:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953637285729280140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953637285729280140",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953420818215588062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 哈基素哈基素"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1952311599215399294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 466,
+          "like_count": 5826,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 1363
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T16:58:04.000Z",
+        "description": "一个普通底层跨性别者，年过三十老药娘，争取活到自然死，为了那个虚无缥缈的目标而努力，换过很多工作，有很多技能，但是全都没什么用，目前正在摆地摊卖水果，有一个坚韧不屈的灵魂积极向上，感觉人生过去了好久好久，又好像没过多久",
+        "id": "1224014088381952002",
+        "location": "世界树",
+        "name": "花里花拉🍥🍬🍭（戒烟失败复吸版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942258710753206272/-77PQ2z9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 330,
+          "like_count": 3114,
+          "listed_count": 6,
+          "media_count": 201,
+          "tweet_count": 1988
+        },
+        "username": "YeBuYiya",
+        "verified": false
+      }
+    ]
+  }
+}

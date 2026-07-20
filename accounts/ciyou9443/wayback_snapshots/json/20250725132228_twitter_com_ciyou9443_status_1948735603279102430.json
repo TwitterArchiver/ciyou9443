@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1948735603279102430",
+    "created_at": "2025-07-25T13:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T14:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948735603279102430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1907031442103943168",
+          "start": 3,
+          "username": "hoshinemu123"
+        },
+        {
+          "end": 34,
+          "id": "1812217449338785792",
+          "start": 18,
+          "username": "beijieyoufengle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948735603279102430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948735287602844105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinemu123: @beijieyoufengle 我逛淘宝belike：\n诶呀这套好好看。（看看价格）诶呀一千多，收藏了，以后要出席什么大型活动就买。\n诶呀这套好好看。（看看价格）哇全套只要五百多好便宜，加心愿单，下个月看看。\n（打开心愿单）这个月先买一套吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1948735603279102430",
+        "created_at": "2025-07-25T13:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T14:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948735603279102430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907031442103943168",
+              "start": 3,
+              "username": "hoshinemu123"
+            },
+            {
+              "end": 34,
+              "id": "1812217449338785792",
+              "start": 18,
+              "username": "beijieyoufengle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948735603279102430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948735287602844105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinemu123: @beijieyoufengle 我逛淘宝belike：\n诶呀这套好好看。（看看价格）诶呀一千多，收藏了，以后要出席什么大型活动就买。\n诶呀这套好好看。（看看价格）哇全套只要五百多好便宜，加心愿单，下个月看看。\n（打开心愿单）这个月先买一套吧…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "conversation_id": "1948708135880823187",
+        "created_at": "2025-07-25T13:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T14:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948735287602844105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1812217449338785792",
+              "start": 0,
+              "username": "beijieyoufengle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948735287602844105",
+        "in_reply_to_user_id": "1812217449338785792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948708140201247142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beijieyoufengle 我逛淘宝belike：\n诶呀这套好好看。（看看价格）诶呀一千多，收藏了，以后要出席什么大型活动就买。\n诶呀这套好好看。（看看价格）哇全套只要五百多好便宜，加心愿单，下个月看看。\n（打开心愿单）这个月先买一套吧，买哪个呢？（最后待发货订单+4）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 427,
+          "like_count": 4984,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 1223
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；一个领域很偏的软件工程师；一个并不会创作的音乐制作人；一个技术全忘了的技术音频；文学少女；古风女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1947331426665558294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 2678,
+          "like_count": 1249,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 3991
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T20:08:13.000Z",
+        "description": "北极的一只🦊～不是鹅！//已成年!//Coser//🇭🇰//🏳‍⚧mtf 大证//187/60kg/75B//infp//约拍 寄拍 互fo请私信//聊天🚪30 过门回消息 /接⭕️ 线下🚪100 全国可✈️/🚪扫置顶赞赏码或口令//亲爱的@TudouCn24795/最好的姐姐@liznekoneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "TudouCn24795"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "liznekoneko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EBBSE_Channel",
+                "end": 23,
+                "expanded_url": "https://t.me/EBBSE_Channel",
+                "start": 0,
+                "url": "https://t.co/U2rDCvTdX5"
+              }
+            ]
+          }
+        },
+        "id": "1812217449338785792",
+        "location": "距离你5.0cm/s",
+        "name": "鹅宝不是鹅🍥（三号机）",
+        "pinned_tweet_id": "1823997009357103518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874866528757444608/v6IE-reo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25550,
+          "following_count": 288,
+          "like_count": 1402,
+          "listed_count": 51,
+          "media_count": 259,
+          "tweet_count": 1044
+        },
+        "url": "https://t.co/U2rDCvTdX5",
+        "username": "beijieyoufengle",
+        "verified": false
+      }
+    ]
+  }
+}

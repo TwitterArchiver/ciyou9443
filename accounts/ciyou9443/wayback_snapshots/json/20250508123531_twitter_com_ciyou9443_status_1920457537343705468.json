@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1920375946588090680",
+    "created_at": "2025-05-08T12:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T13:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920457537343705468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1697623622033211392",
+          "start": 0,
+          "username": "KyokoC697"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920457537343705468",
+    "in_reply_to_user_id": "1697623622033211392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920457192508977164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KyokoC697 贴贴贴贴～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1920375946588090680",
+        "created_at": "2025-05-08T12:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T13:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920457537343705468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1697623622033211392",
+              "start": 0,
+              "username": "KyokoC697"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920457537343705468",
+        "in_reply_to_user_id": "1697623622033211392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920457192508977164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KyokoC697 贴贴贴贴～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697623622033211392",
+        "conversation_id": "1920375946588090680",
+        "created_at": "2025-05-08T12:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T13:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920457192508977164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920457192508977164",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920375946588090680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 好漂亮😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/没有家长党",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1919285021896253823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 289,
+          "like_count": 2599,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 846
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T14:53:15.000Z",
+        "description": "我可以陪你吃苦你可以帮我上班吗",
+        "id": "1697623622033211392",
+        "location": "Yau Tsim Mong District",
+        "name": "樱雪奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920042395556880384/t3J7EpRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 23,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 14
+        },
+        "username": "KyokoC697",
+        "verified": false
+      }
+    ]
+  }
+}

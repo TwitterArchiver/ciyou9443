@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1990439187393503290",
+    "created_at": "2025-11-19T05:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T06:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991009983048368385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "961832160377282560",
+          "start": 0,
+          "username": "iMoeAya"
+        },
+        {
+          "end": 18,
+          "id": "2886649711",
+          "start": 9,
+          "username": "Goku1683"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991009983048368385",
+    "in_reply_to_user_id": "961832160377282560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990625556573139334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iMoeAya @Goku1683 好耳熟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1990439187393503290",
+        "created_at": "2025-11-19T05:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T06:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991009983048368385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "961832160377282560",
+              "start": 0,
+              "username": "iMoeAya"
+            },
+            {
+              "end": 18,
+              "id": "2886649711",
+              "start": 9,
+              "username": "Goku1683"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991009983048368385",
+        "in_reply_to_user_id": "961832160377282560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990625556573139334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iMoeAya @Goku1683 好耳熟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "961832160377282560",
+        "conversation_id": "1990439187393503290",
+        "created_at": "2025-11-18T03:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T04:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990625556573139334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2886649711",
+              "start": 0,
+              "username": "Goku1683"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990625556573139334",
+        "in_reply_to_user_id": "2886649711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 27355,
+          "like_count": 205,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990439187393503290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goku1683 不会啊，基本每个mtf的家庭都会有一个ftm的妈：“当男的多好，我这辈子做梦都想变成男的”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠/深夜发的消息不关素的事",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974504976752984101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 534,
+          "like_count": 8921,
+          "listed_count": 4,
+          "media_count": 277,
+          "tweet_count": 2140
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974770448509595648/kkt3Z048_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39163,
+          "following_count": 4700,
+          "like_count": 170710,
+          "listed_count": 138,
+          "media_count": 1121,
+          "tweet_count": 35087
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-01T18:35:18.000Z",
+        "description": "🏳️‍⚧️/BPD/敢爱敢恨/情绪化/情绪时常处于两个极端/猎奇/表面是个m实则是个暴力s/略带偏执属性/待开发中..它说蓝色是忧郁*",
+        "id": "2886649711",
+        "name": "到里斯本看海*^🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951570985435717632/hrFmnHgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 666,
+          "like_count": 1092,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 147
+        },
+        "username": "Goku1683",
+        "verified": false
+      }
+    ]
+  }
+}

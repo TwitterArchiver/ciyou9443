@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1951226445050597603",
+    "created_at": "2025-08-02T04:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T05:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951507955603705903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703297947121901568",
+          "start": 0,
+          "username": "xue_zhi2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951507955603705903",
+    "in_reply_to_user_id": "1703297947121901568",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951226445050597603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xue_zhi2008 *⁂((✪⥎✪))⁂*"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1951226387362357248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxQmD68aIAAo6Mt.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1951226411811008512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxQmFWBa8AArDdF.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1951226411827765248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxQmFWFaoAAWmnp.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1951226415577546752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxQmFkDbwAAaBKf.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1951226445050597603",
+        "created_at": "2025-08-02T04:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T05:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951507955603705903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703297947121901568",
+              "start": 0,
+              "username": "xue_zhi2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951507955603705903",
+        "in_reply_to_user_id": "1703297947121901568",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951226445050597603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xue_zhi2008 *⁂((✪⥎✪))⁂*"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951226387362357248",
+            "3_1951226411811008512",
+            "3_1951226411827765248",
+            "3_1951226415577546752"
+          ]
+        },
+        "author_id": "1703297947121901568",
+        "conversation_id": "1951226445050597603",
+        "created_at": "2025-08-01T10:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T11:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951226445050597603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SiJsmu3w2I",
+              "end": 23,
+              "expanded_url": "https://x.com/xue_zhi2008/status/1951226445050597603/photo/1",
+              "media_key": "3_1951226387362357248",
+              "start": 0,
+              "url": "https://t.co/SiJsmu3w2I"
+            },
+            {
+              "display_url": "pic.x.com/SiJsmu3w2I",
+              "end": 23,
+              "expanded_url": "https://x.com/xue_zhi2008/status/1951226445050597603/photo/1",
+              "media_key": "3_1951226411811008512",
+              "start": 0,
+              "url": "https://t.co/SiJsmu3w2I"
+            },
+            {
+              "display_url": "pic.x.com/SiJsmu3w2I",
+              "end": 23,
+              "expanded_url": "https://x.com/xue_zhi2008/status/1951226445050597603/photo/1",
+              "media_key": "3_1951226411827765248",
+              "start": 0,
+              "url": "https://t.co/SiJsmu3w2I"
+            },
+            {
+              "display_url": "pic.x.com/SiJsmu3w2I",
+              "end": 23,
+              "expanded_url": "https://x.com/xue_zhi2008/status/1951226445050597603/photo/1",
+              "media_key": "3_1951226415577546752",
+              "start": 0,
+              "url": "https://t.co/SiJsmu3w2I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951226445050597603",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2630,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SiJsmu3w2I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 451,
+          "like_count": 5614,
+          "listed_count": 3,
+          "media_count": 154,
+          "tweet_count": 1311
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-17T06:41:15.000Z",
+        "description": "一般路过女高||\n在读物化生高中生/MtF/退役CChOer/高三||\n目标是临床医学(真的还能吗？)||\n业余爱好:声乐(女高音也是女高)\n明日方舟干员收集度98%",
+        "id": "1703297947121901568",
+        "location": "重庆市",
+        "name": "织不唧",
+        "pinned_tweet_id": "1907327813289730421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887703881578389506/l5PxO2Co_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 474,
+          "like_count": 7066,
+          "listed_count": 3,
+          "media_count": 625,
+          "tweet_count": 2121
+        },
+        "username": "xue_zhi2008",
+        "verified": false
+      }
+    ]
+  }
+}

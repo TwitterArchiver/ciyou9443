@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2073350464511561728"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2073350491816529950",
+    "created_at": "2026-07-04T10:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T11:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073350491816529950"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1KDWAKOXCM",
+          "end": 43,
+          "expanded_url": "https://x.com/ciyou9443/status/2073350491816529950/video/1",
+          "media_key": "7_2073350464511561728",
+          "start": 20,
+          "url": "https://t.co/1KDWAKOXCM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073350491816529950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可爱的犟种小猫，这小东西怎么这么可爱～ https://t.co/1KDWAKOXCM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11407,
+        "height": 740,
+        "media_key": "7_2073350464511561728",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2073350464511561728/pu/img/mYGu0WF7ERZFjVlM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073350464511561728/pu/vid/avc1/320x328/Q0Pm81xlx0dPe4Rj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073350464511561728/pu/vid/avc1/480x492/QW4BB5NVGLjNFTfe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073350464511561728/pu/vid/avc1/720x740/SeNm7VFZHuye-aNC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2073350464511561728/pu/pl/R94FpfwEHHpLr96I.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2073350464511561728"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2073350491816529950",
+        "created_at": "2026-07-04T10:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073350491816529950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1KDWAKOXCM",
+              "end": 43,
+              "expanded_url": "https://x.com/ciyou9443/status/2073350491816529950/video/1",
+              "media_key": "7_2073350464511561728",
+              "start": 20,
+              "url": "https://t.co/1KDWAKOXCM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073350491816529950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可爱的犟种小猫，这小东西怎么这么可爱～ https://t.co/1KDWAKOXCM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  \n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 577,
+          "like_count": 12390,
+          "listed_count": 4,
+          "media_count": 411,
+          "tweet_count": 3280
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      }
+    ]
+  }
+}

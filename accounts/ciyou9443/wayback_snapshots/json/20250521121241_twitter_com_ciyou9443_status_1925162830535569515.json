@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925162826320257024"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1925162830535569515",
+    "created_at": "2025-05-21T12:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T13:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925162830535569515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kobe0s3Nyl",
+          "end": 38,
+          "expanded_url": "https://x.com/ciyou9443/status/1925162830535569515/photo/1",
+          "media_key": "3_1925162826320257024",
+          "start": 15,
+          "url": "https://t.co/kobe0s3Nyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925162830535569515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "手机屏幕坏了\n鼠了请为我烧纸 https://t.co/kobe0s3Nyl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1355,
+        "media_key": "3_1925162826320257024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GreNY_2bIAA6wRK.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925162826320257024"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1925162830535569515",
+        "created_at": "2025-05-21T12:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T13:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925162830535569515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kobe0s3Nyl",
+              "end": 38,
+              "expanded_url": "https://x.com/ciyou9443/status/1925162830535569515/photo/1",
+              "media_key": "3_1925162826320257024",
+              "start": 15,
+              "url": "https://t.co/kobe0s3Nyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925162830535569515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手机屏幕坏了\n鼠了请为我烧纸 https://t.co/kobe0s3Nyl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/戾气现在很重/有两个人格/没有家长党🏳️‍⚧️🍥/",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1919285021896253823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 318,
+          "like_count": 2956,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 917
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

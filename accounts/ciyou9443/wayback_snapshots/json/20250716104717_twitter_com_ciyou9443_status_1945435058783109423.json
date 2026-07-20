@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1945135502966898970",
+    "created_at": "2025-07-16T10:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T11:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945435058783109423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767249379285741569",
+          "start": 0,
+          "username": "caomeiaaaok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945435058783109423",
+    "in_reply_to_user_id": "1767249379285741569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945434105169990086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiaaaok 好捏，♥(｡￫v￩｡)♥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1945135502966898970",
+        "created_at": "2025-07-16T10:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T11:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945435058783109423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767249379285741569",
+              "start": 0,
+              "username": "caomeiaaaok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945435058783109423",
+        "in_reply_to_user_id": "1767249379285741569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945434105169990086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiaaaok 好捏，♥(｡￫v￩｡)♥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767249379285741569",
+        "conversation_id": "1945135502966898970",
+        "created_at": "2025-07-16T10:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T11:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945434105169990086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945434105169990086",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945135502966898970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 矿泉水的话可以买那种桶装水  可以让他送上门的比买这个要划算好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 391,
+          "like_count": 4181,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 1121
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T18:01:08.000Z",
+        "description": "你好，可以叫我橙子，门🚪30   66kg 🍊🍥🏳️‍⚧️૮₍ ˃ ⤙ ˂ ₎ა  (我要是两个月没有更新那就是去另一个世界了)",
+        "id": "1767249379285741569",
+        "location": "离你2.5km",
+        "name": "橙橙橙橙子🍊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870327654165176321/S6kvAQW8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 349,
+          "like_count": 4557,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 1614
+        },
+        "username": "caomeiaaaok",
+        "verified": false
+      }
+    ]
+  }
+}

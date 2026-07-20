@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975912208103292928"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1975891629971284068",
+    "created_at": "2025-10-08T13:12:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T14:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975912210431099073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1712850322736218112",
+          "start": 0,
+          "username": "HhQqXxHh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/chH09L7vGC",
+          "end": 33,
+          "expanded_url": "https://x.com/ciyou9443/status/1975912210431099073/photo/1",
+          "media_key": "3_1975912208103292928",
+          "start": 10,
+          "url": "https://t.co/chH09L7vGC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975912210431099073",
+    "in_reply_to_user_id": "1712850322736218112",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975891629971284068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HhQqXxHh https://t.co/chH09L7vGC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 820,
+        "media_key": "3_1975912208103292928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2vZrzdawAAtUq6.jpg",
+        "width": 820
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1975891626871717888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2vG90ZbgAAhgfu.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975912208103292928"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975891629971284068",
+        "created_at": "2025-10-08T13:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T14:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975912210431099073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1712850322736218112",
+              "start": 0,
+              "username": "HhQqXxHh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/chH09L7vGC",
+              "end": 33,
+              "expanded_url": "https://x.com/ciyou9443/status/1975912210431099073/photo/1",
+              "media_key": "3_1975912208103292928",
+              "start": 10,
+              "url": "https://t.co/chH09L7vGC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975912210431099073",
+        "in_reply_to_user_id": "1712850322736218112",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975891629971284068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HhQqXxHh https://t.co/chH09L7vGC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975891626871717888"
+          ]
+        },
+        "author_id": "1712850322736218112",
+        "conversation_id": "1975891629971284068",
+        "created_at": "2025-10-08T11:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T12:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975891629971284068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fngHvum3nK",
+              "end": 110,
+              "expanded_url": "https://x.com/HhQqXxHh/status/1975891629971284068/photo/1",
+              "media_key": "3_1975891626871717888",
+              "start": 87,
+              "url": "https://t.co/fngHvum3nK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975891629971284068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "扣扣怎么了姐妹，我又不是见谁都扣，我们都是好姐妹了，扣你两下也不会出事，你说你是直女，那我扣你两下你也不会弯，就当是我手指容易缺水，补补水不行吗姐妹，废话别多说了姐妹，卸甲 https://t.co/fngHvum3nK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/薛定谔的成分",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975908722846367744/FnFHFKBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 512,
+          "like_count": 7363,
+          "listed_count": 4,
+          "media_count": 198,
+          "tweet_count": 1678
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T15:18:46.000Z",
+        "description": "会在推特更新恶心的自拍，事164/62的debu死宅，上学中望周知",
+        "id": "1712850322736218112",
+        "location": "二次元",
+        "name": "宵黑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828830692387540994/T56mCu45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 199,
+          "like_count": 87,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 167
+        },
+        "username": "HhQqXxHh",
+        "verified": false
+      }
+    ]
+  }
+}

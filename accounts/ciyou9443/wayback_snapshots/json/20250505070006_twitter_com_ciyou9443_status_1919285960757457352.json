@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919284868313501696"
+      ],
+      "media_source_tweet_id": [
+        "1919285021896253823"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1919285960757457352",
+    "created_at": "2025-05-05T07:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T08:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919285960757457352"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 49,
+          "tag": "mtf"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "男娘"
+        },
+        {
+          "end": 61,
+          "start": 58,
+          "tag": "药娘"
+        },
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "可爱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1805373961020260353",
+          "start": 3,
+          "username": "ciyou9443"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Ba24xnwqY",
+          "end": 89,
+          "expanded_url": "https://x.com/ciyou9443/status/1919285021896253823/photo/1",
+          "media_key": "3_1919284868313501696",
+          "start": 66,
+          "url": "https://t.co/5Ba24xnwqY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919285960757457352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919285021896253823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ciyou9443: 教练，我想学抽象，求求宁教教我叭我什么都会做的(˃ ⌑ ˂ഃ )\n #mtf #男娘 #药娘 #可爱 https://t.co/5Ba24xnwqY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1919284868313501696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqKraz6b0AAadbO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919284868313501696"
+          ],
+          "media_source_tweet_id": [
+            "1919285021896253823"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1919285960757457352",
+        "created_at": "2025-05-05T07:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T08:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919285960757457352"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "mtf"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "男娘"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "药娘"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "可爱"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1805373961020260353",
+              "start": 3,
+              "username": "ciyou9443"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Ba24xnwqY",
+              "end": 89,
+              "expanded_url": "https://x.com/ciyou9443/status/1919285021896253823/photo/1",
+              "media_key": "3_1919284868313501696",
+              "start": 66,
+              "url": "https://t.co/5Ba24xnwqY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919285960757457352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919285021896253823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ciyou9443: 教练，我想学抽象，求求宁教教我叭我什么都会做的(˃ ⌑ ˂ഃ )\n #mtf #男娘 #药娘 #可爱 https://t.co/5Ba24xnwqY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919284868313501696"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1919285021896253823",
+        "created_at": "2025-05-05T06:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T07:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919285021896253823"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "mtf"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "男娘"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "药娘"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "可爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Ba24xnwqY",
+              "end": 74,
+              "expanded_url": "https://x.com/ciyou9443/status/1919285021896253823/photo/1",
+              "media_key": "3_1919284868313501696",
+              "start": 51,
+              "url": "https://t.co/5Ba24xnwqY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919285021896253823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "教练，我想学抽象，求求宁教教我叭我什么都会做的(˃ ⌑ ˂ഃ )\n #mtf #男娘 #药娘 #可爱 https://t.co/5Ba24xnwqY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/没有家长党",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1919285021896253823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 283,
+          "like_count": 2543,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 824
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

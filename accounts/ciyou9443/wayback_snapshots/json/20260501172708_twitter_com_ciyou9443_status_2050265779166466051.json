@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050265774145806336",
+        "3_2050265775257333760",
+        "3_2050265776406568960",
+        "3_2050265774888288256"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050265779166466051",
+    "created_at": "2026-05-01T17:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T18:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050265779166466051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1CCA3tnj0n",
+          "end": 34,
+          "expanded_url": "https://x.com/ciyou9443/status/2050265779166466051/photo/1",
+          "media_key": "3_2050265774145806336",
+          "start": 11,
+          "url": "https://t.co/1CCA3tnj0n"
+        },
+        {
+          "display_url": "pic.x.com/1CCA3tnj0n",
+          "end": 34,
+          "expanded_url": "https://x.com/ciyou9443/status/2050265779166466051/photo/1",
+          "media_key": "3_2050265775257333760",
+          "start": 11,
+          "url": "https://t.co/1CCA3tnj0n"
+        },
+        {
+          "display_url": "pic.x.com/1CCA3tnj0n",
+          "end": 34,
+          "expanded_url": "https://x.com/ciyou9443/status/2050265779166466051/photo/1",
+          "media_key": "3_2050265776406568960",
+          "start": 11,
+          "url": "https://t.co/1CCA3tnj0n"
+        },
+        {
+          "display_url": "pic.x.com/1CCA3tnj0n",
+          "end": 34,
+          "expanded_url": "https://x.com/ciyou9443/status/2050265779166466051/photo/1",
+          "media_key": "3_2050265774888288256",
+          "start": 11,
+          "url": "https://t.co/1CCA3tnj0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050265779166466051",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "找回了好多和猫的合照 https://t.co/1CCA3tnj0n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050265774145806336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHQB29saIAAnLDd.jpg",
+        "width": 1151
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050265775257333760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHQB3B1asAAg7O8.jpg",
+        "width": 1582
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050265776406568960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHQB3GHaoAAAw5M.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2050265774888288256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHQB3AdbgAANwx8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050265774145806336",
+            "3_2050265775257333760",
+            "3_2050265776406568960",
+            "3_2050265774888288256"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050265779166466051",
+        "created_at": "2026-05-01T17:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T18:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050265779166466051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1CCA3tnj0n",
+              "end": 34,
+              "expanded_url": "https://x.com/ciyou9443/status/2050265779166466051/photo/1",
+              "media_key": "3_2050265774145806336",
+              "start": 11,
+              "url": "https://t.co/1CCA3tnj0n"
+            },
+            {
+              "display_url": "pic.x.com/1CCA3tnj0n",
+              "end": 34,
+              "expanded_url": "https://x.com/ciyou9443/status/2050265779166466051/photo/1",
+              "media_key": "3_2050265775257333760",
+              "start": 11,
+              "url": "https://t.co/1CCA3tnj0n"
+            },
+            {
+              "display_url": "pic.x.com/1CCA3tnj0n",
+              "end": 34,
+              "expanded_url": "https://x.com/ciyou9443/status/2050265779166466051/photo/1",
+              "media_key": "3_2050265776406568960",
+              "start": 11,
+              "url": "https://t.co/1CCA3tnj0n"
+            },
+            {
+              "display_url": "pic.x.com/1CCA3tnj0n",
+              "end": 34,
+              "expanded_url": "https://x.com/ciyou9443/status/2050265779166466051/photo/1",
+              "media_key": "3_2050265774888288256",
+              "start": 11,
+              "url": "https://t.co/1CCA3tnj0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050265779166466051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找回了好多和猫的合照 https://t.co/1CCA3tnj0n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 蓁老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "常曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 534,
+          "like_count": 10696,
+          "listed_count": 5,
+          "media_count": 384,
+          "tweet_count": 2765
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

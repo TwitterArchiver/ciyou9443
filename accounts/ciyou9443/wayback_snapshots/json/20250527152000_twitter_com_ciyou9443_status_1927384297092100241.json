@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1927379343694540905",
+    "created_at": "2025-05-27T15:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T16:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927384297092100241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "996823091304005633",
+          "start": 0,
+          "username": "xiaodou2180"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927384297092100241",
+    "in_reply_to_user_id": "996823091304005633",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927383307395662314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaodou2180 T﹏T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1927379343694540905",
+        "created_at": "2025-05-27T15:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T16:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927384297092100241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "996823091304005633",
+              "start": 0,
+              "username": "xiaodou2180"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927384297092100241",
+        "in_reply_to_user_id": "996823091304005633",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927383307395662314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaodou2180 T﹏T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "996823091304005633",
+        "conversation_id": "1927379343694540905",
+        "created_at": "2025-05-27T15:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T16:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927383307395662314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927383307395662314",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927382045560324397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 啊，已经非常漂亮了还有容貌焦虑〜(＞＜)〜啊？ 呜呜呜，我丑都已经不能见人了😭！  多社交，交交朋友聚聚餐逛逛商场！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/两个人格交替行动/没有家长党🏳️‍⚧️🍥/一星期没更就可以当我似了/大概是个清水推",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1902304011421888656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 311,
+          "like_count": 3137,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 953
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-16T18:41:59.000Z",
+        "description": "大龄mtf🏳️‍⚧️",
+        "id": "996823091304005633",
+        "location": "0371",
+        "name": "豆豆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720785645097168896/19WS-Vor_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 223,
+          "like_count": 857,
+          "listed_count": 4,
+          "media_count": 104,
+          "tweet_count": 1483
+        },
+        "username": "xiaodou2180",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1989118857873879053",
+    "created_at": "2025-11-14T14:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T15:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989344277537997132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1939985156778983424",
+          "start": 0,
+          "username": "Yan_17631997"
+        },
+        {
+          "end": 23,
+          "id": "1589809419822329857",
+          "start": 14,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989344277537997132",
+    "in_reply_to_user_id": "1939985156778983424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989318592408502623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yan_17631997 @jianlvup 俺也一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1989118857873879053",
+        "created_at": "2025-11-14T14:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T15:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989344277537997132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1939985156778983424",
+              "start": 0,
+              "username": "Yan_17631997"
+            },
+            {
+              "end": 23,
+              "id": "1589809419822329857",
+              "start": 14,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989344277537997132",
+        "in_reply_to_user_id": "1939985156778983424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989318592408502623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yan_17631997 @jianlvup 俺也一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939985156778983424",
+        "conversation_id": "1989118857873879053",
+        "created_at": "2025-11-14T13:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T14:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989318592408502623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989318592408502623",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989118857873879053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 像我一样变成女生了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974504976752984101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 533,
+          "like_count": 8655,
+          "listed_count": 4,
+          "media_count": 271,
+          "tweet_count": 2028
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T09:51:34.000Z",
+        "description": "#TS / 在英国🇬🇧 / 小厨娘 / 旅行家 / 毛绒胖胖海豹宝宝 / 孤独的灵魂",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "TS"
+              }
+            ]
+          }
+        },
+        "id": "1939985156778983424",
+        "location": "英国 伦敦",
+        "name": "言言",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987556662736031744/2ap1Joqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 131,
+          "like_count": 632,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 225
+        },
+        "username": "Yan_17631997",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 私信互关 INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 起名字对联压力大师\n逃生舱：@jianlvya\n搭档:@KawawaDiana8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "jianlvya"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1989120551953289358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11723,
+          "following_count": 1060,
+          "like_count": 57094,
+          "listed_count": 41,
+          "media_count": 1989,
+          "tweet_count": 4610
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1903850790072328279",
+    "created_at": "2025-03-23T22:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T23:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903938204803514817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901204651888009216",
+          "start": 0,
+          "username": "ynziy3257014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903938204803514817",
+    "in_reply_to_user_id": "1901204651888009216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903850975867322711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynziy3257014 一点也不糟糕，妹妹很棒的，相信自己呀～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1903850790072328279",
+        "created_at": "2025-03-23T22:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T23:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903938204803514817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901204651888009216",
+              "start": 0,
+              "username": "ynziy3257014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903938204803514817",
+        "in_reply_to_user_id": "1901204651888009216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903850975867322711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynziy3257014 一点也不糟糕，妹妹很棒的，相信自己呀～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901204651888009216",
+        "conversation_id": "1903850790072328279",
+        "created_at": "2025-03-23T16:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T17:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903850975867322711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903850975867322711",
+        "in_reply_to_user_id": "1901204651888009216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903850790072328279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想到自己特别糟糕一个人也不上学愧对大家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/没回fo可以私我",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 241,
+          "like_count": 1132,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 438
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T09:31:58.000Z",
+        "description": "16/中焦重抑/休学/GD🍥\n爱国爱党爱人民/不键政不键政",
+        "id": "1901204651888009216",
+        "location": "zhengzhou",
+        "name": "沫沫沫沫沫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902754785742487553/MNbsLCv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 115,
+          "like_count": 2113,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 41
+        },
+        "username": "ynziy3257014",
+        "verified": false
+      }
+    ]
+  }
+}

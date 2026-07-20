@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1927427519004770394",
+    "created_at": "2025-05-28T02:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T03:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927559913842086280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "872113640064786432",
+          "start": 0,
+          "username": "ChariseStever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927559913842086280",
+    "in_reply_to_user_id": "872113640064786432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927427519004770394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChariseStever 哎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1927427511610228736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr-ZHB_XwAALPkZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1927427519004770394",
+        "created_at": "2025-05-28T02:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T03:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927559913842086280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "872113640064786432",
+              "start": 0,
+              "username": "ChariseStever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927559913842086280",
+        "in_reply_to_user_id": "872113640064786432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927427519004770394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChariseStever 哎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927427511610228736"
+          ]
+        },
+        "author_id": "872113640064786432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1927427519004770394",
+        "created_at": "2025-05-27T18:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T19:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927427519004770394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GUrDUBXmBb",
+              "end": 43,
+              "expanded_url": "https://x.com/ChariseStever/status/1927427519004770394/photo/1",
+              "media_key": "3_1927427511610228736",
+              "start": 20,
+              "url": "https://t.co/GUrDUBXmBb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927427519004770394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都瘪了还拿出来卖\n甚至比其他芒果都贵( https://t.co/GUrDUBXmBb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/两个人格交替行动/没有家长党🏳️‍⚧️🍥/一星期没更就可以当我似了/大概是个清水推",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1902304011421888656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 311,
+          "like_count": 3161,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 961
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-06T15:31:09.000Z",
+        "description": "Goblin/Imp 感兴趣的领域: Information Retrieval (信息检索）& Recommender Systems （推荐系统）\nbluesky: https://t.co/p6CngYU70a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "niox.lol",
+                "end": 108,
+                "expanded_url": "http://niox.lol",
+                "start": 85,
+                "url": "https://t.co/p6CngYU70a"
+              }
+            ]
+          }
+        },
+        "id": "872113640064786432",
+        "location": "Goblin Den",
+        "name": "nil",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530459917060120576/MxIH3gkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 85,
+          "like_count": 806,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 1177
+        },
+        "username": "ChariseStever",
+        "verified": false
+      }
+    ]
+  }
+}

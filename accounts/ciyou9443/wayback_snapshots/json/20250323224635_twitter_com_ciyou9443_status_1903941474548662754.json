@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1903837529234673906",
+    "created_at": "2025-03-23T22:46:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T23:46:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903941474548662754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "872113640064786432",
+          "start": 0,
+          "username": "ChariseStever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903941474548662754",
+    "in_reply_to_user_id": "872113640064786432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903837529234673906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChariseStever 海鲜总是那么吓人～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1903837519252541440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmvKIwUb0AAQdtA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1903837518237220864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmvKIsiXQAAo3lY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1903837529234673906",
+        "created_at": "2025-03-23T22:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T23:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903941474548662754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "872113640064786432",
+              "start": 0,
+              "username": "ChariseStever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903941474548662754",
+        "in_reply_to_user_id": "872113640064786432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903837529234673906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChariseStever 海鲜总是那么吓人～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903837519252541440",
+            "3_1903837518237220864"
+          ]
+        },
+        "author_id": "872113640064786432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1903837529234673906",
+        "created_at": "2025-03-23T15:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T16:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903837529234673906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L4q96p3bbz",
+              "end": 43,
+              "expanded_url": "https://x.com/ChariseStever/status/1903837529234673906/photo/1",
+              "media_key": "3_1903837519252541440",
+              "start": 20,
+              "url": "https://t.co/L4q96p3bbz"
+            },
+            {
+              "display_url": "pic.x.com/L4q96p3bbz",
+              "end": 43,
+              "expanded_url": "https://x.com/ChariseStever/status/1903837529234673906/photo/1",
+              "media_key": "3_1903837518237220864",
+              "start": 20,
+              "url": "https://t.co/L4q96p3bbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903837529234673906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想吃好吃的了就在相册里翻翻存货回味一下 https://t.co/L4q96p3bbz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/没回fo可以私我",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 245,
+          "like_count": 1143,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 440
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-06T15:31:09.000Z",
+        "description": "Goblin/Imp 感兴趣的领域: Information Retrieval (信息检索）& Recommender Systems （推荐系统）",
+        "id": "872113640064786432",
+        "name": "nil",
+        "pinned_tweet_id": "1348310125023412224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530459917060120576/MxIH3gkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 65,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 251
+        },
+        "username": "ChariseStever",
+        "verified": true
+      }
+    ]
+  }
+}

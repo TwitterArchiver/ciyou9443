@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2010397416940576916",
+    "created_at": "2026-01-12T07:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T08:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010608673249452258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        },
+        {
+          "end": 28,
+          "id": "2001998644673994752",
+          "start": 12,
+          "username": "morganofliberal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010608673249452258",
+    "in_reply_to_user_id": "623965569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010608119681110346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand @morganofliberal n55能有什么事，未成年加精神病🥱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2010397416940576916",
+        "created_at": "2026-01-12T07:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T08:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010608673249452258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            },
+            {
+              "end": 28,
+              "id": "2001998644673994752",
+              "start": 12,
+              "username": "morganofliberal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010608673249452258",
+        "in_reply_to_user_id": "623965569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010608119681110346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand @morganofliberal n55能有什么事，未成年加精神病🥱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "623965569",
+        "conversation_id": "2010397416940576916",
+        "created_at": "2026-01-12T07:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T08:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010608119681110346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001998644673994752",
+              "start": 0,
+              "username": "morganofliberal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010608119681110346",
+        "in_reply_to_user_id": "2001998644673994752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010397416940576916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@morganofliberal 你圈两大毒瘤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "已经很努力做健全人了",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2009685126054359477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 538,
+          "like_count": 9788,
+          "listed_count": 4,
+          "media_count": 328,
+          "tweet_count": 2422
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "以前的人生太复杂\n想要化繁为简",
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊茉音華",
+        "pinned_tweet_id": "2004865651266261004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010145893820051462/zZf3ZOvt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 116,
+          "like_count": 6891,
+          "listed_count": 5,
+          "media_count": 419,
+          "tweet_count": 4771
+        },
+        "username": "nothousand",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T12:51:01.000Z",
+        "description": "穷则独善其身，达则兼济天下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wikipedia.com",
+                "end": 23,
+                "expanded_url": "http://wikipedia.com",
+                "start": 0,
+                "url": "https://t.co/O2drc8pVpm"
+              }
+            ]
+          }
+        },
+        "id": "2001998644673994752",
+        "location": "中山纪念堂",
+        "name": "Morgan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001999389523623937/zyBvgTZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 192,
+          "like_count": 931,
+          "listed_count": 5,
+          "media_count": 76,
+          "tweet_count": 582
+        },
+        "url": "https://t.co/O2drc8pVpm",
+        "username": "morganofliberal",
+        "verified": false
+      }
+    ]
+  }
+}

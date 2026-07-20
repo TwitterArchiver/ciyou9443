@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1942557087105704226",
+    "created_at": "2025-07-08T18:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T19:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942653751384592455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907031442103943168",
+          "start": 0,
+          "username": "hoshinemu123"
+        },
+        {
+          "end": 30,
+          "id": "1616699395306852352",
+          "start": 14,
+          "username": "clear_wind_fish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942653751384592455",
+    "in_reply_to_user_id": "1907031442103943168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942638949220114866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinemu123 @clear_wind_fish 超级好喝的好叭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1942557087105704226",
+        "created_at": "2025-07-08T18:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T19:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942653751384592455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            },
+            {
+              "end": 30,
+              "id": "1616699395306852352",
+              "start": 14,
+              "username": "clear_wind_fish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942653751384592455",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942638949220114866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 @clear_wind_fish 超级好喝的好叭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "conversation_id": "1942557087105704226",
+        "created_at": "2025-07-08T17:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T18:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942638949220114866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1616699395306852352",
+              "start": 0,
+              "username": "clear_wind_fish"
+            },
+            {
+              "end": 27,
+              "id": "1805373961020260353",
+              "start": 17,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942638949220114866",
+        "in_reply_to_user_id": "1616699395306852352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942622285350985848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clear_wind_fish @ciyou9443 看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1912156270657700280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 374,
+          "like_count": 3829,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 1072
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；一个领域很偏的软件工程师；一个并不会创作的音乐制作人；一个技术全忘了的技术音频；文学少女；古风女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1942246179603206590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 2449,
+          "like_count": 828,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 3581
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T07:29:16.000Z",
+        "description": "相信推上也会有人世间的真诚与美好|偶尔发发日常|₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1616699395306852352",
+        "name": "清風塩魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616700812356653056/jsxquOna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 194,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 225
+        },
+        "username": "clear_wind_fish",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1942856347629830602",
+    "created_at": "2025-08-03T15:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T16:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952023870564868315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1598873184438083586",
+          "start": 0,
+          "username": "MuSHrO0ooM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952023870564868315",
+    "in_reply_to_user_id": "1598873184438083586",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942856347629830602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuSHrO0ooM *⁂((✪⥎✪))⁂*"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1942856306693390336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvZphGoWQAA_UnG.jpg",
+        "width": 682
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1942856318210957312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvZphxiWYAAHGtW.jpg",
+        "width": 682
+      },
+      {
+        "height": 682,
+        "media_key": "3_1942856337450311681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvZpi5NXoAEmtJF.jpg",
+        "width": 1024
+      },
+      {
+        "height": 682,
+        "media_key": "3_1942856344681238529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvZpjUJW0AE2Dn1.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1942856347629830602",
+        "created_at": "2025-08-03T15:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T16:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952023870564868315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1598873184438083586",
+              "start": 0,
+              "username": "MuSHrO0ooM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952023870564868315",
+        "in_reply_to_user_id": "1598873184438083586",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942856347629830602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuSHrO0ooM *⁂((✪⥎✪))⁂*"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942856306693390336",
+            "3_1942856318210957312",
+            "3_1942856337450311681",
+            "3_1942856344681238529"
+          ]
+        },
+        "author_id": "1598873184438083586",
+        "conversation_id": "1942856347629830602",
+        "created_at": "2025-07-09T08:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T09:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942856347629830602"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "女装"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "男娘"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "伪娘"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "cd"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "汉服"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "反串"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "洛阳"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "古装"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VANoTC3wsg",
+              "end": 87,
+              "expanded_url": "https://x.com/pP4xFXmc5NI90T6/status/1942856347629830602/photo/1",
+              "media_key": "3_1942856306693390336",
+              "start": 64,
+              "url": "https://t.co/VANoTC3wsg"
+            },
+            {
+              "display_url": "pic.x.com/VANoTC3wsg",
+              "end": 87,
+              "expanded_url": "https://x.com/pP4xFXmc5NI90T6/status/1942856347629830602/photo/1",
+              "media_key": "3_1942856318210957312",
+              "start": 64,
+              "url": "https://t.co/VANoTC3wsg"
+            },
+            {
+              "display_url": "pic.x.com/VANoTC3wsg",
+              "end": 87,
+              "expanded_url": "https://x.com/pP4xFXmc5NI90T6/status/1942856347629830602/photo/1",
+              "media_key": "3_1942856337450311681",
+              "start": 64,
+              "url": "https://t.co/VANoTC3wsg"
+            },
+            {
+              "display_url": "pic.x.com/VANoTC3wsg",
+              "end": 87,
+              "expanded_url": "https://x.com/pP4xFXmc5NI90T6/status/1942856347629830602/photo/1",
+              "media_key": "3_1942856344681238529",
+              "start": 64,
+              "url": "https://t.co/VANoTC3wsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942856347629830602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5930,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "赏古镇，灯如昼，于此人间邂逅。\n待归去，复回首，胜似好梦一宿。\n#女装 #男娘 #伪娘 #cd #汉服 #反串 #洛阳 #古装 https://t.co/VANoTC3wsg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 455,
+          "like_count": 5680,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 1329
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T02:54:22.000Z",
+        "description": "172cm/51kg/偏m/男娘/双性恋/infj，喜欢游戏，诗歌，月亮，听别人讲故事，如果你愿意，我可以成为很好的听众，蘑菇不会评论你，蘑菇只会静静听你说😶",
+        "id": "1598873184438083586",
+        "location": "北京",
+        "name": "玛诗如木",
+        "pinned_tweet_id": "1942856347629830602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932453550522515456/j1UCYhEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 82,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 337
+        },
+        "username": "MuSHrO0ooM",
+        "verified": false
+      }
+    ]
+  }
+}

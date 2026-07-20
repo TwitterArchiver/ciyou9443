@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2069091939618853035",
+    "created_at": "2026-06-23T02:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T03:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069250526454395302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2054962114830483456",
+          "start": 0,
+          "username": "SNWCC2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069250526454395302",
+    "in_reply_to_user_id": "2054962114830483456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069091939618853035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SNWCC2026 生日快乐哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069091802863603712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbkCD1bkAAcHOz.jpg",
+        "width": 1007
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2069091939618853035",
+        "created_at": "2026-06-23T02:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069250526454395302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2054962114830483456",
+              "start": 0,
+              "username": "SNWCC2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069250526454395302",
+        "in_reply_to_user_id": "2054962114830483456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069091939618853035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SNWCC2026 生日快乐哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069091802863603712"
+          ]
+        },
+        "author_id": "2054962114830483456",
+        "conversation_id": "2069091939618853035",
+        "created_at": "2026-06-22T16:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069091939618853035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rM3pdyVVta",
+              "end": 46,
+              "expanded_url": "https://x.com/SNWCC2026/status/2069091939618853035/photo/1",
+              "media_key": "3_2069091802863603712",
+              "start": 23,
+              "url": "https://t.co/rM3pdyVVta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069091939618853035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1644,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐖今天过生日，路过的人可以请🐖吃提拉米苏吗？ https://t.co/rM3pdyVVta"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  \n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 575,
+          "like_count": 12269,
+          "listed_count": 5,
+          "media_count": 410,
+          "tweet_count": 3252
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-14T16:29:14.000Z",
+        "description": "大润发杀鱼的医学生，小🐖爱好者\n加入我，一起聆听小猪哼哼՞･∞･՞",
+        "id": "2054962114830483456",
+        "name": "朱熙熙｜聆听小猪哼哼🐖",
+        "pinned_tweet_id": "2056354900083397064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067193052792500224/yNVr8Qt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 208,
+          "like_count": 4118,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 1225
+        },
+        "url": "",
+        "username": "SNWCC2026",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1946512142485622784"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1946512178686943413",
+    "created_at": "2025-07-19T10:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T11:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946512178686943413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d7vaCuvUED",
+          "end": 39,
+          "expanded_url": "https://x.com/ciyou9443/status/1946512178686943413/video/1",
+          "media_key": "7_1946512142485622784",
+          "start": 16,
+          "url": "https://t.co/d7vaCuvUED"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946512178686943413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "睡觉的大小姐脑婆真可爱真好摸～ https://t.co/d7vaCuvUED"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5833,
+        "height": 1280,
+        "media_key": "7_1946512142485622784",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1946512142485622784/pu/img/vmbqo-xCrU5MvYkP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1946512142485622784/pu/vid/avc1/320x568/E6cgVRbAaDfVA06L.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1946512142485622784/pu/vid/avc1/480x852/JuHL_gnOWbQMjKeC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1946512142485622784/pu/vid/avc1/720x1280/ily_izcTBHYI3U-c.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1946512142485622784/pu/pl/Y7Tv2Tq-mkgs-akt.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1946512142485622784"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1946512178686943413",
+        "created_at": "2025-07-19T10:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T11:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946512178686943413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d7vaCuvUED",
+              "end": 39,
+              "expanded_url": "https://x.com/ciyou9443/status/1946512178686943413/video/1",
+              "media_key": "7_1946512142485622784",
+              "start": 16,
+              "url": "https://t.co/d7vaCuvUED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946512178686943413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡觉的大小姐脑婆真可爱真好摸～ https://t.co/d7vaCuvUED"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 404,
+          "like_count": 4431,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 1152
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

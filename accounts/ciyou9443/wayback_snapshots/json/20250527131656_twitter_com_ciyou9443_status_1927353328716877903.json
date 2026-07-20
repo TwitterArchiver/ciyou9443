@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1927351663058092153",
+    "created_at": "2025-05-27T13:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T14:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927353328716877903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901204651888009216",
+          "start": 0,
+          "username": "ynziy3257014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927353328716877903",
+    "in_reply_to_user_id": "1901204651888009216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927351663058092153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynziy3257014 哇～抱大腿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1927351663058092153",
+        "created_at": "2025-05-27T13:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T14:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927353328716877903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901204651888009216",
+              "start": 0,
+              "username": "ynziy3257014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927353328716877903",
+        "in_reply_to_user_id": "1901204651888009216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927351663058092153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynziy3257014 哇～抱大腿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901204651888009216",
+        "conversation_id": "1927351663058092153",
+        "created_at": "2025-05-27T13:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T14:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927351663058092153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927351663058092153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我弓箭手已经五千六百分排到国服993名了，想要巴结我的可以来了喵w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/有两个人格/没有家长党🏳️‍⚧️🍥/一星期没更就可以当我似了",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 311,
+          "like_count": 3095,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 942
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T09:31:58.000Z",
+        "description": "重抑重焦/休学/GD🍥\n偶尔发情……",
+        "id": "1901204651888009216",
+        "name": "沫沫沫沫沫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902754785742487553/MNbsLCv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 235,
+          "like_count": 7983,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 229
+        },
+        "username": "ynziy3257014",
+        "verified": false
+      }
+    ]
+  }
+}

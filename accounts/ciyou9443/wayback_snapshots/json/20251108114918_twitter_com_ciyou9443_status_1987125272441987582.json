@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1987125272441987582",
+    "created_at": "2025-11-08T11:49:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T12:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987125272441987582"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987125272441987582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然，但是，不理解为什么有的mtf发牛子照片，有没有知情人士帮我解释一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1987125272441987582",
+        "created_at": "2025-11-08T11:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T12:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987125272441987582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987125272441987582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然，但是，不理解为什么有的mtf发牛子照片，有没有知情人士帮我解释一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 525,
+          "like_count": 8266,
+          "listed_count": 4,
+          "media_count": 257,
+          "tweet_count": 1895
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912410396427751424"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1912410399514783950",
+    "created_at": "2025-04-16T07:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T08:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912410399514783950"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 23,
+          "tag": "mtf"
+        },
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "男娘"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "药娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cxoiVrRyyK",
+          "end": 59,
+          "expanded_url": "https://x.com/ciyou9443/status/1912410399514783950/photo/1",
+          "media_key": "3_1912410396427751424",
+          "start": 36,
+          "url": "https://t.co/cxoiVrRyyK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912410399514783950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新口罩!AD钙奶!\n喝了能那个嘛，就是那个～ #mtf #男娘 #药娘 https://t.co/cxoiVrRyyK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1266,
+        "media_key": "3_1912410396427751424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Goo_H4fXEAAO0V0.jpg",
+        "width": 1430
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912410396427751424"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1912410399514783950",
+        "created_at": "2025-04-16T07:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T08:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912410399514783950"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "mtf"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "男娘"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxoiVrRyyK",
+              "end": 59,
+              "expanded_url": "https://x.com/ciyou9443/status/1912410399514783950/photo/1",
+              "media_key": "3_1912410396427751424",
+              "start": 36,
+              "url": "https://t.co/cxoiVrRyyK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912410399514783950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新口罩!AD钙奶!\n喝了能那个嘛，就是那个～ #mtf #男娘 #药娘 https://t.co/cxoiVrRyyK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1906693278533374051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 276,
+          "like_count": 2047,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 710
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

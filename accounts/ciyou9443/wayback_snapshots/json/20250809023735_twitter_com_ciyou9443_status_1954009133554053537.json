@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1954009103673782272"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1954009133554053537",
+    "created_at": "2025-08-09T02:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T03:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954009133554053537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bB7J5qt5h6",
+          "end": 45,
+          "expanded_url": "https://x.com/ciyou9443/status/1954009133554053537/video/1",
+          "media_key": "7_1954009103673782272",
+          "start": 22,
+          "url": "https://t.co/bB7J5qt5h6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954009133554053537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈基素还是太有操作了*⁂((✪⥎✪))⁂* https://t.co/bB7J5qt5h6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6803,
+        "height": 1280,
+        "media_key": "7_1954009103673782272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1954009103673782272/pu/img/lB2hza0nEYgT3yiQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954009103673782272/pu/vid/avc1/320x568/sM3IGjMUuIUO_71j.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954009103673782272/pu/vid/avc1/480x852/HuYk2viXlfXuebsx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954009103673782272/pu/vid/avc1/720x1280/atWoW2rEYZX6S1ix.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1954009103673782272/pu/pl/9mlETqVwpBGJtIpy.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1954009103673782272"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1954009133554053537",
+        "created_at": "2025-08-09T02:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T03:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954009133554053537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bB7J5qt5h6",
+              "end": 45,
+              "expanded_url": "https://x.com/ciyou9443/status/1954009133554053537/video/1",
+              "media_key": "7_1954009103673782272",
+              "start": 22,
+              "url": "https://t.co/bB7J5qt5h6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954009133554053537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈基素还是太有操作了*⁂((✪⥎✪))⁂* https://t.co/bB7J5qt5h6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1952311599215399294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 468,
+          "like_count": 5867,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 1373
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

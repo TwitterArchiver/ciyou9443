@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938976581445173249",
+        "3_1938976583219355648"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1938976587313193220",
+    "created_at": "2025-06-28T15:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T16:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938976587313193220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3EYnURSDMX",
+          "end": 30,
+          "expanded_url": "https://x.com/ciyou9443/status/1938976587313193220/photo/1",
+          "media_key": "3_1938976581445173249",
+          "start": 7,
+          "url": "https://t.co/3EYnURSDMX"
+        },
+        {
+          "display_url": "pic.x.com/3EYnURSDMX",
+          "end": 30,
+          "expanded_url": "https://x.com/ciyou9443/status/1938976587313193220/photo/1",
+          "media_key": "3_1938976583219355648",
+          "start": 7,
+          "url": "https://t.co/3EYnURSDMX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938976587313193220",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喵喵喵喵喵喵 https://t.co/3EYnURSDMX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938976581445173249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guig7XzXQAEPx6p.jpg",
+        "width": 899
+      },
+      {
+        "height": 1151,
+        "media_key": "3_1938976583219355648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guig7eaXIAAptNs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938976581445173249",
+            "3_1938976583219355648"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1938976587313193220",
+        "created_at": "2025-06-28T15:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T16:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938976587313193220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3EYnURSDMX",
+              "end": 30,
+              "expanded_url": "https://x.com/ciyou9443/status/1938976587313193220/photo/1",
+              "media_key": "3_1938976581445173249",
+              "start": 7,
+              "url": "https://t.co/3EYnURSDMX"
+            },
+            {
+              "display_url": "pic.x.com/3EYnURSDMX",
+              "end": 30,
+              "expanded_url": "https://x.com/ciyou9443/status/1938976587313193220/photo/1",
+              "media_key": "3_1938976583219355648",
+              "start": 7,
+              "url": "https://t.co/3EYnURSDMX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938976587313193220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵喵喵喵 https://t.co/3EYnURSDMX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/一星期没更大概就是似了",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 343,
+          "like_count": 3366,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 999
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

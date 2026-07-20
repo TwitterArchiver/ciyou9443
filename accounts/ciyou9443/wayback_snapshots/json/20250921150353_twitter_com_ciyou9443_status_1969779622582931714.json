@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969779618988367872"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1969779622582931714",
+    "created_at": "2025-09-21T15:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T16:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969779622582931714"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WSSyK82NHv",
+          "end": 28,
+          "expanded_url": "https://x.com/ciyou9443/status/1969779622582931714/photo/1",
+          "media_key": "3_1969779618988367872",
+          "start": 5,
+          "url": "https://t.co/WSSyK82NHv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969779622582931714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我嘞个豆 https://t.co/WSSyK82NHv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969779618988367872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1YQIIubIAATMoK.jpg",
+        "width": 816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969779618988367872"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1969779622582931714",
+        "created_at": "2025-09-21T15:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T16:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969779622582931714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WSSyK82NHv",
+              "end": 28,
+              "expanded_url": "https://x.com/ciyou9443/status/1969779622582931714/photo/1",
+              "media_key": "3_1969779618988367872",
+              "start": 5,
+              "url": "https://t.co/WSSyK82NHv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969779622582931714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我嘞个豆 https://t.co/WSSyK82NHv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 511,
+          "like_count": 7001,
+          "listed_count": 4,
+          "media_count": 164,
+          "tweet_count": 1585
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

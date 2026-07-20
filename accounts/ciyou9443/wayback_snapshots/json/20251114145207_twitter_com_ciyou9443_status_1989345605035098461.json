@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1985063096805978139",
+    "created_at": "2025-11-14T14:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T15:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989345605035098461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1834852836414476288",
+          "start": 0,
+          "username": "hBynHU0pDE32989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989345605035098461",
+    "in_reply_to_user_id": "1834852836414476288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985063096805978139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hBynHU0pDE32989 看上去急需炉管解决一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1985063096805978139",
+        "created_at": "2025-11-14T14:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T15:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989345605035098461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1834852836414476288",
+              "start": 0,
+              "username": "hBynHU0pDE32989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989345605035098461",
+        "in_reply_to_user_id": "1834852836414476288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985063096805978139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hBynHU0pDE32989 看上去急需炉管解决一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834852836414476288",
+        "conversation_id": "1985063096805978139",
+        "created_at": "2025-11-02T19:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T20:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985063096805978139"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985063096805978139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8329,
+          "like_count": 6,
+          "quote_count": 5,
+          "reply_count": 58,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "tnnd 以前推特都是刷到片 现在才发现这么多汉奸 畜生吧 活在中国让你受罪了？必须给人当狗才开心吗？全球这么多国家哪个国家比中国好？以前在其他视频软件刷到说现在有很多汉奸我还不信 现在我算是真见识到了 傻逼东西 没有国家你能长这么大 你享受的不是国家的政策 脑瘫一个就活该重生到印度吃手抓饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974504976752984101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 533,
+          "like_count": 8656,
+          "listed_count": 4,
+          "media_count": 271,
+          "tweet_count": 2029
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T07:13:08.000Z",
+        "description": "君子色而不淫，发乎情止乎礼，风流而不下流，多情而不滥情，君子当守正念，以养浩然之气，守身克己，立于不败，心清如镜，方为丈夫",
+        "id": "1834852836414476288",
+        "name": "无锡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974912056576159744/m1mZkVQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 305,
+          "like_count": 32,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 148
+        },
+        "username": "hBynHU0pDE32989",
+        "verified": false
+      }
+    ]
+  }
+}

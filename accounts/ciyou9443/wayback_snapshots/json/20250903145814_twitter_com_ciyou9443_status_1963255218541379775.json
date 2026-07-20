@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963255212048838656",
+        "3_1963255215056138240"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1963255218541379775",
+    "created_at": "2025-09-03T14:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T15:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963255218541379775"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kQnpzhFPxa",
+          "end": 33,
+          "expanded_url": "https://x.com/ciyou9443/status/1963255218541379775/photo/1",
+          "media_key": "3_1963255212048838656",
+          "start": 10,
+          "url": "https://t.co/kQnpzhFPxa"
+        },
+        {
+          "display_url": "pic.x.com/kQnpzhFPxa",
+          "end": 33,
+          "expanded_url": "https://x.com/ciyou9443/status/1963255218541379775/photo/1",
+          "media_key": "3_1963255215056138240",
+          "start": 10,
+          "url": "https://t.co/kQnpzhFPxa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963255218541379775",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大小姐搏斗食肉猛兽 https://t.co/kQnpzhFPxa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1963255212048838656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz7iNq2a8AAjzW7.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1963255215056138240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz7iN2DasAAvBC5.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963255212048838656",
+            "3_1963255215056138240"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1963255218541379775",
+        "created_at": "2025-09-03T14:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T15:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963255218541379775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kQnpzhFPxa",
+              "end": 33,
+              "expanded_url": "https://x.com/ciyou9443/status/1963255218541379775/photo/1",
+              "media_key": "3_1963255212048838656",
+              "start": 10,
+              "url": "https://t.co/kQnpzhFPxa"
+            },
+            {
+              "display_url": "pic.x.com/kQnpzhFPxa",
+              "end": 33,
+              "expanded_url": "https://x.com/ciyou9443/status/1963255218541379775/photo/1",
+              "media_key": "3_1963255215056138240",
+              "start": 10,
+              "url": "https://t.co/kQnpzhFPxa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963255218541379775",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大小姐搏斗食肉猛兽 https://t.co/kQnpzhFPxa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1958676027850596862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 495,
+          "like_count": 6662,
+          "listed_count": 4,
+          "media_count": 141,
+          "tweet_count": 1488
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938918873367040000"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1938919064942117009",
+    "created_at": "2025-06-28T11:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T12:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938919064942117009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M5Ow0v9pJE",
+          "end": 34,
+          "expanded_url": "https://x.com/ciyou9443/status/1938919064942117009/photo/1",
+          "media_key": "3_1938918873367040000",
+          "start": 11,
+          "url": "https://t.co/M5Ow0v9pJE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938919064942117009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 169,
+      "like_count": 19,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 1
+    },
+    "reply_settings": "everyone",
+    "text": "和姐姐逛西单谷子街～ https://t.co/M5Ow0v9pJE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1938918873367040000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuhscUdX0AAenyW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938918873367040000"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1938919064942117009",
+        "created_at": "2025-06-28T11:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T12:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938919064942117009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M5Ow0v9pJE",
+              "end": 34,
+              "expanded_url": "https://x.com/ciyou9443/status/1938919064942117009/photo/1",
+              "media_key": "3_1938918873367040000",
+              "start": 11,
+              "url": "https://t.co/M5Ow0v9pJE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938919064942117009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和姐姐逛西单谷子街～ https://t.co/M5Ow0v9pJE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/一星期没更大概就是似了",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 342,
+          "like_count": 3362,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 998
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

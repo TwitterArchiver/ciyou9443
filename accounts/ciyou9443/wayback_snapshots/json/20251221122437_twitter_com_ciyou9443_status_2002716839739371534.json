@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002716804406484992",
+        "7_2002716810404319232"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2002716839739371534",
+    "created_at": "2025-12-21T12:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T13:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002716839739371534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qsqT6IZf2G",
+          "end": 31,
+          "expanded_url": "https://x.com/ciyou9443/status/2002716839739371534/video/1",
+          "media_key": "3_2002716804406484992",
+          "start": 8,
+          "url": "https://t.co/qsqT6IZf2G"
+        },
+        {
+          "display_url": "pic.x.com/qsqT6IZf2G",
+          "end": 31,
+          "expanded_url": "https://x.com/ciyou9443/status/2002716839739371534/video/1",
+          "media_key": "7_2002716810404319232",
+          "start": 8,
+          "url": "https://t.co/qsqT6IZf2G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002716839739371534",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "眠大人和素大人 https://t.co/qsqT6IZf2G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2002716804406484992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8sUUqBaoAAuwrb.jpg",
+        "width": 2250
+      },
+      {
+        "duration_ms": 3065,
+        "height": 1280,
+        "media_key": "7_2002716810404319232",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2002716810404319232/pu/img/V8kyqut3PzWg2R9S.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002716810404319232/pu/vid/avc1/320x710/alaFhrqc9ZUYKnQ8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002716810404319232/pu/vid/avc1/480x1066/6CYMConIo8E1qXGL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002716810404319232/pu/vid/avc1/576x1280/gIX9VZPnYrJRq7eh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2002716810404319232/pu/pl/M8rsWFg3U65XpDfq.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002716804406484992",
+            "7_2002716810404319232"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2002716839739371534",
+        "created_at": "2025-12-21T12:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T13:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002716839739371534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qsqT6IZf2G",
+              "end": 31,
+              "expanded_url": "https://x.com/ciyou9443/status/2002716839739371534/video/1",
+              "media_key": "3_2002716804406484992",
+              "start": 8,
+              "url": "https://t.co/qsqT6IZf2G"
+            },
+            {
+              "display_url": "pic.x.com/qsqT6IZf2G",
+              "end": 31,
+              "expanded_url": "https://x.com/ciyou9443/status/2002716839739371534/video/1",
+              "media_key": "7_2002716810404319232",
+              "start": 8,
+              "url": "https://t.co/qsqT6IZf2G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002716839739371534",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眠大人和素大人 https://t.co/qsqT6IZf2G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 535,
+          "like_count": 9608,
+          "listed_count": 3,
+          "media_count": 311,
+          "tweet_count": 2349
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

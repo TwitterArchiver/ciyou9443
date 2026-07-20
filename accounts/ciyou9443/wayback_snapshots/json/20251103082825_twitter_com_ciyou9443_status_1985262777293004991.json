@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985262773140619264",
+        "3_1985262774302482432"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1985262777293004991",
+    "created_at": "2025-11-03T08:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T09:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985262777293004991"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xe5iS4V6pT",
+          "end": 50,
+          "expanded_url": "https://x.com/ciyou9443/status/1985262777293004991/photo/1",
+          "media_key": "3_1985262773140619264",
+          "start": 27,
+          "url": "https://t.co/xe5iS4V6pT"
+        },
+        {
+          "display_url": "pic.x.com/xe5iS4V6pT",
+          "end": 50,
+          "expanded_url": "https://x.com/ciyou9443/status/1985262777293004991/photo/1",
+          "media_key": "3_1985262774302482432",
+          "start": 27,
+          "url": "https://t.co/xe5iS4V6pT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985262777293004991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "眠眠猫买了铃兰结试穿都不试穿，帮她穿一下看看怎么个事 https://t.co/xe5iS4V6pT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1985262773140619264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G40R-UragAA4Mgk.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1985262774302482432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G40R-ZAbIAAk-O6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985262773140619264",
+            "3_1985262774302482432"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1985262777293004991",
+        "created_at": "2025-11-03T08:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T09:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985262777293004991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xe5iS4V6pT",
+              "end": 50,
+              "expanded_url": "https://x.com/ciyou9443/status/1985262777293004991/photo/1",
+              "media_key": "3_1985262773140619264",
+              "start": 27,
+              "url": "https://t.co/xe5iS4V6pT"
+            },
+            {
+              "display_url": "pic.x.com/xe5iS4V6pT",
+              "end": 50,
+              "expanded_url": "https://x.com/ciyou9443/status/1985262777293004991/photo/1",
+              "media_key": "3_1985262774302482432",
+              "start": 27,
+              "url": "https://t.co/xe5iS4V6pT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985262777293004991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眠眠猫买了铃兰结试穿都不试穿，帮她穿一下看看怎么个事 https://t.co/xe5iS4V6pT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 523,
+          "like_count": 8068,
+          "listed_count": 4,
+          "media_count": 248,
+          "tweet_count": 1837
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

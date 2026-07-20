@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2048311620762472574",
+    "created_at": "2026-04-26T08:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T09:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048311620762472574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1535816117226074113",
+          "start": 3,
+          "username": "PianistXH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048311620762472574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048261051985416539",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PianistXH: 都在骂公众场合抽烟的，但少有人骂在公众场合嚼槟榔的，大家根本就没有那么强的控制欲……只要你不影响到别人，你爱死不死，0人会在意烟民的身体健康哈！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2048311620762472574",
+        "created_at": "2026-04-26T08:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048311620762472574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1535816117226074113",
+              "start": 3,
+              "username": "PianistXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048311620762472574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048261051985416539",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PianistXH: 都在骂公众场合抽烟的，但少有人骂在公众场合嚼槟榔的，大家根本就没有那么强的控制欲……只要你不影响到别人，你爱死不死，0人会在意烟民的身体健康哈！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535816117226074113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2048261051985416539",
+        "created_at": "2026-04-26T04:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:40:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048260969584021942",
+          "2048261051985416539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048261051985416539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5627,
+          "like_count": 211,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "都在骂公众场合抽烟的，但少有人骂在公众场合嚼槟榔的，大家根本就没有那么强的控制欲……只要你不影响到别人，你爱死不死，0人会在意烟民的身体健康哈！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "常曦",
+        "pinned_tweet_id": "2047609900608708807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 532,
+          "like_count": 10592,
+          "listed_count": 5,
+          "media_count": 380,
+          "tweet_count": 2729
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T02:48:05.000Z",
+        "description": "@pianisthanh 不是互关不要申请",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "pianisthanh"
+              }
+            ]
+          }
+        },
+        "id": "1535816117226074113",
+        "name": "涵",
+        "pinned_tweet_id": "2039713747728781729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974476197200560129/L8efNCVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54753,
+          "following_count": 280,
+          "like_count": 5096,
+          "listed_count": 117,
+          "media_count": 97,
+          "tweet_count": 2759
+        },
+        "username": "PianistXH",
+        "verified": true
+      }
+    ]
+  }
+}

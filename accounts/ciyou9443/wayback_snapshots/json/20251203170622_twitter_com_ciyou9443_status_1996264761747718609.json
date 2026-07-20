@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1996264761747718609",
+    "created_at": "2025-12-03T17:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T18:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996264761747718609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1907031442103943168",
+          "start": 3,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996264761747718609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996201796692562167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinemu123: 其实以我个人经验来说，除了在网上和医院里，没人会在意你是不是跨。\n甚至在网上通过我个人才能认识的网友中，绝大部分也不会在意你跨性别的身份。\n另外在大部分人以为很保守的汉服复兴运动组织里，具有话语权的那部分人基本都具有良好的教养，会尊重你的性别…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1996264761747718609",
+        "created_at": "2025-12-03T17:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T18:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996264761747718609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907031442103943168",
+              "start": 3,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996264761747718609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996201796692562167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinemu123: 其实以我个人经验来说，除了在网上和医院里，没人会在意你是不是跨。\n甚至在网上通过我个人才能认识的网友中，绝大部分也不会在意你跨性别的身份。\n另外在大部分人以为很保守的汉服复兴运动组织里，具有话语权的那部分人基本都具有良好的教养，会尊重你的性别…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "conversation_id": "1996201796692562167",
+        "created_at": "2025-12-03T12:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T13:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996201796692562167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinemu123/s…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/hoshinemu123/status/1996187691407573447",
+              "start": 125,
+              "url": "https://t.co/DRxeB7Yqu6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996201796692562167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996187691407573447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实以我个人经验来说，除了在网上和医院里，没人会在意你是不是跨。\n甚至在网上通过我个人才能认识的网友中，绝大部分也不会在意你跨性别的身份。\n另外在大部分人以为很保守的汉服复兴运动组织里，具有话语权的那部分人基本都具有良好的教养，会尊重你的性别表达。 https://t.co/DRxeB7Yqu6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠/深夜发的消息不关素的事",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1992888264173441156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 537,
+          "like_count": 9348,
+          "listed_count": 4,
+          "media_count": 288,
+          "tweet_count": 2233
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；半个软件工程师加半个音乐人；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；文学少女；古风/汉服女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1994849432031125939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2435,
+          "following_count": 3170,
+          "like_count": 3060,
+          "listed_count": 4,
+          "media_count": 632,
+          "tweet_count": 7373
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948665934379618304",
+        "3_1948665935176556544",
+        "3_1948665935126319104",
+        "3_1948665936254566404"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1948665938649493511",
+    "created_at": "2025-07-25T08:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T09:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948665938649493511"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xpLBWSl8uW",
+          "end": 47,
+          "expanded_url": "https://x.com/ciyou9443/status/1948665938649493511/photo/1",
+          "media_key": "3_1948665934379618304",
+          "start": 24,
+          "url": "https://t.co/xpLBWSl8uW"
+        },
+        {
+          "display_url": "pic.x.com/xpLBWSl8uW",
+          "end": 47,
+          "expanded_url": "https://x.com/ciyou9443/status/1948665938649493511/photo/1",
+          "media_key": "3_1948665935176556544",
+          "start": 24,
+          "url": "https://t.co/xpLBWSl8uW"
+        },
+        {
+          "display_url": "pic.x.com/xpLBWSl8uW",
+          "end": 47,
+          "expanded_url": "https://x.com/ciyou9443/status/1948665938649493511/photo/1",
+          "media_key": "3_1948665935126319104",
+          "start": 24,
+          "url": "https://t.co/xpLBWSl8uW"
+        },
+        {
+          "display_url": "pic.x.com/xpLBWSl8uW",
+          "end": 47,
+          "expanded_url": "https://x.com/ciyou9443/status/1948665938649493511/photo/1",
+          "media_key": "3_1948665936254566404",
+          "start": 24,
+          "url": "https://t.co/xpLBWSl8uW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948665938649493511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天是元气少女版哈基素～\n摸摸困困觉觉大小姐～ https://t.co/xpLBWSl8uW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1227,
+        "media_key": "3_1948665934379618304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwsNV8SaEAAMLpZ.jpg",
+        "width": 893
+      },
+      {
+        "height": 1246,
+        "media_key": "3_1948665935176556544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwsNV_QaYAAH2-K.jpg",
+        "width": 675
+      },
+      {
+        "height": 1115,
+        "media_key": "3_1948665935126319104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwsNV_Eb0AAQFhw.jpg",
+        "width": 661
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1948665936254566404",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwsNWDRbgAQD1tb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948665934379618304",
+            "3_1948665935176556544",
+            "3_1948665935126319104",
+            "3_1948665936254566404"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1948665938649493511",
+        "created_at": "2025-07-25T08:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T09:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948665938649493511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xpLBWSl8uW",
+              "end": 47,
+              "expanded_url": "https://x.com/ciyou9443/status/1948665938649493511/photo/1",
+              "media_key": "3_1948665934379618304",
+              "start": 24,
+              "url": "https://t.co/xpLBWSl8uW"
+            },
+            {
+              "display_url": "pic.x.com/xpLBWSl8uW",
+              "end": 47,
+              "expanded_url": "https://x.com/ciyou9443/status/1948665938649493511/photo/1",
+              "media_key": "3_1948665935176556544",
+              "start": 24,
+              "url": "https://t.co/xpLBWSl8uW"
+            },
+            {
+              "display_url": "pic.x.com/xpLBWSl8uW",
+              "end": 47,
+              "expanded_url": "https://x.com/ciyou9443/status/1948665938649493511/photo/1",
+              "media_key": "3_1948665935126319104",
+              "start": 24,
+              "url": "https://t.co/xpLBWSl8uW"
+            },
+            {
+              "display_url": "pic.x.com/xpLBWSl8uW",
+              "end": 47,
+              "expanded_url": "https://x.com/ciyou9443/status/1948665938649493511/photo/1",
+              "media_key": "3_1948665936254566404",
+              "start": 24,
+              "url": "https://t.co/xpLBWSl8uW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948665938649493511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是元气少女版哈基素～\n摸摸困困觉觉大小姐～ https://t.co/xpLBWSl8uW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 427,
+          "like_count": 4957,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 1221
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

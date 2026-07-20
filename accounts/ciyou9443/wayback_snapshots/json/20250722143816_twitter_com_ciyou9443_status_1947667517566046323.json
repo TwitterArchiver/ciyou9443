@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1947654627484131502",
+    "created_at": "2025-07-22T14:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T15:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947667517566046323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1702989845076037632",
+          "start": 0,
+          "username": "mmyouli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947667517566046323",
+    "in_reply_to_user_id": "1702989845076037632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947654627484131502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmyouli 厉害～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1705,
+        "media_key": "3_1947654624565202946",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwd1j9pbEAIfqPP.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1947654627484131502",
+        "created_at": "2025-07-22T14:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T15:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947667517566046323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1702989845076037632",
+              "start": 0,
+              "username": "mmyouli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947667517566046323",
+        "in_reply_to_user_id": "1702989845076037632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947654627484131502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmyouli 厉害～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947654624565202946"
+          ]
+        },
+        "author_id": "1702989845076037632",
+        "conversation_id": "1947654627484131502",
+        "created_at": "2025-07-22T13:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T14:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947654627484131502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ocqDFjtEly",
+              "end": 85,
+              "expanded_url": "https://x.com/mmyouli/status/1947654627484131502/photo/1",
+              "media_key": "3_1947654624565202946",
+              "start": 62,
+              "url": "https://t.co/ocqDFjtEly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947654627484131502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 224,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "113斤的时候照片，目前104不能再瘦了低于105斤，🐻就开始缩水了。从4月中旬129斤到现在的104斤减肥还是轻轻松松的 https://t.co/ocqDFjtEly"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 412,
+          "like_count": 4598,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1177
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T10:16:42.000Z",
+        "description": "🍥95后/MTF/只想做一个普普通通温柔女娃  恋爱脑患者  对象 @YouQ318",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 34,
+                "username": "YouQ318"
+              }
+            ]
+          }
+        },
+        "id": "1702989845076037632",
+        "name": "沫沫不幽默🍥",
+        "pinned_tweet_id": "1941557178659410122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933156479588319232/qDEMsJZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5419,
+          "following_count": 82,
+          "like_count": 851,
+          "listed_count": 19,
+          "media_count": 229,
+          "tweet_count": 1546
+        },
+        "username": "mmyouli",
+        "verified": false
+      }
+    ]
+  }
+}

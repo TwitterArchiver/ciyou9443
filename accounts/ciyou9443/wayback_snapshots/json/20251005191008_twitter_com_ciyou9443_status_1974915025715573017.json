@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1974914220904071545",
+    "created_at": "2025-10-05T19:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T20:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974915025715573017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926451442572754944",
+          "start": 0,
+          "username": "keiaiqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974915025715573017",
+    "in_reply_to_user_id": "1926451442572754944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974914665898709288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keiaiqing 认同认同认同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1974914220904071545",
+        "created_at": "2025-10-05T19:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T20:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974915025715573017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926451442572754944",
+              "start": 0,
+              "username": "keiaiqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974915025715573017",
+        "in_reply_to_user_id": "1926451442572754944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974914665898709288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keiaiqing 认同认同认同"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926451442572754944",
+        "conversation_id": "1974914220904071545",
+        "created_at": "2025-10-05T19:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T20:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974914665898709288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974914665898709288",
+        "in_reply_to_user_id": "1926451442572754944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974914220904071545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不会安慰人就去搜教程啊，而不是让本来精神状态就不太好的人继续承担你的情感价值的索取！别人向你展示脆弱是信任你的表现，不是让你自我感动的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/薛定谔的成分",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 512,
+          "like_count": 7278,
+          "listed_count": 4,
+          "media_count": 187,
+          "tweet_count": 1652
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T01:33:32.000Z",
+        "description": "（可以改成雌小鬼语气）你好！我是一罐梅子酱！我是女孩子，介意的可以把我当无性别的罐装梅子酱！我记性不好还脸盲…但可以和我分享很多东西！这个梅子酱会认认真真的回复！起外号重度依赖，想要更多昵称的可以来和我玩了…我是个杂食二次元！不完全水仙？喜欢女孩子和友跨",
+        "id": "1926451442572754944",
+        "location": "10.12生日（世界第一嬤嬤",
+        "name": "ke（和早雾落恋爱版",
+        "pinned_tweet_id": "1953260718138286497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926451614899990528/za6MBTqj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 360,
+          "like_count": 25526,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 2505
+        },
+        "username": "keiaiqing",
+        "verified": false
+      }
+    ]
+  }
+}

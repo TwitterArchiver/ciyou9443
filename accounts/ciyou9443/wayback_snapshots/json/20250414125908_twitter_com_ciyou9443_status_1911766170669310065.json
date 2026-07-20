@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911766165543632896",
+        "3_1911766165442994176",
+        "3_1911766165472325632"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1911766170669310065",
+    "created_at": "2025-04-14T12:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T13:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911766170669310065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/W2lpkcbyMx",
+          "end": 30,
+          "expanded_url": "https://x.com/ciyou9443/status/1911766170669310065/photo/1",
+          "media_key": "3_1911766165543632896",
+          "start": 7,
+          "url": "https://t.co/W2lpkcbyMx"
+        },
+        {
+          "display_url": "pic.x.com/W2lpkcbyMx",
+          "end": 30,
+          "expanded_url": "https://x.com/ciyou9443/status/1911766170669310065/photo/1",
+          "media_key": "3_1911766165442994176",
+          "start": 7,
+          "url": "https://t.co/W2lpkcbyMx"
+        },
+        {
+          "display_url": "pic.x.com/W2lpkcbyMx",
+          "end": 30,
+          "expanded_url": "https://x.com/ciyou9443/status/1911766170669310065/photo/1",
+          "media_key": "3_1911766165472325632",
+          "start": 7,
+          "url": "https://t.co/W2lpkcbyMx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911766170669310065",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哦...耶！ https://t.co/W2lpkcbyMx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1911766165543632896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gof1MtbWwAASKtH.jpg",
+        "width": 542
+      },
+      {
+        "height": 2144,
+        "media_key": "3_1911766165442994176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gof1MtDXIAA_PIZ.jpg",
+        "width": 540
+      },
+      {
+        "height": 2133,
+        "media_key": "3_1911766165472325632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gof1MtKWsAAKNgY.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911766165543632896",
+            "3_1911766165442994176",
+            "3_1911766165472325632"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1911766170669310065",
+        "created_at": "2025-04-14T12:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T13:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911766170669310065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W2lpkcbyMx",
+              "end": 30,
+              "expanded_url": "https://x.com/ciyou9443/status/1911766170669310065/photo/1",
+              "media_key": "3_1911766165543632896",
+              "start": 7,
+              "url": "https://t.co/W2lpkcbyMx"
+            },
+            {
+              "display_url": "pic.x.com/W2lpkcbyMx",
+              "end": 30,
+              "expanded_url": "https://x.com/ciyou9443/status/1911766170669310065/photo/1",
+              "media_key": "3_1911766165442994176",
+              "start": 7,
+              "url": "https://t.co/W2lpkcbyMx"
+            },
+            {
+              "display_url": "pic.x.com/W2lpkcbyMx",
+              "end": 30,
+              "expanded_url": "https://x.com/ciyou9443/status/1911766170669310065/photo/1",
+              "media_key": "3_1911766165472325632",
+              "start": 7,
+              "url": "https://t.co/W2lpkcbyMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911766170669310065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦...耶！ https://t.co/W2lpkcbyMx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1906693278533374051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 273,
+          "like_count": 2011,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 703
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1950923219407638661",
+    "created_at": "2025-07-31T17:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T18:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950979093228614141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1674994147718209537",
+          "start": 0,
+          "username": "Kouqi2023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950979093228614141",
+    "in_reply_to_user_id": "1674994147718209537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950978619775525269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kouqi2023 啊这"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1950923219407638661",
+        "created_at": "2025-07-31T17:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T18:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950979093228614141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1674994147718209537",
+              "start": 0,
+              "username": "Kouqi2023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950979093228614141",
+        "in_reply_to_user_id": "1674994147718209537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950978619775525269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kouqi2023 啊这"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674994147718209537",
+        "conversation_id": "1950923219407638661",
+        "created_at": "2025-07-31T17:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T18:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950978619775525269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950978619775525269",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950923219407638661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 还有🐔私信骂我配值20w的，我那个置顶不是疯狂星期四的梗嘛，她急死了😄😄😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1195,
+          "following_count": 445,
+          "like_count": 5542,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 1300
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T04:11:45.000Z",
+        "description": "♂的  含🍥 mtx 大龄  死肥宅  165cm/50kg  二次元莎软  社恐选手 INTJ→INFJ→INFP  精神状态不稳定（多重人格）已摆烂  同类互fo必回  坐标：苏州",
+        "id": "1674994147718209537",
+        "location": "距离你-0.00018km",
+        "name": "蔻琪🍥",
+        "pinned_tweet_id": "1839878665288724847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910233547337797632/_7GJ0JVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 449,
+          "like_count": 3448,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1061
+        },
+        "username": "Kouqi2023",
+        "verified": false
+      }
+    ]
+  }
+}

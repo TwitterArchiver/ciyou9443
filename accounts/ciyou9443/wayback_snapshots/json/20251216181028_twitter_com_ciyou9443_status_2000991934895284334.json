@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2000991934895284334",
+    "created_at": "2025-12-16T18:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T19:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000991934895284334"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000991934895284334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被眠眠猫家暴，以至于胳膊上粉粉嫩嫩还有眠眠猫的手印子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2000991934895284334",
+        "created_at": "2025-12-16T18:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T19:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000991934895284334"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000991934895284334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被眠眠猫家暴，以至于胳膊上粉粉嫩嫩还有眠眠猫的手印子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠/深夜发的消息不关素的事",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 538,
+          "like_count": 9583,
+          "listed_count": 4,
+          "media_count": 302,
+          "tweet_count": 2325
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

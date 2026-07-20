@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063291423328518145"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2063291427946406093",
+    "created_at": "2026-06-06T16:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T17:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063291427946406093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4TRLP3cwBT",
+          "end": 33,
+          "expanded_url": "https://x.com/ciyou9443/status/2063291427946406093/photo/1",
+          "media_key": "3_2063291423328518145",
+          "start": 10,
+          "url": "https://t.co/4TRLP3cwBT"
+        },
+        {
+          "display_url": "x.com/nothousand/sta…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/nothousand/status/2063280464278999119",
+          "start": 34,
+          "url": "https://t.co/PLq6Zy2BoW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063291427946406093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063280464278999119",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "进行一个拙劣的模仿 https://t.co/4TRLP3cwBT https://t.co/PLq6Zy2BoW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1722,
+        "media_key": "3_2063291423328518145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJIniObQAEWNS-.jpg",
+        "width": 1366
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2063280443949301760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKI-oc2bwAAZcYQ.jpg",
+        "width": 2543
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063291423328518145"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2063291427946406093",
+        "created_at": "2026-06-06T16:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063291427946406093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4TRLP3cwBT",
+              "end": 33,
+              "expanded_url": "https://x.com/ciyou9443/status/2063291427946406093/photo/1",
+              "media_key": "3_2063291423328518145",
+              "start": 10,
+              "url": "https://t.co/4TRLP3cwBT"
+            },
+            {
+              "display_url": "x.com/nothousand/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/nothousand/status/2063280464278999119",
+              "start": 34,
+              "url": "https://t.co/PLq6Zy2BoW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063291427946406093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063280464278999119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "进行一个拙劣的模仿 https://t.co/4TRLP3cwBT https://t.co/PLq6Zy2BoW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063280443949301760"
+          ]
+        },
+        "author_id": "623965569",
+        "conversation_id": "2063280464278999119",
+        "created_at": "2026-06-06T15:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063280464278999119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NI4l44YXpv",
+              "end": 28,
+              "expanded_url": "https://x.com/nothousand/status/2063280464278999119/photo/1",
+              "media_key": "3_2063280443949301760",
+              "start": 5,
+              "url": "https://t.co/NI4l44YXpv"
+            },
+            {
+              "display_url": "x.com/maruko00o/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/maruko00o/status/2063190204073361469",
+              "start": 29,
+              "url": "https://t.co/4XOwM6qiM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063280464278999119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063190204073361469",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "试图复刻 https://t.co/NI4l44YXpv https://t.co/4XOwM6qiM1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2062510740637139247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 548,
+          "like_count": 11666,
+          "listed_count": 5,
+          "media_count": 412,
+          "tweet_count": 3142
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "并非这个世界的生命体",
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊茉音華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053291654728364032/lNmB5dJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2416,
+          "following_count": 124,
+          "like_count": 8834,
+          "listed_count": 6,
+          "media_count": 532,
+          "tweet_count": 5644
+        },
+        "username": "nothousand",
+        "verified": false
+      }
+    ]
+  }
+}

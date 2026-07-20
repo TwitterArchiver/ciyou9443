@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1986046422039592981",
+    "created_at": "2025-11-05T12:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T13:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986047852649599169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1947177151289237504",
+          "start": 0,
+          "username": "ynaid0908"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986047852649599169",
+    "in_reply_to_user_id": "1947177151289237504",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986046422039592981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynaid0908 (*๓´╰╯`๓)♡(*๓´╰╯`๓)♡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986046392327086080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_aq9oaIAAYqy9.jpg",
+        "width": 1539
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1986046422039592981",
+        "created_at": "2025-11-05T12:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T13:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986047852649599169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1947177151289237504",
+              "start": 0,
+              "username": "ynaid0908"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986047852649599169",
+        "in_reply_to_user_id": "1947177151289237504",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986046422039592981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynaid0908 (*๓´╰╯`๓)♡(*๓´╰╯`๓)♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986046392327086080"
+          ]
+        },
+        "author_id": "1947177151289237504",
+        "conversation_id": "1986046422039592981",
+        "created_at": "2025-11-05T12:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T13:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986046422039592981"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 21,
+              "start": 7,
+              "tag": "自撮り界隈さんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UQh3IxYlcy",
+              "end": 45,
+              "expanded_url": "https://x.com/ynaid0908/status/1986046422039592981/photo/1",
+              "media_key": "3_1986046392327086080",
+              "start": 22,
+              "url": "https://t.co/UQh3IxYlcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986046422039592981",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈\n#自撮り界隈さんと繋がりたい https://t.co/UQh3IxYlcy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 523,
+          "like_count": 8155,
+          "listed_count": 4,
+          "media_count": 251,
+          "tweet_count": 1861
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-21T06:10:40.000Z",
+        "description": "私を「はなちゃん」と呼んでもいい\n@xiaoyux278316/🗝@Siyanlan1017",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "xiaoyux278316"
+              },
+              {
+                "end": 46,
+                "start": 33,
+                "username": "Siyanlan1017"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/u8bcl9etizev8v…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/u8bcl9etizev8vs?t=2LWnAx&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/XJn20UG27A"
+              }
+            ]
+          }
+        },
+        "id": "1947177151289237504",
+        "location": "171cm/46kg ",
+        "name": "随桦小桦",
+        "pinned_tweet_id": "1986046422039592981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979119951483944960/MFr7UBcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 169,
+          "like_count": 6097,
+          "listed_count": 3,
+          "media_count": 27,
+          "tweet_count": 1076
+        },
+        "url": "https://t.co/XJn20UG27A",
+        "username": "ynaid0908",
+        "verified": false
+      }
+    ]
+  }
+}

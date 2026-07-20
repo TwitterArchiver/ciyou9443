@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927386563899490304"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1927386581557469347",
+    "created_at": "2025-05-27T15:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T16:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927386581557469347"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 14,
+          "tag": "mtf"
+        },
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "男娘"
+        },
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "药娘"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "捆绑"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tLB6YtiJnW",
+          "end": 54,
+          "expanded_url": "https://x.com/ciyou9443/status/1927386581557469347/photo/1",
+          "media_key": "3_1927386563899490304",
+          "start": 31,
+          "url": "https://t.co/tLB6YtiJnW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927386581557469347",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那你来捆我(ᇂ_ᇂ|||)\n#mtf #男娘 #药娘 #捆绑 https://t.co/tLB6YtiJnW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1151,
+        "media_key": "3_1927386563899490304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr9z3j4XAAAjIOC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927386563899490304"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1927386581557469347",
+        "created_at": "2025-05-27T15:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T16:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927386581557469347"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "mtf"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "男娘"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "药娘"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "捆绑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tLB6YtiJnW",
+              "end": 54,
+              "expanded_url": "https://x.com/ciyou9443/status/1927386581557469347/photo/1",
+              "media_key": "3_1927386563899490304",
+              "start": 31,
+              "url": "https://t.co/tLB6YtiJnW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927386581557469347",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那你来捆我(ᇂ_ᇂ|||)\n#mtf #男娘 #药娘 #捆绑 https://t.co/tLB6YtiJnW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/两个人格交替行动/没有家长党🏳️‍⚧️🍥/一星期没更就可以当我似了/大概是个清水推",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1902304011421888656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 311,
+          "like_count": 3147,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 956
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

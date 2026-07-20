@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1880500707922702437",
+    "created_at": "2025-01-18T11:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T12:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880578928643109323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1788861189856083968",
+          "start": 0,
+          "username": "Sakura_Yukihane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880578928643109323",
+    "in_reply_to_user_id": "1788861189856083968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880500707922702437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakura_Yukihane 摸摸，加油呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1880500707922702437",
+        "created_at": "2025-01-18T11:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T12:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880578928643109323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788861189856083968",
+              "start": 0,
+              "username": "Sakura_Yukihane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880578928643109323",
+        "in_reply_to_user_id": "1788861189856083968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880500707922702437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_Yukihane 摸摸，加油呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788861189856083968",
+        "conversation_id": "1880500707922702437",
+        "created_at": "2025-01-18T06:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T07:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880500707922702437"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880500707922702437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 782,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "…对不起…我无法改变任何事…我应该去死……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "含糖mtf/欢迎互fo/困困困困困要困死了",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 137,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 124
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T09:19:38.000Z",
+        "description": "谁来弄死我",
+        "id": "1788861189856083968",
+        "name": "樱雪羽🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1880166228502925617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873309667964944384/IISivAsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 150,
+          "like_count": 530,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 181
+        },
+        "username": "Sakura_Yukihane",
+        "verified": false
+      }
+    ]
+  }
+}

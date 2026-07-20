@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2065392115056869810",
+    "created_at": "2026-06-14T08:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066082123895955879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047687133708599296",
+          "start": 0,
+          "username": "themaniachan"
+        },
+        {
+          "end": 26,
+          "id": "1266316422428258311",
+          "start": 14,
+          "username": "mania_chan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066082123895955879",
+    "in_reply_to_user_id": "2047687133708599296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065392115056869810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@themaniachan @mania_chan_ 和萌妹拼啦，希望互fo～"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [mania_chan_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "mania_chan_",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "mania_chan_"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065392105711919104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKm_LV7a4AAbSs9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065392111370039296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKm_LrAa8AA3tZ-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065392111399337984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKm_LrHaAAAi2ZT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 828,
+        "media_key": "3_2065392106651480064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKm_LZbbcAAyK_c.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2065392115056869810",
+        "created_at": "2026-06-14T08:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066082123895955879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            },
+            {
+              "end": 26,
+              "id": "1266316422428258311",
+              "start": 14,
+              "username": "mania_chan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066082123895955879",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065392115056869810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan @mania_chan_ 和萌妹拼啦，希望互fo～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065392105711919104",
+            "3_2065392111370039296",
+            "3_2065392111399337984",
+            "3_2065392106651480064"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2065392115056869810",
+        "created_at": "2026-06-12T11:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065392115056869810"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 116,
+              "start": 112,
+              "tag": "互fo"
+            },
+            {
+              "end": 123,
+              "start": 117,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 128,
+              "start": 124,
+              "tag": "餐券女"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 46,
+              "id": "1266316422428258311",
+              "start": 34,
+              "username": "mania_chan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6OE7tx8Rys",
+              "end": 152,
+              "expanded_url": "https://x.com/themaniachan/status/2065392115056869810/photo/1",
+              "media_key": "3_2065392105711919104",
+              "start": 129,
+              "url": "https://t.co/6OE7tx8Rys"
+            },
+            {
+              "display_url": "pic.x.com/6OE7tx8Rys",
+              "end": 152,
+              "expanded_url": "https://x.com/themaniachan/status/2065392115056869810/photo/1",
+              "media_key": "3_2065392111370039296",
+              "start": 129,
+              "url": "https://t.co/6OE7tx8Rys"
+            },
+            {
+              "display_url": "pic.x.com/6OE7tx8Rys",
+              "end": 152,
+              "expanded_url": "https://x.com/themaniachan/status/2065392115056869810/photo/1",
+              "media_key": "3_2065392111399337984",
+              "start": 129,
+              "url": "https://t.co/6OE7tx8Rys"
+            },
+            {
+              "display_url": "pic.x.com/6OE7tx8Rys",
+              "end": 152,
+              "expanded_url": "https://x.com/themaniachan/status/2065392115056869810/photo/1",
+              "media_key": "3_2065392106651480064",
+              "start": 129,
+              "url": "https://t.co/6OE7tx8Rys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065392115056869810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1897,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "置顶2.0版！\n马上200fo啦，账号很安全了！\n我是狂酱二世！前世@mania_chan_，成分请看图和主页自介！想和同成分互fo呀...\n狂酱也有点穷穷...想支持狂酱的话欢迎投喂( ๑ŏ ﹏ ŏ๑ )谢谢老大们...\n#互fo #地雷系女子 #餐券女 https://t.co/6OE7tx8Rys"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 560,
+          "like_count": 11918,
+          "listed_count": 5,
+          "media_count": 422,
+          "tweet_count": 3241
+        },
+        "username": "ciyou9443",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 182,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 635
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

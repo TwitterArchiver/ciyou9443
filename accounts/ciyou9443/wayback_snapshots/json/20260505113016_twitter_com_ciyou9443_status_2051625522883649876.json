@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2051597327887175911",
+    "created_at": "2026-05-05T11:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T12:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051625522883649876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1388908963635154944",
+          "start": 0,
+          "username": "Cyberia_LyrX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051625522883649876",
+    "in_reply_to_user_id": "1388908963635154944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051597327887175911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyberia_LyrX 提不起兴趣玩游戏怎么办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2051597327887175911",
+        "created_at": "2026-05-05T11:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051625522883649876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1388908963635154944",
+              "start": 0,
+              "username": "Cyberia_LyrX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051625522883649876",
+        "in_reply_to_user_id": "1388908963635154944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051597327887175911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyberia_LyrX 提不起兴趣玩游戏怎么办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1388908963635154944",
+        "conversation_id": "2051597327887175911",
+        "created_at": "2026-05-05T09:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051597327887175911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051597327887175911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "游戏是抗焦虑药物\n副作用是时间加速"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "常曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 537,
+          "like_count": 10734,
+          "listed_count": 5,
+          "media_count": 384,
+          "tweet_count": 2799
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T17:31:30.000Z",
+        "description": "你正在看一行没有作用的文字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "iwakura-rein.xyz",
+                "end": 23,
+                "expanded_url": "http://iwakura-rein.xyz",
+                "start": 0,
+                "url": "https://t.co/aZcffv39kI"
+              }
+            ]
+          }
+        },
+        "id": "1388908963635154944",
+        "location": "你的路由器",
+        "name": "ArcanaXXI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024600687376797696/kPvBBj6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 751,
+          "like_count": 8996,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 5310
+        },
+        "url": "https://t.co/aZcffv39kI",
+        "username": "Cyberia_LyrX",
+        "verified": false
+      }
+    ]
+  }
+}

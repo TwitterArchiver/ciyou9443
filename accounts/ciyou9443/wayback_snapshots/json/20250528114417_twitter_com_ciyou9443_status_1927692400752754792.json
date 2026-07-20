@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927692383405142016",
+        "3_1927692383644213249"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1927692400752754792",
+    "created_at": "2025-05-28T11:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T12:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927692400752754792"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 12,
+          "tag": "mtf"
+        },
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "男娘"
+        },
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "药娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TnyLctYUAM",
+          "end": 48,
+          "expanded_url": "https://x.com/ciyou9443/status/1927692400752754792/photo/1",
+          "media_key": "3_1927692383405142016",
+          "start": 25,
+          "url": "https://t.co/TnyLctYUAM"
+        },
+        {
+          "display_url": "pic.x.com/TnyLctYUAM",
+          "end": 48,
+          "expanded_url": "https://x.com/ciyou9443/status/1927692400752754792/photo/1",
+          "media_key": "3_1927692383644213249",
+          "start": 25,
+          "url": "https://t.co/TnyLctYUAM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927692400752754792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 36,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "像不像某种小电影主角～\n#mtf #男娘 #药娘 https://t.co/TnyLctYUAM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1927692383405142016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsCKAmUW8AAmipE.jpg",
+        "width": 1930
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1927692383644213249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsCKAnNW4AEEVMG.jpg",
+        "width": 1431
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927692383405142016",
+            "3_1927692383644213249"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1927692400752754792",
+        "created_at": "2025-05-28T11:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T12:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927692400752754792"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "mtf"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "男娘"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TnyLctYUAM",
+              "end": 48,
+              "expanded_url": "https://x.com/ciyou9443/status/1927692400752754792/photo/1",
+              "media_key": "3_1927692383405142016",
+              "start": 25,
+              "url": "https://t.co/TnyLctYUAM"
+            },
+            {
+              "display_url": "pic.x.com/TnyLctYUAM",
+              "end": 48,
+              "expanded_url": "https://x.com/ciyou9443/status/1927692400752754792/photo/1",
+              "media_key": "3_1927692383644213249",
+              "start": 25,
+              "url": "https://t.co/TnyLctYUAM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927692400752754792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像不像某种小电影主角～\n#mtf #男娘 #药娘 https://t.co/TnyLctYUAM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/两个人格交替行动/没有家长党🏳️‍⚧️🍥/一星期没更就可以当我似了/大概是个清水推",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1902304011421888656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 313,
+          "like_count": 3188,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 969
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979473775679664128"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1979473778297217093",
+    "created_at": "2025-10-18T09:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T10:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979473778297217093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UxGld3QRBJ",
+          "end": 44,
+          "expanded_url": "https://x.com/ciyou9443/status/1979473778297217093/photo/1",
+          "media_key": "3_1979473775679664128",
+          "start": 21,
+          "url": "https://t.co/UxGld3QRBJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979473778297217093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "素已经沦落到坐地铁都晕车了，大抵是快死了 https://t.co/UxGld3QRBJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1979473775679664128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3iA6UmWcAA0sq2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979473775679664128"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1979473778297217093",
+        "created_at": "2025-10-18T09:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T10:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979473778297217093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UxGld3QRBJ",
+              "end": 44,
+              "expanded_url": "https://x.com/ciyou9443/status/1979473778297217093/photo/1",
+              "media_key": "3_1979473775679664128",
+              "start": 21,
+              "url": "https://t.co/UxGld3QRBJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979473778297217093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素已经沦落到坐地铁都晕车了，大抵是快死了 https://t.co/UxGld3QRBJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/只是搞点抽象，感到心理不适私我删改",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "玩偶姐姐",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977415827738796033/vSlVimgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 518,
+          "like_count": 7597,
+          "listed_count": 4,
+          "media_count": 219,
+          "tweet_count": 1738
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

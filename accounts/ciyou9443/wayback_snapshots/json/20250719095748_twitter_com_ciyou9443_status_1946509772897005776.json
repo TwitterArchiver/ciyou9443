@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946509767255425025",
+        "3_1946509766731407360",
+        "3_1946509765267292160"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1946509772897005776",
+    "created_at": "2025-07-19T09:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T10:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946509772897005776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/83o2kTcnmD",
+          "end": 45,
+          "expanded_url": "https://x.com/ciyou9443/status/1946509772897005776/photo/1",
+          "media_key": "3_1946509767255425025",
+          "start": 22,
+          "url": "https://t.co/83o2kTcnmD"
+        },
+        {
+          "display_url": "pic.x.com/83o2kTcnmD",
+          "end": 45,
+          "expanded_url": "https://x.com/ciyou9443/status/1946509772897005776/photo/1",
+          "media_key": "3_1946509766731407360",
+          "start": 22,
+          "url": "https://t.co/83o2kTcnmD"
+        },
+        {
+          "display_url": "pic.x.com/83o2kTcnmD",
+          "end": 45,
+          "expanded_url": "https://x.com/ciyou9443/status/1946509772897005776/photo/1",
+          "media_key": "3_1946509765267292160",
+          "start": 22,
+          "url": "https://t.co/83o2kTcnmD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946509772897005776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "wow，千fo惹，要不要多吃点庆祝一下呢～ https://t.co/83o2kTcnmD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1946509767255425025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwNkUf0WgAEjPlb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1151,
+        "media_key": "3_1946509766731407360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwNkUd3aoAAdzY5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 472,
+        "media_key": "3_1946509765267292160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwNkUYaWAAAbNnm.jpg",
+        "width": 678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946509767255425025",
+            "3_1946509766731407360",
+            "3_1946509765267292160"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1946509772897005776",
+        "created_at": "2025-07-19T09:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T10:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946509772897005776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/83o2kTcnmD",
+              "end": 45,
+              "expanded_url": "https://x.com/ciyou9443/status/1946509772897005776/photo/1",
+              "media_key": "3_1946509767255425025",
+              "start": 22,
+              "url": "https://t.co/83o2kTcnmD"
+            },
+            {
+              "display_url": "pic.x.com/83o2kTcnmD",
+              "end": 45,
+              "expanded_url": "https://x.com/ciyou9443/status/1946509772897005776/photo/1",
+              "media_key": "3_1946509766731407360",
+              "start": 22,
+              "url": "https://t.co/83o2kTcnmD"
+            },
+            {
+              "display_url": "pic.x.com/83o2kTcnmD",
+              "end": 45,
+              "expanded_url": "https://x.com/ciyou9443/status/1946509772897005776/photo/1",
+              "media_key": "3_1946509765267292160",
+              "start": 22,
+              "url": "https://t.co/83o2kTcnmD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946509772897005776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wow，千fo惹，要不要多吃点庆祝一下呢～ https://t.co/83o2kTcnmD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 404,
+          "like_count": 4431,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 1151
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

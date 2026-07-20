@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1927187147334865124",
+    "created_at": "2025-05-27T02:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T03:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927189851545153706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1731709770955177984",
+          "start": 0,
+          "username": "ElifiaFlora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927189851545153706",
+    "in_reply_to_user_id": "1731709770955177984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927189636754833853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElifiaFlora 我是天残党＞人＜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1927187147334865124",
+        "created_at": "2025-05-27T02:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T03:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927189851545153706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1731709770955177984",
+              "start": 0,
+              "username": "ElifiaFlora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927189851545153706",
+        "in_reply_to_user_id": "1731709770955177984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927189636754833853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElifiaFlora 我是天残党＞人＜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731709770955177984",
+        "conversation_id": "1927187147334865124",
+        "created_at": "2025-05-27T02:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T03:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927189636754833853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927189636754833853",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927187147334865124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 之前援交的时候去过一趟（）\n你怎么这么好看，好嫉妒（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/戾气现在很重/有两个人格/没有家长党🏳️‍⚧️🍥/",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 323,
+          "like_count": 3051,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 929
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T16:19:28.000Z",
+        "description": "小药娘 🏳️‍⚧️ 🍥／161 cm, 42 kg／作曲技术理论／前端／永劫无间／接线下援交／坐标广东省／🚪 门槛50（支付宝口令红包），不过 🚪 门槛不予回复",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.163.com/#/artist?id=34…",
+                "end": 23,
+                "expanded_url": "https://music.163.com/#/artist?id=34230059",
+                "start": 0,
+                "url": "https://t.co/UWdC19n2Sg"
+              }
+            ]
+          }
+        },
+        "id": "1731709770955177984",
+        "location": "广东省",
+        "name": "神乐坂 马儿 🍥（接线下援交）",
+        "pinned_tweet_id": "1899072671515914741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900101780794728451/J67Gd_2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 279,
+          "like_count": 1170,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 713
+        },
+        "url": "https://t.co/UWdC19n2Sg",
+        "username": "ElifiaFlora",
+        "verified": false
+      }
+    ]
+  }
+}

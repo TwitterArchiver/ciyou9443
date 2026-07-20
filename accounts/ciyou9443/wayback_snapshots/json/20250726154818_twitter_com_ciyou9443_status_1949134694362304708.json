@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1949131475611480183",
+    "created_at": "2025-07-26T15:48:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T16:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949134694362304708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1224014088381952002",
+          "start": 0,
+          "username": "YeBuYiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949134694362304708",
+    "in_reply_to_user_id": "1224014088381952002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949131475611480183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YeBuYiya 慢慢来呢，练着练着哪天突然就会了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1949131475611480183",
+        "created_at": "2025-07-26T15:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T16:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949134694362304708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1224014088381952002",
+              "start": 0,
+              "username": "YeBuYiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949134694362304708",
+        "in_reply_to_user_id": "1224014088381952002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949131475611480183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeBuYiya 慢慢来呢，练着练着哪天突然就会了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224014088381952002",
+        "conversation_id": "1949131475611480183",
+        "created_at": "2025-07-26T15:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T16:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949131475611480183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949131475611480183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "伪声两个月毫无进展…找不到感觉，怎么尝试都好像不对，到底难在哪里了也不知道🌝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人/问就是15岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 434,
+          "like_count": 5179,
+          "listed_count": 3,
+          "media_count": 141,
+          "tweet_count": 1239
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T16:58:04.000Z",
+        "description": "一个普通底层跨性别者，年过三十老药娘，争取活到自然死，为了那个虚无缥缈的目标而努力，换过很多工作，有很多技能，但是全都没什么用，目前正在摆地摊卖水果，有一个坚韧不屈的灵魂积极向上，感觉人生过去了好久好久，又好像没过多久",
+        "id": "1224014088381952002",
+        "location": "世界树",
+        "name": "花里花拉🍥🍬🍭（戒烟失败复吸版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942258710753206272/-77PQ2z9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 326,
+          "like_count": 2994,
+          "listed_count": 6,
+          "media_count": 196,
+          "tweet_count": 1923
+        },
+        "username": "YeBuYiya",
+        "verified": false
+      }
+    ]
+  }
+}

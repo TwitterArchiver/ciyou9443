@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1891020802872512652",
+    "created_at": "2025-02-16T12:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T13:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891101873727312073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767249379285741569",
+          "start": 0,
+          "username": "caomeiaaaok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891101873727312073",
+    "in_reply_to_user_id": "1767249379285741569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891020802872512652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiaaaok 给我也吃一口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1891020802872512652",
+        "created_at": "2025-02-16T12:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T13:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891101873727312073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767249379285741569",
+              "start": 0,
+              "username": "caomeiaaaok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891101873727312073",
+        "in_reply_to_user_id": "1767249379285741569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891020802872512652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiaaaok 给我也吃一口"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891020799731277824"
+          ]
+        },
+        "author_id": "1767249379285741569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1891020802872512652",
+        "created_at": "2025-02-16T07:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T08:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891020802872512652"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "螺蛳粉"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "mtf"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "药娘"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/579sM4gWlp",
+              "end": 61,
+              "expanded_url": "https://x.com/caomeiaaaok/status/1891020802872512652/photo/1",
+              "media_key": "3_1891020799731277824",
+              "start": 38,
+              "url": "https://t.co/579sM4gWlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891020802872512652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 368,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么以前我没发现有这么好吃的螺蛳粉店 #螺蛳粉 #mtf #药娘 #男娘 https://t.co/579sM4gWlp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "含糖mtf/欢迎互fo/困困困困困要困死了/冬季濒死限定/欢迎xyn来找我玩♥(｡￫v￩｡)♥🏳️‍⚧️🍥",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 119,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 206
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T18:01:08.000Z",
+        "description": "你好，可以叫我橙子，无证含糖 04  个人兴趣，喜欢睡觉(×，mtf，hrt两年 身高179  🍊🍥🏳️‍⚧️૮₍ ˃ ⤙ ˂ ₎ა  (我要是两个月没有更新那就是去另一个世界了)",
+        "id": "1767249379285741569",
+        "location": "离你1.5km",
+        "name": "橙子🍊睡不醒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870327654165176321/S6kvAQW8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 342,
+          "like_count": 3726,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1129
+        },
+        "username": "caomeiaaaok",
+        "verified": false
+      }
+    ]
+  }
+}

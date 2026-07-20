@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926838894739238912",
+        "3_1926838893896212480"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1926838918290215347",
+    "created_at": "2025-05-26T03:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T04:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926838918290215347"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "mtf"
+        },
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "药娘"
+        },
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "男娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iwEy4plncy",
+          "end": 62,
+          "expanded_url": "https://x.com/ciyou9443/status/1926838918290215347/photo/1",
+          "media_key": "3_1926838894739238912",
+          "start": 39,
+          "url": "https://t.co/iwEy4plncy"
+        },
+        {
+          "display_url": "pic.x.com/iwEy4plncy",
+          "end": 62,
+          "expanded_url": "https://x.com/ciyou9443/status/1926838918290215347/photo/1",
+          "media_key": "3_1926838893896212480",
+          "start": 39,
+          "url": "https://t.co/iwEy4plncy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926838918290215347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天，是你素生日，可以祝你素生日快乐吗～视奸你们!\n#mtf #药娘 #男娘 https://t.co/iwEy4plncy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1926838894739238912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr2BxBRWsAAxWvg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 756,
+        "media_key": "3_1926838893896212480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr2Bw-IXIAAMdhd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926838894739238912",
+            "3_1926838893896212480"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1926838918290215347",
+        "created_at": "2025-05-26T03:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T04:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926838918290215347"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "mtf"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "药娘"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iwEy4plncy",
+              "end": 62,
+              "expanded_url": "https://x.com/ciyou9443/status/1926838918290215347/photo/1",
+              "media_key": "3_1926838894739238912",
+              "start": 39,
+              "url": "https://t.co/iwEy4plncy"
+            },
+            {
+              "display_url": "pic.x.com/iwEy4plncy",
+              "end": 62,
+              "expanded_url": "https://x.com/ciyou9443/status/1926838918290215347/photo/1",
+              "media_key": "3_1926838893896212480",
+              "start": 39,
+              "url": "https://t.co/iwEy4plncy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926838918290215347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天，是你素生日，可以祝你素生日快乐吗～视奸你们!\n#mtf #药娘 #男娘 https://t.co/iwEy4plncy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/戾气现在很重/有两个人格/没有家长党🏳️‍⚧️🍥/",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 322,
+          "like_count": 3004,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 924
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1961382902824124416"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1961383018427248715",
+    "created_at": "2025-08-29T10:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T11:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961383018427248715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vVd3MrUdQ6",
+          "end": 31,
+          "expanded_url": "https://x.com/ciyou9443/status/1961383018427248715/video/1",
+          "media_key": "7_1961382902824124416",
+          "start": 8,
+          "url": "https://t.co/vVd3MrUdQ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961383018427248715",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "偷拍优雅大小姐 https://t.co/vVd3MrUdQ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6621,
+        "height": 1280,
+        "media_key": "7_1961382902824124416",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1961382902824124416/pu/img/yqLc-KK3w-bypDE2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1961382902824124416/pu/vid/avc1/320x568/ZtchGaeqTJeaghL-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1961382902824124416/pu/vid/avc1/480x852/VbzL6LlvoqDSjxqi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1961382902824124416/pu/vid/avc1/720x1280/a5EJN_h35cyOVg7K.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1961382902824124416/pu/pl/N-IhI_8-xN-PYwbS.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1961382902824124416"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1961383018427248715",
+        "created_at": "2025-08-29T10:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T11:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961383018427248715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vVd3MrUdQ6",
+              "end": 31,
+              "expanded_url": "https://x.com/ciyou9443/status/1961383018427248715/video/1",
+              "media_key": "7_1961382902824124416",
+              "start": 8,
+              "url": "https://t.co/vVd3MrUdQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961383018427248715",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偷拍优雅大小姐 https://t.co/vVd3MrUdQ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "哈基眠不听话的丫鬟",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1958676027850596862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 501,
+          "like_count": 6498,
+          "listed_count": 4,
+          "media_count": 136,
+          "tweet_count": 1442
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

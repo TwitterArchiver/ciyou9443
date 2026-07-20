@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976272064500858880"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1976271255449088136",
+    "created_at": "2025-10-09T13:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T14:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976272067042607379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907031442103943168",
+          "start": 0,
+          "username": "hoshinemu123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5EWOWKM1aF",
+          "end": 37,
+          "expanded_url": "https://x.com/ciyou9443/status/1976272067042607379/photo/1",
+          "media_key": "3_1976272064500858880",
+          "start": 14,
+          "url": "https://t.co/5EWOWKM1aF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976272067042607379",
+    "in_reply_to_user_id": "1907031442103943168",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976271255449088136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinemu123 https://t.co/5EWOWKM1aF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 746,
+        "media_key": "3_1976272064500858880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G20g-NAaAAAenvS.jpg",
+        "width": 900
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976271252273942528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G20gO7Oa0AAEF31.jpg",
+        "width": 1153
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976272064500858880"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1976271255449088136",
+        "created_at": "2025-10-09T13:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T14:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976272067042607379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5EWOWKM1aF",
+              "end": 37,
+              "expanded_url": "https://x.com/ciyou9443/status/1976272067042607379/photo/1",
+              "media_key": "3_1976272064500858880",
+              "start": 14,
+              "url": "https://t.co/5EWOWKM1aF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976272067042607379",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976271255449088136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 https://t.co/5EWOWKM1aF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976271252273942528"
+          ]
+        },
+        "author_id": "1907031442103943168",
+        "conversation_id": "1976271255449088136",
+        "created_at": "2025-10-09T12:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T13:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976271255449088136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PvrsqJS2Bh",
+              "end": 171,
+              "expanded_url": "https://x.com/hoshinemu123/status/1976271255449088136/photo/1",
+              "media_key": "3_1976271252273942528",
+              "start": 148,
+              "url": "https://t.co/PvrsqJS2Bh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976271255449088136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去做乳腺超声。\n检查大夫A：来头朝上躺这儿就行，露出前胸。\n报告大夫B：等会儿，是她吗？XX（我名字）？\nA：对，她就是，这个我知道。\n（检查中）\nA：报告模板用标准乳腺模板。\nB：啊？性别写的男啊。\nA：你不用管男女，用标准模板就行，这个情况特殊。\nB：哦哦。\nA：这是内分泌刘烨那边下来的。 https://t.co/PvrsqJS2Bh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/薛定谔的成分",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975908722846367744/FnFHFKBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 513,
+          "like_count": 7379,
+          "listed_count": 4,
+          "media_count": 203,
+          "tweet_count": 1684
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；半个软件工程师加半个音乐人；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；文学少女；古风/汉服女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1975169707985486036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2126,
+          "following_count": 3037,
+          "like_count": 2777,
+          "listed_count": 2,
+          "media_count": 515,
+          "tweet_count": 6050
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      }
+    ]
+  }
+}

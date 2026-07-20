@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912071008653066241",
+        "3_1912071010574008320"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1912071013371883674",
+    "created_at": "2025-04-15T09:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T10:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912071013371883674"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 11,
+          "tag": "mtf"
+        },
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "男娘"
+        },
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "药娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dqSuNNhQZu",
+          "end": 47,
+          "expanded_url": "https://x.com/ciyou9443/status/1912071013371883674/photo/1",
+          "media_key": "3_1912071008653066241",
+          "start": 24,
+          "url": "https://t.co/dqSuNNhQZu"
+        },
+        {
+          "display_url": "pic.x.com/dqSuNNhQZu",
+          "end": 47,
+          "expanded_url": "https://x.com/ciyou9443/status/1912071013371883674/photo/1",
+          "media_key": "3_1912071010574008320",
+          "start": 24,
+          "url": "https://t.co/dqSuNNhQZu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912071013371883674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗨，美女～恰个微吗～ #mtf #男娘 #药娘 https://t.co/dqSuNNhQZu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1293,
+        "media_key": "3_1912071008653066241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GokKc6gWwAEcfih.jpg",
+        "width": 1382
+      },
+      {
+        "height": 1030,
+        "media_key": "3_1912071010574008320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GokKdBqWAAAHhgs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912071008653066241",
+            "3_1912071010574008320"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1912071013371883674",
+        "created_at": "2025-04-15T09:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T10:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912071013371883674"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "mtf"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "男娘"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dqSuNNhQZu",
+              "end": 47,
+              "expanded_url": "https://x.com/ciyou9443/status/1912071013371883674/photo/1",
+              "media_key": "3_1912071008653066241",
+              "start": 24,
+              "url": "https://t.co/dqSuNNhQZu"
+            },
+            {
+              "display_url": "pic.x.com/dqSuNNhQZu",
+              "end": 47,
+              "expanded_url": "https://x.com/ciyou9443/status/1912071013371883674/photo/1",
+              "media_key": "3_1912071010574008320",
+              "start": 24,
+              "url": "https://t.co/dqSuNNhQZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912071013371883674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗨，美女～恰个微吗～ #mtf #男娘 #药娘 https://t.co/dqSuNNhQZu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1906693278533374051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 274,
+          "like_count": 2031,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 706
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

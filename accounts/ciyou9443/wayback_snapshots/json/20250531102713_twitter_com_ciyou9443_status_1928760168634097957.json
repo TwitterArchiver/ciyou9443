@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928760165467336704"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1928760168634097957",
+    "created_at": "2025-05-31T10:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T11:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928760168634097957"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "mtf"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "药娘"
+        },
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "男娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bu2bh3yeiQ",
+          "end": 58,
+          "expanded_url": "https://x.com/ciyou9443/status/1928760168634097957/photo/1",
+          "media_key": "3_1928760165467336704",
+          "start": 35,
+          "url": "https://t.co/Bu2bh3yeiQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928760168634097957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两天没洗头发，还淋了雨，头发居然还有香味～\n#mtf #药娘 #男娘 https://t.co/Bu2bh3yeiQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1928760168634097957].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1928760168634097957",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1928760168634097957"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1928760165467336704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsRVJseasAA998U.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/两个人格交替行动/🏳️‍⚧️🍥/一星期没更就可以当我似了/大概是个清水推",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 317,
+          "like_count": 3313,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 996
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

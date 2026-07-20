@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2062548808882684268",
+    "created_at": "2026-06-04T15:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062549989738631552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062549989738631552",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062548808882684268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@AcboxLiu 从说服自己外面太热开始🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062548802503069697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-lNUEaUAER6lf.jpg",
+        "width": 1044
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062548802494689280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-lNUCacAAEcMT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2062548808882684268",
+        "created_at": "2026-06-04T15:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062549989738631552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062549989738631552",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062548808882684268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@AcboxLiu 从说服自己外面太热开始🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062548802503069697",
+            "3_2062548802494689280"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "conversation_id": "2062548808882684268",
+        "created_at": "2026-06-04T14:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062548808882684268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7cJVOqzo36",
+              "end": 53,
+              "expanded_url": "https://x.com/AcboxLiu/status/2062548808882684268/photo/1",
+              "media_key": "3_2062548802503069697",
+              "start": 30,
+              "url": "https://t.co/7cJVOqzo36"
+            },
+            {
+              "display_url": "pic.x.com/7cJVOqzo36",
+              "end": 53,
+              "expanded_url": "https://x.com/AcboxLiu/status/2062548808882684268/photo/1",
+              "media_key": "3_2062548802494689280",
+              "start": 30,
+              "url": "https://t.co/7cJVOqzo36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062548808882684268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "短裙只敢在家穿，不敢穿出去，不知道怎么克服对穿短裙的恐惧🥹 https://t.co/7cJVOqzo36"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 540,
+          "like_count": 11495,
+          "listed_count": 5,
+          "media_count": 404,
+          "tweet_count": 3088
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦神秘纸箱 / https://t.co/hUTrNHa19i / 💖现实中是一个很可爱的人 / 🐱家里有小猫和大猫 @Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 59,
+                "username": "Dustella_Chan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 31,
+                "expanded_url": "http://github.com/sheepbox8646",
+                "start": 8,
+                "url": "https://t.co/hUTrNHa19i"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "上海/深圳",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "2039222526803636555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12100,
+          "following_count": 2965,
+          "like_count": 3376,
+          "listed_count": 59,
+          "media_count": 1097,
+          "tweet_count": 6181
+        },
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

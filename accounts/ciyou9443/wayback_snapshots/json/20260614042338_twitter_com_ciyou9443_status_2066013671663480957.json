@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2065871922173464726",
+    "created_at": "2026-06-14T04:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066013671663480957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1337372200915988480",
+          "start": 0,
+          "username": "H2036170722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066013671663480957",
+    "in_reply_to_user_id": "1337372200915988480",
+    "lang": "eu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065871922173464726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H2036170722 ruarua"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2065871922173464726",
+        "created_at": "2026-06-14T04:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066013671663480957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1337372200915988480",
+              "start": 0,
+              "username": "H2036170722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066013671663480957",
+        "in_reply_to_user_id": "1337372200915988480",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065871922173464726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H2036170722 ruarua"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1337372200915988480",
+        "conversation_id": "2065871922173464726",
+        "created_at": "2026-06-13T19:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065871922173464726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065871922173464726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额…\n半夜起来洗内裤…\n🙄啧\n刚到两周就来一次，真准时啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2062510740637139247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 558,
+          "like_count": 11885,
+          "listed_count": 5,
+          "media_count": 423,
+          "tweet_count": 3225
+        },
+        "username": "ciyou9443",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-11T12:22:42.000Z",
+        "description": "不定期发疯 霓虹荒野求生第七年（不会日语不会中文） 白日梦想家 不买衣服！攒钱！明年想买一辆小车/永远喜欢绿毛/喜欢搭衣服～。等着别人来爱我",
+        "id": "1337372200915988480",
+        "location": "Yokohama City Kohoku Ward",
+        "name": "H20",
+        "pinned_tweet_id": "1708794287016857972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058284123278761984/J_u841U6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 89,
+          "like_count": 35778,
+          "listed_count": 1,
+          "media_count": 1131,
+          "tweet_count": 8906
+        },
+        "username": "H2036170722",
+        "verified": false
+      }
+    ]
+  }
+}

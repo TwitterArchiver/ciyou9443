@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069039743082602496"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2069039745586577732",
+    "created_at": "2026-06-22T12:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T13:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069039745586577732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7YosEV66mq",
+          "end": 147,
+          "expanded_url": "https://x.com/ciyou9443/status/2069039745586577732/photo/1",
+          "media_key": "3_2069039743082602496",
+          "start": 124,
+          "url": "https://t.co/7YosEV66mq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069039745586577732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每当在药物影响下剥离了痛苦，感觉到自己在活着时，总会让素觉得也许不需要依赖药物也能做到，但是很显然，这比幻觉还要虚假些，没有真正的代偿，当恐惧和痛苦涌来时，素连求救的能力都没有，素知道这是饮鸩止渴，但若是想回应好好活着的话，这似乎已经是最好的解法 https://t.co/7YosEV66mq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1425,
+        "media_key": "3_2069039743082602496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLa0ryCaoAA5e16.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069039743082602496"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2069039745586577732",
+        "created_at": "2026-06-22T12:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069039745586577732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7YosEV66mq",
+              "end": 147,
+              "expanded_url": "https://x.com/ciyou9443/status/2069039745586577732/photo/1",
+              "media_key": "3_2069039743082602496",
+              "start": 124,
+              "url": "https://t.co/7YosEV66mq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069039745586577732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每当在药物影响下剥离了痛苦，感觉到自己在活着时，总会让素觉得也许不需要依赖药物也能做到，但是很显然，这比幻觉还要虚假些，没有真正的代偿，当恐惧和痛苦涌来时，素连求救的能力都没有，素知道这是饮鸩止渴，但若是想回应好好活着的话，这似乎已经是最好的解法 https://t.co/7YosEV66mq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  \n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 577,
+          "like_count": 12256,
+          "listed_count": 5,
+          "media_count": 410,
+          "tweet_count": 3249
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      }
+    ]
+  }
+}

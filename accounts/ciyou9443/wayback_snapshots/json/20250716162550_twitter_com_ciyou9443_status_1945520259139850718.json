@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945520256555823104"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1945520259139850718",
+    "created_at": "2025-07-16T16:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T17:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945520259139850718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tz7V0S4hYL",
+          "end": 43,
+          "expanded_url": "https://x.com/ciyou9443/status/1945520259139850718/photo/1",
+          "media_key": "3_1945520256555823104",
+          "start": 20,
+          "url": "https://t.co/tz7V0S4hYL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945520259139850718",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "持家的哈基素为省水费拉着哈基眠一起洗澡 https://t.co/tz7V0S4hYL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 582,
+        "media_key": "3_1945520256555823104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv_gXZNWMAA0qZ9.jpg",
+        "width": 582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945520256555823104"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1945520259139850718",
+        "created_at": "2025-07-16T16:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T17:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945520259139850718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tz7V0S4hYL",
+              "end": 43,
+              "expanded_url": "https://x.com/ciyou9443/status/1945520259139850718/photo/1",
+              "media_key": "3_1945520256555823104",
+              "start": 20,
+              "url": "https://t.co/tz7V0S4hYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945520259139850718",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "持家的哈基素为省水费拉着哈基眠一起洗澡 https://t.co/tz7V0S4hYL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 391,
+          "like_count": 4260,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 1123
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

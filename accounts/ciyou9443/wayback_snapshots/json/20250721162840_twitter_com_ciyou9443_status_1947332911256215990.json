@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1947286843902316924",
+    "created_at": "2025-07-21T16:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T17:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947332911256215990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1659799899431669760",
+          "start": 0,
+          "username": "lesyeuxdavery"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947332911256215990",
+    "in_reply_to_user_id": "1659799899431669760",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947286843902316924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lesyeuxdavery (●'◡'●)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1947286832796024832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwYnDqiaQAA-nBg.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1947286843902316924",
+        "created_at": "2025-07-21T16:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T17:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947332911256215990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659799899431669760",
+              "start": 0,
+              "username": "lesyeuxdavery"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947332911256215990",
+        "in_reply_to_user_id": "1659799899431669760",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947286843902316924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lesyeuxdavery (●'◡'●)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947286832796024832"
+          ]
+        },
+        "author_id": "1659799899431669760",
+        "conversation_id": "1947286843902316924",
+        "created_at": "2025-07-21T13:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T14:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947286843902316924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3uqBam3G2w",
+              "end": 23,
+              "expanded_url": "https://x.com/lesyeuxdavery/status/1947286843902316924/photo/1",
+              "media_key": "3_1947286832796024832",
+              "start": 0,
+              "url": "https://t.co/3uqBam3G2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947286843902316924",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3uqBam3G2w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 410,
+          "like_count": 4533,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1167
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T05:55:38.000Z",
+        "description": "place i vent 💗@canger_6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "canger_6"
+              }
+            ]
+          }
+        },
+        "id": "1659799899431669760",
+        "name": "réflexions",
+        "pinned_tweet_id": "1935010687488856389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882830689323864064/OC23Qbuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 146,
+          "like_count": 6813,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 1629
+        },
+        "username": "lesyeuxdavery",
+        "verified": false
+      }
+    ]
+  }
+}

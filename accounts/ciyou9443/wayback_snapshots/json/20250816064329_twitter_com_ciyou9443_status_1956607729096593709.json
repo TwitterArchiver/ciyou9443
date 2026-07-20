@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1956607729096593709",
+    "created_at": "2025-08-16T06:43:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T07:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956607729096593709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1907031442103943168",
+          "start": 3,
+          "username": "hoshinemu123"
+        },
+        {
+          "end": 34,
+          "id": "1404182080901296129",
+          "start": 18,
+          "username": "OZNhtLJfmYmaLkR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956607729096593709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956595337881391568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinemu123: @OZNhtLJfmYmaLkR 性别解放以及“重定义”主义本质上是掩耳盗铃，易性症的硬性诊断标准永远只有对生理特征的厌恶痛苦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1956607729096593709",
+        "created_at": "2025-08-16T06:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T07:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956607729096593709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907031442103943168",
+              "start": 3,
+              "username": "hoshinemu123"
+            },
+            {
+              "end": 34,
+              "id": "1404182080901296129",
+              "start": 18,
+              "username": "OZNhtLJfmYmaLkR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956607729096593709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956595337881391568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinemu123: @OZNhtLJfmYmaLkR 性别解放以及“重定义”主义本质上是掩耳盗铃，易性症的硬性诊断标准永远只有对生理特征的厌恶痛苦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "conversation_id": "1956427605978100080",
+        "created_at": "2025-08-16T05:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T06:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956595337881391568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1404182080901296129",
+              "start": 0,
+              "username": "OZNhtLJfmYmaLkR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956595337881391568",
+        "in_reply_to_user_id": "1404182080901296129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956427605978100080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OZNhtLJfmYmaLkR 性别解放以及“重定义”主义本质上是掩耳盗铃，易性症的硬性诊断标准永远只有对生理特征的厌恶痛苦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1952311599215399294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 472,
+          "like_count": 5963,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 1386
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；半个软件工程师加半个音乐人；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；文学少女；古风/汉服女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1952089467646579081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 2820,
+          "like_count": 1613,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 4491
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-13T21:01:57.000Z",
+        "description": "喜欢omega男和猫//火焰、月亮、和宇宙的女儿//岁月静好女权非激，勿鉴，看不惯请自助拉黑//来骚扰的屌子驴子必得艾滋梅毒HPV//乐趣是把屌子和屌子的爹剁碎，尸块混一起喂狗",
+        "id": "1404182080901296129",
+        "name": "姜妲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1443614497185349635/gXQPSUFX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 23,
+          "like_count": 13780,
+          "listed_count": 5,
+          "media_count": 39,
+          "tweet_count": 6291
+        },
+        "username": "OZNhtLJfmYmaLkR",
+        "verified": false
+      }
+    ]
+  }
+}

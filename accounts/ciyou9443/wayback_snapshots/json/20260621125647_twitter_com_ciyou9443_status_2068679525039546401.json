@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068679522011226112"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2068679525039546401",
+    "created_at": "2026-06-21T12:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068679525039546401"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9GiEvjWqUs",
+          "end": 65,
+          "expanded_url": "https://x.com/ciyou9443/status/2068679525039546401/photo/1",
+          "media_key": "3_2068679522011226112",
+          "start": 42,
+          "url": "https://t.co/9GiEvjWqUs"
+        },
+        {
+          "display_url": "x.com/ciyou9443/stat…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/ciyou9443/status/2068668882651680929",
+          "start": 66,
+          "url": "https://t.co/Ff1icn9fVN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068679525039546401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068668882651680929",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很抱歉的山，素子是会支持正版kitty的，但是这个没有正( •̥́ ˍ •̀ू ) https://t.co/9GiEvjWqUs https://t.co/Ff1icn9fVN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068679522011226112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVtEJ-aoAAZH47.jpg",
+        "width": 922
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2068668880067911681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVjYtpaYAExI_f.jpg",
+        "width": 1466
+      },
+      {
+        "height": 1075,
+        "media_key": "3_2068668879409487872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVjYrMboAASOcQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068679522011226112"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2068679525039546401",
+        "created_at": "2026-06-21T12:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068679525039546401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9GiEvjWqUs",
+              "end": 65,
+              "expanded_url": "https://x.com/ciyou9443/status/2068679525039546401/photo/1",
+              "media_key": "3_2068679522011226112",
+              "start": 42,
+              "url": "https://t.co/9GiEvjWqUs"
+            },
+            {
+              "display_url": "x.com/ciyou9443/stat…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/ciyou9443/status/2068668882651680929",
+              "start": 66,
+              "url": "https://t.co/Ff1icn9fVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068679525039546401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068668882651680929",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很抱歉的山，素子是会支持正版kitty的，但是这个没有正( •̥́ ˍ •̀ू ) https://t.co/9GiEvjWqUs https://t.co/Ff1icn9fVN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068668880067911681",
+            "3_2068668879409487872"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068668882651680929",
+        "created_at": "2026-06-21T12:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068668882651680929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8bAIEE9nJo",
+              "end": 51,
+              "expanded_url": "https://x.com/ciyou9443/status/2068668882651680929/photo/1",
+              "media_key": "3_2068668880067911681",
+              "start": 28,
+              "url": "https://t.co/8bAIEE9nJo"
+            },
+            {
+              "display_url": "pic.x.com/8bAIEE9nJo",
+              "end": 51,
+              "expanded_url": "https://x.com/ciyou9443/status/2068668882651680929/photo/1",
+              "media_key": "3_2068668879409487872",
+              "start": 28,
+              "url": "https://t.co/8bAIEE9nJo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068668882651680929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很好的kitty西施，为这碟醋包了个饺子(〃'▽'〃) https://t.co/8bAIEE9nJo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 575,
+          "like_count": 12234,
+          "listed_count": 5,
+          "media_count": 438,
+          "tweet_count": 3364
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      }
+    ]
+  }
+}

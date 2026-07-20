@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1989283838212862075",
+    "created_at": "2025-11-15T03:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T04:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989531639840748029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907031442103943168",
+          "start": 0,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989531639840748029",
+    "in_reply_to_user_id": "1907031442103943168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989283838212862075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinemu123 大概率是酸掉了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989283830298275840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tbGp5bcAAfYlK.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989283828217843712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tbGiJakAAiBiA.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1989283838212862075",
+        "created_at": "2025-11-15T03:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T04:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989531639840748029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989531639840748029",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989283838212862075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 大概率是酸掉了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989283830298275840",
+            "3_1989283828217843712"
+          ]
+        },
+        "author_id": "1907031442103943168",
+        "conversation_id": "1989283838212862075",
+        "created_at": "2025-11-14T10:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T11:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989283838212862075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4aOToexfGf",
+              "end": 80,
+              "expanded_url": "https://x.com/hoshinemu123/status/1989283838212862075/photo/1",
+              "media_key": "3_1989283830298275840",
+              "start": 57,
+              "url": "https://t.co/4aOToexfGf"
+            },
+            {
+              "display_url": "pic.x.com/4aOToexfGf",
+              "end": 80,
+              "expanded_url": "https://x.com/hoshinemu123/status/1989283838212862075/photo/1",
+              "media_key": "3_1989283828217843712",
+              "start": 57,
+              "url": "https://t.co/4aOToexfGf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989283838212862075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10254,
+          "like_count": 71,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "首页刷到点进去一看居然把我ban了。那我可就说点狠话了。\n凡是需要“成为家长党”的，其实永远的难以成为家长党了。 https://t.co/4aOToexfGf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974504976752984101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 534,
+          "like_count": 8675,
+          "listed_count": 4,
+          "media_count": 271,
+          "tweet_count": 2037
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；半个软件工程师加半个音乐人；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；文学少女；古风/汉服女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1975169707985486036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2417,
+          "following_count": 3140,
+          "like_count": 3024,
+          "listed_count": 3,
+          "media_count": 594,
+          "tweet_count": 7080
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      }
+    ]
+  }
+}

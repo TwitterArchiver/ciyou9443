@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1950616110971449696",
+    "created_at": "2025-07-30T17:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T18:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950616110971449696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1805373961020260353",
+          "start": 3,
+          "username": "ciyou9443"
+        },
+        {
+          "end": 104,
+          "id": "1720665183188922368",
+          "start": 99,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/hoshinemu123/s…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/hoshinemu123/status/1950615645944770660",
+          "start": 105,
+          "url": "https://t.co/fmW1eAEeXr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950616110971449696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950615645944770660",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "据账号@ciyou9443 的推文想象人物画像，尽可能详细些并包括以下内容：\n1.性別    2.年齢   3.職業   4.学校    5.家族構成    6.趣味   7.思想    8.本名\n@grok https://t.co/fmW1eAEeXr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1950616110971449696",
+        "created_at": "2025-07-30T17:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T18:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950616110971449696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1805373961020260353",
+              "start": 3,
+              "username": "ciyou9443"
+            },
+            {
+              "end": 104,
+              "id": "1720665183188922368",
+              "start": 99,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hoshinemu123/s…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/hoshinemu123/status/1950615645944770660",
+              "start": 105,
+              "url": "https://t.co/fmW1eAEeXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950616110971449696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950615645944770660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "据账号@ciyou9443 的推文想象人物画像，尽可能详细些并包括以下内容：\n1.性別    2.年齢   3.職業   4.学校    5.家族構成    6.趣味   7.思想    8.本名\n@grok https://t.co/fmW1eAEeXr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "conversation_id": "1950615645944770660",
+        "created_at": "2025-07-30T17:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T18:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950615645944770660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1907031442103943168",
+              "start": 4,
+              "username": "hoshinemu123"
+            },
+            {
+              "end": 109,
+              "id": "1720665183188922368",
+              "start": 104,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/chanxiulumanzh…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/chanxiulumanzhi/status/1950515866921222397",
+              "start": 110,
+              "url": "https://t.co/70NvMAo9uW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950615645944770660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950515866921222397",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "据账号\n@hoshinemu123 \n的推文想象人物画像，尽可能详细些并包括以下内容： 1.性別    2.年齢   3.職業   4.学校    5.家族構成    6.趣味   7.思想    8.本名\n@grok https://t.co/70NvMAo9uW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 444,
+          "like_count": 5475,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 1281
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5651519,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4540,
+          "media_count": 2416190,
+          "tweet_count": 30046906
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；一个领域很偏的软件工程师；一个并不会创作的音乐制作人；一个技术全忘了的技术音频；文学少女；古风女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1949411591784710505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 2724,
+          "like_count": 1347,
+          "listed_count": 0,
+          "media_count": 346,
+          "tweet_count": 4107
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      }
+    ]
+  }
+}

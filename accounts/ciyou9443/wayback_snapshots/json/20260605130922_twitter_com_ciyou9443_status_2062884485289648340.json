@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2062847177605726635",
+    "created_at": "2026-06-05T13:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062884485289648340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699282628560748544",
+          "start": 0,
+          "username": "tingkawayi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062884485289648340",
+    "in_reply_to_user_id": "1699282628560748544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062847177605726635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tingkawayi 如此可爱～头发比我还多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1601,
+        "media_key": "3_2062847168411824128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKC0kfsbcAAX2pJ.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2062847177605726635",
+        "created_at": "2026-06-05T13:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062884485289648340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699282628560748544",
+              "start": 0,
+              "username": "tingkawayi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062884485289648340",
+        "in_reply_to_user_id": "1699282628560748544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062847177605726635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingkawayi 如此可爱～头发比我还多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062847168411824128"
+          ]
+        },
+        "author_id": "1699282628560748544",
+        "conversation_id": "2062847177605726635",
+        "created_at": "2026-06-05T10:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062847177605726635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZWHerB53hB",
+              "end": 69,
+              "expanded_url": "https://x.com/tingkawayi/status/2062847177605726635/photo/1",
+              "media_key": "3_2062847168411824128",
+              "start": 46,
+              "url": "https://t.co/ZWHerB53hB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062847177605726635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这就是男孩子留长头发的优势，用将近20年的寸头换来现在的发量惊人，从后面看像瀑黑布一样hh https://t.co/ZWHerB53hB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2062510740637139247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 544,
+          "like_count": 11604,
+          "listed_count": 5,
+          "media_count": 406,
+          "tweet_count": 3120
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T04:45:33.000Z",
+        "description": "啊这啊这，有没有人帮我想简介，我的大脑过载了🥺",
+        "id": "1699282628560748544",
+        "location": "河南洛阳",
+        "name": "町🍥",
+        "pinned_tweet_id": "1821397083192262726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018304464911028224/k-Z0w2qM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8173,
+          "following_count": 559,
+          "like_count": 356,
+          "listed_count": 12,
+          "media_count": 106,
+          "tweet_count": 860
+        },
+        "username": "tingkawayi",
+        "verified": false
+      }
+    ]
+  }
+}

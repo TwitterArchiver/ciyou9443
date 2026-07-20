@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2062769376068272314",
+    "created_at": "2026-06-05T07:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T08:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062794008154587193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1868163970051211264",
+          "start": 0,
+          "username": "XianoYue86365"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062794008154587193",
+    "in_reply_to_user_id": "1868163970051211264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062769376068272314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XianoYue86365 劳保是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2062769376068272314",
+        "created_at": "2026-06-05T07:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062794008154587193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1868163970051211264",
+              "start": 0,
+              "username": "XianoYue86365"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062794008154587193",
+        "in_reply_to_user_id": "1868163970051211264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062769376068272314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XianoYue86365 劳保是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868163970051211264",
+        "conversation_id": "2062769376068272314",
+        "created_at": "2026-06-05T05:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062769376068272314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quite8964/stat…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/quite8964/status/2062479779270688827",
+              "start": 53,
+              "url": "https://t.co/wqRJEsDNsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062769376068272314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062479779270688827",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "多好的医生啊 又有耐心又很温柔 在劝说父母的时候也都是以尽量平衡父母和孩子需求为主的医生怎么会有人去打她 https://t.co/wqRJEsDNsY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 542,
+          "like_count": 11559,
+          "listed_count": 5,
+          "media_count": 404,
+          "tweet_count": 3103
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T05:21:46.000Z",
+        "description": "09︱170㎝ 65㎏︱🏳‍⚧无证含糖 hrt2024.12.17︱容貌焦虑症qwq︱4i︱是弱受喵uwu︱新来的多多关照喵ovo︱喜欢涩涩（同类是最棒哒 欢迎互fo～(看到一定回关!)︱鱼脑（笨︱弱受︱小号@Suochengtuan ︱最好的姐姐～@kill27012︱带鳅改变的姐姐@xing_qian78541",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 104,
+                "username": "Suochengtuan"
+              },
+              {
+                "end": 135,
+                "start": 125,
+                "username": "kill27012"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "xing_qian78541"
+              }
+            ]
+          }
+        },
+        "id": "1868163970051211264",
+        "location": "福建",
+        "name": "羽秋鳅（羽秋Yuki🏳‍⚧）",
+        "pinned_tweet_id": "1958032887762080208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043369462074851328/ZhHod-Mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 884,
+          "like_count": 4779,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 572
+        },
+        "username": "XianoYue86365",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2013397439319789712",
+    "created_at": "2026-01-21T05:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T06:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013842738060353737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1917932636565041152",
+          "start": 0,
+          "username": "114514ssr"
+        },
+        {
+          "end": 23,
+          "id": "1938896679844958208",
+          "start": 11,
+          "username": "kngzi150108"
+        },
+        {
+          "end": 35,
+          "id": "1535701819812462600",
+          "start": 24,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013842738060353737",
+    "in_reply_to_user_id": "1917932636565041152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013777446122745922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@114514ssr @kngzi150108 @Kenntnis22 是的，山东人就是没有好东西的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2013397439319789712",
+        "created_at": "2026-01-21T05:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T06:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013842738060353737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1917932636565041152",
+              "start": 0,
+              "username": "114514ssr"
+            },
+            {
+              "end": 23,
+              "id": "1938896679844958208",
+              "start": 11,
+              "username": "kngzi150108"
+            },
+            {
+              "end": 35,
+              "id": "1535701819812462600",
+              "start": 24,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013842738060353737",
+        "in_reply_to_user_id": "1917932636565041152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013777446122745922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@114514ssr @kngzi150108 @Kenntnis22 是的，山东人就是没有好东西的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917932636565041152",
+        "conversation_id": "2013397439319789712",
+        "created_at": "2026-01-21T00:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T01:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013777446122745922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            },
+            {
+              "end": 23,
+              "id": "1938896679844958208",
+              "start": 11,
+              "username": "kngzi150108"
+            },
+            {
+              "end": 35,
+              "id": "1535701819812462600",
+              "start": 24,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013777446122745922",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013484071939444931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 @kngzi150108 @Kenntnis22 难绷，你觉得你很幽默嘛😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "不爱出门爱抱怨的现充",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2012821211940860380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010721996909514752/qGj_peZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 541,
+          "like_count": 9932,
+          "listed_count": 4,
+          "media_count": 337,
+          "tweet_count": 2502
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T13:22:37.000Z",
+        "description": "",
+        "id": "1917932636565041152",
+        "name": "华言夏语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000036367548690432/NHooEKBB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 264
+        },
+        "username": "114514ssr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T09:47:33.000Z",
+        "description": "179cm\n男同🏳️‍🌈（顺直别来跳脸，老子他妈有对象）\n平时爱打战争雷霆、塔克夫、Apex\n\n拥有希腊绿卡🇬🇷\n国家与我无关，个人利益主义者😄\n\n目前去过的国家:🇯🇵🇬🇧🇻🇳🇹🇭🇬🇷🇳🇴🇩🇰🇮🇸\n下一步想去的:🇸🇪🇺🇸🇷🇺🇧🇷🇪🇸🇫🇷",
+        "id": "1938896679844958208",
+        "location": "尼莫点",
+        "name": "耄耋(百战不败) 🇨🇳🤝🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996533967072505856/bAuT6Zqz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 281,
+          "like_count": 1674,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 835
+        },
+        "username": "kngzi150108",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2013563803510743436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48225,
+          "following_count": 370,
+          "like_count": 43514,
+          "listed_count": 231,
+          "media_count": 8870,
+          "tweet_count": 13709
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1962633065534304620",
+    "created_at": "2025-09-01T21:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T22:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962633065534304620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1479696561302999042",
+          "start": 3,
+          "username": "quite8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962633065534304620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962444196419416129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @quite8964: 昨天晚上听闻某理工大学，因为强制剪头发，一个mtf跳楼紫砂了。\n\n虽然很痛心，但我还是会有一种羡慕，羡慕她可以逃避掉未来的种种苦难。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1962633065534304620",
+        "created_at": "2025-09-01T21:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T22:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962633065534304620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1479696561302999042",
+              "start": 3,
+              "username": "quite8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962633065534304620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962444196419416129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @quite8964: 昨天晚上听闻某理工大学，因为强制剪头发，一个mtf跳楼紫砂了。\n\n虽然很痛心，但我还是会有一种羡慕，羡慕她可以逃避掉未来的种种苦难。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479696561302999042",
+        "conversation_id": "1962444196419416129",
+        "created_at": "2025-09-01T09:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T10:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962444196419416129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962444196419416129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 17113,
+          "like_count": 256,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "昨天晚上听闻某理工大学，因为强制剪头发，一个mtf跳楼紫砂了。\n\n虽然很痛心，但我还是会有一种羡慕，羡慕她可以逃避掉未来的种种苦难。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 505,
+          "like_count": 6592,
+          "listed_count": 4,
+          "media_count": 140,
+          "tweet_count": 1472
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 想要得到更多的喜欢和爱 可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina 妹妹@Chiyuyu520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 56,
+                "start": 49,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "dominnicchina"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Chiyuyu520"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "枫糖小橘🍊",
+        "pinned_tweet_id": "1941924482798788819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938519215071481856/RGyMr1ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10619,
+          "following_count": 2921,
+          "like_count": 31734,
+          "listed_count": 22,
+          "media_count": 595,
+          "tweet_count": 13859
+        },
+        "username": "quite8964",
+        "verified": false
+      }
+    ]
+  }
+}

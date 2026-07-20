@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969753681567576064",
+        "3_1969753683324977152"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1969753687129211125",
+    "created_at": "2025-09-21T13:20:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T14:20:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969753687129211125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HCM6iKEAUS",
+          "end": 46,
+          "expanded_url": "https://x.com/ciyou9443/status/1969753687129211125/photo/1",
+          "media_key": "3_1969753681567576064",
+          "start": 23,
+          "url": "https://t.co/HCM6iKEAUS"
+        },
+        {
+          "display_url": "pic.x.com/HCM6iKEAUS",
+          "end": 46,
+          "expanded_url": "https://x.com/ciyou9443/status/1969753687129211125/photo/1",
+          "media_key": "3_1969753683324977152",
+          "start": 23,
+          "url": "https://t.co/HCM6iKEAUS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969753687129211125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "成功把眼珠子扣下来了，素大人的双眼布满了血丝 https://t.co/HCM6iKEAUS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1006,
+        "media_key": "3_1969753681567576064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1X4iYTacAAL0GL.jpg",
+        "width": 1348
+      },
+      {
+        "height": 1229,
+        "media_key": "3_1969753683324977152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1X4ie2aQAAjlNs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969753681567576064",
+            "3_1969753683324977152"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1969753687129211125",
+        "created_at": "2025-09-21T13:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T14:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969753687129211125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HCM6iKEAUS",
+              "end": 46,
+              "expanded_url": "https://x.com/ciyou9443/status/1969753687129211125/photo/1",
+              "media_key": "3_1969753681567576064",
+              "start": 23,
+              "url": "https://t.co/HCM6iKEAUS"
+            },
+            {
+              "display_url": "pic.x.com/HCM6iKEAUS",
+              "end": 46,
+              "expanded_url": "https://x.com/ciyou9443/status/1969753687129211125/photo/1",
+              "media_key": "3_1969753683324977152",
+              "start": 23,
+              "url": "https://t.co/HCM6iKEAUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969753687129211125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成功把眼珠子扣下来了，素大人的双眼布满了血丝 https://t.co/HCM6iKEAUS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 511,
+          "like_count": 6994,
+          "listed_count": 4,
+          "media_count": 163,
+          "tweet_count": 1582
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057669280901283840",
+        "3_2057669281782063105"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2057669284495864050",
+    "created_at": "2026-05-22T03:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T04:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057669284495864050"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oxPcLHyZQO",
+          "end": 44,
+          "expanded_url": "https://x.com/ciyou9443/status/2057669284495864050/photo/1",
+          "media_key": "3_2057669280901283840",
+          "start": 21,
+          "url": "https://t.co/oxPcLHyZQO"
+        },
+        {
+          "display_url": "pic.x.com/oxPcLHyZQO",
+          "end": 44,
+          "expanded_url": "https://x.com/ciyou9443/status/2057669284495864050/photo/1",
+          "media_key": "3_2057669281782063105",
+          "start": 21,
+          "url": "https://t.co/oxPcLHyZQO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057669284495864050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呜呜呜呜呜呜呜呜呜，昨天走太多了，已老实 https://t.co/oxPcLHyZQO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2057669280901283840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5PTxlawAAT5PU.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2057669281782063105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5PT03aYAEbzrU.jpg",
+        "width": 1186
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057669280901283840",
+            "3_2057669281782063105"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2057669284495864050",
+        "created_at": "2026-05-22T03:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057669284495864050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oxPcLHyZQO",
+              "end": 44,
+              "expanded_url": "https://x.com/ciyou9443/status/2057669284495864050/photo/1",
+              "media_key": "3_2057669280901283840",
+              "start": 21,
+              "url": "https://t.co/oxPcLHyZQO"
+            },
+            {
+              "display_url": "pic.x.com/oxPcLHyZQO",
+              "end": 44,
+              "expanded_url": "https://x.com/ciyou9443/status/2057669284495864050/photo/1",
+              "media_key": "3_2057669281782063105",
+              "start": 21,
+              "url": "https://t.co/oxPcLHyZQO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057669284495864050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜呜呜呜呜呜呜，昨天走太多了，已老实 https://t.co/oxPcLHyZQO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "常曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 537,
+          "like_count": 10939,
+          "listed_count": 4,
+          "media_count": 397,
+          "tweet_count": 2885
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

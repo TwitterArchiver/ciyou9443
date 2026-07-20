@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1920291397980336553",
+    "created_at": "2025-05-08T12:38:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T13:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920458296353280142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "764856941151596549",
+          "start": 0,
+          "username": "_AkitaYura"
+        },
+        {
+          "end": 28,
+          "id": "1886278115955273728",
+          "start": 12,
+          "username": "Y0JATlyoJA46934"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920458296353280142",
+    "in_reply_to_user_id": "764856941151596549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920291397980336553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_AkitaYura @Y0JATlyoJA46934 性感妈妈～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1920291394784051200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqY-2XNXwAAwQ0k.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1920291397980336553",
+        "created_at": "2025-05-08T12:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T13:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920458296353280142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "764856941151596549",
+              "start": 0,
+              "username": "_AkitaYura"
+            },
+            {
+              "end": 28,
+              "id": "1886278115955273728",
+              "start": 12,
+              "username": "Y0JATlyoJA46934"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920458296353280142",
+        "in_reply_to_user_id": "764856941151596549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920291397980336553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_AkitaYura @Y0JATlyoJA46934 性感妈妈～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920291394784051200"
+          ]
+        },
+        "author_id": "764856941151596549",
+        "conversation_id": "1920291397980336553",
+        "created_at": "2025-05-08T01:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T02:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920291397980336553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886278115955273728",
+              "start": 0,
+              "username": "Y0JATlyoJA46934"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2gDNmCFdyj",
+              "end": 48,
+              "expanded_url": "https://x.com/_AkitaYura/status/1920291397980336553/photo/1",
+              "media_key": "3_1920291394784051200",
+              "start": 25,
+              "url": "https://t.co/2gDNmCFdyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920291397980336553",
+        "in_reply_to_user_id": "1886278115955273728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 447,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Y0JATlyoJA46934 诡秘我性感不🤗 https://t.co/2gDNmCFdyj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/没有家长党",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1919285021896253823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 289,
+          "like_count": 2606,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 849
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T16:11:19.000Z",
+        "description": "短发棕毛假小子🏳‍🌈|喵拉图女爵👑|麻辣烫#1🌶|颜控🐱|\n▫️姐@Sugita_Midoriko💗\n▫️叶@fallenleavesw😽\n▫️青@qingshixiang258😺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "Sugita_Midoriko"
+              },
+              {
+                "end": 68,
+                "start": 54,
+                "username": "fallenleavesw"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "qingshixiang258"
+              }
+            ]
+          }
+        },
+        "id": "764856941151596549",
+        "name": "Akita Yura",
+        "pinned_tweet_id": "1920291397980336553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878406135503540224/BC7Tb7V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 660,
+          "like_count": 49611,
+          "listed_count": 7,
+          "media_count": 1174,
+          "tweet_count": 11367
+        },
+        "username": "_AkitaYura",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T04:58:54.000Z",
+        "description": "女 双/女同p/4i/1i/不聊 不加 只理妹宝和正常人\n双相/躁狂/ADHD/阅读障碍（私信发太长我看不懂 可以拆分发 我有病 喜欢发癫",
+        "id": "1886278115955273728",
+        "location": "🚪你妈",
+        "name": "小白",
+        "pinned_tweet_id": "1917588225541169176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888089843806388224/mocO9Zff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 94,
+          "like_count": 11737,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 2396
+        },
+        "username": "Y0JATlyoJA46934",
+        "verified": false
+      }
+    ]
+  }
+}

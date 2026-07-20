@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1811005791891279996",
+    "created_at": "2024-07-10T14:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-10T15:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811042541128528076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2515051513",
+          "start": 0,
+          "username": "Luyi2003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811042541128528076",
+    "in_reply_to_user_id": "2515051513",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811005791891279996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luyi2003 抱抱～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1811005791891279996",
+        "created_at": "2024-07-10T14:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-10T15:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811042541128528076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2515051513",
+              "start": 0,
+              "username": "Luyi2003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811042541128528076",
+        "in_reply_to_user_id": "2515051513",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811005791891279996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luyi2003 抱抱～"
+      },
+      {
+        "attachments": {},
+        "author_id": "2515051513",
+        "conversation_id": "1811005791891279996",
+        "created_at": "2024-07-10T11:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-10T12:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811005791891279996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Luyi2003/statu…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/Luyi2003/status/1811005448516161773",
+              "start": 75,
+              "url": "https://t.co/KhwFE1shZh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811005791891279996",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2804,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811005448516161773",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在还插着透析管和尿管+3个留置针，药物中毒现在肝肾脾胃肠道指标都不正常，每次尿尿都痛的要死，每次换药都能听见我的猪叫，真的痛死我了o(╥﹏╥)o https://t.co/KhwFE1shZh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "含糖mtf/困困困困困要困死了",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805376478143823874/uBhnpkEV_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 28,
+          "listed_count": 0,
+          "tweet_count": 10
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-22T10:03:11.000Z",
+        "description": "MTF/无证含糖/HRT2024.3/168/60/焦虑/抑郁/叫我11、阿紫都行/游戏制作人/动画制片/音乐制作人",
+        "id": "2515051513",
+        "name": "依依紫🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803415116387590147/hG91QARM_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 172,
+          "like_count": 432,
+          "listed_count": 1,
+          "tweet_count": 528
+        },
+        "username": "Luyi2003",
+        "verified": false
+      }
+    ]
+  }
+}

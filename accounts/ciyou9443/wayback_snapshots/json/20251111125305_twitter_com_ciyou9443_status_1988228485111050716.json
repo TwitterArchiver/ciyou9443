@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1988213456525488441",
+    "created_at": "2025-11-11T12:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T13:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988228485111050716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1764820595387305984",
+          "start": 0,
+          "username": "miaoning000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988228485111050716",
+    "in_reply_to_user_id": "1764820595387305984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988213456525488441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaoning000 鹿，狠狠的鹿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 741,
+        "media_key": "3_1988213453866364931",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5eNmi9bcAMrrXn.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1988213456525488441",
+        "created_at": "2025-11-11T12:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T13:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988228485111050716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1764820595387305984",
+              "start": 0,
+              "username": "miaoning000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988228485111050716",
+        "in_reply_to_user_id": "1764820595387305984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988213456525488441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaoning000 鹿，狠狠的鹿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988213453866364931"
+          ]
+        },
+        "author_id": "1764820595387305984",
+        "conversation_id": "1988213456525488441",
+        "created_at": "2025-11-11T11:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T12:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988213456525488441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gOvjaSR8is",
+              "end": 23,
+              "expanded_url": "https://x.com/miaoning000/status/1988213456525488441/photo/1",
+              "media_key": "3_1988213453866364931",
+              "start": 0,
+              "url": "https://t.co/gOvjaSR8is"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988213456525488441",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gOvjaSR8is"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 527,
+          "like_count": 8462,
+          "listed_count": 4,
+          "media_count": 262,
+          "tweet_count": 1942
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:10:05.000Z",
+        "description": "呐…这里是喵宁 谢谢你喜欢我♪ 看见会回fo│高二网络寄生虫/🚪30￥/MTX/ overdose💊/双相/爱人@wanchunshi/凉席印suki/我真的很友善，不信你和我说句话就知道了♡\n愿神明保佑世人✙\n频道链接 https://t.co/bCWAnc9ypA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "wanchunshi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/miaonning000",
+                "end": 134,
+                "expanded_url": "https://t.me/miaonning000",
+                "start": 111,
+                "url": "https://t.co/bCWAnc9ypA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+fd4ppG7YOqRhM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+fd4ppG7YOqRhMzM1",
+                "start": 0,
+                "url": "https://t.co/vqtnzUqg6h"
+              }
+            ]
+          }
+        },
+        "id": "1764820595387305984",
+        "location": "氢溴酸右美沙芬-普瑞巴林-盐酸美金刚-盐酸金刚烷胺",
+        "name": "喵宁💊🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764821147739357184/b-2HvW7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3688,
+          "following_count": 3712,
+          "like_count": 15540,
+          "listed_count": 5,
+          "media_count": 510,
+          "tweet_count": 7596
+        },
+        "url": "https://t.co/vqtnzUqg6h",
+        "username": "miaoning000",
+        "verified": false
+      }
+    ]
+  }
+}

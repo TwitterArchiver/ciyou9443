@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2048623663034028377",
+    "created_at": "2026-04-27T04:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T05:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048623663034028377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PianistXH/stat…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/PianistXH/status/2048261051985416539",
+          "start": 45,
+          "url": "https://t.co/ImiVEwV5sU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048623663034028377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048261051985416539",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "从评论区再次见识到了烟民的智力和素质，理不直气也壮这一块，偷换概念这一块，逆天到像串子。 https://t.co/ImiVEwV5sU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2048623663034028377",
+        "created_at": "2026-04-27T04:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048623663034028377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PianistXH/stat…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/PianistXH/status/2048261051985416539",
+              "start": 45,
+              "url": "https://t.co/ImiVEwV5sU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048623663034028377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048261051985416539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从评论区再次见识到了烟民的智力和素质，理不直气也壮这一块，偷换概念这一块，逆天到像串子。 https://t.co/ImiVEwV5sU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535816117226074113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2048261051985416539",
+        "created_at": "2026-04-26T04:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:40:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048260969584021942",
+          "2048261051985416539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048261051985416539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 45076,
+          "like_count": 1571,
+          "quote_count": 2,
+          "reply_count": 177,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "都在骂公众场合抽烟的，但少有人骂在公众场合嚼槟榔的，大家根本就没有那么强的控制欲……只要你不影响到别人，你爱死不死，0人会在意烟民的身体健康哈！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "常曦",
+        "pinned_tweet_id": "2047609900608708807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 534,
+          "like_count": 10619,
+          "listed_count": 5,
+          "media_count": 382,
+          "tweet_count": 2735
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T02:48:05.000Z",
+        "description": "@pianisthanh 不是互关不要申请",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "pianisthanh"
+              }
+            ]
+          }
+        },
+        "id": "1535816117226074113",
+        "name": "涵",
+        "pinned_tweet_id": "2039713747728781729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974476197200560129/L8efNCVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54959,
+          "following_count": 279,
+          "like_count": 5107,
+          "listed_count": 120,
+          "media_count": 97,
+          "tweet_count": 2762
+        },
+        "username": "PianistXH",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940367727501156352",
+        "3_1940367725328556032"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1940367731699974182",
+    "created_at": "2025-07-02T11:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T12:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940367731699974182"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jvqR5cACwz",
+          "end": 30,
+          "expanded_url": "https://x.com/ciyou9443/status/1940367731699974182/photo/1",
+          "media_key": "3_1940367727501156352",
+          "start": 7,
+          "url": "https://t.co/jvqR5cACwz"
+        },
+        {
+          "display_url": "pic.x.com/jvqR5cACwz",
+          "end": 30,
+          "expanded_url": "https://x.com/ciyou9443/status/1940367731699974182/photo/1",
+          "media_key": "3_1940367725328556032",
+          "start": 7,
+          "url": "https://t.co/jvqR5cACwz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940367731699974182",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大小姐好涩哦 https://t.co/jvqR5cACwz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1940367727501156352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2SKutWoAAQ6qr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1940367725328556032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2SKmnXYAA9AEk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940367727501156352",
+            "3_1940367725328556032"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1940367731699974182",
+        "created_at": "2025-07-02T11:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T12:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940367731699974182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jvqR5cACwz",
+              "end": 30,
+              "expanded_url": "https://x.com/ciyou9443/status/1940367731699974182/photo/1",
+              "media_key": "3_1940367727501156352",
+              "start": 7,
+              "url": "https://t.co/jvqR5cACwz"
+            },
+            {
+              "display_url": "pic.x.com/jvqR5cACwz",
+              "end": 30,
+              "expanded_url": "https://x.com/ciyou9443/status/1940367731699974182/photo/1",
+              "media_key": "3_1940367725328556032",
+              "start": 7,
+              "url": "https://t.co/jvqR5cACwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940367731699974182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大小姐好涩哦 https://t.co/jvqR5cACwz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 365,
+          "like_count": 3537,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 1025
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

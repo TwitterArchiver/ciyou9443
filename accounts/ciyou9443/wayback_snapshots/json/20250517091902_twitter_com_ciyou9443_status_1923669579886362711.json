@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923664442828468224",
+        "3_1923664442291556352"
+      ],
+      "media_source_tweet_id": [
+        "1923664446796464513",
+        "1923664446796464513"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1923669579886362711",
+    "created_at": "2025-05-17T09:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T10:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923669579886362711"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 44,
+          "tag": "mtf"
+        },
+        {
+          "end": 52,
+          "start": 49,
+          "tag": "药娘"
+        },
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "男娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1805373961020260353",
+          "start": 3,
+          "username": "ciyou9443"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/khmyc7Obd2",
+          "end": 80,
+          "expanded_url": "https://x.com/ciyou9443/status/1923664446796464513/photo/1",
+          "media_key": "3_1923664442828468224",
+          "start": 57,
+          "url": "https://t.co/khmyc7Obd2"
+        },
+        {
+          "display_url": "pic.x.com/khmyc7Obd2",
+          "end": 80,
+          "expanded_url": "https://x.com/ciyou9443/status/1923664446796464513/photo/1",
+          "media_key": "3_1923664442291556352",
+          "start": 57,
+          "url": "https://t.co/khmyc7Obd2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923669579886362711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923664446796464513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ciyou9443: 我能要个饭吗……要山穷水尽惹～\n陪玩陪聊的话有没有人呢～\n#mtf #药娘 #男娘 https://t.co/khmyc7Obd2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 898,
+        "media_key": "3_1923664442828468224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrI6nmXXMAAlMMi.jpg",
+        "width": 2048
+      },
+      {
+        "height": 898,
+        "media_key": "3_1923664442291556352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrI6nkXWkAAY3Qx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923664442828468224",
+            "3_1923664442291556352"
+          ],
+          "media_source_tweet_id": [
+            "1923664446796464513",
+            "1923664446796464513"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1923669579886362711",
+        "created_at": "2025-05-17T09:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T10:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923669579886362711"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "mtf"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "药娘"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "男娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1805373961020260353",
+              "start": 3,
+              "username": "ciyou9443"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/khmyc7Obd2",
+              "end": 80,
+              "expanded_url": "https://x.com/ciyou9443/status/1923664446796464513/photo/1",
+              "media_key": "3_1923664442828468224",
+              "start": 57,
+              "url": "https://t.co/khmyc7Obd2"
+            },
+            {
+              "display_url": "pic.x.com/khmyc7Obd2",
+              "end": 80,
+              "expanded_url": "https://x.com/ciyou9443/status/1923664446796464513/photo/1",
+              "media_key": "3_1923664442291556352",
+              "start": 57,
+              "url": "https://t.co/khmyc7Obd2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923669579886362711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923664446796464513",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ciyou9443: 我能要个饭吗……要山穷水尽惹～\n陪玩陪聊的话有没有人呢～\n#mtf #药娘 #男娘 https://t.co/khmyc7Obd2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923664442828468224",
+            "3_1923664442291556352"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1923664446796464513",
+        "created_at": "2025-05-17T08:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T09:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923664446796464513"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "mtf"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "药娘"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/khmyc7Obd2",
+              "end": 65,
+              "expanded_url": "https://x.com/ciyou9443/status/1923664446796464513/photo/1",
+              "media_key": "3_1923664442828468224",
+              "start": 42,
+              "url": "https://t.co/khmyc7Obd2"
+            },
+            {
+              "display_url": "pic.x.com/khmyc7Obd2",
+              "end": 65,
+              "expanded_url": "https://x.com/ciyou9443/status/1923664446796464513/photo/1",
+              "media_key": "3_1923664442291556352",
+              "start": 42,
+              "url": "https://t.co/khmyc7Obd2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923664446796464513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我能要个饭吗……要山穷水尽惹～\n陪玩陪聊的话有没有人呢～\n#mtf #药娘 #男娘 https://t.co/khmyc7Obd2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/没有家长党",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1919285021896253823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 313,
+          "like_count": 2895,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 906
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

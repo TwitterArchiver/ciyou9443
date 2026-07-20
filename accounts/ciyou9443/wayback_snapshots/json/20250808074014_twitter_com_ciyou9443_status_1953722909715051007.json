@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1953420818215588062",
+    "created_at": "2025-08-08T07:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T08:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953722909715051007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1479529920837476353",
+          "start": 0,
+          "username": "weiktuoer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953722909715051007",
+    "in_reply_to_user_id": "1479529920837476353",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953609056981221727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiktuoer *⁂((✪⥎✪))⁂*"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "16_1953609034705383424",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GxydEP-bsAAz7ko.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GxydEP-bsAAz7ko.mp4"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1953420818215588062",
+        "created_at": "2025-08-08T07:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T08:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953722909715051007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479529920837476353",
+              "start": 0,
+              "username": "weiktuoer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953722909715051007",
+        "in_reply_to_user_id": "1479529920837476353",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953609056981221727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiktuoer *⁂((✪⥎✪))⁂*"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1953609034705383424"
+          ]
+        },
+        "author_id": "1479529920837476353",
+        "conversation_id": "1953420818215588062",
+        "created_at": "2025-08-08T00:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T01:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953609056981221727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0DsOpR3Mw3",
+              "end": 45,
+              "expanded_url": "https://x.com/weiktuoer/status/1953609056981221727/photo/1",
+              "media_key": "16_1953609034705383424",
+              "start": 22,
+              "url": "https://t.co/0DsOpR3Mw3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953609056981221727",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953420818215588062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 宝宝你是一个小蛋糕🎂 https://t.co/0DsOpR3Mw3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1952311599215399294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 466,
+          "like_count": 5824,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 1362
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T19:06:51.000Z",
+        "description": "云南cd  坐标昆明  （or:长的好看的都好喜欢）不定时上线，偶尔搞点色色，有喜欢的修勾（or:都是高p，长得并不好看）",
+        "id": "1479529920837476353",
+        "name": "🍓草莓麻薯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950537156616699904/WlaCcWuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 246,
+          "like_count": 1009,
+          "listed_count": 12,
+          "media_count": 99,
+          "tweet_count": 1121
+        },
+        "username": "weiktuoer",
+        "verified": false
+      }
+    ]
+  }
+}

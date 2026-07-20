@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1968659118811660290"
+      ],
+      "media_source_tweet_id": [
+        "1968659154723045532"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1968665945972293782",
+    "created_at": "2025-09-18T13:18:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T14:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968665945972293782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1907031442103943168",
+          "start": 3,
+          "username": "hoshinemu123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pJS5OzRv47",
+          "end": 50,
+          "expanded_url": "https://x.com/hoshinemu123/status/1968659154723045532/video/1",
+          "media_key": "7_1968659118811660290",
+          "start": 27,
+          "url": "https://t.co/pJS5OzRv47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968665945972293782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968659154723045532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinemu123: 彩虹马面裙谁懂🥺 https://t.co/pJS5OzRv47"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8029,
+        "height": 1280,
+        "media_key": "7_1968659118811660290",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1968659118811660290/pu/img/9P-jJKn-bwKnaInB.jpg",
+        "public_metrics": {
+          "view_count": 17
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1968659118811660290/pu/vid/avc1/320x568/BbCesBzFcuqBlMIo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1968659118811660290/pu/vid/avc1/480x852/IloMmic_0pWTXCbu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1968659118811660290/pu/vid/avc1/720x1280/Rh8BS42UGSHAh4CW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1968659118811660290/pu/pl/iRwkmodmINebcYRL.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1968659118811660290"
+          ],
+          "media_source_tweet_id": [
+            "1968659154723045532"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1968665945972293782",
+        "created_at": "2025-09-18T13:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T14:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968665945972293782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907031442103943168",
+              "start": 3,
+              "username": "hoshinemu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJS5OzRv47",
+              "end": 50,
+              "expanded_url": "https://x.com/hoshinemu123/status/1968659154723045532/video/1",
+              "media_key": "7_1968659118811660290",
+              "start": 27,
+              "url": "https://t.co/pJS5OzRv47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968665945972293782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968659154723045532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinemu123: 彩虹马面裙谁懂🥺 https://t.co/pJS5OzRv47"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1968659118811660290"
+          ]
+        },
+        "author_id": "1907031442103943168",
+        "conversation_id": "1968659154723045532",
+        "created_at": "2025-09-18T12:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T13:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968659154723045532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJS5OzRv47",
+              "end": 32,
+              "expanded_url": "https://x.com/hoshinemu123/status/1968659154723045532/video/1",
+              "media_key": "7_1968659118811660290",
+              "start": 9,
+              "url": "https://t.co/pJS5OzRv47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968659154723045532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 59,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "彩虹马面裙谁懂🥺 https://t.co/pJS5OzRv47"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 509,
+          "like_count": 6922,
+          "listed_count": 4,
+          "media_count": 156,
+          "tweet_count": 1557
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；半个软件工程师加半个音乐人；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；文学少女；古风/汉服女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1968657751669678178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 2974,
+          "like_count": 2502,
+          "listed_count": 2,
+          "media_count": 441,
+          "tweet_count": 5535
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      }
+    ]
+  }
+}

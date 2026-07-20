@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2040079384946806807",
+    "created_at": "2026-04-03T14:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T15:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040079384946806807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1907031442103943168",
+          "start": 3,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040079384946806807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039388411551941017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinemu123: 东海之极有国“阿美尼卡”，其民善制器。积百年之工，穷格物致知之术，始造一器。初以筹算为务，助于星历、兵机、度量之事，故名“计算机”。继而通文书、理图画、制乐声，又能接远方之讯。至于今日，百工百业，皆赖其力。虽居斗室，亦可知天下之事。… htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2395,
+        "media_key": "3_2039387757311905792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1cXDHbUAAN2w0.jpg",
+        "width": 1348
+      },
+      {
+        "height": 2197,
+        "media_key": "3_2039387821195304961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1caxGaoAEYNiO.jpg",
+        "width": 1237
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2040079384946806807",
+        "created_at": "2026-04-03T14:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040079384946806807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907031442103943168",
+              "start": 3,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040079384946806807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039388411551941017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinemu123: 东海之极有国“阿美尼卡”，其民善制器。积百年之工，穷格物致知之术，始造一器。初以筹算为务，助于星历、兵机、度量之事，故名“计算机”。继而通文书、理图画、制乐声，又能接远方之讯。至于今日，百工百业，皆赖其力。虽居斗室，亦可知天下之事。… htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039387757311905792",
+            "3_2039387821195304961"
+          ]
+        },
+        "author_id": "1907031442103943168",
+        "conversation_id": "2039388411551941017",
+        "created_at": "2026-04-01T17:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T18:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039388411551941017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAaKhgHDUF",
+              "end": 140,
+              "expanded_url": "https://x.com/hoshinemu123/status/2039388411551941017/photo/1",
+              "media_key": "3_2039387757311905792",
+              "start": 117,
+              "url": "https://t.co/qAaKhgHDUF"
+            },
+            {
+              "display_url": "pic.x.com/qAaKhgHDUF",
+              "end": 140,
+              "expanded_url": "https://x.com/hoshinemu123/status/2039388411551941017/photo/1",
+              "media_key": "3_2039387821195304961",
+              "start": 117,
+              "url": "https://t.co/qAaKhgHDUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039388411551941017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "东海之极有国“阿美尼卡”，其民善制器。积百年之工，穷格物致知之术，始造一器。初以筹算为务，助于星历、兵机、度量之事，故名“计算机”。继而通文书、理图画、制乐声，又能接远方之讯。至于今日，百工百业，皆赖其力。虽居斗室，亦可知天下之事。\n其理则本于二元之数。古人以阴阳分万物，此器亦然。千万变化，皆由此生。又有“程序”者，犹人之法度。先设其规，后依规而行，莫当违越。\n至于近世，有“手机”之器。其理同“计算机”，而小巧至极，孤掌可握，故得此名。\n评曰：此器虽出夷邦，然利在天下。用之有度，则益智广闻；失度，则反为所役。君子当御之以心，不可纵之以性也。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1048,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "东海之极有国“阿美尼卡”，其民善制器。积百年之工，穷格物致知之术，始造一器。初以筹算为务，助于星历、兵机、度量之事，故名“计算机”。继而通文书、理图画、制乐声，又能接远方之讯。至于今日，百工百业，皆赖其力。虽居斗室，亦可知天下之事。 https://t.co/qAaKhgHDUF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "常曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010721996909514752/qGj_peZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 525,
+          "like_count": 10321,
+          "listed_count": 5,
+          "media_count": 377,
+          "tweet_count": 2683
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同。我曾淋我来时雪，亦将长歌去时晖。星眠的生活号，不定期推音乐/美术作品，爱好古风。汉服复兴运动。北京/长春，欢迎小女孩们来找我玩。\n素素：@ciyou9443 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "ciyou9443"
+              },
+              {
+                "end": 106,
+                "start": 98,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "2021956150368104748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3155,
+          "following_count": 3227,
+          "like_count": 3545,
+          "listed_count": 5,
+          "media_count": 886,
+          "tweet_count": 9434
+        },
+        "username": "hoshinemu123",
+        "verified": true
+      }
+    ]
+  }
+}

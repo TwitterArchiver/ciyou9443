@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917225764392685569"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1917225771363647782",
+    "created_at": "2025-04-29T14:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T15:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917225771363647782"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 88,
+          "tag": "mtf"
+        },
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "男娘"
+        },
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "药娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aOwWPWHyQb",
+          "end": 124,
+          "expanded_url": "https://x.com/ciyou9443/status/1917225771363647782/photo/1",
+          "media_key": "3_1917225764392685569",
+          "start": 101,
+          "url": "https://t.co/aOwWPWHyQb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917225771363647782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "五一接情侣业务\n换情头：10元\n换情名：10元\n秀恩爱：188.88元\n陪聊天：188.88元\n挂cp：220元\n以上全包括：520.元\n真处的：520元\n让我滚的：5.2元\n#mtf #男娘 #药娘 https://t.co/aOwWPWHyQb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1917225764392685569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GptarMDaUAEJYN_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917225764392685569"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1917225771363647782",
+        "created_at": "2025-04-29T14:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T15:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917225771363647782"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "mtf"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "男娘"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aOwWPWHyQb",
+              "end": 124,
+              "expanded_url": "https://x.com/ciyou9443/status/1917225771363647782/photo/1",
+              "media_key": "3_1917225764392685569",
+              "start": 101,
+              "url": "https://t.co/aOwWPWHyQb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917225771363647782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五一接情侣业务\n换情头：10元\n换情名：10元\n秀恩爱：188.88元\n陪聊天：188.88元\n挂cp：220元\n以上全包括：520.元\n真处的：520元\n让我滚的：5.2元\n#mtf #男娘 #药娘 https://t.co/aOwWPWHyQb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/没有家长党",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1906693278533374051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 281,
+          "like_count": 2416,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 793
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

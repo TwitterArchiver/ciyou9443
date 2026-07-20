@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1832466902184292590"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1832616569978949925",
+    "created_at": "2024-09-08T03:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T04:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832616569978949925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1673634417871589376",
+          "start": 3,
+          "username": "XCCQAQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/osec55gkah",
+          "end": 70,
+          "expanded_url": "https://twitter.com/XCCQAQ/status/1832466902184292590/photo/1",
+          "media_key": "3_1832466898589773828",
+          "start": 47,
+          "url": "https://t.co/OsEC55GKah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832616569978949925",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832466902184292590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XCCQAQ: 玉玉了喵，下辈子我想当个女孩子，不想当废物药娘了，也不吃精神药品了🥺 https://t.co/OsEC55GKah"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1832466902184292590"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1832616569978949925",
+        "created_at": "2024-09-08T03:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T04:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832616569978949925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1673634417871589376",
+              "start": 3,
+              "username": "XCCQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/osec55gkah",
+              "end": 70,
+              "expanded_url": "https://twitter.com/XCCQAQ/status/1832466902184292590/photo/1",
+              "media_key": "3_1832466898589773828",
+              "start": 47,
+              "url": "https://t.co/OsEC55GKah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832616569978949925",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832466902184292590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XCCQAQ: 玉玉了喵，下辈子我想当个女孩子，不想当废物药娘了，也不吃精神药品了🥺 https://t.co/OsEC55GKah"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832466898589773828"
+          ]
+        },
+        "author_id": "1673634417871589376",
+        "conversation_id": "1832466902184292590",
+        "created_at": "2024-09-07T17:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T18:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832466902184292590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/osec55gkah",
+              "end": 58,
+              "expanded_url": "https://twitter.com/XCCQAQ/status/1832466902184292590/photo/1",
+              "media_key": "3_1832466898589773828",
+              "start": 35,
+              "url": "https://t.co/OsEC55GKah"
+            },
+            {
+              "display_url": "x.com/MeviuslX_Xl/st…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/MeviuslX_Xl/status/1831909808833962032",
+              "start": 59,
+              "url": "https://t.co/1PWawcAQl6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832466902184292590",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 704,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831909808833962032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "玉玉了喵，下辈子我想当个女孩子，不想当废物药娘了，也不吃精神药品了🥺 https://t.co/OsEC55GKah https://t.co/1PWawcAQl6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "含糖mtf/175cm49kg/欢迎互fo/困困困困困要困死了",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1824053680586514553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823218547381972993/M1KAROl-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 103,
+          "like_count": 204,
+          "listed_count": 0,
+          "tweet_count": 75
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T10:08:45.000Z",
+        "description": "05年的xyn|🍥2024.2.6|偶尔会发癫|欢迎同好互fo～|感谢投喂投喂会进肚子里或变成好看的衣服喵～|🚪30（有图片）|大家的关注和点赞会让我开心很久很久的🌸|XCC的老婆们@mingxiaomiao2和@meviuslX_Xl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "mingxiaomiao2"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "username": "meviuslX_Xl"
+              }
+            ]
+          }
+        },
+        "id": "1673634417871589376",
+        "location": "喵？",
+        "name": "XCC🍥",
+        "pinned_tweet_id": "1820311533559435637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811818076490346496/WH28kA1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3329,
+          "following_count": 796,
+          "like_count": 3458,
+          "listed_count": 15,
+          "tweet_count": 625
+        },
+        "username": "XCCQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

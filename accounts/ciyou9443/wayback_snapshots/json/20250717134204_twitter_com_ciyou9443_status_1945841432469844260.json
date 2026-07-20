@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1945841340681723904",
+        "7_1945841387628306432"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1945841432469844260",
+    "created_at": "2025-07-17T13:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T14:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945841432469844260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/o7Ru6av6Db",
+          "end": 51,
+          "expanded_url": "https://x.com/ciyou9443/status/1945841432469844260/video/1",
+          "media_key": "7_1945841340681723904",
+          "start": 28,
+          "url": "https://t.co/o7Ru6av6Db"
+        },
+        {
+          "display_url": "pic.x.com/o7Ru6av6Db",
+          "end": 51,
+          "expanded_url": "https://x.com/ciyou9443/status/1945841432469844260/video/1",
+          "media_key": "7_1945841387628306432",
+          "start": 28,
+          "url": "https://t.co/o7Ru6av6Db"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945841432469844260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "路边转圈圈的大小姐被不良盯上，趁至无人狠狠推到墙边壁咚 https://t.co/o7Ru6av6Db"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4457,
+        "height": 1280,
+        "media_key": "7_1945841340681723904",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1945841340681723904/pu/img/_qmOHXq-9cl_3b50.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945841340681723904/pu/vid/avc1/320x568/b5x9ijPza6J2hg6I.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945841340681723904/pu/vid/avc1/480x852/D5liXEP9O51b-smZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945841340681723904/pu/vid/avc1/720x1280/R-KQFjo9SEWbaKIg.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1945841340681723904/pu/pl/qCoyE-vfC51jG0Wp.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 3626,
+        "height": 720,
+        "media_key": "7_1945841387628306432",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1945841387628306432/pu/img/ec1VVuHvwnva_b8S.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945841387628306432/pu/vid/avc1/480x270/O1_0vjoAk2buQ9EJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945841387628306432/pu/vid/avc1/640x360/udOdcxwpY7D-_iOW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945841387628306432/pu/vid/avc1/1280x720/frnoGOTpiugeXl2q.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1945841387628306432/pu/pl/b7h4V5HSboE0k0yx.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1945841340681723904",
+            "7_1945841387628306432"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1945841432469844260",
+        "created_at": "2025-07-17T13:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T14:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945841432469844260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o7Ru6av6Db",
+              "end": 51,
+              "expanded_url": "https://x.com/ciyou9443/status/1945841432469844260/video/1",
+              "media_key": "7_1945841340681723904",
+              "start": 28,
+              "url": "https://t.co/o7Ru6av6Db"
+            },
+            {
+              "display_url": "pic.x.com/o7Ru6av6Db",
+              "end": 51,
+              "expanded_url": "https://x.com/ciyou9443/status/1945841432469844260/video/1",
+              "media_key": "7_1945841387628306432",
+              "start": 28,
+              "url": "https://t.co/o7Ru6av6Db"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945841432469844260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "路边转圈圈的大小姐被不良盯上，趁至无人狠狠推到墙边壁咚 https://t.co/o7Ru6av6Db"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 394,
+          "like_count": 4314,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 1125
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

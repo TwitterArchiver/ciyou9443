@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1874823391410266483",
+    "created_at": "2025-01-17T10:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T11:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880207183658492101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1520766151835357184",
+          "start": 0,
+          "username": "HuyaSt111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880207183658492101",
+    "in_reply_to_user_id": "1520766151835357184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874823391410266483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuyaSt111 你好呀扩列"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1874823391410266483",
+        "created_at": "2025-01-17T10:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T11:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880207183658492101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1520766151835357184",
+              "start": 0,
+              "username": "HuyaSt111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880207183658492101",
+        "in_reply_to_user_id": "1520766151835357184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874823391410266483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuyaSt111 你好呀扩列"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874823389338386432"
+          ]
+        },
+        "author_id": "1520766151835357184",
+        "conversation_id": "1874823391410266483",
+        "created_at": "2025-01-02T14:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T15:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874823391410266483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qu87IKwlnY",
+              "end": 52,
+              "expanded_url": "https://x.com/HuyaSt111/status/1874823391410266483/photo/1",
+              "media_key": "3_1874823389338386432",
+              "start": 29,
+              "url": "https://t.co/Qu87IKwlnY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874823391410266483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6347,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "被抓进矫正学校很久了(\n发现朋友几乎都没了。。。\n想扩列 https://t.co/Qu87IKwlnY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "含糖mtf/欢迎互fo/困困困困困要困死了",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 132,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 122
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-01T14:04:53.000Z",
+        "description": "阿巴阿巴，没啥想说的\nMTF.\n生日08/08/07 HRT: 24/03/04",
+        "id": "1520766151835357184",
+        "location": "距离你0.9km",
+        "name": "Huyast111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799027814286639104/E4wHOwgI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 95,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 45
+        },
+        "username": "HuyaSt111",
+        "verified": true
+      }
+    ]
+  }
+}

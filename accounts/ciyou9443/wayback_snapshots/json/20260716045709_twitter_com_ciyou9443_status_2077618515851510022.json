@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2077618515851510022",
+    "created_at": "2026-07-16T04:57:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T05:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077618515851510022"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077618515851510022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想起昨天晚上不知道什么原因，睡觉的时候在床上痛苦的打滚哀嚎，早上起来也是一副躁狂相，但是在我刚刚含服氯硝之后，一切都解决了，即使又发生了对素很麻烦的事，素还是很冷静的解决了，虽然双相不该依赖苯二氮卓，但我还是想说，我是苯二氮卓的猫(*˘︶˘*).。.:*♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2077618515851510022",
+        "created_at": "2026-07-16T04:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077618515851510022"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077618515851510022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起昨天晚上不知道什么原因，睡觉的时候在床上痛苦的打滚哀嚎，早上起来也是一副躁狂相，但是在我刚刚含服氯硝之后，一切都解决了，即使又发生了对素很麻烦的事，素还是很冷静的解决了，虽然双相不该依赖苯二氮卓，但我还是想说，我是苯二氮卓的猫(*˘︶˘*).。.:*♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  \n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2074463616150204444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 583,
+          "like_count": 12582,
+          "listed_count": 4,
+          "media_count": 424,
+          "tweet_count": 3330
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959190250514984960"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1959190253761450202",
+    "created_at": "2025-08-23T09:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T10:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959190253761450202"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D0sgDhZRBY",
+          "end": 32,
+          "expanded_url": "https://x.com/ciyou9443/status/1959190253761450202/photo/1",
+          "media_key": "3_1959190250514984960",
+          "start": 9,
+          "url": "https://t.co/D0sgDhZRBY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959190253761450202",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早上好，看看裸照 https://t.co/D0sgDhZRBY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959190250514984960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzBxJxFasAABEXx.jpg",
+        "width": 899
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959190250514984960"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1959190253761450202",
+        "created_at": "2025-08-23T09:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T10:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959190253761450202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D0sgDhZRBY",
+              "end": 32,
+              "expanded_url": "https://x.com/ciyou9443/status/1959190253761450202/photo/1",
+              "media_key": "3_1959190250514984960",
+              "start": 9,
+              "url": "https://t.co/D0sgDhZRBY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959190253761450202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好，看看裸照 https://t.co/D0sgDhZRBY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的成分",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1958676027850596862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 501,
+          "like_count": 6383,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 1403
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

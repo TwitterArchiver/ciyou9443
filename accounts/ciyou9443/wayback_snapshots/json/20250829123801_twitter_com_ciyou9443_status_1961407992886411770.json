@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961407971298316289",
+        "3_1961407978319605760"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1961407992886411770",
+    "created_at": "2025-08-29T12:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T13:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961407992886411770"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DyupmKEiIA",
+          "end": 40,
+          "expanded_url": "https://x.com/ciyou9443/status/1961407992886411770/photo/1",
+          "media_key": "3_1961407971298316289",
+          "start": 17,
+          "url": "https://t.co/DyupmKEiIA"
+        },
+        {
+          "display_url": "pic.x.com/DyupmKEiIA",
+          "end": 40,
+          "expanded_url": "https://x.com/ciyou9443/status/1961407992886411770/photo/1",
+          "media_key": "3_1961407978319605760",
+          "start": 17,
+          "url": "https://t.co/DyupmKEiIA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961407992886411770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "七夕出发～给大伙看看少萝大小姐～ https://t.co/DyupmKEiIA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1961407971298316289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzhSKGzbEAEGcKp.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1961407978319605760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzhSKg9bcAAimBz.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961407971298316289",
+            "3_1961407978319605760"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1961407992886411770",
+        "created_at": "2025-08-29T12:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T13:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961407992886411770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DyupmKEiIA",
+              "end": 40,
+              "expanded_url": "https://x.com/ciyou9443/status/1961407992886411770/photo/1",
+              "media_key": "3_1961407971298316289",
+              "start": 17,
+              "url": "https://t.co/DyupmKEiIA"
+            },
+            {
+              "display_url": "pic.x.com/DyupmKEiIA",
+              "end": 40,
+              "expanded_url": "https://x.com/ciyou9443/status/1961407992886411770/photo/1",
+              "media_key": "3_1961407978319605760",
+              "start": 17,
+              "url": "https://t.co/DyupmKEiIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961407992886411770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "七夕出发～给大伙看看少萝大小姐～ https://t.co/DyupmKEiIA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "哈基眠不听话的丫鬟",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1958676027850596862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 501,
+          "like_count": 6503,
+          "listed_count": 4,
+          "media_count": 137,
+          "tweet_count": 1445
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

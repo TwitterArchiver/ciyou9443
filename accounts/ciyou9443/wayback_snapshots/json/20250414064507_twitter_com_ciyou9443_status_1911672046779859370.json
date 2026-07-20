@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1911444812714082448",
+    "created_at": "2025-04-14T06:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T07:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911672046779859370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857335218673483776",
+          "start": 0,
+          "username": "mengyu2339"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911672046779859370",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911444812714082448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengyu2339 好宝宝不哭不哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1911444812714082448",
+        "created_at": "2025-04-14T06:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T07:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911672046779859370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "mengyu2339"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911672046779859370",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911444812714082448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengyu2339 好宝宝不哭不哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "1911444812714082448",
+        "created_at": "2025-04-13T15:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T16:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911444812714082448"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911444812714082448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好崩溃......哭的好难受......我真的好笨........为什么受伤害的总是我......我真的想没有痛苦的赶紧去死........."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1906693278533374051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 273,
+          "like_count": 1976,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 702
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "09MTF/infp/可以叫我小雨/烂人垃圾互联网的蛆/亚文化/地雷系/GalGame/精神状态不稳定/抑郁/焦虑/缺爱/同好就fo",
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "梦雨",
+        "pinned_tweet_id": "1910320603690652148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911420266296606720/lLXVA6wm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 190,
+          "like_count": 949,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 420
+        },
+        "username": "mengyu2339",
+        "verified": false
+      }
+    ]
+  }
+}

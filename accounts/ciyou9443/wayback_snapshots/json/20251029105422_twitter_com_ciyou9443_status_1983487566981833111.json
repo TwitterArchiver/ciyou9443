@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1983373631926481030",
+    "created_at": "2025-10-29T10:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T11:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983487566981833111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1947177151289237504",
+          "start": 0,
+          "username": "ynaid0908"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983487566981833111",
+    "in_reply_to_user_id": "1947177151289237504",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983373631926481030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynaid0908 (/≧▽≦)/~┴┴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1983373631926481030",
+        "created_at": "2025-10-29T10:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T11:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983487566981833111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1947177151289237504",
+              "start": 0,
+              "username": "ynaid0908"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983487566981833111",
+        "in_reply_to_user_id": "1947177151289237504",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983373631926481030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynaid0908 (/≧▽≦)/~┴┴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947177151289237504",
+        "conversation_id": "1983373631926481030",
+        "created_at": "2025-10-29T03:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T04:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983373631926481030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983373631926481030",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(҂·_·)︻╦╤─ ҉ - -●-●-●-●-●"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/虽然主包是个精神病但是buff叠太多我还是会害怕😨",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 516,
+          "like_count": 7771,
+          "listed_count": 4,
+          "media_count": 238,
+          "tweet_count": 1797
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-21T06:10:40.000Z",
+        "description": "私を「はなちゃん」と呼んでもいい\n@xiaoyux278316/🗝@Siyanlan1017",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "xiaoyux278316"
+              },
+              {
+                "end": 46,
+                "start": 33,
+                "username": "Siyanlan1017"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/u8bcl9etizev8v…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/u8bcl9etizev8vs?t=2LWnAx&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/XJn20UG27A"
+              }
+            ]
+          }
+        },
+        "id": "1947177151289237504",
+        "location": "Tokyo-to, Japan",
+        "name": "随桦小桦",
+        "pinned_tweet_id": "1974683056134140389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979119951483944960/MFr7UBcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 157,
+          "like_count": 5056,
+          "listed_count": 3,
+          "media_count": 24,
+          "tweet_count": 862
+        },
+        "url": "https://t.co/XJn20UG27A",
+        "username": "ynaid0908",
+        "verified": false
+      }
+    ]
+  }
+}

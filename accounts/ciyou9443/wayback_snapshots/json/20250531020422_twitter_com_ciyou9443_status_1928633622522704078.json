@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1928633622522704078",
+    "created_at": "2025-05-31T02:04:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T03:04:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928633622522704078"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1928633622522704078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蒸了几个月，没能融入正常生活，还把精神又给蒸坏了X﹏X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1928633622522704078",
+        "created_at": "2025-05-31T02:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T03:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928633622522704078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928633622522704078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蒸了几个月，没能融入正常生活，还把精神又给蒸坏了X﹏X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/两个人格交替行动/🏳️‍⚧️🍥/一星期没更就可以当我似了/大概是个清水推",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 317,
+          "like_count": 3312,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 995
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1978845601421725791",
+    "created_at": "2025-10-16T18:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T19:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978883985624437123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1739915785441861632",
+          "start": 0,
+          "username": "Lem_PackageMain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978883985624437123",
+    "in_reply_to_user_id": "1739915785441861632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978845601421725791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lem_PackageMain 好！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1978845597495955457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ZFligXkAEJgTK.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1978845601421725791",
+        "created_at": "2025-10-16T18:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T19:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978883985624437123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1739915785441861632",
+              "start": 0,
+              "username": "Lem_PackageMain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978883985624437123",
+        "in_reply_to_user_id": "1739915785441861632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978845601421725791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lem_PackageMain 好！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978845597495955457"
+          ]
+        },
+        "author_id": "1739915785441861632",
+        "conversation_id": "1978845601421725791",
+        "created_at": "2025-10-16T15:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T16:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978845601421725791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zp7S2CEBft",
+              "end": 43,
+              "expanded_url": "https://x.com/Lem_PackageMain/status/1978845601421725791/photo/1",
+              "media_key": "3_1978845597495955457",
+              "start": 20,
+              "url": "https://t.co/zp7S2CEBft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978845601421725791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天化了妆出门的，\n被朋友夸好看了ww https://t.co/zp7S2CEBft"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/只是搞点抽象，感到心理不适私我删",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "玩偶姐姐",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977415827738796033/vSlVimgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 518,
+          "like_count": 7567,
+          "listed_count": 4,
+          "media_count": 217,
+          "tweet_count": 1730
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T07:47:12.000Z",
+        "description": "MtX/F   ▏183天空树🫥    ▏过期JK    ▏天残家暴党🙃    ▏照骗皆为高P，线下查无此人Or2   ▏拉力B照持有者   ▏大证已开但是好像并没有什么卵用……   ▏是一个大面包所以容易膨胀、任人拿捏、一点不抗压（",
+        "id": "1739915785441861632",
+        "name": "柠檬味的Main包🍥",
+        "pinned_tweet_id": "1950884797905080492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787256133910155264/kksrVeC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 188,
+          "like_count": 14685,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 3543
+        },
+        "username": "Lem_PackageMain",
+        "verified": false
+      }
+    ]
+  }
+}

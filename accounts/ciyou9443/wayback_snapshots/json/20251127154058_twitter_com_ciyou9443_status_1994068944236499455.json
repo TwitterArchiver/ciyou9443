@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1994062897173979195",
+    "created_at": "2025-11-27T15:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T16:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994068944236499455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994068944236499455",
+    "in_reply_to_user_id": "623965569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994062897173979195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand 唱歌好听喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36066,
+        "height": 960,
+        "media_key": "13_1994062800667463680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994062800667463680/img/r2DkXkXSwatgPPJ1.jpg",
+        "public_metrics": {
+          "view_count": 16
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994062800667463680/vid/avc1/320x426/qhLLPFhc2KfWPLCp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994062800667463680/vid/avc1/480x640/gvlQKumu-Q6CrXQ2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994062800667463680/vid/avc1/720x960/jeTbSVHMqfDjreN2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994062800667463680/pl/E6W31aunG5XjqeVw.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1994062897173979195",
+        "created_at": "2025-11-27T15:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994068944236499455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994068944236499455",
+        "in_reply_to_user_id": "623965569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994062897173979195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand 唱歌好听喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994062800667463680"
+          ]
+        },
+        "author_id": "623965569",
+        "conversation_id": "1994062897173979195",
+        "created_at": "2025-11-27T15:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994062897173979195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HG4Q0wyYLs",
+              "end": 169,
+              "expanded_url": "https://x.com/nothousand/status/1994062897173979195/video/1",
+              "media_key": "13_1994062800667463680",
+              "start": 146,
+              "url": "https://t.co/HG4Q0wyYLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994062897173979195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "北京友谊声带截短术术后第79天\n其实总感觉不注意的话本音会漏出来 \n但其实讲多了就还好，会习惯在那个位置上发声\n不过有一个问题就是吃饭的时候如果同时需要交流，会更容易没控制住漏本音出来。这个的控制可能还尚需时日 \n另一个问题是唱歌,还没法用很实的声音唱,也还需要等待恢复。音准倒是回来了很多 https://t.co/HG4Q0wyYLs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠/深夜发的消息不关素的事",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1992888264173441156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 539,
+          "like_count": 9265,
+          "listed_count": 4,
+          "media_count": 284,
+          "tweet_count": 2204
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "/记录一些异世界的碎碎念w #INFJ ##有奇怪想法和需求的人看黄男别来关注我关了也会被我清理！！ /谨慎fo因为我们可能不是一类人，或者不是你以为的那类人喔 /不定期删除三无号，不同频的人还请见谅 /需要回fo请大胆和我说我会来仔细观察你然后给你答案 //雷自残od各种赤裸色色看到这样的人会unfo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 14,
+                "tag": "INFJ"
+              },
+              {
+                "end": 48,
+                "start": 21,
+                "tag": "有奇怪想法和需求的人看黄男别来关注我关了也会被我清理"
+              }
+            ]
+          }
+        },
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊茉音華",
+        "pinned_tweet_id": "1987184865482301857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993162808947863552/P8jx972e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 113,
+          "like_count": 6174,
+          "listed_count": 4,
+          "media_count": 370,
+          "tweet_count": 4337
+        },
+        "username": "nothousand",
+        "verified": false
+      }
+    ]
+  }
+}

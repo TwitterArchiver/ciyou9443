@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1950923219407638661",
+    "created_at": "2025-08-17T09:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T10:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957015687169503638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1469665357908824064",
+          "start": 0,
+          "username": "FENG_825"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957015687169503638",
+    "in_reply_to_user_id": "1469665357908824064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956912294786396358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FENG_825 炒炒你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1950923219407638661",
+        "created_at": "2025-08-17T09:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T10:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957015687169503638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1469665357908824064",
+              "start": 0,
+              "username": "FENG_825"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957015687169503638",
+        "in_reply_to_user_id": "1469665357908824064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956912294786396358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FENG_825 炒炒你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1469665357908824064",
+        "conversation_id": "1950923219407638661",
+        "created_at": "2025-08-17T02:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T03:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956912294786396358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956912294786396358",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950923219407638661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 再去给我炒两个菜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1952311599215399294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 471,
+          "like_count": 5953,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 1349
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-11T13:48:41.000Z",
+        "description": "星巡大小姐想让你数学分析😠",
+        "id": "1469665357908824064",
+        "location": "Union of Britain ",
+        "name": "高木星巡",
+        "pinned_tweet_id": "1956300163133419927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956359690830684160/F-p-rgpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20702,
+          "following_count": 376,
+          "like_count": 11941,
+          "listed_count": 24,
+          "media_count": 36,
+          "tweet_count": 940
+        },
+        "username": "FENG_825",
+        "verified": false
+      }
+    ]
+  }
+}

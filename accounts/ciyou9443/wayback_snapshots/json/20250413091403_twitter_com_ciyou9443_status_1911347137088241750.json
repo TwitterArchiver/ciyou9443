@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1911318942708294120",
+    "created_at": "2025-04-13T09:14:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T10:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911347137088241750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1723352247982239744",
+          "start": 0,
+          "username": "ban_le3330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911347137088241750",
+    "in_reply_to_user_id": "1723352247982239744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911318942708294120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ban_le3330 是这样的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1911318942708294120].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1911318942708294120",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1911318942708294120"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1911318942708294120",
+        "created_at": "2025-04-13T09:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T10:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911347137088241750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1723352247982239744",
+              "start": 0,
+              "username": "ban_le3330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911347137088241750",
+        "in_reply_to_user_id": "1723352247982239744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911318942708294120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ban_le3330 是这样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1906693278533374051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 268,
+          "like_count": 1940,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 696
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T14:49:46.000Z",
+        "description": "MTF🏳️‍⚧️丨女同性恋🌈丨Transfem丨男性恐惧症（恐男不是仇男，请不要给我扣仇恨帽子）丨希望所有人都能友好相处丨讨厌任何形式的性骚扰丨不发R18内容丨持证含糖丨避难所已暂停运营丨已有女友丨所爱之人：@binglvsuiyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "binglvsuiyu"
+              }
+            ]
+          }
+        },
+        "id": "1723352247982239744",
+        "location": "蛋糕之星",
+        "name": "彩音",
+        "pinned_tweet_id": "1889710512117584007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891381566615728128/-CvIiSSO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 296,
+          "like_count": 3080,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 1271
+        },
+        "username": "ban_le3330",
+        "verified": false
+      }
+    ]
+  }
+}

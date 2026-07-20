@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061372138523906048"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2061339090973552695",
+    "created_at": "2026-06-01T08:59:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T09:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061372140914671633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1717455447110844416",
+          "start": 0,
+          "username": "ZhuangXuexin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nupALI9h5z",
+          "end": 43,
+          "expanded_url": "https://x.com/ciyou9443/status/2061372140914671633/photo/1",
+          "media_key": "3_2061372138523906048",
+          "start": 20,
+          "url": "https://t.co/nupALI9h5z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061372140914671633",
+    "in_reply_to_user_id": "1717455447110844416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061339090973552695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhuangXuexin 周边也可爱 https://t.co/nupALI9h5z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061372138523906048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJt3CdKa0AA6zCF.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061339081880305664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtY-TkbAAAMiRG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061372138523906048"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2061339090973552695",
+        "created_at": "2026-06-01T08:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061372140914671633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1717455447110844416",
+              "start": 0,
+              "username": "ZhuangXuexin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nupALI9h5z",
+              "end": 43,
+              "expanded_url": "https://x.com/ciyou9443/status/2061372140914671633/photo/1",
+              "media_key": "3_2061372138523906048",
+              "start": 20,
+              "url": "https://t.co/nupALI9h5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061372140914671633",
+        "in_reply_to_user_id": "1717455447110844416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061339090973552695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhuangXuexin 周边也可爱 https://t.co/nupALI9h5z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061339081880305664"
+          ]
+        },
+        "author_id": "1717455447110844416",
+        "conversation_id": "2061339090973552695",
+        "created_at": "2026-06-01T06:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061339090973552695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G5NUHscTT4",
+              "end": 32,
+              "expanded_url": "https://x.com/ZhuangXuexin/status/2061339090973552695/photo/1",
+              "media_key": "3_2061339081880305664",
+              "start": 9,
+              "url": "https://t.co/G5NUHscTT4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061339090973552695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "瑞幸新纸袋真可爱 https://t.co/G5NUHscTT4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1662,
+          "following_count": 536,
+          "like_count": 11247,
+          "listed_count": 5,
+          "media_count": 399,
+          "tweet_count": 2976
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T08:17:57.000Z",
+        "description": "♂185/72 想交朋友 想买衣服。国女国男综合特征 想见识人格缺陷集大成的可以找我聊。最近一层人生观是v曲塑造的。看过一些木柜子动画 中国古典文学和西方近现代哲学 最爱作者是庾信杜甫王沂孙辛弃疾周邦彦康德黑格尔。新对政治思想史 英美道德学 德国法学感兴趣。物理学研究生 想学代数拓扑。想做一个功利主义的幸福者。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "douban.com/people/2430104…",
+                "end": 23,
+                "expanded_url": "https://www.douban.com/people/243010415/?_i=0135044sWH32ht",
+                "start": 0,
+                "url": "https://t.co/ig3jZtIOew"
+              }
+            ]
+          }
+        },
+        "id": "1717455447110844416",
+        "location": "上海浦东",
+        "name": "ZhuangXuexin",
+        "pinned_tweet_id": "2061042977041211725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036698377338105856/S0nl9gbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 108,
+          "like_count": 8771,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1200
+        },
+        "url": "https://t.co/ig3jZtIOew",
+        "username": "ZhuangXuexin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1946040093958893848",
+    "created_at": "2025-07-18T18:37:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T19:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946278247010111682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1931535830260088832",
+          "start": 0,
+          "username": "TurtleLemonE3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946278247010111682",
+    "in_reply_to_user_id": "1931535830260088832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946040093958893848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TurtleLemonE3 并非如此"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1946040093958893848",
+        "created_at": "2025-07-18T18:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T19:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946278247010111682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1931535830260088832",
+              "start": 0,
+              "username": "TurtleLemonE3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946278247010111682",
+        "in_reply_to_user_id": "1931535830260088832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946040093958893848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TurtleLemonE3 并非如此"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931535830260088832",
+        "conversation_id": "1946040093958893848",
+        "created_at": "2025-07-18T02:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T03:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946040093958893848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946040093958893848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再怎么努力，也比不过天赋党……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 401,
+          "like_count": 4407,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1145
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T02:16:57.000Z",
+        "description": "大号@TurtleLemonE2  | 08年  |  断断续续含糖1年   |   天残   |  巨难看  |  176cm/55kg  |  社恐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "TurtleLemonE2"
+              }
+            ]
+          }
+        },
+        "id": "1931535830260088832",
+        "location": "神奈",
+        "name": "满月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941619385757511680/Mj4jWQb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 62,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "username": "TurtleLemonE3",
+        "verified": false
+      }
+    ]
+  }
+}

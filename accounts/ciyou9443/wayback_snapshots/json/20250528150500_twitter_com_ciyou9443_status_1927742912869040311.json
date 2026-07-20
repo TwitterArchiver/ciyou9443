@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1927692400752754792",
+    "created_at": "2025-05-28T15:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T16:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927742912869040311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1510117050424864774",
+          "start": 0,
+          "username": "Komoreb11673026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927742912869040311",
+    "in_reply_to_user_id": "1510117050424864774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927735434387304560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Komoreb11673026 比如那样在那样～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1927692400752754792",
+        "created_at": "2025-05-28T15:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T16:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927742912869040311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1510117050424864774",
+              "start": 0,
+              "username": "Komoreb11673026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927742912869040311",
+        "in_reply_to_user_id": "1510117050424864774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927735434387304560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Komoreb11673026 比如那样在那样～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510117050424864774",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1927692400752754792",
+        "created_at": "2025-05-28T14:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T15:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927735434387304560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927735434387304560",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927692400752754792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 细说小电影(˵¯͒〰¯͒˵)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/两个人格交替行动/没有家长党🏳️‍⚧️🍥/一星期没更就可以当我似了/大概是个清水推",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1902304011421888656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 317,
+          "like_count": 3216,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 975
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T04:49:04.000Z",
+        "description": "青灯灭 木鱼歇 佛曰：今生你是我的劫",
+        "id": "1510117050424864774",
+        "name": "酒笙清栀",
+        "pinned_tweet_id": "1823479671297859995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510153332463063043/VkwfLumd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 40,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 60
+        },
+        "username": "Komoreb11673026",
+        "verified": false
+      }
+    ]
+  }
+}

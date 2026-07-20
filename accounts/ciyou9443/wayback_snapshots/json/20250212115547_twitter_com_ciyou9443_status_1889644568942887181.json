@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889644564664950786"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1889644568942887181",
+    "created_at": "2025-02-12T11:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T12:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889644568942887181"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ynv2MfSuEg",
+          "end": 42,
+          "expanded_url": "https://x.com/ciyou9443/status/1889644568942887181/photo/1",
+          "media_key": "3_1889644564664950786",
+          "start": 19,
+          "url": "https://t.co/Ynv2MfSuEg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889644568942887181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然和我没什么关系，不过，元宵节快乐 https://t.co/Ynv2MfSuEg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1889644564664950786",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjlduESaIAIYup-.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889644564664950786"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1889644568942887181",
+        "created_at": "2025-02-12T11:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T12:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889644568942887181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ynv2MfSuEg",
+              "end": 42,
+              "expanded_url": "https://x.com/ciyou9443/status/1889644568942887181/photo/1",
+              "media_key": "3_1889644564664950786",
+              "start": 19,
+              "url": "https://t.co/Ynv2MfSuEg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889644568942887181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然和我没什么关系，不过，元宵节快乐 https://t.co/Ynv2MfSuEg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "含糖mtf/欢迎互fo/困困困困困要困死了/冬季濒死限定/欢迎xyn来找我玩♥(｡￫v￩｡)♥🏳️‍⚧️🍥",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 119,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 204
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

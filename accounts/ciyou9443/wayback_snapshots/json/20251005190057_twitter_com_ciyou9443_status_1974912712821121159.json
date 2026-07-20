@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974912708714917888"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1974912712821121159",
+    "created_at": "2025-10-05T19:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T20:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974912712821121159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SycUx7xg3s",
+          "end": 44,
+          "expanded_url": "https://x.com/ciyou9443/status/1974912712821121159/photo/1",
+          "media_key": "3_1974912708714917888",
+          "start": 21,
+          "url": "https://t.co/SycUx7xg3s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974912712821121159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给你们自恨跨都抓起来，再怎么也比我之前好 https://t.co/SycUx7xg3s"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1974912712821121159].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1974912712821121159",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1974912712821121159"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1974912708714917888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2hMpSFbcAAI_RI.jpg",
+        "width": 480
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/薛定谔的成分",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 512,
+          "like_count": 7275,
+          "listed_count": 4,
+          "media_count": 187,
+          "tweet_count": 1651
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

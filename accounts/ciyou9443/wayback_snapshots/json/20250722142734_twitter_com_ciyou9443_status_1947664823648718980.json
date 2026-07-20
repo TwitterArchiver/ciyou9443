@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1947664823648718980",
+    "created_at": "2025-07-22T14:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T15:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947664823648718980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/neko1264826/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/neko1264826/status/1947636842855338041",
+          "start": 15,
+          "url": "https://t.co/UJGSnC95Jh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947664823648718980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947636842855338041",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "越看越绷不住，老师我迷上你了 https://t.co/UJGSnC95Jh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1947636798639005696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwdlWW5bYAAGjt2.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1274,
+        "media_key": "3_1947636798618013696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwdlWW0bEAAmPzr.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1947636798617976832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwdlWW0agAAHvhn.jpg",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "media_key": "3_1947636798802333696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwdlWXgXkAAcsQ7.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1947664823648718980",
+        "created_at": "2025-07-22T14:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T15:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947664823648718980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/neko1264826/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/neko1264826/status/1947636842855338041",
+              "start": 15,
+              "url": "https://t.co/UJGSnC95Jh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947664823648718980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947636842855338041",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "越看越绷不住，老师我迷上你了 https://t.co/UJGSnC95Jh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947636798639005696",
+            "3_1947636798618013696",
+            "3_1947636798617976832",
+            "3_1947636798802333696"
+          ]
+        },
+        "author_id": "1880632778141921282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1947636842855338041",
+        "created_at": "2025-07-22T12:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T13:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947636842855338041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JgULPv7dOA",
+              "end": 49,
+              "expanded_url": "https://x.com/neko1264826/status/1947636842855338041/photo/1",
+              "media_key": "3_1947636798639005696",
+              "start": 26,
+              "url": "https://t.co/JgULPv7dOA"
+            },
+            {
+              "display_url": "pic.x.com/JgULPv7dOA",
+              "end": 49,
+              "expanded_url": "https://x.com/neko1264826/status/1947636842855338041/photo/1",
+              "media_key": "3_1947636798618013696",
+              "start": 26,
+              "url": "https://t.co/JgULPv7dOA"
+            },
+            {
+              "display_url": "pic.x.com/JgULPv7dOA",
+              "end": 49,
+              "expanded_url": "https://x.com/neko1264826/status/1947636842855338041/photo/1",
+              "media_key": "3_1947636798617976832",
+              "start": 26,
+              "url": "https://t.co/JgULPv7dOA"
+            },
+            {
+              "display_url": "pic.x.com/JgULPv7dOA",
+              "end": 49,
+              "expanded_url": "https://x.com/neko1264826/status/1947636842855338041/photo/1",
+              "media_key": "3_1947636798802333696",
+              "start": 26,
+              "url": "https://t.co/JgULPv7dOA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947636842855338041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4550,
+          "like_count": 59,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "【江青cosplay】（终于出了！假发做了好久！） https://t.co/JgULPv7dOA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 411,
+          "like_count": 4590,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1176
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T15:06:23.000Z",
+        "description": "“江上无灯，风起青山。” 自介：女孩子/史同+二次/扩列聊天大欢迎！/江青激推者/姐：@Noisy_White",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 43,
+                "username": "Noisy_White"
+              }
+            ]
+          }
+        },
+        "id": "1880632778141921282",
+        "location": "*咬",
+        "name": "NEKO_绫",
+        "pinned_tweet_id": "1943515529215643767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946524101247410176/sHIgUaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 86,
+          "like_count": 485,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 241
+        },
+        "username": "neko1264826",
+        "verified": false
+      }
+    ]
+  }
+}

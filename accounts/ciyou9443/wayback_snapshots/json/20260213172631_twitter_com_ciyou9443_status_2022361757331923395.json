@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2022361757331923395",
+    "created_at": "2026-02-13T17:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T18:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022361757331923395"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshinemu123/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/hoshinemu123/status/2021956150368104748",
+          "start": 24,
+          "url": "https://t.co/FSjy1VVbci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022361757331923395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021956150368104748",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "线下还可以开到隐藏款素，叽里咕噜说不停说到你烦 https://t.co/FSjy1VVbci"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021955940581617665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9uNxXbsAE02oU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 480,
+        "media_key": "3_2021955939554013185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9uNtibsAEnWI7.jpg",
+        "width": 640
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2021955942158585856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9uN3PaUAAd_im.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021955942892617729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9uN5-awAEluIJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2022361757331923395",
+        "created_at": "2026-02-13T17:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T18:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022361757331923395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinemu123/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/hoshinemu123/status/2021956150368104748",
+              "start": 24,
+              "url": "https://t.co/FSjy1VVbci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022361757331923395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021956150368104748",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "线下还可以开到隐藏款素，叽里咕噜说不停说到你烦 https://t.co/FSjy1VVbci"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021955940581617665",
+            "3_2021955939554013185",
+            "3_2021955942158585856",
+            "3_2021955942892617729"
+          ]
+        },
+        "author_id": "1907031442103943168",
+        "conversation_id": "2021956150368104748",
+        "created_at": "2026-02-12T14:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:33:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021955946923405510",
+          "2021956150368104748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FgriL8D4Qa",
+              "end": 88,
+              "expanded_url": "https://x.com/hoshinemu123/status/2021956150368104748/photo/1",
+              "media_key": "3_2021955940581617665",
+              "start": 65,
+              "url": "https://t.co/FgriL8D4Qa"
+            },
+            {
+              "display_url": "pic.x.com/FgriL8D4Qa",
+              "end": 88,
+              "expanded_url": "https://x.com/hoshinemu123/status/2021956150368104748/photo/1",
+              "media_key": "3_2021955939554013185",
+              "start": 65,
+              "url": "https://t.co/FgriL8D4Qa"
+            },
+            {
+              "display_url": "pic.x.com/FgriL8D4Qa",
+              "end": 88,
+              "expanded_url": "https://x.com/hoshinemu123/status/2021956150368104748/photo/1",
+              "media_key": "3_2021955942158585856",
+              "start": 65,
+              "url": "https://t.co/FgriL8D4Qa"
+            },
+            {
+              "display_url": "pic.x.com/FgriL8D4Qa",
+              "end": 88,
+              "expanded_url": "https://x.com/hoshinemu123/status/2021956150368104748/photo/1",
+              "media_key": "3_2021955942892617729",
+              "start": 65,
+              "url": "https://t.co/FgriL8D4Qa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021956150368104748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5011,
+          "like_count": 100,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "无论是激女还是自恨跨我劝你多参加一点线下社交，远离网络上的纷争，没必要在我这找顿骂。\n放点比较美好的线下社交照片吸引大家去社交。 https://t.co/FgriL8D4Qa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "长夜何萤，惭言朔月",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "常曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010721996909514752/qGj_peZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 535,
+          "like_count": 10128,
+          "listed_count": 4,
+          "media_count": 347,
+          "tweet_count": 2567
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同。仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘。我叫星眠，是半个软件工程师加半个音乐制作人，在努力成为艺术家和技术大佬的路上。不定期推音乐/美术作品，爱好古风。在参加汉服复兴运动。常驻北京，故乡长春，欢迎小女孩们来找我玩。",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "2021956150368104748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2760,
+          "following_count": 3217,
+          "like_count": 3200,
+          "listed_count": 2,
+          "media_count": 792,
+          "tweet_count": 8643
+        },
+        "username": "hoshinemu123",
+        "verified": true
+      }
+    ]
+  }
+}

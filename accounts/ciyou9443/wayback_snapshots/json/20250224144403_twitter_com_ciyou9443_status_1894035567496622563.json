@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1893879795550654874",
+    "created_at": "2025-02-24T14:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T15:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894035567496622563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1825458190328205313",
+          "start": 0,
+          "username": "Azusa235121329"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894035567496622563",
+    "in_reply_to_user_id": "1825458190328205313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893879795550654874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Azusa235121329 摸摸波奇酱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1893879791968792576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkhpoveXMAAEUqK.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1893879795550654874",
+        "created_at": "2025-02-24T14:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T15:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894035567496622563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1825458190328205313",
+              "start": 0,
+              "username": "Azusa235121329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894035567496622563",
+        "in_reply_to_user_id": "1825458190328205313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893879795550654874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Azusa235121329 摸摸波奇酱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893879791968792576"
+          ]
+        },
+        "author_id": "1825458190328205313",
+        "conversation_id": "1893879795550654874",
+        "created_at": "2025-02-24T04:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T05:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893879795550654874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zgVmvwYfRb",
+              "end": 44,
+              "expanded_url": "https://x.com/Azusa235121329/status/1893879795550654874/photo/1",
+              "media_key": "3_1893879791968792576",
+              "start": 21,
+              "url": "https://t.co/zgVmvwYfRb"
+            },
+            {
+              "display_url": "x.com/Azusa235121329…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/Azusa235121329/status/1893532967143907348",
+              "start": 45,
+              "url": "https://t.co/CnMop0a1XB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893879795550654874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893532967143907348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最喜欢的一首😋😋\n喜欢小波奇的第六天😍😍 https://t.co/zgVmvwYfRb https://t.co/CnMop0a1XB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "含糖mtf/欢迎互fo/困困困困困要困死了/薛定谔的颜值/欢迎xyn来找我玩♥(｡￫v￩｡)♥🏳️‍⚧️🍥",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 126,
+          "like_count": 562,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 240
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T09:02:12.000Z",
+        "description": "07年/160/40\n你我相遇在这茫茫人世，向我倾诉你的渴望\nhttps://t.co/jOQ3JE4aZU 这是提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/azusa235121329/",
+                "end": 54,
+                "expanded_url": "https://ngl.link/azusa235121329/",
+                "start": 31,
+                "url": "https://t.co/jOQ3JE4aZU"
+              }
+            ]
+          }
+        },
+        "id": "1825458190328205313",
+        "location": "Black Mesa",
+        "name": "小寻爱吃麦当当",
+        "pinned_tweet_id": "1891864409523229002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868227241848545280/ZW0p_sqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 377,
+          "like_count": 4421,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 898
+        },
+        "username": "Azusa235121329",
+        "verified": false
+      }
+    ]
+  }
+}

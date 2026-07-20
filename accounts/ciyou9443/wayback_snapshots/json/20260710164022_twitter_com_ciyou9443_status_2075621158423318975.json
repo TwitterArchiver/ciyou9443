@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2075484432505389159",
+    "created_at": "2026-07-10T16:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T17:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075621158423318975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1957315200140345345",
+          "start": 0,
+          "username": "_Nana_Sparkle_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075621158423318975",
+    "in_reply_to_user_id": "1957315200140345345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075484432505389159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Nana_Sparkle_ 抱抱哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2075484432505389159",
+        "created_at": "2026-07-10T16:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075621158423318975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1957315200140345345",
+              "start": 0,
+              "username": "_Nana_Sparkle_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075621158423318975",
+        "in_reply_to_user_id": "1957315200140345345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075484432505389159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Nana_Sparkle_ 抱抱哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957315200140345345",
+        "conversation_id": "2075484432505389159",
+        "created_at": "2026-07-10T07:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075484432505389159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075484432505389159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2329,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来用药物来逃避焦虑难过痛苦这些感觉是可以被允许的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  \n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 578,
+          "like_count": 12506,
+          "listed_count": 4,
+          "media_count": 421,
+          "tweet_count": 3317
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-18T05:34:51.000Z",
+        "description": "专业吃瓜群众|最爱的 @KathrynPurr|sb @ChibaSaki2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "KathrynPurr"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "ChibaSaki2"
+              }
+            ]
+          }
+        },
+        "id": "1957315200140345345",
+        "name": "七分冰糖🍰🏳️‍⚧️",
+        "pinned_tweet_id": "2061847687595434207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046876667751108608/WPUoR5CL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 210,
+          "like_count": 708,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 351
+        },
+        "url": "",
+        "username": "_Nana_Sparkle_",
+        "verified": true
+      }
+    ]
+  }
+}

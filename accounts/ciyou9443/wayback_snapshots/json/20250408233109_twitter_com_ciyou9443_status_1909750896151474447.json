@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1909684155509883332",
+    "created_at": "2025-04-08T23:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T00:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909750896151474447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "872113640064786432",
+          "start": 0,
+          "username": "ChariseStever"
+        },
+        {
+          "end": 29,
+          "id": "1595756551699984384",
+          "start": 15,
+          "username": "JustJoker3562"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909750896151474447",
+    "in_reply_to_user_id": "872113640064786432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909684155509883332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChariseStever @JustJoker3562 头给你打歪(￣～￣)嚼！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 129,
+        "media_key": "3_1909684078959284224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoCPjUeWUAAsEVL.png",
+        "width": 296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1909684155509883332",
+        "created_at": "2025-04-08T23:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T00:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909750896151474447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "872113640064786432",
+              "start": 0,
+              "username": "ChariseStever"
+            },
+            {
+              "end": 29,
+              "id": "1595756551699984384",
+              "start": 15,
+              "username": "JustJoker3562"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909750896151474447",
+        "in_reply_to_user_id": "872113640064786432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909684155509883332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChariseStever @JustJoker3562 头给你打歪(￣～￣)嚼！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909684078959284224"
+          ]
+        },
+        "author_id": "872113640064786432",
+        "conversation_id": "1909684155509883332",
+        "created_at": "2025-04-08T19:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T20:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909684155509883332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1595756551699984384",
+              "start": 6,
+              "username": "JustJoker3562"
+            },
+            {
+              "end": 32,
+              "id": "1805373961020260353",
+              "start": 22,
+              "username": "ciyou9443"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pWncIYmKCr",
+              "end": 56,
+              "expanded_url": "https://x.com/ChariseStever/status/1909684155509883332/photo/1",
+              "media_key": "3_1909684078959284224",
+              "start": 33,
+              "url": "https://t.co/pWncIYmKCr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909684155509883332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两个最笨的\n@JustJoker3562 \n@ciyou9443 https://t.co/pWncIYmKCr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/没回fo可以私我",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1902304011421888656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 261,
+          "like_count": 1708,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 645
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-06T15:31:09.000Z",
+        "description": "Goblin/Imp 感兴趣的领域: Information Retrieval (信息检索）& Recommender Systems （推荐系统）",
+        "id": "872113640064786432",
+        "location": "Goblin Den",
+        "name": "nil",
+        "pinned_tweet_id": "1908277022604013875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530459917060120576/MxIH3gkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 81,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 557
+        },
+        "username": "ChariseStever",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-24T12:31:53.000Z",
+        "description": "‼️本人无其它账号-请勿混淆┃选择性互fo┃06软件工程┃任何群体或立场友好┃中文(母语)/English/日本語(苦手)┃帖子仅供娱乐‼️不代表个人观点┃分享meme图(网络/原创)┃ACG痴迷┃链接是电子小玩具,欢迎打赏awa┃匿名信*`꒳´ * )⃕↝ https://t.co/dXHZEfIIhM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/justjoker",
+                "end": 153,
+                "expanded_url": "http://ngl.link/justjoker",
+                "start": 130,
+                "url": "https://t.co/dXHZEfIIhM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "just-joker.top",
+                "end": 23,
+                "expanded_url": "https://just-joker.top",
+                "start": 0,
+                "url": "https://t.co/Z1XfpOwti4"
+              }
+            ]
+          }
+        },
+        "id": "1595756551699984384",
+        "location": "乌托邦",
+        "name": "Just.Joker",
+        "pinned_tweet_id": "1909619054039674889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908135436356399104/XleDyApC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 170,
+          "like_count": 4069,
+          "listed_count": 5,
+          "media_count": 990,
+          "tweet_count": 1690
+        },
+        "url": "https://t.co/Z1XfpOwti4",
+        "username": "JustJoker3562",
+        "verified": false
+      }
+    ]
+  }
+}

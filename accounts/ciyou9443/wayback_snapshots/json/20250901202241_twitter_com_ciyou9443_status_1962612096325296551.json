@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1962587946252734781",
+    "created_at": "2025-09-01T20:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T21:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962612096325296551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1905496747637702659",
+          "start": 0,
+          "username": "linx012138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962612096325296551",
+    "in_reply_to_user_id": "1905496747637702659",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962587946252734781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linx012138 =͟͟͞͞=͟͟͞͞(●⁰ꈊ⁰● |||)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1515,
+        "media_key": "3_1962587931425808387",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzyDU00aoAMbgN9.jpg",
+        "width": 1093
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1962587946252734781",
+        "created_at": "2025-09-01T20:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T21:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962612096325296551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905496747637702659",
+              "start": 0,
+              "username": "linx012138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962612096325296551",
+        "in_reply_to_user_id": "1905496747637702659",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962587946252734781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linx012138 =͟͟͞͞=͟͟͞͞(●⁰ꈊ⁰● |||)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962587931425808387"
+          ]
+        },
+        "author_id": "1905496747637702659",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1962587946252734781",
+        "created_at": "2025-09-01T18:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T19:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962587946252734781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RcqmsrQWzl",
+              "end": 147,
+              "expanded_url": "https://x.com/linx012138/status/1962587946252734781/photo/1",
+              "media_key": "3_1962587931425808387",
+              "start": 124,
+              "url": "https://t.co/RcqmsrQWzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962587946252734781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 262,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃了致死量的致幻剂\n具体是什么不太好说\n致幻类的真的会大小便失禁🥺\n答应我下次一定直接321跳了好嘛\n从床上滚下来后 头磕到床头柜了\n因为医生上了拘束带 \n现在四肢和腰还拉伤的好痛\n醒来后持续了一整天得外部幻觉\n在墙上只要我想什么 就能映出来什么 https://t.co/RcqmsrQWzl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1958676027850596862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 505,
+          "like_count": 6583,
+          "listed_count": 4,
+          "media_count": 140,
+          "tweet_count": 1466
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T05:46:54.000Z",
+        "description": "前世流浪小狗面包｜自由艺术创作者｜双向情感障碍｜日留美术生｜电子宠物｜ 🇨🇳🇯🇵🇰🇷🇬🇧ok｜ 🏳️‍⚧️🏳️‍🌈友好｜ENTP ｜💉 🌡️ 💊🧪🔪｜虚无主义｜",
+        "id": "1905496747637702659",
+        "name": "霖",
+        "pinned_tweet_id": "1936670809227206914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953604889046818816/UYzDUr87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2860,
+          "following_count": 438,
+          "like_count": 1886,
+          "listed_count": 4,
+          "media_count": 34,
+          "tweet_count": 427
+        },
+        "username": "linx012138",
+        "verified": false
+      }
+    ]
+  }
+}

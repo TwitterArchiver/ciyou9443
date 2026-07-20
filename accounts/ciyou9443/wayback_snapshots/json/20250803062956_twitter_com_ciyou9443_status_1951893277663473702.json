@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1951892877996683384",
+    "created_at": "2025-08-03T06:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T07:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951893277663473702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1431699715163262978",
+          "start": 0,
+          "username": "LittleYue0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951893277663473702",
+    "in_reply_to_user_id": "1431699715163262978",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951893106644922492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LittleYue0721 ♥(｡￫v￩｡)♥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1951892877996683384",
+        "created_at": "2025-08-03T06:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T07:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951893277663473702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1431699715163262978",
+              "start": 0,
+              "username": "LittleYue0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951893277663473702",
+        "in_reply_to_user_id": "1431699715163262978",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951893106644922492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LittleYue0721 ♥(｡￫v￩｡)♥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431699715163262978",
+        "conversation_id": "1951892877996683384",
+        "created_at": "2025-08-03T06:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T07:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951893106644922492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951893106644922492",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951892877996683384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 很好看！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 454,
+          "like_count": 5652,
+          "listed_count": 3,
+          "media_count": 157,
+          "tweet_count": 1321
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T19:26:35.000Z",
+        "description": "Mtf/158cm/45kg/HRT2022.10.18 持证含糖 同类会回fo咪 常驻武汉/喜欢有礼貌的人/小厨娘～/少女乐队/星穹铁道/高强度刷推/转发代表认同/提问箱👉https://t.co/UiXzTpvtRq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/littlryur0721",
+                "end": 110,
+                "expanded_url": "https://ngl.link/littlryur0721",
+                "start": 87,
+                "url": "https://t.co/UiXzTpvtRq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LittleYueqwq",
+                "end": 23,
+                "expanded_url": "http://t.me/LittleYueqwq",
+                "start": 0,
+                "url": "https://t.co/vP6a6WYJLg"
+              }
+            ]
+          }
+        },
+        "id": "1431699715163262978",
+        "location": "月光把天空照亮 撒下一点光芒点缀海洋",
+        "name": "间月🏳️‍⚧️",
+        "pinned_tweet_id": "1950887736443084898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948211938196148224/loMswx97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 383,
+          "like_count": 3606,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 1178
+        },
+        "url": "https://t.co/vP6a6WYJLg",
+        "username": "LittleYue0721",
+        "verified": false
+      }
+    ]
+  }
+}

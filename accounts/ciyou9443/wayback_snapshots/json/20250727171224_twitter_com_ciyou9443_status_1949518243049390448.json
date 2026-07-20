@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1949411116041588864",
+    "created_at": "2025-07-27T17:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T18:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949518243049390448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1224014088381952002",
+          "start": 0,
+          "username": "YeBuYiya"
+        },
+        {
+          "end": 23,
+          "id": "1907031442103943168",
+          "start": 10,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949518243049390448",
+    "in_reply_to_user_id": "1224014088381952002",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949517917579829248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YeBuYiya @hoshinemu123 露脸并非哈基素所拍˃ʍ˂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1949411116041588864",
+        "created_at": "2025-07-27T17:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T18:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949518243049390448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1224014088381952002",
+              "start": 0,
+              "username": "YeBuYiya"
+            },
+            {
+              "end": 23,
+              "id": "1907031442103943168",
+              "start": 10,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949518243049390448",
+        "in_reply_to_user_id": "1224014088381952002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949517917579829248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeBuYiya @hoshinemu123 露脸并非哈基素所拍˃ʍ˂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224014088381952002",
+        "conversation_id": "1949411116041588864",
+        "created_at": "2025-07-27T17:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T18:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949517917579829248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            },
+            {
+              "end": 24,
+              "id": "1907031442103943168",
+              "start": 11,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949517917579829248",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949411495164740082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 @hoshinemu123 哈基素没给开美颜🤭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 436,
+          "like_count": 5250,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1249
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T16:58:04.000Z",
+        "description": "一个普通底层跨性别者，年过三十老药娘，争取活到自然死，为了那个虚无缥缈的目标而努力，换过很多工作，有很多技能，但是全都没什么用，目前正在摆地摊卖水果，有一个坚韧不屈的灵魂积极向上，感觉人生过去了好久好久，又好像没过多久",
+        "id": "1224014088381952002",
+        "location": "世界树",
+        "name": "花里花拉🍥🍬🍭（戒烟失败复吸版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942258710753206272/-77PQ2z9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 327,
+          "like_count": 3017,
+          "listed_count": 6,
+          "media_count": 197,
+          "tweet_count": 1943
+        },
+        "username": "YeBuYiya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；一个领域很偏的软件工程师；一个并不会创作的音乐制作人；一个技术全忘了的技术音频；文学少女；古风女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1949411591784710505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 2712,
+          "like_count": 1315,
+          "listed_count": 0,
+          "media_count": 345,
+          "tweet_count": 4063
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      }
+    ]
+  }
+}

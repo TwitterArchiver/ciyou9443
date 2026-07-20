@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952402508309245952"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1952402510779461733",
+    "created_at": "2025-08-04T16:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T17:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952402510779461733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TaS7VOhrjz",
+          "end": 45,
+          "expanded_url": "https://x.com/ciyou9443/status/1952402510779461733/photo/1",
+          "media_key": "3_1952402508309245952",
+          "start": 22,
+          "url": "https://t.co/TaS7VOhrjz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952402510779461733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我已经褪去人皮，升华成猫了（哈气）（乱抓） https://t.co/TaS7VOhrjz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 876,
+        "media_key": "3_1952402508309245952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxhTvK5asAAeO-e.jpg",
+        "width": 802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952402508309245952"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1952402510779461733",
+        "created_at": "2025-08-04T16:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T17:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952402510779461733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TaS7VOhrjz",
+              "end": 45,
+              "expanded_url": "https://x.com/ciyou9443/status/1952402510779461733/photo/1",
+              "media_key": "3_1952402508309245952",
+              "start": 22,
+              "url": "https://t.co/TaS7VOhrjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952402510779461733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经褪去人皮，升华成猫了（哈气）（乱抓） https://t.co/TaS7VOhrjz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 463,
+          "like_count": 5722,
+          "listed_count": 3,
+          "media_count": 163,
+          "tweet_count": 1340
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

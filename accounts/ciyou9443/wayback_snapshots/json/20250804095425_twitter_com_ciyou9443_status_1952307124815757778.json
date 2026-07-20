@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1952307068465217536",
+        "7_1952307106364915712"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1952307124815757778",
+    "created_at": "2025-08-04T09:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T10:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952307124815757778"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 38,
+          "tag": "mtf"
+        },
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "药娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CYwm5B7qb2",
+          "end": 70,
+          "expanded_url": "https://x.com/ciyou9443/status/1952307124815757778/video/1",
+          "media_key": "7_1952307068465217536",
+          "start": 47,
+          "url": "https://t.co/CYwm5B7qb2"
+        },
+        {
+          "display_url": "pic.x.com/CYwm5B7qb2",
+          "end": 70,
+          "expanded_url": "https://x.com/ciyou9443/status/1952307124815757778/video/1",
+          "media_key": "7_1952307106364915712",
+          "start": 47,
+          "url": "https://t.co/CYwm5B7qb2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952307124815757778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈lo素也转圈圈～团子蹦蹦～\n衣服和洛天依可爱捏可爱捏，哈lo素被萌化了～\n#mtf #药娘 https://t.co/CYwm5B7qb2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7569,
+        "height": 1280,
+        "media_key": "7_1952307068465217536",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1952307068465217536/pu/img/uXGb03SGC68yESS-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952307068465217536/pu/vid/avc1/320x568/OJfleBeoRE33gQri.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952307068465217536/pu/vid/avc1/480x852/47vyb4rPvLUv9Xay.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952307068465217536/pu/vid/avc1/720x1280/m-e65roNU8TIfbls.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1952307068465217536/pu/pl/qgCeeeX6Y6ZXhOqt.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 1900,
+        "height": 1280,
+        "media_key": "7_1952307106364915712",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1952307106364915712/pu/img/Eg2d03VJYAk6EefZ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952307106364915712/pu/vid/avc1/320x568/-ENW9txicXLImMk8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952307106364915712/pu/vid/avc1/480x852/A3jo8HBierqlv_9m.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952307106364915712/pu/vid/avc1/720x1280/NkBmXAs4Dtug7kIG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1952307106364915712/pu/pl/gAwBqf_TyDflWd0J.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1952307068465217536",
+            "7_1952307106364915712"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1952307124815757778",
+        "created_at": "2025-08-04T09:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T10:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952307124815757778"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "mtf"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CYwm5B7qb2",
+              "end": 70,
+              "expanded_url": "https://x.com/ciyou9443/status/1952307124815757778/video/1",
+              "media_key": "7_1952307068465217536",
+              "start": 47,
+              "url": "https://t.co/CYwm5B7qb2"
+            },
+            {
+              "display_url": "pic.x.com/CYwm5B7qb2",
+              "end": 70,
+              "expanded_url": "https://x.com/ciyou9443/status/1952307124815757778/video/1",
+              "media_key": "7_1952307106364915712",
+              "start": 47,
+              "url": "https://t.co/CYwm5B7qb2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952307124815757778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈lo素也转圈圈～团子蹦蹦～\n衣服和洛天依可爱捏可爱捏，哈lo素被萌化了～\n#mtf #药娘 https://t.co/CYwm5B7qb2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 457,
+          "like_count": 5707,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 1337
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

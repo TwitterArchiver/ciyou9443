@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1910910988532240426",
+    "created_at": "2025-04-12T04:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T05:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910912194327478631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695452816658325504",
+          "start": 0,
+          "username": "minchen3943"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910912194327478631",
+    "in_reply_to_user_id": "1695452816658325504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910910988532240426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minchen3943 是这样呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1910910988532240426",
+        "created_at": "2025-04-12T04:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T05:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910912194327478631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1695452816658325504",
+              "start": 0,
+              "username": "minchen3943"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910912194327478631",
+        "in_reply_to_user_id": "1695452816658325504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910910988532240426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minchen3943 是这样呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695452816658325504",
+        "conversation_id": "1910910988532240426",
+        "created_at": "2025-04-12T04:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T05:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910910988532240426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910910988532240426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推是不是最近少了好多人（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/不鉴证不涉黄不害人求放过",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1906693278533374051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 265,
+          "like_count": 1897,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 687
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T15:07:16.000Z",
+        "description": "07年天才少女！持证含糖丨17岁丨也许是INTP？丨看到就会回fo，如果没回可以私信/tg丨日常出没在湖南长沙｜tg：https://t.co/KKC329JhfY 最爱的老婆是@Moyang0709 ^ω^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Moyang0709"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minchen3943",
+                "end": 82,
+                "expanded_url": "http://t.me/minchen3943",
+                "start": 59,
+                "url": "https://t.co/KKC329JhfY"
+              }
+            ]
+          }
+        },
+        "id": "1695452816658325504",
+        "location": "长沙",
+        "name": "瞑尘🍥",
+        "pinned_tweet_id": "1909961716345311479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697598311883304960/jDWBHRM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 738,
+          "like_count": 2744,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1310
+        },
+        "username": "minchen3943",
+        "verified": false
+      }
+    ]
+  }
+}

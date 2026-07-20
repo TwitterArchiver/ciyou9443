@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1913567547489992717",
+    "created_at": "2025-04-20T03:53:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T04:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913803204590227487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1876995622848610304",
+          "start": 0,
+          "username": "world_lover_zwc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913803204590227487",
+    "in_reply_to_user_id": "1876995622848610304",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913567547489992717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@world_lover_zwc o((*^▽^*))o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1449,
+        "media_key": "3_1913567536194756608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go5biSCboAA_Ea-.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1913567547489992717",
+        "created_at": "2025-04-20T03:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T04:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913803204590227487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1876995622848610304",
+              "start": 0,
+              "username": "world_lover_zwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913803204590227487",
+        "in_reply_to_user_id": "1876995622848610304",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913567547489992717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@world_lover_zwc o((*^▽^*))o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913567536194756608"
+          ]
+        },
+        "author_id": "1876995622848610304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1913567547489992717",
+        "created_at": "2025-04-19T12:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T13:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913567547489992717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNQ6FDsRez",
+              "end": 27,
+              "expanded_url": "https://x.com/world_lover_zwc/status/1913567547489992717/photo/1",
+              "media_key": "3_1913567536194756608",
+              "start": 4,
+              "url": "https://t.co/uNQ6FDsRez"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "1913567547489992717",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恢复哩 https://t.co/uNQ6FDsRez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1906693278533374051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 280,
+          "like_count": 2152,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 736
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T14:13:33.000Z",
+        "description": "生理性别女/LGBT友好/高中生/精神状态经常很差/不公开键政/拒绝涉黄/不OD/愿意和大家交朋友～（互fo）\n                                                                   \n「莫回头，来路皆是艳阳；\n莫渴求，向前走」",
+        "id": "1876995622848610304",
+        "name": "停息不眠",
+        "pinned_tweet_id": "1894246693086089573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877383930783133696/2HLHMVls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 270,
+          "like_count": 1405,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 243
+        },
+        "username": "world_lover_zwc",
+        "verified": false
+      }
+    ]
+  }
+}

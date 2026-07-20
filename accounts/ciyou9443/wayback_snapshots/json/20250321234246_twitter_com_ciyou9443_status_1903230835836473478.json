@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1902987436894064782",
+    "created_at": "2025-03-21T23:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T00:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903230835836473478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1833730895750283264",
+          "start": 0,
+          "username": "32_aug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903230835836473478",
+    "in_reply_to_user_id": "1833730895750283264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902987436894064782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@32_aug 揉揉你～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1106,
+        "media_key": "3_1902987428652257284",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmjE--DaEAQo3b5.jpg",
+        "width": 1032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1902987436894064782",
+        "created_at": "2025-03-21T23:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T00:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903230835836473478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1833730895750283264",
+              "start": 0,
+              "username": "32_aug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903230835836473478",
+        "in_reply_to_user_id": "1833730895750283264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902987436894064782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@32_aug 揉揉你～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902987428652257284"
+          ]
+        },
+        "author_id": "1833730895750283264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1902987436894064782",
+        "created_at": "2025-03-21T07:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T08:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902987436894064782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PwweGQsQum",
+              "end": 168,
+              "expanded_url": "https://x.com/32_aug/status/1902987436894064782/photo/1",
+              "media_key": "3_1902987428652257284",
+              "start": 145,
+              "url": "https://t.co/PwweGQsQum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902987436894064782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈也是神人😅\n回家之后一见到她就垮着个脸 后面又是各种抱怨我怎么样怎么样\n拔了个牙到现在后就没给我过好脸色我都忍了 每次回家都是来看你的臭脸的是吧😅我怎么你了\n你本来牙疼我说一句你不是要去医院么在这里咋就是回怼了 什么脑回路？\n自尊心又强的要死 不理你了又在这里刷存在感 我很要你管？😅 https://t.co/PwweGQsQum"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/没回fo可以私我",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1899844039488286851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 225,
+          "like_count": 956,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 391
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T04:54:59.000Z",
+        "description": "可以叫我小八🥺「欢迎成为我日记里的一页」膠片｜ヨルシカ｜跑步｜箱根駅伝｜大学在读，没心没肺过日子中…情商不高，不是很会说话🥹，跟大家聊聊天。养了一只流浪傻橘猫叫李满分。不建证！不建证！不建证！互动多了可能会互fo，互fo会查成分！欢迎大家友好交流！！☺️拍的照片在这里：小红书6548439184",
+        "id": "1833730895750283264",
+        "location": "Stockholm, Sweden",
+        "name": "Aug.32",
+        "pinned_tweet_id": "1896572952801652984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892500544310398976/PAoRtWWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 317,
+          "like_count": 7520,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 1478
+        },
+        "username": "32_aug",
+        "verified": false
+      }
+    ]
+  }
+}

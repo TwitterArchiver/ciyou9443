@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964603106152579072"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1964603113601700287",
+    "created_at": "2025-09-07T08:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T09:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964603113601700287"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IWJ2Dx6Zyh",
+          "end": 33,
+          "expanded_url": "https://x.com/ciyou9443/status/1964603113601700287/photo/1",
+          "media_key": "3_1964603106152579072",
+          "start": 10,
+          "url": "https://t.co/IWJ2Dx6Zyh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964603113601700287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈基素胸还是太大了 https://t.co/IWJ2Dx6Zyh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 968,
+        "media_key": "3_1964603106152579072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0OsHbragAANHs9.jpg",
+        "width": 1063
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964603106152579072"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1964603113601700287",
+        "created_at": "2025-09-07T08:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T09:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964603113601700287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IWJ2Dx6Zyh",
+              "end": 33,
+              "expanded_url": "https://x.com/ciyou9443/status/1964603113601700287/photo/1",
+              "media_key": "3_1964603106152579072",
+              "start": 10,
+              "url": "https://t.co/IWJ2Dx6Zyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964603113601700287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈基素胸还是太大了 https://t.co/IWJ2Dx6Zyh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1961407992886411770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 493,
+          "like_count": 6778,
+          "listed_count": 4,
+          "media_count": 145,
+          "tweet_count": 1513
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

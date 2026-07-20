@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1901542960405393919",
+    "created_at": "2025-03-17T07:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T08:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901542960405393919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1452598562341023748",
+          "start": 3,
+          "username": "Ainai_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901542960405393919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901176824304201831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ainai_qwq: 活动截止1号\n会随机抽取幸运xyn\n奖品是日雌x1 owo\n只要留言 爱奈快快的！\n点赞转发就可以参加啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1901542960405393919",
+        "created_at": "2025-03-17T07:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T08:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901542960405393919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1452598562341023748",
+              "start": 3,
+              "username": "Ainai_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901542960405393919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901176824304201831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ainai_qwq: 活动截止1号\n会随机抽取幸运xyn\n奖品是日雌x1 owo\n只要留言 爱奈快快的！\n点赞转发就可以参加啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452598562341023748",
+        "conversation_id": "1901176824304201831",
+        "created_at": "2025-03-16T07:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T08:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901176824304201831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901176824304201831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 11624,
+          "like_count": 173,
+          "quote_count": 1,
+          "reply_count": 98,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "活动截止1号\n会随机抽取幸运xyn\n奖品是日雌x1 owo\n只要留言 爱奈快快的！\n点赞转发就可以参加啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "欢迎互fo/困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～🏳️‍⚧️🍥",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 144,
+          "like_count": 641,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 280
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-25T11:31:12.000Z",
+        "description": "大家好我是梦爱奈的大号 欢迎大家来找我聊天 tg群https://t.co/4viLFGH11Z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+TcUCEU4RVsRhZ…",
+                "end": 48,
+                "expanded_url": "https://t.me/+TcUCEU4RVsRhZDU1",
+                "start": 25,
+                "url": "https://t.co/4viLFGH11Z"
+              }
+            ]
+          }
+        },
+        "id": "1452598562341023748",
+        "name": "梦爱奈（糖贩子/可以平台🏳️‍⚧️🏳️‍🌈）",
+        "pinned_tweet_id": "1900534398685954433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858819869871140868/lTSVSBwe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 227,
+          "like_count": 402,
+          "listed_count": 10,
+          "media_count": 84,
+          "tweet_count": 544
+        },
+        "username": "Ainai_qwq",
+        "verified": true
+      }
+    ]
+  }
+}

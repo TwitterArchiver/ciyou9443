@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925081960440840192",
+        "3_1925082003189174272",
+        "3_1925082052501680128"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1925082066640687121",
+    "created_at": "2025-05-21T06:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T07:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925082066640687121"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "mtf"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "药娘"
+        },
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "男娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/78FYBqOCKS",
+          "end": 58,
+          "expanded_url": "https://x.com/ciyou9443/status/1925082066640687121/photo/1",
+          "media_key": "3_1925081960440840192",
+          "start": 35,
+          "url": "https://t.co/78FYBqOCKS"
+        },
+        {
+          "display_url": "pic.x.com/78FYBqOCKS",
+          "end": 58,
+          "expanded_url": "https://x.com/ciyou9443/status/1925082066640687121/photo/1",
+          "media_key": "3_1925082003189174272",
+          "start": 35,
+          "url": "https://t.co/78FYBqOCKS"
+        },
+        {
+          "display_url": "pic.x.com/78FYBqOCKS",
+          "end": 58,
+          "expanded_url": "https://x.com/ciyou9443/status/1925082066640687121/photo/1",
+          "media_key": "3_1925082052501680128",
+          "start": 35,
+          "url": "https://t.co/78FYBqOCKS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925082066640687121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "久久久久久违的裙纸照片\n这次像不像学生呢～\n#mtf #药娘 #男娘 https://t.co/78FYBqOCKS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1137,
+        "media_key": "3_1925081960440840192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrdD1--WwAATRE4.jpg",
+        "width": 1084
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1925082003189174272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrdD4eOWkAAdBaE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1925082052501680128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrdD7V7XsAA9-wa.jpg",
+        "width": 2255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925081960440840192",
+            "3_1925082003189174272",
+            "3_1925082052501680128"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1925082066640687121",
+        "created_at": "2025-05-21T06:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T07:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925082066640687121"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "mtf"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "药娘"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/78FYBqOCKS",
+              "end": 58,
+              "expanded_url": "https://x.com/ciyou9443/status/1925082066640687121/photo/1",
+              "media_key": "3_1925081960440840192",
+              "start": 35,
+              "url": "https://t.co/78FYBqOCKS"
+            },
+            {
+              "display_url": "pic.x.com/78FYBqOCKS",
+              "end": 58,
+              "expanded_url": "https://x.com/ciyou9443/status/1925082066640687121/photo/1",
+              "media_key": "3_1925082003189174272",
+              "start": 35,
+              "url": "https://t.co/78FYBqOCKS"
+            },
+            {
+              "display_url": "pic.x.com/78FYBqOCKS",
+              "end": 58,
+              "expanded_url": "https://x.com/ciyou9443/status/1925082066640687121/photo/1",
+              "media_key": "3_1925082052501680128",
+              "start": 35,
+              "url": "https://t.co/78FYBqOCKS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925082066640687121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "久久久久久违的裙纸照片\n这次像不像学生呢～\n#mtf #药娘 #男娘 https://t.co/78FYBqOCKS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/戾气现在很重/有两个人格/没有家长党🏳️‍⚧️🍥/",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1919285021896253823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 318,
+          "like_count": 2941,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 911
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

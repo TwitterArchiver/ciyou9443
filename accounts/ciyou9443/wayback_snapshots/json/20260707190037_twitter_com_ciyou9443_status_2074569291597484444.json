@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2074467544195580164",
+    "created_at": "2026-07-07T19:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T20:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074569291597484444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864739862697644032",
+          "start": 0,
+          "username": "2196F3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074569291597484444",
+    "in_reply_to_user_id": "1864739862697644032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074467544195580164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2196F3 抱抱抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2074467544195580164",
+        "created_at": "2026-07-07T19:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T20:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074569291597484444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864739862697644032",
+              "start": 0,
+              "username": "2196F3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074569291597484444",
+        "in_reply_to_user_id": "1864739862697644032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074467544195580164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2196F3 抱抱抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864739862697644032",
+        "conversation_id": "2074467544195580164",
+        "created_at": "2026-07-07T12:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074467544195580164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074467544195580164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在很累很伤心的时候会第一时间从别人的视角想问题\n导致说当别人做出很下头的事情的时候 凯尔希首先是会关心那个人的精神状态，他/她的难处\n\n凯尔希第一想到的是\"给\"\n\n被老板骂了后首先做的是哭哭然后第二件事是祝她明天去中国的旅行愉快。\n\n结局当然是她并不觉得这需要acknowledge 仿佛我用得体的礼仪，好听的声线，不计较时间的付出就是理所应当的\n\n凯尔希想到的第一个事情永远是给，是用好听的声音，夹起来说请，谢谢，是\"明白了，你说的对，这就去做\", 是快速的迭代，是理性的分析和铤而走险一次又一次的实验。\n\n换来的不是validation 成功后的喜悦而是更深一层的质疑: 你的setup 究竟什么时候会fail?\n\n这很累。\n\n漫展最后一天是非常的崩溃了\n\n演都不演了（笑\n\nAX 最后一天发泄了一通但是感觉damage control 还是做得很棒的\n\n只是这次过后，when the opportunity comes:\n\n> I am not going to work for you \n> Not anymore \n😿"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 544,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在很累很伤心的时候会第一时间从别人的视角想问题\n导致说当别人做出很下头的事情的时候 凯尔希首先是会关心那个人的精神状态，他/她的难处\n\n凯尔希第一想到的是\"给\"\n\n被老板骂了后首先做的是哭哭然后第二件事是祝她明天去中国的旅行愉快。\n\n结局当然是她并不觉得这需要acknowledge"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  \n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 579,
+          "like_count": 12468,
+          "listed_count": 4,
+          "media_count": 417,
+          "tweet_count": 3303
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-05T18:33:59.000Z",
+        "description": "研究生物医学/病毒，Candidacy↑。\n\n本体是香香软软没有攻击性的INTP猞猁！\n\n是explorer，coser和Les，想做大家的好朋友给人们带来快乐。\n\n看到做得不好的实验会整个炸掉(然后亲自上手) 。😿 \n\n私信话题：源石会上调 IL6吗？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "prts.eterea.uk/?quickacc=bull…",
+                "end": 23,
+                "expanded_url": "http://prts.eterea.uk/?quickacc=bulletin",
+                "start": 0,
+                "url": "https://t.co/fVFEeZUeRA"
+              }
+            ]
+          }
+        },
+        "id": "1864739862697644032",
+        "location": "CA, US-WEST-01",
+        "name": "凯尔希是猫猫",
+        "pinned_tweet_id": "1949626289104802165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952307711271735297/Kt15yKo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 972,
+          "like_count": 5654,
+          "listed_count": 6,
+          "media_count": 774,
+          "tweet_count": 4800
+        },
+        "url": "https://t.co/fVFEeZUeRA",
+        "username": "2196F3",
+        "verified": true
+      }
+    ]
+  }
+}

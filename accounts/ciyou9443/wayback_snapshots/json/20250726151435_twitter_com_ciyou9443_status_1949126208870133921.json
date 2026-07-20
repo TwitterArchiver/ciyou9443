@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949126206097670144"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1949126208870133921",
+    "created_at": "2025-07-26T15:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T16:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949126208870133921"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QL4Q2fiTxY",
+          "end": 47,
+          "expanded_url": "https://x.com/ciyou9443/status/1949126208870133921/photo/1",
+          "media_key": "3_1949126206097670144",
+          "start": 24,
+          "url": "https://t.co/QL4Q2fiTxY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949126208870133921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚才猫猫过来蹭哈基素的脚\n哈基眠表示，玩粥玩的 https://t.co/QL4Q2fiTxY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 472,
+        "media_key": "3_1949126206097670144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwyv9SDbQAAEqmf.jpg",
+        "width": 678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949126206097670144"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1949126208870133921",
+        "created_at": "2025-07-26T15:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T16:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949126208870133921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QL4Q2fiTxY",
+              "end": 47,
+              "expanded_url": "https://x.com/ciyou9443/status/1949126208870133921/photo/1",
+              "media_key": "3_1949126206097670144",
+              "start": 24,
+              "url": "https://t.co/QL4Q2fiTxY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949126208870133921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚才猫猫过来蹭哈基素的脚\n哈基眠表示，玩粥玩的 https://t.co/QL4Q2fiTxY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人/问就是15岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 434,
+          "like_count": 5169,
+          "listed_count": 3,
+          "media_count": 141,
+          "tweet_count": 1238
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

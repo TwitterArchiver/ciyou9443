@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1977401023502098765",
+    "created_at": "2025-10-12T15:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T16:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977401023502098765"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1977401023502098765",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "救命啊，哈基眠要不用润滑干插"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1977401023502098765",
+        "created_at": "2025-10-12T15:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T16:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977401023502098765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977401023502098765",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "救命啊，哈基眠要不用润滑干插"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977093266610044930/hMoWgAyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 514,
+          "like_count": 7448,
+          "listed_count": 4,
+          "media_count": 212,
+          "tweet_count": 1706
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

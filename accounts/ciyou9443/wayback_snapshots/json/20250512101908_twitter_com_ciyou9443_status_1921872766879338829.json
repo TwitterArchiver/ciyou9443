@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921872762404057089",
+        "3_1921872761091182592"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1921872766879338829",
+    "created_at": "2025-05-12T10:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T11:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921872766879338829"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 12,
+          "start": 8,
+          "tag": "mtf"
+        },
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "男娘"
+        },
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "药娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qQRwzPz91f",
+          "end": 44,
+          "expanded_url": "https://x.com/ciyou9443/status/1921872766879338829/photo/1",
+          "media_key": "3_1921872762404057089",
+          "start": 21,
+          "url": "https://t.co/qQRwzPz91f"
+        },
+        {
+          "display_url": "pic.x.com/qQRwzPz91f",
+          "end": 44,
+          "expanded_url": "https://x.com/ciyou9443/status/1921872766879338829/photo/1",
+          "media_key": "3_1921872761091182592",
+          "start": 21,
+          "url": "https://t.co/qQRwzPz91f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921872766879338829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢哈基素吗～\n#mtf #男娘 #药娘 https://t.co/qQRwzPz91f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1921872762404057089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqvdGEqXsAEcKWB.jpg",
+        "width": 1590
+      },
+      {
+        "height": 1062,
+        "media_key": "3_1921872761091182592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqvdF_xW0AA-wE9.jpg",
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921872762404057089",
+            "3_1921872761091182592"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1921872766879338829",
+        "created_at": "2025-05-12T10:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T11:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921872766879338829"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "mtf"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "男娘"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qQRwzPz91f",
+              "end": 44,
+              "expanded_url": "https://x.com/ciyou9443/status/1921872766879338829/photo/1",
+              "media_key": "3_1921872762404057089",
+              "start": 21,
+              "url": "https://t.co/qQRwzPz91f"
+            },
+            {
+              "display_url": "pic.x.com/qQRwzPz91f",
+              "end": 44,
+              "expanded_url": "https://x.com/ciyou9443/status/1921872766879338829/photo/1",
+              "media_key": "3_1921872761091182592",
+              "start": 21,
+              "url": "https://t.co/qQRwzPz91f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921872766879338829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢哈基素吗～\n#mtf #男娘 #药娘 https://t.co/qQRwzPz91f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/没有家长党",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1919285021896253823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 305,
+          "like_count": 2798,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 881
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

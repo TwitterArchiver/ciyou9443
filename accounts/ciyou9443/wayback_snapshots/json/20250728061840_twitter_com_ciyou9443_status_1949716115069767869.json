@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949716111932715008"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1949716115069767869",
+    "created_at": "2025-07-28T06:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T07:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949716115069767869"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/W3Ou6MBZOy",
+          "end": 82,
+          "expanded_url": "https://x.com/ciyou9443/status/1949716115069767869/photo/1",
+          "media_key": "3_1949716111932715008",
+          "start": 59,
+          "url": "https://t.co/W3Ou6MBZOy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949716115069767869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是滴泪系，现在开始od，简简单单o一点猕猴桃果汁做底料，混合酸梅汤，蜂蜜柚子茶，水晶葡萄的风味饮料🥤(●'◡'●) https://t.co/W3Ou6MBZOy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949716111932715008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw7IeUia8AA8Zq7.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949716111932715008"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1949716115069767869",
+        "created_at": "2025-07-28T06:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T07:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949716115069767869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W3Ou6MBZOy",
+              "end": 82,
+              "expanded_url": "https://x.com/ciyou9443/status/1949716115069767869/photo/1",
+              "media_key": "3_1949716111932715008",
+              "start": 59,
+              "url": "https://t.co/W3Ou6MBZOy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949716115069767869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是滴泪系，现在开始od，简简单单o一点猕猴桃果汁做底料，混合酸梅汤，蜂蜜柚子茶，水晶葡萄的风味饮料🥤(●'◡'●) https://t.co/W3Ou6MBZOy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 436,
+          "like_count": 5289,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 1250
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

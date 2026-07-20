@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1920693073203376196",
+    "created_at": "2025-05-09T04:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T05:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920694160752779397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1758421050638131200",
+          "start": 0,
+          "username": "Yania_lover1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920694160752779397",
+    "in_reply_to_user_id": "1758421050638131200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920693073203376196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yania_lover1314 加油哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1920693073203376196",
+        "created_at": "2025-05-09T04:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T05:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920694160752779397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1758421050638131200",
+              "start": 0,
+              "username": "Yania_lover1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920694160752779397",
+        "in_reply_to_user_id": "1758421050638131200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920693073203376196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yania_lover1314 加油哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758421050638131200",
+        "conversation_id": "1920693073203376196",
+        "created_at": "2025-05-09T04:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T05:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920693073203376196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TsktskSrn0036/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/TsktskSrn0036/status/1920391365902430460",
+              "start": 10,
+              "url": "https://t.co/C9sq5fMRyJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920693073203376196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920391365902430460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前我也在留头发… https://t.co/C9sq5fMRyJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/没有家长党",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1919285021896253823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 292,
+          "like_count": 2653,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 857
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T09:20:39.000Z",
+        "description": "一位燕國小妹妹惹❤️🤍🖤🤍❤️/燕遼雅各賓派+偏安那其🟥⬛/熱愛巴洛克洛可可古典文化🎀/原神&二次元淺度愛好者/中二病患者/小藥娘一枚🍥 🏳️‍⚧️（無rle+無證含糖）/輕度支黑/幽燕--索倫化滿洲正🟨🐉🟨",
+        "id": "1758421050638131200",
+        "location": "Paris, Ile-de-France",
+        "name": "🎀☸️Jacques-Louis D'Bretonne🏳️‍⚧️🏳️‍🌈🎌",
+        "pinned_tweet_id": "1894415735365275876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920124365813035009/AB6lREYN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 3951,
+          "like_count": 5829,
+          "listed_count": 5,
+          "media_count": 505,
+          "tweet_count": 7816
+        },
+        "username": "Yania_lover1314",
+        "verified": false
+      }
+    ]
+  }
+}

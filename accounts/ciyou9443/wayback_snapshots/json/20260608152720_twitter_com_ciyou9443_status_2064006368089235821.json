@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2063538720754876460",
+    "created_at": "2026-06-08T15:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064006368089235821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2002873553792966658",
+          "start": 0,
+          "username": "Selenophile080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064006368089235821",
+    "in_reply_to_user_id": "2002873553792966658",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063538720754876460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Selenophile080 tm😉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063538718481526784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMpiAdbMAAY2dt.jpg",
+        "width": 645
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2063538720754876460",
+        "created_at": "2026-06-08T15:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064006368089235821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2002873553792966658",
+              "start": 0,
+              "username": "Selenophile080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064006368089235821",
+        "in_reply_to_user_id": "2002873553792966658",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063538720754876460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Selenophile080 tm😉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063538718481526784"
+          ]
+        },
+        "author_id": "2002873553792966658",
+        "conversation_id": "2063538720754876460",
+        "created_at": "2026-06-07T08:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063538720754876460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BkWSN962cq",
+              "end": 36,
+              "expanded_url": "https://x.com/Selenophile080/status/2063538720754876460/photo/1",
+              "media_key": "3_2063538718481526784",
+              "start": 13,
+              "url": "https://t.co/BkWSN962cq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063538720754876460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以说我是抖S的mtf？ https://t.co/BkWSN962cq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2062510740637139247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 548,
+          "like_count": 11728,
+          "listed_count": 5,
+          "media_count": 416,
+          "tweet_count": 3167
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T22:47:50.000Z",
+        "description": "孤独症（ASD）/无性/cptsd/校园霸凌史/自杀史/超重力女子，最喜欢的人是：@FrostyStrings，没有之一",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 41,
+                "username": "FrostyStrings"
+              }
+            ]
+          }
+        },
+        "id": "2002873553792966658",
+        "name": "Cynthia🍥",
+        "pinned_tweet_id": "2063123799453954343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062940752691576832/3xJ6ajGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 134,
+          "like_count": 130,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 69
+        },
+        "username": "Selenophile080",
+        "verified": false
+      }
+    ]
+  }
+}

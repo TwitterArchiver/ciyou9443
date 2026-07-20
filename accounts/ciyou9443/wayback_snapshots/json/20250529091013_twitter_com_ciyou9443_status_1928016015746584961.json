@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1927957662626365692",
+    "created_at": "2025-05-29T09:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T10:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928016015746584961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1575522511885697024",
+          "start": 0,
+          "username": "mayberight__hh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928016015746584961",
+    "in_reply_to_user_id": "1575522511885697024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927957662626365692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mayberight__hh 这也太抽象了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1927957662626365692",
+        "created_at": "2025-05-29T09:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T10:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928016015746584961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1575522511885697024",
+              "start": 0,
+              "username": "mayberight__hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928016015746584961",
+        "in_reply_to_user_id": "1575522511885697024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927957662626365692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mayberight__hh 这也太抽象了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575522511885697024",
+        "conversation_id": "1927957662626365692",
+        "created_at": "2025-05-29T05:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T06:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927957662626365692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KillerBeeSweet…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/KillerBeeSweety/status/1927878985762902028",
+              "start": 120,
+              "url": "https://t.co/eYskM6T2Ef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927957662626365692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927878985762902028",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女子无才便是德？什么老古董，以抑制女性文才来防范“失德”风险，这句话本质是父权社会控制女性的工具🙄现代对女性教育的普及和李渔等古人的批判都印证了这句话作为特定时代产物的消极性。现在还把这种话拿出来规训女人的人就是除了一事无成的中年老男人😁 https://t.co/eYskM6T2Ef"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/两个人格交替行动/没有家长党🏳️‍⚧️🍥/一星期没更就可以当我似了/大概是个清水推",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 318,
+          "like_count": 3250,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 984
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-29T16:27:03.000Z",
+        "description": "Queen者自Queen🙄💅🏻 //赛博八字： ISFP  金牛// 旷课仙人 // 匿名提问箱https://t.co/7vBefA843L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mayberight__hh",
+                "end": 71,
+                "expanded_url": "https://ngl.link/mayberight__hh",
+                "start": 48,
+                "url": "https://t.co/7vBefA843L"
+              }
+            ]
+          }
+        },
+        "id": "1575522511885697024",
+        "location": "？？？？？？",
+        "name": "迪士尼在逃钮祜禄公主🌚",
+        "pinned_tweet_id": "1899287151512265082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924065420622864384/vy62aSUk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 349,
+          "like_count": 13236,
+          "listed_count": 1,
+          "media_count": 361,
+          "tweet_count": 3392
+        },
+        "username": "mayberight__hh",
+        "verified": false
+      }
+    ]
+  }
+}

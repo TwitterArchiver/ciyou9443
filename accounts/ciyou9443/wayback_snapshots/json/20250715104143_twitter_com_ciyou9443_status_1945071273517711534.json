@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945058435461984256"
+      ],
+      "media_source_tweet_id": [
+        "1945058452528599495"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1945071273517711534",
+    "created_at": "2025-07-15T10:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T11:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945071273517711534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1479696561302999042",
+          "start": 3,
+          "username": "quitee123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bVIAmqOd7n",
+          "end": 66,
+          "expanded_url": "https://x.com/quitee123/status/1945058452528599495/photo/1",
+          "media_key": "3_1945058435461984256",
+          "start": 43,
+          "url": "https://t.co/bVIAmqOd7n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945071273517711534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945058452528599495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @quitee123: UCAS可真有你的，让我继续在男寝被性侵强奸吗？😅😅😅 https://t.co/bVIAmqOd7n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1004,
+        "media_key": "3_1945058435461984256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv48V3kWsAARQs6.jpg",
+        "width": 1147
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945058435461984256"
+          ],
+          "media_source_tweet_id": [
+            "1945058452528599495"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1945071273517711534",
+        "created_at": "2025-07-15T10:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T11:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945071273517711534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1479696561302999042",
+              "start": 3,
+              "username": "quitee123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bVIAmqOd7n",
+              "end": 66,
+              "expanded_url": "https://x.com/quitee123/status/1945058452528599495/photo/1",
+              "media_key": "3_1945058435461984256",
+              "start": 43,
+              "url": "https://t.co/bVIAmqOd7n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945071273517711534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945058452528599495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @quitee123: UCAS可真有你的，让我继续在男寝被性侵强奸吗？😅😅😅 https://t.co/bVIAmqOd7n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945058435461984256"
+          ]
+        },
+        "author_id": "1479696561302999042",
+        "conversation_id": "1945058452528599495",
+        "created_at": "2025-07-15T09:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T10:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945058452528599495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bVIAmqOd7n",
+              "end": 51,
+              "expanded_url": "https://x.com/quitee123/status/1945058452528599495/photo/1",
+              "media_key": "3_1945058435461984256",
+              "start": 28,
+              "url": "https://t.co/bVIAmqOd7n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945058452528599495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 819,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "UCAS可真有你的，让我继续在男寝被性侵强奸吗？😅😅😅 https://t.co/bVIAmqOd7n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 385,
+          "like_count": 4073,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 1109
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 想要得到更多的喜欢和爱 可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 56,
+                "start": 49,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "dominnicchina"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "枫糖小橘🍊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938519215071481856/RGyMr1ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9719,
+          "following_count": 2817,
+          "like_count": 29826,
+          "listed_count": 23,
+          "media_count": 639,
+          "tweet_count": 13206
+        },
+        "username": "quitee123",
+        "verified": false
+      }
+    ]
+  }
+}

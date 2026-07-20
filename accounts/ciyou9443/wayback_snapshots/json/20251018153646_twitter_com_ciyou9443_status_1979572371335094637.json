@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979508250820120576",
+        "3_1979508250836967424",
+        "3_1979508250912403457",
+        "3_1979508250874654721"
+      ],
+      "media_source_tweet_id": [
+        "1979508268725846522",
+        "1979508268725846522",
+        "1979508268725846522",
+        "1979508268725846522"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1979572371335094637",
+    "created_at": "2025-10-18T15:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T16:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979572371335094637"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 40,
+          "tag": "外冷内齁"
+        },
+        {
+          "end": 53,
+          "start": 46,
+          "tag": "femboy"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "男娘"
+        },
+        {
+          "end": 61,
+          "start": 58,
+          "tag": "伪娘"
+        },
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "南京"
+        },
+        {
+          "end": 70,
+          "start": 66,
+          "tag": "战国袍"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "ts"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1598873184438083586",
+          "start": 3,
+          "username": "MuSHrO0ooM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OxDWoMI59Z",
+          "end": 98,
+          "expanded_url": "https://x.com/MuSHrO0ooM/status/1979508268725846522/photo/1",
+          "media_key": "3_1979508250820120576",
+          "start": 75,
+          "url": "https://t.co/OxDWoMI59Z"
+        },
+        {
+          "display_url": "pic.x.com/OxDWoMI59Z",
+          "end": 98,
+          "expanded_url": "https://x.com/MuSHrO0ooM/status/1979508268725846522/photo/1",
+          "media_key": "3_1979508250836967424",
+          "start": 75,
+          "url": "https://t.co/OxDWoMI59Z"
+        },
+        {
+          "display_url": "pic.x.com/OxDWoMI59Z",
+          "end": 98,
+          "expanded_url": "https://x.com/MuSHrO0ooM/status/1979508268725846522/photo/1",
+          "media_key": "3_1979508250912403457",
+          "start": 75,
+          "url": "https://t.co/OxDWoMI59Z"
+        },
+        {
+          "display_url": "pic.x.com/OxDWoMI59Z",
+          "end": 98,
+          "expanded_url": "https://x.com/MuSHrO0ooM/status/1979508268725846522/photo/1",
+          "media_key": "3_1979508250874654721",
+          "start": 75,
+          "url": "https://t.co/OxDWoMI59Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979572371335094637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979508268725846522",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MuSHrO0ooM: 风吹旌旗响，推门空张望\n不知心上人，何时归故乡\n#外冷内齁 #femboy #男娘 #伪娘 #南京 #战国袍 #ts https://t.co/OxDWoMI59Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_1979508250820120576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3igRCgWkAAuYs2.jpg",
+        "width": 800
+      },
+      {
+        "height": 1199,
+        "media_key": "3_1979508250836967424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3igRCkXoAA6xo7.jpg",
+        "width": 800
+      },
+      {
+        "height": 1199,
+        "media_key": "3_1979508250912403457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3igRC2WsAE8FNf.jpg",
+        "width": 800
+      },
+      {
+        "height": 1199,
+        "media_key": "3_1979508250874654721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3igRCtWsAEmr1J.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979508250820120576",
+            "3_1979508250836967424",
+            "3_1979508250912403457",
+            "3_1979508250874654721"
+          ],
+          "media_source_tweet_id": [
+            "1979508268725846522",
+            "1979508268725846522",
+            "1979508268725846522",
+            "1979508268725846522"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1979572371335094637",
+        "created_at": "2025-10-18T15:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T16:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979572371335094637"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "外冷内齁"
+            },
+            {
+              "end": 53,
+              "start": 46,
+              "tag": "femboy"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "男娘"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "伪娘"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "南京"
+            },
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "战国袍"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "ts"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598873184438083586",
+              "start": 3,
+              "username": "MuSHrO0ooM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OxDWoMI59Z",
+              "end": 98,
+              "expanded_url": "https://x.com/MuSHrO0ooM/status/1979508268725846522/photo/1",
+              "media_key": "3_1979508250820120576",
+              "start": 75,
+              "url": "https://t.co/OxDWoMI59Z"
+            },
+            {
+              "display_url": "pic.x.com/OxDWoMI59Z",
+              "end": 98,
+              "expanded_url": "https://x.com/MuSHrO0ooM/status/1979508268725846522/photo/1",
+              "media_key": "3_1979508250836967424",
+              "start": 75,
+              "url": "https://t.co/OxDWoMI59Z"
+            },
+            {
+              "display_url": "pic.x.com/OxDWoMI59Z",
+              "end": 98,
+              "expanded_url": "https://x.com/MuSHrO0ooM/status/1979508268725846522/photo/1",
+              "media_key": "3_1979508250912403457",
+              "start": 75,
+              "url": "https://t.co/OxDWoMI59Z"
+            },
+            {
+              "display_url": "pic.x.com/OxDWoMI59Z",
+              "end": 98,
+              "expanded_url": "https://x.com/MuSHrO0ooM/status/1979508268725846522/photo/1",
+              "media_key": "3_1979508250874654721",
+              "start": 75,
+              "url": "https://t.co/OxDWoMI59Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979572371335094637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979508268725846522",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MuSHrO0ooM: 风吹旌旗响，推门空张望\n不知心上人，何时归故乡\n#外冷内齁 #femboy #男娘 #伪娘 #南京 #战国袍 #ts https://t.co/OxDWoMI59Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979508250820120576",
+            "3_1979508250836967424",
+            "3_1979508250912403457",
+            "3_1979508250874654721"
+          ]
+        },
+        "author_id": "1598873184438083586",
+        "conversation_id": "1979508268725846522",
+        "created_at": "2025-10-18T11:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T12:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979508268725846522"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "外冷内齁"
+            },
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "femboy"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "男娘"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "伪娘"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "南京"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "战国袍"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "ts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OxDWoMI59Z",
+              "end": 82,
+              "expanded_url": "https://x.com/MuSHrO0ooM/status/1979508268725846522/photo/1",
+              "media_key": "3_1979508250820120576",
+              "start": 59,
+              "url": "https://t.co/OxDWoMI59Z"
+            },
+            {
+              "display_url": "pic.x.com/OxDWoMI59Z",
+              "end": 82,
+              "expanded_url": "https://x.com/MuSHrO0ooM/status/1979508268725846522/photo/1",
+              "media_key": "3_1979508250836967424",
+              "start": 59,
+              "url": "https://t.co/OxDWoMI59Z"
+            },
+            {
+              "display_url": "pic.x.com/OxDWoMI59Z",
+              "end": 82,
+              "expanded_url": "https://x.com/MuSHrO0ooM/status/1979508268725846522/photo/1",
+              "media_key": "3_1979508250912403457",
+              "start": 59,
+              "url": "https://t.co/OxDWoMI59Z"
+            },
+            {
+              "display_url": "pic.x.com/OxDWoMI59Z",
+              "end": 82,
+              "expanded_url": "https://x.com/MuSHrO0ooM/status/1979508268725846522/photo/1",
+              "media_key": "3_1979508250874654721",
+              "start": 59,
+              "url": "https://t.co/OxDWoMI59Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979508268725846522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "风吹旌旗响，推门空张望\n不知心上人，何时归故乡\n#外冷内齁 #femboy #男娘 #伪娘 #南京 #战国袍 #ts https://t.co/OxDWoMI59Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/只是搞点抽象，感到心理不适私我删改",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "玩偶姐姐",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977415827738796033/vSlVimgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 518,
+          "like_count": 7623,
+          "listed_count": 4,
+          "media_count": 220,
+          "tweet_count": 1743
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T02:54:22.000Z",
+        "description": "🚪88&同类免费/172cm/51kg/偏m/男娘/双性恋/infj，喜欢游戏，诗歌，月亮，听别人讲故事，如果你愿意，我可以成为很好的听众，蘑菇不会评论你，蘑菇只会静静听你说😶",
+        "id": "1598873184438083586",
+        "location": "北京",
+        "name": "玛诗如木",
+        "pinned_tweet_id": "1969789257331130493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932453550522515456/j1UCYhEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 194,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 879
+        },
+        "username": "MuSHrO0ooM",
+        "verified": false
+      }
+    ]
+  }
+}

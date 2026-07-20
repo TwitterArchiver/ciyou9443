@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1963466515577225661",
+    "created_at": "2025-09-04T11:03:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T12:03:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963558576498381182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573096874852098050",
+          "start": 0,
+          "username": "xunlu49164527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963558576498381182",
+    "in_reply_to_user_id": "1573096874852098050",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963466515577225661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xunlu49164527 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1963466515577225661",
+        "created_at": "2025-09-04T11:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T12:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963558576498381182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573096874852098050",
+              "start": 0,
+              "username": "xunlu49164527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963558576498381182",
+        "in_reply_to_user_id": "1573096874852098050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963466515577225661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xunlu49164527 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573096874852098050",
+        "conversation_id": "1963466515577225661",
+        "created_at": "2025-09-04T04:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T05:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963466515577225661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963466515577225661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得这下真的让公司记住了，hr小哥哥昨天和我聊了好多好久，今天给我的答复，除了系统材料，其他全部按照女生对待，有点开心哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1961407992886411770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 495,
+          "like_count": 6723,
+          "listed_count": 4,
+          "media_count": 142,
+          "tweet_count": 1497
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-22T23:48:42.000Z",
+        "description": "🏳️‍⚧️生活在小瓶子的可爱灵灵呀，谢谢喜欢哦，两年内手术的女孩纸，谢谢尊重",
+        "id": "1573096874852098050",
+        "name": "瓶子（梦灵）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888108040144240640/XaZj2ERI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 207,
+          "like_count": 999,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 831
+        },
+        "username": "xunlu49164527",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1906328767255203840"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1906328805419151375",
+    "created_at": "2025-03-30T12:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T13:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906328805419151375"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 5,
+          "tag": "mtf"
+        },
+        {
+          "end": 13,
+          "start": 10,
+          "tag": "男娘"
+        },
+        {
+          "end": 17,
+          "start": 14,
+          "tag": "药娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AiC95Qs3J0",
+          "end": 41,
+          "expanded_url": "https://x.com/ciyou9443/status/1906328805419151375/video/1",
+          "media_key": "7_1906328767255203840",
+          "start": 18,
+          "url": "https://t.co/AiC95Qs3J0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906328805419151375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "扭曲空间 #mtf #男娘 #药娘 https://t.co/AiC95Qs3J0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4963,
+        "height": 1280,
+        "media_key": "7_1906328767255203840",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1906328767255203840/pu/img/JBf9RgW_IXSavlNH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906328767255203840/pu/vid/avc1/320x568/OWdyWsMn5KzZDtkL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906328767255203840/pu/vid/avc1/480x852/EkIMp9v6NESyRzI3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906328767255203840/pu/vid/avc1/720x1280/PYaaBmSkAYU6LEKM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1906328767255203840/pu/pl/Dmx9nf8SqDR2J06w.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1906328767255203840"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1906328805419151375",
+        "created_at": "2025-03-30T12:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T13:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906328805419151375"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "mtf"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "男娘"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AiC95Qs3J0",
+              "end": 41,
+              "expanded_url": "https://x.com/ciyou9443/status/1906328805419151375/video/1",
+              "media_key": "7_1906328767255203840",
+              "start": 18,
+              "url": "https://t.co/AiC95Qs3J0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906328805419151375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扭曲空间 #mtf #男娘 #药娘 https://t.co/AiC95Qs3J0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/没回fo可以私我",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 259,
+          "like_count": 1408,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 531
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

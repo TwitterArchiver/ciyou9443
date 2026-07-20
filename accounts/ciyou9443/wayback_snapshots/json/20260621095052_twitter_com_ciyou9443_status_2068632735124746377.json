@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068632732952080384"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2068632735124746377",
+    "created_at": "2026-06-21T09:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068632735124746377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gQlsMcTOSx",
+          "end": 95,
+          "expanded_url": "https://x.com/ciyou9443/status/2068632735124746377/photo/1",
+          "media_key": "3_2068632732952080384",
+          "start": 72,
+          "url": "https://t.co/gQlsMcTOSx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068632735124746377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在终极视域下，人的情感也不过是神经递质在化学诱导下的电流突触，那么人的“情感”与AI的“膝跳反射”，在本质上又有何区别？\n很好的Gemini🤓 https://t.co/gQlsMcTOSx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 968,
+        "media_key": "3_2068632732952080384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVCgrJasAA1dh1.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068632732952080384"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2068632735124746377",
+        "created_at": "2026-06-21T09:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068632735124746377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gQlsMcTOSx",
+              "end": 95,
+              "expanded_url": "https://x.com/ciyou9443/status/2068632735124746377/photo/1",
+              "media_key": "3_2068632732952080384",
+              "start": 72,
+              "url": "https://t.co/gQlsMcTOSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068632735124746377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在终极视域下，人的情感也不过是神经递质在化学诱导下的电流突触，那么人的“情感”与AI的“膝跳反射”，在本质上又有何区别？\n很好的Gemini🤓 https://t.co/gQlsMcTOSx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 576,
+          "like_count": 12225,
+          "listed_count": 5,
+          "media_count": 437,
+          "tweet_count": 3361
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      }
+    ]
+  }
+}

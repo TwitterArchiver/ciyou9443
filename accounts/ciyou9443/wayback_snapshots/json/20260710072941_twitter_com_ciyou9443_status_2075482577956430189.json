@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2075200858837692663",
+    "created_at": "2026-07-10T07:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T08:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075482577956430189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820978754656858112",
+          "start": 0,
+          "username": "qing_yi6769"
+        },
+        {
+          "end": 26,
+          "id": "1854942477205278720",
+          "start": 13,
+          "username": "pipapipa2233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075482577956430189",
+    "in_reply_to_user_id": "1820978754656858112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075243301377311000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qing_yi6769 @pipapipa2233 哎嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2075200858837692663",
+        "created_at": "2026-07-10T07:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075482577956430189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820978754656858112",
+              "start": 0,
+              "username": "qing_yi6769"
+            },
+            {
+              "end": 26,
+              "id": "1854942477205278720",
+              "start": 13,
+              "username": "pipapipa2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075482577956430189",
+        "in_reply_to_user_id": "1820978754656858112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075243301377311000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qing_yi6769 @pipapipa2233 哎嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820978754656858112",
+        "conversation_id": "2075200858837692663",
+        "created_at": "2026-07-09T15:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075243301377311000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854942477205278720",
+              "start": 0,
+              "username": "pipapipa2233"
+            },
+            {
+              "end": 24,
+              "id": "1805373961020260353",
+              "start": 14,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075243301377311000",
+        "in_reply_to_user_id": "1854942477205278720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075238307429323064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pipapipa2233 @ciyou9443 因為是國風美人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  \n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 578,
+          "like_count": 12496,
+          "listed_count": 4,
+          "media_count": 420,
+          "tweet_count": 3313
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-07T00:23:03.000Z",
+        "description": "實事求是，避免靈能空轉。\n#能夏則大",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 13,
+                "tag": "能夏則大"
+              }
+            ]
+          }
+        },
+        "id": "1820978754656858112",
+        "name": "沈輕衣",
+        "pinned_tweet_id": "2042956975605191039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820978928875663362/nZUVTQxh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 357,
+          "like_count": 316,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 951
+        },
+        "url": "",
+        "username": "qing_yi6769",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T17:42:19.000Z",
+        "description": "02 176 65，工作是化学老师",
+        "id": "1854942477205278720",
+        "name": "绀青",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931736800642654208/xUonX03b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 127,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "pipapipa2233",
+        "verified": false
+      }
+    ]
+  }
+}

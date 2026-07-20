@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975918900232761344"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1975918904292913473",
+    "created_at": "2025-10-08T13:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T14:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975918904292913473"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jJaqGqdgvY",
+          "end": 38,
+          "expanded_url": "https://x.com/ciyou9443/status/1975918904292913473/photo/1",
+          "media_key": "3_1975918900232761344",
+          "start": 15,
+          "url": "https://t.co/jJaqGqdgvY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975918904292913473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么才能做好一个合格的地雷系 https://t.co/jJaqGqdgvY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 746,
+        "media_key": "3_1975918900232761344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2vfxVlasAAiNfT.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975918900232761344"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975918904292913473",
+        "created_at": "2025-10-08T13:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T14:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975918904292913473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJaqGqdgvY",
+              "end": 38,
+              "expanded_url": "https://x.com/ciyou9443/status/1975918904292913473/photo/1",
+              "media_key": "3_1975918900232761344",
+              "start": 15,
+              "url": "https://t.co/jJaqGqdgvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975918904292913473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么才能做好一个合格的地雷系 https://t.co/jJaqGqdgvY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/薛定谔的成分",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975908722846367744/FnFHFKBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 512,
+          "like_count": 7366,
+          "listed_count": 4,
+          "media_count": 199,
+          "tweet_count": 1679
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

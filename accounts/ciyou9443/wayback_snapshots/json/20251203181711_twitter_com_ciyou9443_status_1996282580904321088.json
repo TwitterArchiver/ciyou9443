@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1996282580904321088",
+    "created_at": "2025-12-03T18:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T19:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996282580904321088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ciyou9443/stat…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/ciyou9443/status/1996267142610911288",
+          "start": 34,
+          "url": "https://t.co/6eX8Dlvops"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996282580904321088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996267142610911288",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "日常生活里行为合理，打扮自然，吃饱了撑得才会想到鉴你到底是男是女。 https://t.co/6eX8Dlvops"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1996282580904321088",
+        "created_at": "2025-12-03T18:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T19:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996282580904321088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ciyou9443/stat…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/ciyou9443/status/1996267142610911288",
+              "start": 34,
+              "url": "https://t.co/6eX8Dlvops"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996282580904321088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996267142610911288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日常生活里行为合理，打扮自然，吃饱了撑得才会想到鉴你到底是男是女。 https://t.co/6eX8Dlvops"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1996267142610911288",
+        "created_at": "2025-12-03T17:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T18:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996267142610911288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Im_Just__Girl/…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/Im_Just__Girl/status/1996186430117441666",
+              "start": 48,
+              "url": "https://t.co/CDucVXOvUI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996267142610911288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996186430117441666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "非要给人限定一个身份对待和非要给人划分个三六九等有什么区别，被人骂搞封建复兴的那帮人都不这么干 https://t.co/CDucVXOvUI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠/深夜发的消息不关素的事",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1992888264173441156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 537,
+          "like_count": 9351,
+          "listed_count": 4,
+          "media_count": 288,
+          "tweet_count": 2236
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

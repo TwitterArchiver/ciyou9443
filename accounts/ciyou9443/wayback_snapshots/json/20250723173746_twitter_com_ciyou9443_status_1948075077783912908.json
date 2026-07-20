@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1947997010038329391",
+    "created_at": "2025-07-23T17:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T18:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948075077783912908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823835476366692352",
+          "start": 0,
+          "username": "Mao_050729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948075077783912908",
+    "in_reply_to_user_id": "1823835476366692352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948062488244961765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mao_050729 眉清目秀一道烟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1947997010038329391",
+        "created_at": "2025-07-23T17:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T18:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948075077783912908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823835476366692352",
+              "start": 0,
+              "username": "Mao_050729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948075077783912908",
+        "in_reply_to_user_id": "1823835476366692352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948062488244961765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mao_050729 眉清目秀一道烟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823835476366692352",
+        "conversation_id": "1947997010038329391",
+        "created_at": "2025-07-23T16:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T17:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948062488244961765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948062488244961765",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947997010038329391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 大小姐在看什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 416,
+          "like_count": 4703,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1191
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T21:34:24.000Z",
+        "description": "陽子表姐 | 城堡丢了 | きっき | 交个朋友 | 岡田奈奈 | 小西夏菜実 | MTX |",
+        "id": "1823835476366692352",
+        "location": "🏯",
+        "name": "🍡五百城 茉央🍡",
+        "pinned_tweet_id": "1904450701851320558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911696403753005056/Id62Nojt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 802,
+          "like_count": 59155,
+          "listed_count": 2,
+          "media_count": 607,
+          "tweet_count": 11148
+        },
+        "username": "Mao_050729",
+        "verified": false
+      }
+    ]
+  }
+}

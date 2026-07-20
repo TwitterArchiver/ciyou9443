@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2062473006602146067",
+    "created_at": "2026-06-05T02:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T03:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062719394942464014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1407215903406706688",
+          "start": 0,
+          "username": "Zako_Fries"
+        },
+        {
+          "end": 19,
+          "id": "18501587",
+          "start": 12,
+          "username": "yuduna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062719394942464014",
+    "in_reply_to_user_id": "1407215903406706688",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062607857829191995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zako_Fries @yuduna I’m so jealous of her"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2062473006602146067",
+        "created_at": "2026-06-05T02:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062719394942464014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1407215903406706688",
+              "start": 0,
+              "username": "Zako_Fries"
+            },
+            {
+              "end": 19,
+              "id": "18501587",
+              "start": 12,
+              "username": "yuduna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062719394942464014",
+        "in_reply_to_user_id": "1407215903406706688",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062607857829191995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zako_Fries @yuduna I’m so jealous of her"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407215903406706688",
+        "conversation_id": "2062473006602146067",
+        "created_at": "2026-06-04T18:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062607857829191995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "18501587",
+              "start": 0,
+              "username": "yuduna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062607857829191995",
+        "in_reply_to_user_id": "18501587",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062473006602146067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuduna I’m so jealous of her"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 540,
+          "like_count": 11510,
+          "listed_count": 5,
+          "media_count": 404,
+          "tweet_count": 3097
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-22T05:57:05.000Z",
+        "description": "是一隻超級缺抱抱的女同海豹 老婆 - @attack_steel 媽媽 - @ArtsSuraimu 姐姐大人 - @_Nana_Sparkle_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "attack_steel"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "ArtsSuraimu"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "_Nana_Sparkle_"
+              }
+            ]
+          }
+        },
+        "id": "1407215903406706688",
+        "location": "USA",
+        "name": "☮️ZakoFries🍥",
+        "pinned_tweet_id": "2053295633378033756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960474406888804352/2GN4Zy-8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 671,
+          "like_count": 4774,
+          "listed_count": 0,
+          "media_count": 525,
+          "tweet_count": 5969
+        },
+        "username": "Zako_Fries",
+        "verified": true
+      },
+      {
+        "created_at": "2008-12-31T07:09:50.000Z",
+        "description": "イラストレーター・漫画家🖋｜百合シリーズ「生徒会長と番犬」更新中 ◆お仕事のご依頼⇒ https://t.co/PPZHie5T57 (6月下旬着手～◎)\n｜BOOTH（本の通販）https://t.co/f4HHmVLi8O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yuduna2525.tumblr.com/works",
+                "end": 66,
+                "expanded_url": "https://yuduna2525.tumblr.com/works",
+                "start": 43,
+                "url": "https://t.co/PPZHie5T57"
+              },
+              {
+                "display_url": "yuduna.booth.pm",
+                "end": 113,
+                "expanded_url": "https://yuduna.booth.pm/",
+                "start": 90,
+                "url": "https://t.co/f4HHmVLi8O"
+              }
+            ]
+          }
+        },
+        "id": "18501587",
+        "name": "住咲ゆづな❤COMITIA156／そ42a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807679129556586496/FcIk2Zu6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88363,
+          "following_count": 512,
+          "like_count": 5096,
+          "listed_count": 1248,
+          "media_count": 213,
+          "tweet_count": 5661
+        },
+        "username": "yuduna",
+        "verified": true
+      }
+    ]
+  }
+}

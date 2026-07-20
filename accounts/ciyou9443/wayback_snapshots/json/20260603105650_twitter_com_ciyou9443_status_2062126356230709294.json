@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2062113869129269755",
+    "created_at": "2026-06-03T10:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T11:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062126356230709294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1584644408921960448",
+          "start": 0,
+          "username": "yli01320942"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062126356230709294",
+    "in_reply_to_user_id": "1584644408921960448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062113869129269755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yli01320942 眼妆也太好看了叭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062113854302330880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4Zn_waIAA3faH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2062113869129269755",
+        "created_at": "2026-06-03T10:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062126356230709294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1584644408921960448",
+              "start": 0,
+              "username": "yli01320942"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062126356230709294",
+        "in_reply_to_user_id": "1584644408921960448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062113869129269755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yli01320942 眼妆也太好看了叭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062113854302330880"
+          ]
+        },
+        "author_id": "1584644408921960448",
+        "conversation_id": "2062113869129269755",
+        "created_at": "2026-06-03T10:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062113869129269755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4t4E0S7TiU",
+              "end": 27,
+              "expanded_url": "https://x.com/yli01320942/status/2062113869129269755/photo/1",
+              "media_key": "3_2062113854302330880",
+              "start": 4,
+              "url": "https://t.co/4t4E0S7TiU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062113869129269755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太熱了 https://t.co/4t4E0S7TiU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 539,
+          "like_count": 11396,
+          "listed_count": 5,
+          "media_count": 401,
+          "tweet_count": 3044
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-24T20:34:26.000Z",
+        "description": "非二元性別、女裝男子、偽娘 || 167/53/0/台中 本人泛性戀 🏳️‍🌈 男女三性、跨性、四愛都可以 ，私訊附清楚五官臉照自介感謝，付費拍攝委託、約會委託，私訊附清楚五官臉照自介，付費約會不約愛，無臉照不回，陪看電影吃飯逛街等等 可以抱抱牽手摸摸頭 約會內容需在公共場合 如果是私密場所請找相關行業",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/haru_mx.0508/p…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/haru_mx.0508/profilecard/?igsh=YTJpaTU5ZHFqdjgw",
+                "start": 0,
+                "url": "https://t.co/yvUzwaijUl"
+              }
+            ]
+          }
+        },
+        "id": "1584644408921960448",
+        "location": "Taichung City, Taiwan",
+        "name": "羽琉 /偽娘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943197397196107777/hIxcIQnk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7253,
+          "following_count": 221,
+          "like_count": 7319,
+          "listed_count": 16,
+          "media_count": 352,
+          "tweet_count": 1670
+        },
+        "url": "https://t.co/yvUzwaijUl",
+        "username": "yli01320942",
+        "verified": false
+      }
+    ]
+  }
+}

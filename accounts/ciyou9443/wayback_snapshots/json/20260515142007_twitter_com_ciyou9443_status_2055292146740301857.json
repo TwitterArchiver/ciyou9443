@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2055216099759910968",
+    "created_at": "2026-05-15T14:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055292146740301857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1038985804855562240",
+          "start": 0,
+          "username": "Pinokurimogu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055292146740301857",
+    "in_reply_to_user_id": "1038985804855562240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055216099759910968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pinokurimogu 哇～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055216088707948544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWYJMga4AAcmuZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2055216099759910968",
+        "created_at": "2026-05-15T14:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055292146740301857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1038985804855562240",
+              "start": 0,
+              "username": "Pinokurimogu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055292146740301857",
+        "in_reply_to_user_id": "1038985804855562240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055216099759910968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pinokurimogu 哇～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055216088707948544"
+          ]
+        },
+        "author_id": "1038985804855562240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055216099759910968",
+        "created_at": "2026-05-15T09:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055216099759910968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMBPu9dCed",
+              "end": 53,
+              "expanded_url": "https://x.com/Pinokurimogu/status/2055216099759910968/photo/1",
+              "media_key": "3_2055216088707948544",
+              "start": 30,
+              "url": "https://t.co/xMBPu9dCed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055216099759910968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 380,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们城中村挂壁学生妹是这样的，喜欢穿着拖鞋和校服去吃大排档 https://t.co/xMBPu9dCed"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "常曦",
+        "pinned_tweet_id": "2048402717169864872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 537,
+          "like_count": 10858,
+          "listed_count": 5,
+          "media_count": 392,
+          "tweet_count": 2855
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-10T03:01:34.000Z",
+        "description": "喜欢可爱的人和事💕//请叫我松香或奶嗝//家有贤妻小羊@UFP_YujunL//一只小羊倌//热爱烹饪摄影萌宠//ISFJ//00年大姐姐//4401//MTA荣誉文学学士🎓//HKU社会科学硕士//每天都要好好吃饭！🍜🍻//人在回炉//✚CPR/AED✚急救志愿者☤//⚠️喹硫平重度依赖患者//抑郁焦虑康复中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "UFP_YujunL"
+              }
+            ]
+          }
+        },
+        "id": "1038985804855562240",
+        "location": "在你❤️里",
+        "name": "好好吃饭的小松子（清纯女大恋爱版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901769689329446912/gZKqFEz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 341,
+          "like_count": 1748,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 954
+        },
+        "username": "Pinokurimogu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976750153840361472"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1976565766607774151",
+    "created_at": "2025-10-10T20:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T21:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976750156709347667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "764856941151596549",
+          "start": 0,
+          "username": "_AkitaYura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P6b1mRMdQC",
+          "end": 35,
+          "expanded_url": "https://x.com/ciyou9443/status/1976750156709347667/photo/1",
+          "media_key": "3_1976750153840361472",
+          "start": 12,
+          "url": "https://t.co/P6b1mRMdQC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976750156709347667",
+    "in_reply_to_user_id": "764856941151596549",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976565766607774151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_AkitaYura https://t.co/P6b1mRMdQC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1349,
+        "media_key": "3_1976750153840361472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G27TyqlagAADWUU.jpg",
+        "width": 1308
+      },
+      {
+        "height": 1148,
+        "media_key": "3_1976565764288282624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G24sFx-aAAALVmc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976750153840361472"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1976565766607774151",
+        "created_at": "2025-10-10T20:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T21:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976750156709347667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "764856941151596549",
+              "start": 0,
+              "username": "_AkitaYura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6b1mRMdQC",
+              "end": 35,
+              "expanded_url": "https://x.com/ciyou9443/status/1976750156709347667/photo/1",
+              "media_key": "3_1976750153840361472",
+              "start": 12,
+              "url": "https://t.co/P6b1mRMdQC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976750156709347667",
+        "in_reply_to_user_id": "764856941151596549",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976565766607774151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_AkitaYura https://t.co/P6b1mRMdQC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976565764288282624"
+          ]
+        },
+        "author_id": "764856941151596549",
+        "conversation_id": "1976565766607774151",
+        "created_at": "2025-10-10T08:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T09:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976565766607774151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jfiZ5zhCtc",
+              "end": 42,
+              "expanded_url": "https://x.com/_AkitaYura/status/1976565766607774151/photo/1",
+              "media_key": "3_1976565764288282624",
+              "start": 19,
+              "url": "https://t.co/jfiZ5zhCtc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976565766607774151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 616,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看完觉得像身上有小虫子在爬一样的恶心 https://t.co/jfiZ5zhCtc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/薛定谔的成分",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976625413150707712/NrmK902W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 514,
+          "like_count": 7394,
+          "listed_count": 4,
+          "media_count": 209,
+          "tweet_count": 1693
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T16:11:19.000Z",
+        "description": "双🏳‍🌈|喵拉图女爵👑|麻辣烫#1🌶|颜控💅|没在减脂中🫠\n▫️🐑@ShikuiL23822",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "ShikuiL23822"
+              }
+            ]
+          }
+        },
+        "id": "764856941151596549",
+        "location": "R18禁止💢|文爱禁止💢",
+        "name": "Akita Yura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878406135503540224/BC7Tb7V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 656,
+          "like_count": 64109,
+          "listed_count": 9,
+          "media_count": 1771,
+          "tweet_count": 15606
+        },
+        "username": "_AkitaYura",
+        "verified": false
+      }
+    ]
+  }
+}

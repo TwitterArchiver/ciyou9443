@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2003020903136047277",
+    "created_at": "2025-12-22T10:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T11:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003054146010894830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "895650217676034048",
+          "start": 0,
+          "username": "ayashikinoco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003054146010894830",
+    "in_reply_to_user_id": "895650217676034048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003020903136047277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayashikinoco 美！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003020891723309056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8wo43jaoAARCSu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2003020903136047277",
+        "created_at": "2025-12-22T10:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003054146010894830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "895650217676034048",
+              "start": 0,
+              "username": "ayashikinoco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003054146010894830",
+        "in_reply_to_user_id": "895650217676034048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003020903136047277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayashikinoco 美！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003020891723309056"
+          ]
+        },
+        "author_id": "895650217676034048",
+        "conversation_id": "2003020903136047277",
+        "created_at": "2025-12-22T08:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T09:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003020903136047277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gd15YabugH",
+              "end": 35,
+              "expanded_url": "https://x.com/ayashikinoco/status/2003020903136047277/photo/1",
+              "media_key": "3_2003020891723309056",
+              "start": 12,
+              "url": "https://t.co/Gd15YabugH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003020903136047277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1487,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有种看起来很好骗的感觉 https://t.co/Gd15YabugH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 536,
+          "like_count": 9622,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 2356
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-10T14:17:07.000Z",
+        "description": "想看涩涩的可以走了 该账号不会一直发你喜欢的东西 甚至会发你不喜欢的东西 以防你不知道 这是我cp @N0rthern_Land",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "N0rthern_Land"
+              }
+            ]
+          }
+        },
+        "id": "895650217676034048",
+        "name": "可疑的小蘑菇",
+        "pinned_tweet_id": "1655555017590591489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939658608108781568/2fDOrPYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14361,
+          "following_count": 301,
+          "like_count": 4503,
+          "listed_count": 70,
+          "media_count": 132,
+          "tweet_count": 2881
+        },
+        "username": "ayashikinoco",
+        "verified": false
+      }
+    ]
+  }
+}

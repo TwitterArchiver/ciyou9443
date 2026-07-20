@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950770555281715201",
+        "3_1950770556468592640"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1950770559849308333",
+    "created_at": "2025-07-31T04:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T05:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950770559849308333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wcSWMgByJ5",
+          "end": 23,
+          "expanded_url": "https://x.com/ciyou9443/status/1950770559849308333/photo/1",
+          "media_key": "3_1950770555281715201",
+          "start": 0,
+          "url": "https://t.co/wcSWMgByJ5"
+        },
+        {
+          "display_url": "pic.x.com/wcSWMgByJ5",
+          "end": 23,
+          "expanded_url": "https://x.com/ciyou9443/status/1950770559849308333/photo/1",
+          "media_key": "3_1950770556468592640",
+          "start": 0,
+          "url": "https://t.co/wcSWMgByJ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950770559849308333",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/wcSWMgByJ5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1464,
+        "media_key": "3_1950770555281715201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxKHfAHbsAEIaLW.jpg",
+        "width": 960
+      },
+      {
+        "height": 1083,
+        "media_key": "3_1950770556468592640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxKHfEiaAAAA__J.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950770555281715201",
+            "3_1950770556468592640"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1950770559849308333",
+        "created_at": "2025-07-31T04:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T05:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950770559849308333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wcSWMgByJ5",
+              "end": 23,
+              "expanded_url": "https://x.com/ciyou9443/status/1950770559849308333/photo/1",
+              "media_key": "3_1950770555281715201",
+              "start": 0,
+              "url": "https://t.co/wcSWMgByJ5"
+            },
+            {
+              "display_url": "pic.x.com/wcSWMgByJ5",
+              "end": 23,
+              "expanded_url": "https://x.com/ciyou9443/status/1950770559849308333/photo/1",
+              "media_key": "3_1950770556468592640",
+              "start": 0,
+              "url": "https://t.co/wcSWMgByJ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950770559849308333",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wcSWMgByJ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 445,
+          "like_count": 5493,
+          "listed_count": 3,
+          "media_count": 151,
+          "tweet_count": 1287
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

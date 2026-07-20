@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2018970108811755569",
+    "created_at": "2026-02-04T08:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T09:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018970108811755569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1907031442103943168",
+          "start": 3,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018970108811755569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018965947512754453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinemu123: 今日推歌，这是神作。\n分享歌词：\n作词: なこたんまる，\n\n鎖に繋がれている，\n锁链禁锢着的，\n\n見世物の心，\n被当笑料的心，\n\n何処へ行くも逃げられず，\n无论去往何方都无法逃离，\n\n今も将来も過去も，\n无论过去将来现在，\n\n誰かが嘲笑ってる…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018965943532339200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATO1CXbQAA_VK7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2018970108811755569",
+        "created_at": "2026-02-04T08:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T09:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018970108811755569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907031442103943168",
+              "start": 3,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018970108811755569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018965947512754453",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinemu123: 今日推歌，这是神作。\n分享歌词：\n作词: なこたんまる，\n\n鎖に繋がれている，\n锁链禁锢着的，\n\n見世物の心，\n被当笑料的心，\n\n何処へ行くも逃げられず，\n无论去往何方都无法逃离，\n\n今も将来も過去も，\n无论过去将来现在，\n\n誰かが嘲笑ってる…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018965943532339200"
+          ]
+        },
+        "author_id": "1907031442103943168",
+        "conversation_id": "2018965947512754453",
+        "created_at": "2026-02-04T08:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T09:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018965947512754453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KmT7aPUJnh",
+              "end": 172,
+              "expanded_url": "https://x.com/hoshinemu123/status/2018965947512754453/photo/1",
+              "media_key": "3_2018965943532339200",
+              "start": 149,
+              "url": "https://t.co/KmT7aPUJnh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018965947512754453",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "y.music.163.com/m/song?id=3343…",
+                "end": 1115,
+                "expanded_url": "https://y.music.163.com/m/song?id=3343242821&userid=559842646&dlt=0846",
+                "start": 1092,
+                "url": "https://t.co/2MSswbmmJb"
+              }
+            ]
+          },
+          "text": "今日推歌，这是神作。\n分享歌词：\n作词: なこたんまる，\n\n鎖に繋がれている，\n锁链禁锢着的，\n\n見世物の心，\n被当笑料的心，\n\n何処へ行くも逃げられず，\n无论去往何方都无法逃离，\n\n今も将来も過去も，\n无论过去将来现在，\n\n誰かが嘲笑ってる，\n都被他人嘲笑着，\n\n月の悪戯，\n或是皎月的恶作剧，\n\n心の壁 誰かが，\n内心高墙 总有谁，\n\n不埒に登ろうとする，\n想要擅自攀登，\n\n叫んでも叫んでも，\n即便呐喊 纵使呐喊，\n\n孤独が消える訳じゃなかった，\n也无法消除孤独，\n\nそれでも僕らは息をしていると主張して，\n即便如此我们也主张着“自己依旧活着”，\n\n悔やんでも恨んでも，\n悔恨也好 懊恼也罢，\n\n過去が消える訳じゃなかった，\n过去也不会就此消失，\n\n刻まれた傷跡は 君と同じ形，\n被镌刻下的伤害 与你如出一辙，\n\n（M）\n\n光に怯えている，\n畏惧着光芒，\n\n偽物の心，\n满是虚伪的心，\n\n「普通の子でいなさい」と，\n说着「做个普通人就好」，\n\n行く手を阻まれる，\n将前路阻断，\n\nそして，\n于是，\n\n傷んでもない異端でもない鼓動を，\n就这样反常地侵蚀既非受伤，\n\nどうかしてると侵して，\n又非异端的心跳，\n\n離ればなれになっていく僕の身体と心を，\n用假笑缝合逐渐支离破碎的，\n\n作り笑いで繋ぐ，\n躯体与内心，\n\n例え僕が沈んでも，\n即便我沉入地平线下，\n\nそれでもまだ陽は昇る，\n太阳也会再次升起，\n\n恐れても恐れても，\n就算恐惧 就算害怕，\n\n明日が来ない訳じゃなかった，\n明天也依旧会到来，\n\nだからもう移ろう季節に肌を透過して，\n所以此刻 用肌肤感受这行迹匆匆的季节吧，\n\n夢でさえ光さえ，\n纵是美梦 抑或光芒，\n\n時に僕らの今を縛った，\n有时也会束缚我们的如今，\n\n見上げれば涙色に染った青天，\n若是抬头仰望 便知泪水沾染青天，\n\n（M）\n\n月の引力で，\n在月球引力下，\n\n涙も攫って，\n泪水也被掠走，\n\n歌っても歌っても，\n纵使高歌 即使高歌，\n\n誰も気づいてくれなかった，\n谁都不会注意到我，\n\n心が折れていく音を奏でよう，\n奏响这内心渐渐碎裂的音符吧，\n\n叫んでも叫んでも，\n即便呐喊 纵使呐喊，\n\n明日は何も変わらなかった，\n明天也不会发生什么改变，\n\nそれでも僕らは息をしていると主張して，\n即便如此我们也主张着“自己依旧活着”，\n\n言葉さえ記憶さえ，\n无论言语 抑或回忆，\n\n君とだから意味を成した，\n正因有你在才有了意义，\n\n''無常だね''，\n“真是无常啊”，\n\n月に見つかってしまう前に，\n在被月亮发现之前……。\n\n分享ナナツカゼ的单曲《四面楚歌》: https://t.co/2MSswbmmJb (来自@网易云音乐)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今日推歌，这是神作。\n分享歌词：\n作词: なこたんまる，\n\n鎖に繋がれている，\n锁链禁锢着的，\n\n見世物の心，\n被当笑料的心，\n\n何処へ行くも逃げられず，\n无论去往何方都无法逃离，\n\n今も将来も過去も，\n无论过去将来现在，\n\n誰かが嘲笑ってる，\n都被他人嘲笑着，\n\n月の悪戯，\n或是皎月的恶作剧， https://t.co/KmT7aPUJnh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "长夜何萤，我为朔月",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "常曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010721996909514752/qGj_peZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 535,
+          "like_count": 10096,
+          "listed_count": 4,
+          "media_count": 347,
+          "tweet_count": 2553
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同。仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘。我叫星眠，是半个软件工程师加半个音乐制作人，在努力成为艺术家和技术大佬的路上。不定期推音乐/美术作品，爱好古风。在参加汉服复兴运动。常驻北京，故乡长春，欢迎小女孩们来找我玩。",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "2010374829485265244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2699,
+          "following_count": 3202,
+          "like_count": 3170,
+          "listed_count": 3,
+          "media_count": 777,
+          "tweet_count": 8394
+        },
+        "username": "hoshinemu123",
+        "verified": true
+      }
+    ]
+  }
+}

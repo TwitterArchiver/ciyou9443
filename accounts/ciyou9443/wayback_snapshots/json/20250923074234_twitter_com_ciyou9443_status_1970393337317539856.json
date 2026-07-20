@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1970393337317539856",
+    "created_at": "2025-09-23T07:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T08:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970393337317539856"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1970393337317539856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "（素和眠说起广东台风的事）\n眠：那的流浪猫是不是都变成飞天猫了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1970393337317539856",
+        "created_at": "2025-09-23T07:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T08:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970393337317539856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970393337317539856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（素和眠说起广东台风的事）\n眠：那的流浪猫是不是都变成飞天猫了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 510,
+          "like_count": 7037,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 1596
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

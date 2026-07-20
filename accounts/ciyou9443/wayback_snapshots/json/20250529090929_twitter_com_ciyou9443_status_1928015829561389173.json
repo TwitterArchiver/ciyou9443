@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1927953616653996037",
+    "created_at": "2025-05-29T09:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T10:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928015829561389173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1806748465244057600",
+          "start": 0,
+          "username": "oKS1XHGfwm5172"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928015829561389173",
+    "in_reply_to_user_id": "1806748465244057600",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928001634795237576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oKS1XHGfwm5172 ♥(｡￫v￩｡)♥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1927953616653996037",
+        "created_at": "2025-05-29T09:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T10:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928015829561389173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1806748465244057600",
+              "start": 0,
+              "username": "oKS1XHGfwm5172"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928015829561389173",
+        "in_reply_to_user_id": "1806748465244057600",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928001634795237576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oKS1XHGfwm5172 ♥(｡￫v￩｡)♥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806748465244057600",
+        "conversation_id": "1927953616653996037",
+        "created_at": "2025-05-29T08:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T09:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928001634795237576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928001634795237576",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927953616653996037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 好好看，大美人(´◊ω◊｀)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/两个人格交替行动/没有家长党🏳️‍⚧️🍥/一星期没更就可以当我似了/大概是个清水推",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 318,
+          "like_count": 3247,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 983
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T17:56:22.000Z",
+        "description": "是一只阴暗鼠鼠人",
+        "id": "1806748465244057600",
+        "name": "灼心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863081750722682881/5sJVB3uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 163,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 290
+        },
+        "username": "oKS1XHGfwm5172",
+        "verified": false
+      }
+    ]
+  }
+}

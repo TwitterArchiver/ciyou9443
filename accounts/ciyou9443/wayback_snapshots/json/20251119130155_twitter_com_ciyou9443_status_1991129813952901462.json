@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991129805203632128"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1991129813952901462",
+    "created_at": "2025-11-19T13:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T14:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991129813952901462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SE7QGc0QGQ",
+          "end": 34,
+          "expanded_url": "https://x.com/ciyou9443/status/1991129813952901462/photo/1",
+          "media_key": "3_1991129805203632128",
+          "start": 11,
+          "url": "https://t.co/SE7QGc0QGQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991129813952901462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "双眼分开行动展示智慧 https://t.co/SE7QGc0QGQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1991129805203632128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6HqAiTa8AAOVtp.jpg",
+        "width": 1316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991129805203632128"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1991129813952901462",
+        "created_at": "2025-11-19T13:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T14:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991129813952901462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SE7QGc0QGQ",
+              "end": 34,
+              "expanded_url": "https://x.com/ciyou9443/status/1991129813952901462/photo/1",
+              "media_key": "3_1991129805203632128",
+              "start": 11,
+              "url": "https://t.co/SE7QGc0QGQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991129813952901462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "双眼分开行动展示智慧 https://t.co/SE7QGc0QGQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠/深夜发的消息不关素的事",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1990788776822734872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 534,
+          "like_count": 8947,
+          "listed_count": 4,
+          "media_count": 280,
+          "tweet_count": 2150
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

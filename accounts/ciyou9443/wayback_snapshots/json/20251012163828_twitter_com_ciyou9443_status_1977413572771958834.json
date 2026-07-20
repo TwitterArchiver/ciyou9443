@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1977413572771958834",
+    "created_at": "2025-10-12T16:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T17:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977413572771958834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1907031442103943168",
+          "start": 3,
+          "username": "hoshinemu123"
+        },
+        {
+          "end": 92,
+          "id": "165262228",
+          "start": 83,
+          "username": "rustlang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977413572771958834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977411292903473421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinemu123: 你有什么资历？我21年的时候就写Rust了，当时写了半年左右的unsafe。我们那个圈子玩的都是谁，你知道吗？我艾特一个给你看看 @rustlang ，只不过后面我们发现国内根本就没有Rust的土壤，就在22年左右都退圈了也不编程了。结果你们…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1977413572771958834",
+        "created_at": "2025-10-12T16:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T17:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977413572771958834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907031442103943168",
+              "start": 3,
+              "username": "hoshinemu123"
+            },
+            {
+              "end": 92,
+              "id": "165262228",
+              "start": 83,
+              "username": "rustlang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977413572771958834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977411292903473421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinemu123: 你有什么资历？我21年的时候就写Rust了，当时写了半年左右的unsafe。我们那个圈子玩的都是谁，你知道吗？我艾特一个给你看看 @rustlang ，只不过后面我们发现国内根本就没有Rust的土壤，就在22年左右都退圈了也不编程了。结果你们…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "conversation_id": "1977411292903473421",
+        "created_at": "2025-10-12T16:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T17:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977411292903473421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 74,
+              "id": "165262228",
+              "start": 65,
+              "username": "rustlang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/y0zarashi/stat…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/y0zarashi/status/1976162098297352517",
+              "start": 152,
+              "url": "https://t.co/cmFTd0kJ1q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977411292903473421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976162098297352517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你有什么资历？我21年的时候就写Rust了，当时写了半年左右的unsafe。我们那个圈子玩的都是谁，你知道吗？我艾特一个给你看看 @rustlang ，只不过后面我们发现国内根本就没有Rust的土壤，就在22年左右都退圈了也不编程了。结果你们这些新生代自顾自的又写起来了。我只是在感叹你们悲惨的结局而已 https://t.co/cmFTd0kJ1q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977093266610044930/hMoWgAyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 515,
+          "like_count": 7451,
+          "listed_count": 4,
+          "media_count": 212,
+          "tweet_count": 1707
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；半个软件工程师加半个音乐人；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；文学少女；古风/汉服女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1975169707985486036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2206,
+          "following_count": 3045,
+          "like_count": 2827,
+          "listed_count": 3,
+          "media_count": 525,
+          "tweet_count": 6144
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-11T02:35:18.000Z",
+        "description": "A programming language empowering everyone to build reliable and efficient software.\n\n** This account is no longer active. Follow us on other platforms! **",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rust-lang.org",
+                "end": 23,
+                "expanded_url": "https://www.rust-lang.org/",
+                "start": 0,
+                "url": "https://t.co/l87NjvWQEY"
+              }
+            ]
+          }
+        },
+        "id": "165262228",
+        "name": "Rust Language",
+        "pinned_tweet_id": "1908479478159818903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687033172905644032/ZjFPPLUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152629,
+          "following_count": 2,
+          "like_count": 24123,
+          "listed_count": 1914,
+          "media_count": 110,
+          "tweet_count": 17420
+        },
+        "url": "https://t.co/l87NjvWQEY",
+        "username": "rustlang",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950584762529390592"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1950584765134016626",
+    "created_at": "2025-07-30T15:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T16:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950584765134016626"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ciHgygbVcz",
+          "end": 67,
+          "expanded_url": "https://x.com/ciyou9443/status/1950584765134016626/photo/1",
+          "media_key": "3_1950584762529390592",
+          "start": 44,
+          "url": "https://t.co/ciHgygbVcz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950584765134016626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 15,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "肚子上又多了一条横线，其实我是数学天才，身负先天灵宝笛卡尔坐标系*⁂((✪⥎✪))⁂* https://t.co/ciHgygbVcz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1950584762529390592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxHegcLaoAASc6B.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950584762529390592"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1950584765134016626",
+        "created_at": "2025-07-30T15:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T16:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950584765134016626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ciHgygbVcz",
+              "end": 67,
+              "expanded_url": "https://x.com/ciyou9443/status/1950584765134016626/photo/1",
+              "media_key": "3_1950584762529390592",
+              "start": 44,
+              "url": "https://t.co/ciHgygbVcz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950584765134016626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "肚子上又多了一条横线，其实我是数学天才，身负先天灵宝笛卡尔坐标系*⁂((✪⥎✪))⁂* https://t.co/ciHgygbVcz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 443,
+          "like_count": 5468,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 1279
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

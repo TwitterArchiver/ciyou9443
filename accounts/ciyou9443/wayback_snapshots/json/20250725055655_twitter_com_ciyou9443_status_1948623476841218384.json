@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1948613164188532957",
+    "created_at": "2025-07-25T05:56:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T06:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948623476841218384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910324259127439360",
+          "start": 0,
+          "username": "xinxinjiang0516"
+        },
+        {
+          "end": 27,
+          "id": "1387746640925184004",
+          "start": 17,
+          "username": "nnxxnn114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948623476841218384",
+    "in_reply_to_user_id": "1910324259127439360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948613164188532957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinxinjiang0516 @nnxxnn114 哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57616,
+        "height": 1280,
+        "media_key": "13_1948612664508436480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1948612664508436480/img/DJa6wl21NBNY974f.jpg",
+        "public_metrics": {
+          "view_count": 80
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948612664508436480/vid/avc1/320x568/Y0QUjrZSE8V4chgn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948612664508436480/vid/avc1/480x852/lmoRv5oKlQZZMXYi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948612664508436480/vid/avc1/720x1280/2HpTvX4w1brmBbsC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1948612664508436480/pl/ZeymcqpVE4ljlw9M.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 40916,
+        "height": 1280,
+        "media_key": "13_1948612664541999104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1948612664541999104/img/_X-oLk236y1BRsbD.jpg",
+        "public_metrics": {
+          "view_count": 17
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948612664541999104/vid/avc1/320x568/MUdaO7Gaeh_7hOsd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948612664541999104/vid/avc1/480x852/10CVJuWueNdeMDoi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948612664541999104/vid/avc1/720x1280/eJ3YrtsdHklK_-vG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1948612664541999104/pl/ch1IXbi6h4k7DEMh.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1948613164188532957",
+        "created_at": "2025-07-25T05:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T06:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948623476841218384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910324259127439360",
+              "start": 0,
+              "username": "xinxinjiang0516"
+            },
+            {
+              "end": 27,
+              "id": "1387746640925184004",
+              "start": 17,
+              "username": "nnxxnn114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948623476841218384",
+        "in_reply_to_user_id": "1910324259127439360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948613164188532957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinxinjiang0516 @nnxxnn114 哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1948612664508436480",
+            "13_1948612664541999104"
+          ]
+        },
+        "author_id": "1910324259127439360",
+        "conversation_id": "1948613164188532957",
+        "created_at": "2025-07-25T05:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T06:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948613164188532957"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "娼年"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "雌坠"
+            },
+            {
+              "end": 67,
+              "start": 60,
+              "tag": "可爱の男孩子"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "里百合"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "伪百合"
+            },
+            {
+              "end": 82,
+              "start": 78,
+              "tag": "男の娘"
+            },
+            {
+              "end": 88,
+              "start": 83,
+              "tag": "作战记录"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "伪娘"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "徐州"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "男娘"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "贴贴"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 50,
+              "id": "1387746640925184004",
+              "start": 40,
+              "username": "nnxxnn114"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ILQzfd2XU",
+              "end": 128,
+              "expanded_url": "https://x.com/xinxinjiang0516/status/1948613164188532957/video/1",
+              "media_key": "13_1948612664508436480",
+              "start": 105,
+              "url": "https://t.co/2ILQzfd2XU"
+            },
+            {
+              "display_url": "pic.x.com/2ILQzfd2XU",
+              "end": 128,
+              "expanded_url": "https://x.com/xinxinjiang0516/status/1948613164188532957/video/1",
+              "media_key": "13_1948612664541999104",
+              "start": 105,
+              "url": "https://t.co/2ILQzfd2XU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948613164188532957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 268,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "被反杀了，并要求我用嘴巴满足她(不过真的很好吃)，还要用屁股蹭我牛牛。可恶可恶。@nnxxnn114 \n#娼年 #雌坠 #可爱の男孩子 #里百合 #伪百合 #男の娘 #作战记录 #伪娘 #徐州 #男娘 #贴贴 https://t.co/2ILQzfd2XU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 426,
+          "like_count": 4928,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 1220
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T13:29:39.000Z",
+        "description": "男娘/身高168cm/体重59kg减肥中/🦶39/坐标徐州/欢迎可爱的小男娘线下/涩涩/贴贴/交流/互fo/互推/🐧群：1046819814，欢迎xnn xyn 交流贴贴。接寄拍，想要投喂。直男好友位有🚪52。",
+        "id": "1910324259127439360",
+        "location": "徐州",
+        "name": "馨馨酱（互fo互推)",
+        "pinned_tweet_id": "1927546481969418456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948033364134711296/THhMo0DU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2468,
+          "following_count": 2,
+          "like_count": 75,
+          "listed_count": 7,
+          "media_count": 95,
+          "tweet_count": 1965
+        },
+        "username": "xinxinjiang0516",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-29T12:32:52.000Z",
+        "description": "平常没事喜欢女装啥的(家里比较拮据一般不买cos服)\n但是皮肤偏黑(可qq扩列）\n特別喜歡Faphero\n要是你也对fap hero感兴趣欢迎来我们discord服务器(私信即可加)\n（私信请不要给我发自己的私处谢谢）\n🐧群：747785790",
+        "id": "1387746640925184004",
+        "location": "金光事务所",
+        "name": "FH-gold cake",
+        "pinned_tweet_id": "1938448088651432393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940260857474109440/J-Y7-wgL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 138,
+          "like_count": 24,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 378
+        },
+        "username": "nnxxnn114",
+        "verified": false
+      }
+    ]
+  }
+}

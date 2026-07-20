@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1990123383598580113",
+    "created_at": "2025-11-17T05:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T06:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990295964423463402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990295964423463402",
+    "in_reply_to_user_id": "623965569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990123383598580113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand 素也是从借助口罩出门到后来再也不戴了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990123369124270081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G55WqPvbEAEifJD.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 2766,
+        "height": 960,
+        "media_key": "13_1990123369099067392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1990123369099067392/img/1Tkl8-iKK1Z7uPTp.jpg",
+        "public_metrics": {
+          "view_count": 47
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990123369099067392/vid/avc1/320x426/xoDolZZMnhmKbfQh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990123369099067392/vid/avc1/480x640/1hdsOMkWNOjWoCV9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990123369099067392/vid/avc1/720x960/Y0kXgpr9wfaQXNip.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1990123369099067392/pl/Kc7UTmQRgr1NRp2d.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1990123383598580113",
+        "created_at": "2025-11-17T05:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T06:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990295964423463402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990295964423463402",
+        "in_reply_to_user_id": "623965569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990123383598580113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand 素也是从借助口罩出门到后来再也不戴了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990123369124270081",
+            "13_1990123369099067392"
+          ]
+        },
+        "author_id": "623965569",
+        "conversation_id": "1990123383598580113",
+        "created_at": "2025-11-16T18:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T19:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990123383598580113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lHgWGgIgZ2",
+              "end": 151,
+              "expanded_url": "https://x.com/nothousand/status/1990123383598580113/video/1",
+              "media_key": "3_1990123369124270081",
+              "start": 128,
+              "url": "https://t.co/lHgWGgIgZ2"
+            },
+            {
+              "display_url": "pic.x.com/lHgWGgIgZ2",
+              "end": 151,
+              "expanded_url": "https://x.com/nothousand/status/1990123383598580113/video/1",
+              "media_key": "13_1990123369099067392",
+              "start": 128,
+              "url": "https://t.co/lHgWGgIgZ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990123383598580113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自从声带手术恢复以后，似乎就再也没有借助口罩出门了。\n从他人眼中读到的反馈来看，\n除了有一些人的眼神仍然有些奇怪之外，\n已经有越来越多惊喜的目光出现了。\n应该是好事吧。\n每次意外获得陌生人外观赞许的评价都会开心很久\n这大概就是近一年最积极的人生反馈了吧。 https://t.co/lHgWGgIgZ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠/深夜发的消息不关素的事",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974504976752984101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 534,
+          "like_count": 8848,
+          "listed_count": 4,
+          "media_count": 274,
+          "tweet_count": 2105
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "/记录一些异世界的碎碎念w #INFJ\n##有奇怪想法和需求的人看黄男别来关注我关了也会被我清理！！\n/谨慎fo因为我们可能不是一类人，或者不是你以为的那类人喔\n/不定期删除三无号，不同频的人还请见谅\n/需要回fo请大胆和我说我会来仔细观察你然后给你答案\n//雷自残od各种赤裸色色看到这样的人会unfo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 14,
+                "tag": "INFJ"
+              },
+              {
+                "end": 48,
+                "start": 21,
+                "tag": "有奇怪想法和需求的人看黄男别来关注我关了也会被我清理"
+              }
+            ]
+          }
+        },
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊茉音華🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986123192122155009/VGLVlSvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 114,
+          "like_count": 5935,
+          "listed_count": 4,
+          "media_count": 361,
+          "tweet_count": 4185
+        },
+        "username": "nothousand",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1970075340312887548",
+    "created_at": "2025-09-22T15:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T16:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970145291828662359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        },
+        {
+          "end": 25,
+          "id": "1142344230565629953",
+          "start": 12,
+          "username": "Evilkiruirui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970145291828662359",
+    "in_reply_to_user_id": "623965569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970129096454836724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand @Evilkiruirui 是美女没错喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1970075340312887548",
+        "created_at": "2025-09-22T15:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T16:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970145291828662359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            },
+            {
+              "end": 25,
+              "id": "1142344230565629953",
+              "start": 12,
+              "username": "Evilkiruirui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970145291828662359",
+        "in_reply_to_user_id": "623965569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970129096454836724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand @Evilkiruirui 是美女没错喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "623965569",
+        "conversation_id": "1970075340312887548",
+        "created_at": "2025-09-22T14:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T15:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970129096454836724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1142344230565629953",
+              "start": 0,
+              "username": "Evilkiruirui"
+            },
+            {
+              "end": 24,
+              "id": "1805373961020260353",
+              "start": 14,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970129096454836724",
+        "in_reply_to_user_id": "1142344230565629953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970124586324037831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evilkiruirui @ciyou9443 还可以问这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 511,
+          "like_count": 7032,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 1593
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "/记录一些异世界的碎碎念w #INFJ\n##有奇怪想法和需求的人看黄男别来关注我关了也会被我清理！！\n/谨慎fo因为我们可能不是一类人，或者不是你以为的那类人喔\n/不定期删除三无号，不同频的人还请见谅\n/需要回fo请大胆和我说我会来仔细观察你然后给你答案\n//雷自残od各种赤裸色色看到这样的人会unfo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 14,
+                "tag": "INFJ"
+              },
+              {
+                "end": 48,
+                "start": 21,
+                "tag": "有奇怪想法和需求的人看黄男别来关注我关了也会被我清理"
+              }
+            ]
+          }
+        },
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊茉音華🏳️‍⚧️",
+        "pinned_tweet_id": "1940754100695769098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967060261854212096/znbkYaQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 99,
+          "like_count": 4284,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 3125
+        },
+        "username": "nothousand",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-22T08:11:03.000Z",
+        "description": "早更少妇/碎嘴子/谜语人/中文(繁简)/20岁零两百多个月/三八拖拉機手/家有一只可爱的团子🍡/知食分子/504司膳",
+        "id": "1142344230565629953",
+        "location": "0.1km",
+        "name": "瑞瑞（死人微活版😮‍💨）",
+        "pinned_tweet_id": "1963509700806545602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944003779906744321/aSeQJ1oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 183,
+          "like_count": 114930,
+          "listed_count": 4,
+          "media_count": 2487,
+          "tweet_count": 52018
+        },
+        "username": "Evilkiruirui",
+        "verified": false
+      }
+    ]
+  }
+}

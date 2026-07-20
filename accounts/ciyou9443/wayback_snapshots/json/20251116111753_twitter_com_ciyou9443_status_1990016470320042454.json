@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1990016470320042454",
+    "created_at": "2025-11-16T11:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T12:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990016470320042454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 35,
+          "id": "623965569",
+          "start": 24,
+          "username": "nothousand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990016470320042454",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢芊芊老师，芊芊老师人美心善，我是她的大粉丝\n@nothousand"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1990016470320042454",
+        "created_at": "2025-11-16T11:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T12:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990016470320042454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "623965569",
+              "start": 24,
+              "username": "nothousand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990016470320042454",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢芊芊老师，芊芊老师人美心善，我是她的大粉丝\n@nothousand"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974504976752984101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 533,
+          "like_count": 8732,
+          "listed_count": 4,
+          "media_count": 272,
+          "tweet_count": 2057
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "/记录一些异世界的碎碎念w #INFJ\n##有奇怪想法和需求的人看黄男别来关注我关了也会被我清理！！\n/谨慎fo因为我们可能不是一类人，或者不是你以为的那类人喔\n/不定期删除三无号，不同频的人还请见谅\n/需要回fo请大胆和我说我会来仔细观察你然后给你答案\n//雷自残od各种赤裸色色看到这样的人会unfo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 14,
+                "tag": "INFJ"
+              },
+              {
+                "end": 48,
+                "start": 21,
+                "tag": "有奇怪想法和需求的人看黄男别来关注我关了也会被我清理"
+              }
+            ]
+          }
+        },
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊茉音華🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986123192122155009/VGLVlSvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 114,
+          "like_count": 5906,
+          "listed_count": 4,
+          "media_count": 359,
+          "tweet_count": 4170
+        },
+        "username": "nothousand",
+        "verified": false
+      }
+    ]
+  }
+}

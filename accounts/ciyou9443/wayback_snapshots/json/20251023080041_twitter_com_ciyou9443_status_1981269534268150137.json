@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1981263408134836414",
+    "created_at": "2025-10-23T08:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T09:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981269534268150137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1849098966039969792",
+          "start": 0,
+          "username": "36duola"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981269534268150137",
+    "in_reply_to_user_id": "1849098966039969792",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981267225089888461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@36duola 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1981263408134836414",
+        "created_at": "2025-10-23T08:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T09:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981269534268150137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1849098966039969792",
+              "start": 0,
+              "username": "36duola"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981269534268150137",
+        "in_reply_to_user_id": "1849098966039969792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981267225089888461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@36duola 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849098966039969792",
+        "conversation_id": "1981263408134836414",
+        "created_at": "2025-10-23T07:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T08:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981267225089888461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981267225089888461",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981263408134836414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 小啦也不太懂咋处理我是环性状态没那么严重，但是我躁了一般会吃药睡觉强制让自己停下来或者说去发疯比如说拉小提琴和去桥洞底下摔玻璃瓶之类的。可能有的时候更希望对象在旁边能抱住我，分散注意力我不太喜欢别人说一些我病了之类的话。也很讨厌在这个时候如果发生一些事跟人争辩或者吵架会更难受。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/buff叠太多我会害怕😨",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 518,
+          "like_count": 7661,
+          "listed_count": 4,
+          "media_count": 228,
+          "tweet_count": 1766
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T14:42:13.000Z",
+        "description": "忘川之上 桑梓之下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "duola.ryuuguu.live",
+                "end": 23,
+                "expanded_url": "https://duola.ryuuguu.live/",
+                "start": 0,
+                "url": "https://t.co/SFtXT7qj9d"
+              }
+            ]
+          }
+        },
+        "id": "1849098966039969792",
+        "location": "Peking ",
+        "name": "小啦",
+        "pinned_tweet_id": "1960704407794016411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980783425536606208/w2APRmCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 71,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 776
+        },
+        "url": "https://t.co/SFtXT7qj9d",
+        "username": "36duola",
+        "verified": false
+      }
+    ]
+  }
+}

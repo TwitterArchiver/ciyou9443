@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1927328424244154520",
+    "created_at": "2025-05-27T11:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T12:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927329205076795472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "872113640064786432",
+          "start": 0,
+          "username": "ChariseStever"
+        },
+        {
+          "end": 23,
+          "id": "1507794054511497219",
+          "start": 15,
+          "username": "Miyu__Z"
+        },
+        {
+          "end": 35,
+          "id": "1643555875813216257",
+          "start": 24,
+          "username": "IceyPillow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927329205076795472",
+    "in_reply_to_user_id": "872113640064786432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927328424244154520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChariseStever @Miyu__Z @IceyPillow 呜哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1927328424244154520",
+        "created_at": "2025-05-27T11:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T12:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927329205076795472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "872113640064786432",
+              "start": 0,
+              "username": "ChariseStever"
+            },
+            {
+              "end": 23,
+              "id": "1507794054511497219",
+              "start": 15,
+              "username": "Miyu__Z"
+            },
+            {
+              "end": 35,
+              "id": "1643555875813216257",
+              "start": 24,
+              "username": "IceyPillow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927329205076795472",
+        "in_reply_to_user_id": "872113640064786432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927328424244154520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChariseStever @Miyu__Z @IceyPillow 呜哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "872113640064786432",
+        "conversation_id": "1927328424244154520",
+        "created_at": "2025-05-27T11:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T12:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927328424244154520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1507794054511497219",
+              "start": 3,
+              "username": "Miyu__Z"
+            },
+            {
+              "end": 25,
+              "id": "1643555875813216257",
+              "start": 14,
+              "username": "IceyPillow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927328424244154520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天和@Miyu__Z 还有@IceyPillow 贴贴\n幸福到晕厥了呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/有两个人格/没有家长党🏳️‍⚧️🍥/一星期没更就可以当我似了",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 311,
+          "like_count": 3092,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 940
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-06T15:31:09.000Z",
+        "description": "Goblin/Imp 感兴趣的领域: Information Retrieval (信息检索）& Recommender Systems （推荐系统）\nbluesky: https://t.co/p6CngYU70a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "niox.lol",
+                "end": 108,
+                "expanded_url": "http://niox.lol",
+                "start": 85,
+                "url": "https://t.co/p6CngYU70a"
+              }
+            ]
+          }
+        },
+        "id": "872113640064786432",
+        "location": "Goblin Den",
+        "name": "nil",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530459917060120576/MxIH3gkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 85,
+          "like_count": 799,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 1174
+        },
+        "username": "ChariseStever",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T18:58:19.000Z",
+        "description": "更多简介在🔗链接里 || infp|| lang:CN/EN/DE|| 有人看我我很开心，会分享很多喜欢的东西~|| 看情况回fo喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ggl.link/mwwTkxa",
+                "end": 23,
+                "expanded_url": "https://ggl.link/mwwTkxa",
+                "start": 0,
+                "url": "https://t.co/Ca9DiJRSFg"
+              }
+            ]
+          }
+        },
+        "id": "1507794054511497219",
+        "location": "月之暗面",
+        "name": "芝士腐竹喵",
+        "pinned_tweet_id": "1925480913326199111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889702352804048896/z7Vp24cQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 162,
+          "like_count": 4085,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1078
+        },
+        "url": "https://t.co/Ca9DiJRSFg",
+        "username": "Miyu__Z",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T10:08:05.000Z",
+        "description": "SE; C++, C#, Py; C++20 Renderer絕讚開發中; \nCMake😋; 壓縮餅乾鑑賞家; 私信擴列;\n🦋BlueSky: https://t.co/wKXcWiEhRa\n🎨Bento: https://t.co/ElFpyN5aze",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/iceypi…",
+                "end": 95,
+                "expanded_url": "http://bsky.app/profile/iceypillow.bsky.social",
+                "start": 72,
+                "url": "https://t.co/wKXcWiEhRa"
+              },
+              {
+                "display_url": "bento.me/iceypillow",
+                "end": 127,
+                "expanded_url": "http://bento.me/iceypillow",
+                "start": 104,
+                "url": "https://t.co/ElFpyN5aze"
+              }
+            ]
+          }
+        },
+        "id": "1643555875813216257",
+        "name": "迷子小睡枕 :",
+        "pinned_tweet_id": "1924486305150349564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914739172335669249/eiYevEYt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 1154,
+          "like_count": 10442,
+          "listed_count": 8,
+          "media_count": 471,
+          "tweet_count": 4120
+        },
+        "username": "IceyPillow",
+        "verified": false
+      }
+    ]
+  }
+}

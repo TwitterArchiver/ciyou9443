@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1901132720400723969",
+        "3_1901132722179108864"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1901132738364928205",
+    "created_at": "2025-03-16T04:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T05:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901132738364928205"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 6,
+          "tag": "mtf"
+        },
+        {
+          "end": 14,
+          "start": 11,
+          "tag": "药娘"
+        },
+        {
+          "end": 18,
+          "start": 15,
+          "tag": "男娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7GIXll12Ak",
+          "end": 42,
+          "expanded_url": "https://x.com/ciyou9443/status/1901132738364928205/video/1",
+          "media_key": "7_1901132720400723969",
+          "start": 19,
+          "url": "https://t.co/7GIXll12Ak"
+        },
+        {
+          "display_url": "pic.x.com/7GIXll12Ak",
+          "end": 42,
+          "expanded_url": "https://x.com/ciyou9443/status/1901132738364928205/video/1",
+          "media_key": "3_1901132722179108864",
+          "start": 19,
+          "url": "https://t.co/7GIXll12Ak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901132738364928205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猫猫发夹～ #mtf #药娘 #男娘 https://t.co/7GIXll12Ak"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1303,
+        "height": 720,
+        "media_key": "7_1901132720400723969",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1901132720400723969/pu/img/TcDIiWmEcFzePI-r.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901132720400723969/pu/vid/avc1/480x270/bJzp2fQMobm4dPn2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901132720400723969/pu/vid/avc1/640x360/hDI2ZfOpIHfNJOdB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901132720400723969/pu/vid/avc1/1280x720/CNCWQj2VbKDf1U5t.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1901132720400723969/pu/pl/YBS7jojVRztK-BXK.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1901132722179108864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmIuI2BbcAAZuAA.jpg",
+        "width": 1916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1901132720400723969",
+            "3_1901132722179108864"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1901132738364928205",
+        "created_at": "2025-03-16T04:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T05:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901132738364928205"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "mtf"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "药娘"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7GIXll12Ak",
+              "end": 42,
+              "expanded_url": "https://x.com/ciyou9443/status/1901132738364928205/video/1",
+              "media_key": "7_1901132720400723969",
+              "start": 19,
+              "url": "https://t.co/7GIXll12Ak"
+            },
+            {
+              "display_url": "pic.x.com/7GIXll12Ak",
+              "end": 42,
+              "expanded_url": "https://x.com/ciyou9443/status/1901132738364928205/video/1",
+              "media_key": "3_1901132722179108864",
+              "start": 19,
+              "url": "https://t.co/7GIXll12Ak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901132738364928205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫猫发夹～ #mtf #药娘 #男娘 https://t.co/7GIXll12Ak"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "欢迎互fo/困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～🏳️‍⚧️🍥",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 135,
+          "like_count": 613,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 270
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

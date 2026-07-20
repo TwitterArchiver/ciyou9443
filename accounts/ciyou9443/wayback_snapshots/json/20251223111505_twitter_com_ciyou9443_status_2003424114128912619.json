@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003424110739894272"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2003424114128912619",
+    "created_at": "2025-12-23T11:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T12:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003424114128912619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dUtsFG4fJ9",
+          "end": 28,
+          "expanded_url": "https://x.com/ciyou9443/status/2003424114128912619/photo/1",
+          "media_key": "3_2003424110739894272",
+          "start": 5,
+          "url": "https://t.co/dUtsFG4fJ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003424114128912619",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "狠狠od https://t.co/dUtsFG4fJ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003424110739894272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G82XnTcasAAU3Xe.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003424110739894272"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2003424114128912619",
+        "created_at": "2025-12-23T11:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T12:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003424114128912619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dUtsFG4fJ9",
+              "end": 28,
+              "expanded_url": "https://x.com/ciyou9443/status/2003424114128912619/photo/1",
+              "media_key": "3_2003424110739894272",
+              "start": 5,
+              "url": "https://t.co/dUtsFG4fJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003424114128912619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狠狠od https://t.co/dUtsFG4fJ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2002716839739371534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 538,
+          "like_count": 9652,
+          "listed_count": 3,
+          "media_count": 314,
+          "tweet_count": 2365
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

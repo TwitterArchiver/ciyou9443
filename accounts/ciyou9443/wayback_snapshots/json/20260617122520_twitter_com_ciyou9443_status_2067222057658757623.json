@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2067148497053446652",
+    "created_at": "2026-06-17T12:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067222057658757623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1716725000085135360",
+          "start": 0,
+          "username": "mirror_1115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067222057658757623",
+    "in_reply_to_user_id": "1716725000085135360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067217532306731040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mirror_1115 很累的话题就这样吧我会删掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2067148497053446652",
+        "created_at": "2026-06-17T12:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067222057658757623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1716725000085135360",
+              "start": 0,
+              "username": "mirror_1115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067222057658757623",
+        "in_reply_to_user_id": "1716725000085135360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067217532306731040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mirror_1115 很累的话题就这样吧我会删掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716725000085135360",
+        "conversation_id": "2067148497053446652",
+        "created_at": "2026-06-17T12:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067217532306731040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067217532306731040",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067148497053446652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 為什麼(⁠･ั⁠ω⁠･ั⁠)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2062510740637139247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1723,
+          "following_count": 570,
+          "like_count": 12048,
+          "listed_count": 5,
+          "media_count": 435,
+          "tweet_count": 3299
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-24T07:55:36.000Z",
+        "description": "如果我的留言和文的風格不一樣，是因為人本來就有很多面具",
+        "id": "1716725000085135360",
+        "location": "San Diego, CA",
+        "name": "米洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024716611677224960/zulMuNZ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 87,
+          "like_count": 970,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 490
+        },
+        "url": "",
+        "username": "mirror_1115",
+        "verified": false
+      }
+    ]
+  }
+}

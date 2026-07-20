@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2012729365814239474",
+    "created_at": "2026-01-18T03:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T04:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012733254546374835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942926706517659648",
+          "start": 0,
+          "username": "jbreaking53448"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012733254546374835",
+    "in_reply_to_user_id": "1942926706517659648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012729365814239474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@jbreaking53448 帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1512,
+        "media_key": "3_2012729349376495617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-6mreqW0AEwfbl.jpg",
+        "width": 2016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2012729365814239474",
+        "created_at": "2026-01-18T03:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T04:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012733254546374835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942926706517659648",
+              "start": 0,
+              "username": "jbreaking53448"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012733254546374835",
+        "in_reply_to_user_id": "1942926706517659648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012729365814239474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@jbreaking53448 帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012729349376495617"
+          ]
+        },
+        "author_id": "1942926706517659648",
+        "conversation_id": "2012729365814239474",
+        "created_at": "2026-01-18T03:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T04:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012729365814239474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bB6pcUmFjN",
+              "end": 38,
+              "expanded_url": "https://x.com/jbreaking53448/status/2012729365814239474/photo/1",
+              "media_key": "3_2012729349376495617",
+              "start": 15,
+              "url": "https://t.co/bB6pcUmFjN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012729365814239474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "阿迪达斯精神小伙(bushi https://t.co/bB6pcUmFjN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "不爱出门爱抱怨的现充",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2009685126054359477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010721996909514752/qGj_peZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 539,
+          "like_count": 9867,
+          "listed_count": 4,
+          "media_count": 334,
+          "tweet_count": 2472
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T12:40:07.000Z",
+        "description": "一个普通人而已，目前算是les🏳️‍🌈/焦虑+强迫☹️友跨🏳️‍⚧️顺女疑似要翻车",
+        "id": "1942926706517659648",
+        "location": "Hell",
+        "name": "清野♰",
+        "pinned_tweet_id": "2012709877513380132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975896883496378368/UfFLW_qN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 638,
+          "like_count": 1437,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 217
+        },
+        "username": "jbreaking53448",
+        "verified": true
+      }
+    ]
+  }
+}

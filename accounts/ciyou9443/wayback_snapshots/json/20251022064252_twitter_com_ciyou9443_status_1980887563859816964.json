@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1980782968328397117",
+    "created_at": "2025-10-22T06:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T07:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980887563859816964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1849098966039969792",
+          "start": 0,
+          "username": "36duola"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980887563859816964",
+    "in_reply_to_user_id": "1849098966039969792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980782968328397117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@36duola 这不是挺pass的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1923,
+        "media_key": "3_1980782965601804289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G30nnNHXIAETOsr.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1980782968328397117",
+        "created_at": "2025-10-22T06:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T07:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980887563859816964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1849098966039969792",
+              "start": 0,
+              "username": "36duola"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980887563859816964",
+        "in_reply_to_user_id": "1849098966039969792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980782968328397117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@36duola 这不是挺pass的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980782965601804289"
+          ]
+        },
+        "author_id": "1849098966039969792",
+        "conversation_id": "1980782968328397117",
+        "created_at": "2025-10-21T23:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T00:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980782968328397117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OowJADtaxc",
+              "end": 71,
+              "expanded_url": "https://x.com/36duola/status/1980782968328397117/photo/1",
+              "media_key": "3_1980782965601804289",
+              "start": 48,
+              "url": "https://t.co/OowJADtaxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980782968328397117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "醒来就GD，我真的好丑，一点都不pass，好想整形，现在已经胖成大肥猪了以前BMI才19.4😭 https://t.co/OowJADtaxc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/buff叠太多我会害怕😨",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 517,
+          "like_count": 7653,
+          "listed_count": 4,
+          "media_count": 226,
+          "tweet_count": 1758
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T14:42:13.000Z",
+        "description": "忘川之上 桑梓之下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "duola.ryuuguu.live",
+                "end": 23,
+                "expanded_url": "https://duola.ryuuguu.live/",
+                "start": 0,
+                "url": "https://t.co/SFtXT7qj9d"
+              }
+            ]
+          }
+        },
+        "id": "1849098966039969792",
+        "location": "Peking ",
+        "name": "小啦",
+        "pinned_tweet_id": "1960704407794016411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980783425536606208/w2APRmCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 71,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 761
+        },
+        "url": "https://t.co/SFtXT7qj9d",
+        "username": "36duola",
+        "verified": false
+      }
+    ]
+  }
+}

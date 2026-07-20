@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1893292600875946423",
+    "created_at": "2025-02-23T08:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T09:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893581623020617769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1827938552673386496",
+          "start": 0,
+          "username": "Linler_sa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893581623020617769",
+    "in_reply_to_user_id": "1827938552673386496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893553934536458495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Linler_sa 谢谢你～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1893292600875946423",
+        "created_at": "2025-02-23T08:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T09:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893581623020617769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1827938552673386496",
+              "start": 0,
+              "username": "Linler_sa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893581623020617769",
+        "in_reply_to_user_id": "1827938552673386496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893553934536458495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linler_sa 谢谢你～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827938552673386496",
+        "conversation_id": "1893292600875946423",
+        "created_at": "2025-02-23T06:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T07:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893553934536458495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893553934536458495",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893292600875946423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 记录的地平线（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "含糖mtf/欢迎互fo/困困困困困要困死了/薛定谔的颜值/欢迎xyn来找我玩♥(｡￫v￩｡)♥🏳️‍⚧️🍥",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 124,
+          "like_count": 543,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 225
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T05:18:15.000Z",
+        "description": "嘿嘿\n04.12.1/大龄mtf😭 同类互fo！/定位安徽巢湖（现处巢湖）/同类找我贴贴！/音游b/神椿箱推（主情、透）/百合！里百合！",
+        "id": "1827938552673386496",
+        "name": "淋纱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827941954279075840/zY2JnwY-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 192,
+          "like_count": 759,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 579
+        },
+        "username": "Linler_sa",
+        "verified": false
+      }
+    ]
+  }
+}

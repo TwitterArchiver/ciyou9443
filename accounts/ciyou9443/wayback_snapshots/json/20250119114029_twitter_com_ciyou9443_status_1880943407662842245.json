@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1880854262382838112",
+    "created_at": "2025-01-19T11:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T12:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880943407662842245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1827009216047153152",
+          "start": 0,
+          "username": "yuan_wu33078"
+        },
+        {
+          "end": 29,
+          "id": "1721015897492512768",
+          "start": 14,
+          "username": "Lanhuamopemope"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880943407662842245",
+    "in_reply_to_user_id": "1827009216047153152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880854262382838112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuan_wu33078 @Lanhuamopemope 可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1880854262382838112",
+        "created_at": "2025-01-19T11:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T12:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880943407662842245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1827009216047153152",
+              "start": 0,
+              "username": "yuan_wu33078"
+            },
+            {
+              "end": 29,
+              "id": "1721015897492512768",
+              "start": 14,
+              "username": "Lanhuamopemope"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880943407662842245",
+        "in_reply_to_user_id": "1827009216047153152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880854262382838112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuan_wu33078 @Lanhuamopemope 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880854209920471040"
+          ]
+        },
+        "author_id": "1827009216047153152",
+        "conversation_id": "1880854262382838112",
+        "created_at": "2025-01-19T05:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T06:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880854262382838112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1721015897492512768",
+              "start": 11,
+              "username": "Lanhuamopemope"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SLfuCPYlLY",
+              "end": 50,
+              "expanded_url": "https://x.com/yuan_wu33078/status/1880854262382838112/photo/1",
+              "media_key": "3_1880854209920471040",
+              "start": 27,
+              "url": "https://t.co/SLfuCPYlLY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880854262382838112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第二份喵~\n中午好~\n@Lanhuamopemope https://t.co/SLfuCPYlLY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "含糖mtf/欢迎互fo/困困困困困要困死了",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 143,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 132
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T15:45:39.000Z",
+        "description": "苑猫猫在此♪\n中国人~是猫猫高中生/友跨/ftx/负能/键政哒咩/米游三坑玩家/粥粥博士/手作分享/想要学习cs/喵~欢迎互fo",
+        "id": "1827009216047153152",
+        "location": "往世乐土♪",
+        "name": "苑云鹜",
+        "pinned_tweet_id": "1880808015382945795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877443369842126849/WSzl9hZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 250,
+          "like_count": 1205,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 118
+        },
+        "username": "yuan_wu33078",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T04:05:48.000Z",
+        "description": "是随处可见的蓝花/INTJ/STG&音游玩家(苦手)/东方&Vocaloid厨/Fumo重度依赖ᗜ˰ᗜ/欢迎互fo～",
+        "id": "1721015897492512768",
+        "location": "靜海",
+        "name": "藍花～Mopephila Blossom",
+        "pinned_tweet_id": "1873954028461396129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877224550594916356/BAihmdjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 263,
+          "like_count": 1030,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 342
+        },
+        "username": "Lanhuamopemope",
+        "verified": false
+      }
+    ]
+  }
+}

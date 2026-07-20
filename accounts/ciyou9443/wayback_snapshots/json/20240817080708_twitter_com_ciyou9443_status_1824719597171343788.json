@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1824491821906686232",
+    "created_at": "2024-08-17T08:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T09:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824719597171343788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1244598266173378561",
+          "start": 0,
+          "username": "april93965386"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824719597171343788",
+    "in_reply_to_user_id": "1244598266173378561",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824491821906686232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@april93965386 加油加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1824491821906686232",
+        "created_at": "2024-08-17T08:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T09:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824719597171343788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1244598266173378561",
+              "start": 0,
+              "username": "april93965386"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824719597171343788",
+        "in_reply_to_user_id": "1244598266173378561",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824491821906686232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@april93965386 加油加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244598266173378561",
+        "conversation_id": "1824491821906686232",
+        "created_at": "2024-08-16T17:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T18:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824491821906686232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1824491821906686232",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我tm也知道这种状态不行啊……我能怎么办……我连重新开始的资本都没有了……\n对希望的渴望，对绝望的痛恨，哪怕拼尽全力，也只能回到一般人的程度……那对我有什么帮助吗？尸体没有腐烂，就不是尸体了吗？\n更别说我根本做不到啊……那天我没有带走的人，以后也不会带走……我不想陷入往复循环"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "含糖mtf/175cm49kg/欢迎互fo/困困困困困要困死了",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823218547381972993/M1KAROl-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 86,
+          "like_count": 120,
+          "listed_count": 0,
+          "tweet_count": 57
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T12:12:08.000Z",
+        "description": "我与你们不同的是，\n我认定自己无可救药，我配不上这个世界。\n\n而你则认定这个世界无可救药，配不上你。\n想想你喜欢、你羡慕、你嫉妒的一切，这一切都说明你只是一个可悲的家伙。\n一个无可救药却拒绝承认的烂货。\n【活在众所皆知时，死在默默无闻处】",
+        "id": "1244598266173378561",
+        "name": "四月十四",
+        "pinned_tweet_id": "1677245655306338306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1248815090536550401/bvSbWCG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 454,
+          "like_count": 2207,
+          "listed_count": 0,
+          "tweet_count": 1919
+        },
+        "username": "april93965386",
+        "verified": false
+      }
+    ]
+  }
+}

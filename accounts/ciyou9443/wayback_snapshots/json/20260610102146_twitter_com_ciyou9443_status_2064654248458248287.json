@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2064271383023198686",
+    "created_at": "2026-06-10T10:21:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064654248458248287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "894568945230815235",
+          "start": 0,
+          "username": "AokiiChiharu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064654248458248287",
+    "in_reply_to_user_id": "894568945230815235",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064637364924998038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AokiiChiharu 好的喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2064271383023198686",
+        "created_at": "2026-06-10T10:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064654248458248287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "894568945230815235",
+              "start": 0,
+              "username": "AokiiChiharu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064654248458248287",
+        "in_reply_to_user_id": "894568945230815235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064637364924998038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AokiiChiharu 好的喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "894568945230815235",
+        "conversation_id": "2064271383023198686",
+        "created_at": "2026-06-10T09:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064637364924998038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064637364924998038",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064271383023198686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 这时候建议直勾勾盯回去，举起手机假装在拍照。一般这时候老登就不敢盯着了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2062510740637139247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 555,
+          "like_count": 11778,
+          "listed_count": 5,
+          "media_count": 418,
+          "tweet_count": 3184
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-07T14:40:31.000Z",
+        "description": "一只喜欢吃西瓜的柚子狸，是个巨大的毛绒玩具，会一个把朋友们变圆的魔法 。（正在躺在草地上晒太阳 ）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "huguaxi.com",
+                "end": 23,
+                "expanded_url": "https://huguaxi.com/",
+                "start": 0,
+                "url": "https://t.co/AUPstkw0fj"
+              }
+            ]
+          }
+        },
+        "id": "894568945230815235",
+        "location": "幽冥",
+        "name": "狐瓜西🍉",
+        "pinned_tweet_id": "2050328338733138012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037460510992674816/7U3wuL_c_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 612,
+          "like_count": 42971,
+          "listed_count": 20,
+          "media_count": 3550,
+          "tweet_count": 10787
+        },
+        "url": "https://t.co/AUPstkw0fj",
+        "username": "AokiiChiharu",
+        "verified": true
+      }
+    ]
+  }
+}

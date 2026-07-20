@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981938824574877696",
+        "3_1981938826676248576"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1981938829981606170",
+    "created_at": "2025-10-25T04:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T05:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981938829981606170"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HonGc7BFSg",
+          "end": 52,
+          "expanded_url": "https://x.com/ciyou9443/status/1981938829981606170/photo/1",
+          "media_key": "3_1981938824574877696",
+          "start": 29,
+          "url": "https://t.co/HonGc7BFSg"
+        },
+        {
+          "display_url": "pic.x.com/HonGc7BFSg",
+          "end": 52,
+          "expanded_url": "https://x.com/ciyou9443/status/1981938829981606170/photo/1",
+          "media_key": "3_1981938826676248576",
+          "start": 29,
+          "url": "https://t.co/HonGc7BFSg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981938829981606170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "眠眠猫买了一件很大气好看的衣服，可惜拍照不能还原其的美貌 https://t.co/HonGc7BFSg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981938824574877696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4FC3DVXQAAs8zj.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1981938826676248576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4FC3LKXoAAMEuy.jpg",
+        "width": 951
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981938824574877696",
+            "3_1981938826676248576"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1981938829981606170",
+        "created_at": "2025-10-25T04:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T05:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981938829981606170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HonGc7BFSg",
+              "end": 52,
+              "expanded_url": "https://x.com/ciyou9443/status/1981938829981606170/photo/1",
+              "media_key": "3_1981938824574877696",
+              "start": 29,
+              "url": "https://t.co/HonGc7BFSg"
+            },
+            {
+              "display_url": "pic.x.com/HonGc7BFSg",
+              "end": 52,
+              "expanded_url": "https://x.com/ciyou9443/status/1981938829981606170/photo/1",
+              "media_key": "3_1981938826676248576",
+              "start": 29,
+              "url": "https://t.co/HonGc7BFSg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981938829981606170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眠眠猫买了一件很大气好看的衣服，可惜拍照不能还原其的美貌 https://t.co/HonGc7BFSg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/buff叠太多我会害怕😨",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 518,
+          "like_count": 7684,
+          "listed_count": 4,
+          "media_count": 231,
+          "tweet_count": 1771
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

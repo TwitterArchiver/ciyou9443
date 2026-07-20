@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1999397231221498096",
+    "created_at": "2025-12-12T08:33:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T09:33:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999397231221498096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1421301972007849986",
+          "start": 3,
+          "username": "pbpp10521715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999397231221498096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999172463331324253",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pbpp10521715: 居然还有后续，爱礼小区的人要集体献祭一只黑狗用狗血洗地辟邪驱魂，爱礼如果活着肯定不希望无辜狗狗为自己毫无意义地死掉，而且根本没有邪何来的辟邪？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1999397231221498096",
+        "created_at": "2025-12-12T08:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999397231221498096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1421301972007849986",
+              "start": 3,
+              "username": "pbpp10521715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999397231221498096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999172463331324253",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pbpp10521715: 居然还有后续，爱礼小区的人要集体献祭一只黑狗用狗血洗地辟邪驱魂，爱礼如果活着肯定不希望无辜狗狗为自己毫无意义地死掉，而且根本没有邪何来的辟邪？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421301972007849986",
+        "conversation_id": "1999172463331324253",
+        "created_at": "2025-12-11T17:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T18:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999172463331324253"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999172463331324253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9744,
+          "like_count": 107,
+          "quote_count": 8,
+          "reply_count": 26,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "居然还有后续，爱礼小区的人要集体献祭一只黑狗用狗血洗地辟邪驱魂，爱礼如果活着肯定不希望无辜狗狗为自己毫无意义地死掉，而且根本没有邪何来的辟邪？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠/深夜发的消息不关素的事",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 536,
+          "like_count": 9514,
+          "listed_count": 4,
+          "media_count": 296,
+          "tweet_count": 2293
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-31T02:49:51.000Z",
+        "description": "水逆中，随机掉落小白",
+        "id": "1421301972007849986",
+        "location": "Mongolia",
+        "name": "咪咪摸摸",
+        "pinned_tweet_id": "1994214535100866917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998362527345037312/8maNnLJk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12780,
+          "following_count": 478,
+          "like_count": 23820,
+          "listed_count": 26,
+          "media_count": 818,
+          "tweet_count": 8960
+        },
+        "username": "pbpp10521715",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990677167106371588"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1990677169736200193",
+    "created_at": "2025-11-18T07:03:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T08:03:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990677169736200193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/05CBtRW6gG",
+          "end": 28,
+          "expanded_url": "https://x.com/ciyou9443/status/1990677169736200193/photo/1",
+          "media_key": "3_1990677167106371588",
+          "start": 5,
+          "url": "https://t.co/05CBtRW6gG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990677169736200193",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想扣她 https://t.co/05CBtRW6gG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990677167106371588",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BOVh_bMAQZV0D.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990677167106371588"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1990677169736200193",
+        "created_at": "2025-11-18T07:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T08:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990677169736200193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/05CBtRW6gG",
+              "end": 28,
+              "expanded_url": "https://x.com/ciyou9443/status/1990677169736200193/photo/1",
+              "media_key": "3_1990677167106371588",
+              "start": 5,
+              "url": "https://t.co/05CBtRW6gG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990677169736200193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想扣她 https://t.co/05CBtRW6gG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠/深夜发的消息不关素的事",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974504976752984101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 534,
+          "like_count": 8891,
+          "listed_count": 4,
+          "media_count": 276,
+          "tweet_count": 2130
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

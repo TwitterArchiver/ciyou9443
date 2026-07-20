@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1999397212149940630",
+    "created_at": "2025-12-12T08:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T09:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999397212149940630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1468567542264664067",
+          "start": 3,
+          "username": "Angelica_zj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999397212149940630",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999350374873141277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Angelica_zj: 孤立背刺她的前闺蜜就跟她住一个小区，可以说是间接害死爱礼的其中一人，疑似这一家真的怕了，于是接着残害别的生命企图躲报应吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1999397212149940630",
+        "created_at": "2025-12-12T08:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999397212149940630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1468567542264664067",
+              "start": 3,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999397212149940630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999350374873141277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Angelica_zj: 孤立背刺她的前闺蜜就跟她住一个小区，可以说是间接害死爱礼的其中一人，疑似这一家真的怕了，于是接着残害别的生命企图躲报应吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1999350374873141277",
+        "created_at": "2025-12-12T05:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999350374873141277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pbpp10521715/s…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/pbpp10521715/status/1999172463331324253",
+              "start": 61,
+              "url": "https://t.co/OTAI1lxWEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999350374873141277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1938,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999172463331324253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孤立背刺她的前闺蜜就跟她住一个小区，可以说是间接害死爱礼的其中一人，疑似这一家真的怕了，于是接着残害别的生命企图躲报应吗 https://t.co/OTAI1lxWEU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠/深夜发的消息不关素的事",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 536,
+          "like_count": 9514,
+          "listed_count": 4,
+          "media_count": 296,
+          "tweet_count": 2293
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25279,
+          "following_count": 1003,
+          "like_count": 14400,
+          "listed_count": 40,
+          "media_count": 1461,
+          "tweet_count": 16197
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

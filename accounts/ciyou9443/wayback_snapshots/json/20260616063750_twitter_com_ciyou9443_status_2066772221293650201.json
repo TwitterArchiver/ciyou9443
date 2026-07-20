@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2066460232117797237",
+    "created_at": "2026-06-16T06:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066772221293650201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1476448742622449664",
+          "start": 0,
+          "username": "l93374231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066772221293650201",
+    "in_reply_to_user_id": "1476448742622449664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066460232117797237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l93374231 吃到天昏地暗～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2066460232117797237",
+        "created_at": "2026-06-16T06:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066772221293650201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476448742622449664",
+              "start": 0,
+              "username": "l93374231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066772221293650201",
+        "in_reply_to_user_id": "1476448742622449664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066460232117797237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l93374231 吃到天昏地暗～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476448742622449664",
+        "conversation_id": "2066460232117797237",
+        "created_at": "2026-06-15T09:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066460232117797237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066460232117797237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天报销到了一大笔钱，出去吃点好的 🥳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2062510740637139247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 563,
+          "like_count": 12013,
+          "listed_count": 5,
+          "media_count": 426,
+          "tweet_count": 3274
+        },
+        "username": "ciyou9443",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-30T07:03:30.000Z",
+        "description": "Beijing 友跨🍥热爱自由，喜欢冒险和尝试新鲜事物，记录生活，求关注～欢迎交流（生活/学术皆可），请礼貌温柔对待🥰 认出我的可以私信但请不要传播🥺",
+        "id": "1476448742622449664",
+        "location": "Mars",
+        "name": "等风来/～\\",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015069783423586304/y0d2AtNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 1038,
+          "like_count": 22733,
+          "listed_count": 5,
+          "media_count": 872,
+          "tweet_count": 2879
+        },
+        "username": "l93374231",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1911641237763006785",
+    "created_at": "2025-04-14T06:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T07:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911671523062222992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1722258834671202304",
+          "start": 0,
+          "username": "RKmadein2090"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911671523062222992",
+    "in_reply_to_user_id": "1722258834671202304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911641237763006785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RKmadein2090 呜呜呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1911641237763006785",
+        "created_at": "2025-04-14T06:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T07:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911671523062222992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1722258834671202304",
+              "start": 0,
+              "username": "RKmadein2090"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911671523062222992",
+        "in_reply_to_user_id": "1722258834671202304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911641237763006785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RKmadein2090 呜呜呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722258834671202304",
+        "conversation_id": "1911641237763006785",
+        "created_at": "2025-04-14T04:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T05:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911641237763006785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911641237763006785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和劳中讲LGBT就和让山东人让女生上桌吃饭/阻止大豫通宝被开采一样困难"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1906693278533374051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 272,
+          "like_count": 1971,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 701
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-08T14:25:11.000Z",
+        "description": "全称是Ramking09/Nothing there/ mtx/泛性恋 存档点/小号 @Ramking_Daily /小猫@star_neko0721 /抑郁确诊 tg/@RAMKING09/CHN/ENG ONLY\n/@thegreenalgae未被大众所知的地方",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Ramking_Daily"
+              },
+              {
+                "end": 75,
+                "start": 61,
+                "username": "star_neko0721"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "thegreenalgae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ramking.love",
+                "end": 23,
+                "expanded_url": "https://ramking.love",
+                "start": 0,
+                "url": "https://t.co/udhuXywLLq"
+              }
+            ]
+          }
+        },
+        "id": "1722258834671202304",
+        "location": "\"Gay City\"",
+        "name": "Ramki/🏳️‍🌈🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904242331244724224/cF433z8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 199,
+          "like_count": 4486,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 1830
+        },
+        "url": "https://t.co/udhuXywLLq",
+        "username": "RKmadein2090",
+        "verified": false
+      }
+    ]
+  }
+}

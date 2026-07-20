@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1898308917853401492",
+    "created_at": "2025-03-08T10:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T11:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898315442563022914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1890029948431400960",
+          "start": 0,
+          "username": "chen_qian97548"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898315442563022914",
+    "in_reply_to_user_id": "1890029948431400960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898308917853401492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chen_qian97548 不要出柜哦～除非明确知道父母特别开明～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1898308917853401492",
+        "created_at": "2025-03-08T10:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T11:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898315442563022914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1890029948431400960",
+              "start": 0,
+              "username": "chen_qian97548"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898315442563022914",
+        "in_reply_to_user_id": "1890029948431400960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898308917853401492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chen_qian97548 不要出柜哦～除非明确知道父母特别开明～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890029948431400960",
+        "conversation_id": "1898308917853401492",
+        "created_at": "2025-03-08T09:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T10:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898308917853401492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898308917853401492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是家里的独生子，想和父母出柜，不知道会不会变成家长党"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "欢迎互fo/困困困困困要困死了/薛定谔的颜值/欢迎xyn来找我玩♥(｡￫v￩｡)♥🏳️‍⚧️🍥",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 131,
+          "like_count": 594,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 258
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T13:27:18.000Z",
+        "description": "14mtf",
+        "id": "1890029948431400960",
+        "location": "Kyoto City Fushimi Ward, Kyoto",
+        "name": "一只走在冰面上的猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896138779754450945/BajrbxWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 25,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "chen_qian97548",
+        "verified": false
+      }
+    ]
+  }
+}

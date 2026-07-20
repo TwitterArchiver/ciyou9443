@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1989371394560491824",
+    "created_at": "2025-11-15T04:47:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T05:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989555716156526753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989555716156526753",
+    "in_reply_to_user_id": "623965569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989371394560491824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand 哎呦，芊芊老师，我好想你"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14020,
+        "height": 720,
+        "media_key": "13_1989371320698798080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1989371320698798080/img/tBHtAQg6YypvxzAj.jpg",
+        "public_metrics": {
+          "view_count": 242
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989371320698798080/vid/avc1/288x270/E55e3CZQ5M2PKDTS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989371320698798080/vid/avc1/386x360/vr-EkMJKKcXW6QI8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989371320698798080/vid/avc1/772x720/EUA54JTWBuJqIAGt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1989371320698798080/pl/9C7su86AwYNgMhSt.m3u8"
+          }
+        ],
+        "width": 772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1989371394560491824",
+        "created_at": "2025-11-15T04:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T05:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989555716156526753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989555716156526753",
+        "in_reply_to_user_id": "623965569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989371394560491824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand 哎呦，芊芊老师，我好想你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989371320698798080"
+          ]
+        },
+        "author_id": "623965569",
+        "conversation_id": "1989371394560491824",
+        "created_at": "2025-11-14T16:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T17:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989371394560491824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3q5rqSTCk9",
+              "end": 44,
+              "expanded_url": "https://x.com/nothousand/status/1989371394560491824/video/1",
+              "media_key": "13_1989371320698798080",
+              "start": 21,
+              "url": "https://t.co/3q5rqSTCk9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989371394560491824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 544,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "声带手术后67天，似乎已经可以好好唱歌了 https://t.co/3q5rqSTCk9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974504976752984101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 534,
+          "like_count": 8689,
+          "listed_count": 4,
+          "media_count": 271,
+          "tweet_count": 2041
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "/记录一些异世界的碎碎念w #INFJ\n##有奇怪想法和需求的人看黄男别来关注我关了也会被我清理！！\n/谨慎fo因为我们可能不是一类人，或者不是你以为的那类人喔\n/不定期删除三无号，不同频的人还请见谅\n/需要回fo请大胆和我说我会来仔细观察你然后给你答案\n//雷自残od各种赤裸色色看到这样的人会unfo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 14,
+                "tag": "INFJ"
+              },
+              {
+                "end": 48,
+                "start": 21,
+                "tag": "有奇怪想法和需求的人看黄男别来关注我关了也会被我清理"
+              }
+            ]
+          }
+        },
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊茉音華🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986123192122155009/VGLVlSvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 114,
+          "like_count": 5872,
+          "listed_count": 4,
+          "media_count": 354,
+          "tweet_count": 4146
+        },
+        "username": "nothousand",
+        "verified": false
+      }
+    ]
+  }
+}

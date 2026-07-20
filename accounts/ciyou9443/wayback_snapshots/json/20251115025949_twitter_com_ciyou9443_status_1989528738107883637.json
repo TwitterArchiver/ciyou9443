@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1989528738107883637",
+    "created_at": "2025-11-15T02:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T03:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989528738107883637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1939985156778983424",
+          "start": 3,
+          "username": "Yan_17631997"
+        },
+        {
+          "end": 31,
+          "id": "1907031442103943168",
+          "start": 18,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989528738107883637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989293581396574253",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yan_17631997: @hoshinemu123 小心家长反手送扭转，我感觉真正的家长支持少之又少，基本上都是伪装，先劝着你，然后不从再突然袭击一击致死。所以说不存在想成为，你不是就不是！别人是那算她有福气了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1989528738107883637",
+        "created_at": "2025-11-15T02:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T03:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989528738107883637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1939985156778983424",
+              "start": 3,
+              "username": "Yan_17631997"
+            },
+            {
+              "end": 31,
+              "id": "1907031442103943168",
+              "start": 18,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989528738107883637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989293581396574253",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yan_17631997: @hoshinemu123 小心家长反手送扭转，我感觉真正的家长支持少之又少，基本上都是伪装，先劝着你，然后不从再突然袭击一击致死。所以说不存在想成为，你不是就不是！别人是那算她有福气了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939985156778983424",
+        "conversation_id": "1989283838212862075",
+        "created_at": "2025-11-14T11:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T12:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989293581396574253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989293581396574253",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 952,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989283838212862075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 小心家长反手送扭转，我感觉真正的家长支持少之又少，基本上都是伪装，先劝着你，然后不从再突然袭击一击致死。所以说不存在想成为，你不是就不是！别人是那算她有福气了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974504976752984101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 534,
+          "like_count": 8669,
+          "listed_count": 4,
+          "media_count": 271,
+          "tweet_count": 2036
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T09:51:34.000Z",
+        "description": "#TS / 在英国🇬🇧 / 小厨娘 / 旅行家 / 毛绒胖胖海豹宝宝 / 孤独的灵魂",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "TS"
+              }
+            ]
+          }
+        },
+        "id": "1939985156778983424",
+        "location": "英国 伦敦",
+        "name": "言言",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987556662736031744/2ap1Joqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 134,
+          "like_count": 632,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 230
+        },
+        "username": "Yan_17631997",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；半个软件工程师加半个音乐人；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；文学少女；古风/汉服女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1975169707985486036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2417,
+          "following_count": 3140,
+          "like_count": 3024,
+          "listed_count": 3,
+          "media_count": 594,
+          "tweet_count": 7080
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      }
+    ]
+  }
+}

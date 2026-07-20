@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1987957268277850542",
+    "created_at": "2025-11-10T18:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T19:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987957268277850542"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ciyou9443/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/ciyou9443/status/1983213167552471410",
+          "start": 14,
+          "url": "https://t.co/u69IeDKZPO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987957268277850542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 29,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983213167552471410",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "素没能保护好哈基米，好想哭 https://t.co/u69IeDKZPO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1983213163496800256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4XJ3VwbAAA_Kh6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1987957268277850542",
+        "created_at": "2025-11-10T18:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T19:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987957268277850542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ciyou9443/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/ciyou9443/status/1983213167552471410",
+              "start": 14,
+              "url": "https://t.co/u69IeDKZPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987957268277850542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983213167552471410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "素没能保护好哈基米，好想哭 https://t.co/u69IeDKZPO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983213163496800256"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1983213167552471410",
+        "created_at": "2025-10-28T16:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T17:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983213167552471410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jM2A25KL3p",
+              "end": 41,
+              "expanded_url": "https://x.com/ciyou9443/status/1983213167552471410/photo/1",
+              "media_key": "3_1983213163496800256",
+              "start": 18,
+              "url": "https://t.co/jM2A25KL3p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983213167552471410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 909,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素素猫🐱将保护大凶的眠眠猫和哈基米 https://t.co/jM2A25KL3p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 530,
+          "like_count": 8421,
+          "listed_count": 4,
+          "media_count": 261,
+          "tweet_count": 1931
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

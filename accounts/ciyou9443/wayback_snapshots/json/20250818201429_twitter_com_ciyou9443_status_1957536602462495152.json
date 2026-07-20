@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1957388235816218696",
+    "created_at": "2025-08-18T20:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T21:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957536602462495152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1817438378885009409",
+          "start": 0,
+          "username": "Another_8012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957536602462495152",
+    "in_reply_to_user_id": "1817438378885009409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957388235816218696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Another_8012 舔舔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1836,
+        "media_key": "3_1957388230351097856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoKOY2bkAAn19N.jpg",
+        "width": 3264
+      },
+      {
+        "height": 1836,
+        "media_key": "3_1957388231726829568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoKOd-bkAACScp.jpg",
+        "width": 3264
+      },
+      {
+        "height": 3264,
+        "media_key": "3_1957388226823618560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoKOLtagAAtQaV.jpg",
+        "width": 1836
+      },
+      {
+        "height": 1734,
+        "media_key": "3_1957388226492305408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoKOKebEAA6pOh.jpg",
+        "width": 2584
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1957388235816218696",
+        "created_at": "2025-08-18T20:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T21:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957536602462495152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1817438378885009409",
+              "start": 0,
+              "username": "Another_8012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957536602462495152",
+        "in_reply_to_user_id": "1817438378885009409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957388235816218696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Another_8012 舔舔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957388230351097856",
+            "3_1957388231726829568",
+            "3_1957388226823618560",
+            "3_1957388226492305408"
+          ]
+        },
+        "author_id": "1817438378885009409",
+        "conversation_id": "1957388235816218696",
+        "created_at": "2025-08-18T10:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T11:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957388235816218696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w7SQ9wuZv9",
+              "end": 65,
+              "expanded_url": "https://x.com/Another_8012/status/1957388235816218696/photo/1",
+              "media_key": "3_1957388230351097856",
+              "start": 42,
+              "url": "https://t.co/w7SQ9wuZv9"
+            },
+            {
+              "display_url": "pic.x.com/w7SQ9wuZv9",
+              "end": 65,
+              "expanded_url": "https://x.com/Another_8012/status/1957388235816218696/photo/1",
+              "media_key": "3_1957388231726829568",
+              "start": 42,
+              "url": "https://t.co/w7SQ9wuZv9"
+            },
+            {
+              "display_url": "pic.x.com/w7SQ9wuZv9",
+              "end": 65,
+              "expanded_url": "https://x.com/Another_8012/status/1957388235816218696/photo/1",
+              "media_key": "3_1957388226823618560",
+              "start": 42,
+              "url": "https://t.co/w7SQ9wuZv9"
+            },
+            {
+              "display_url": "pic.x.com/w7SQ9wuZv9",
+              "end": 65,
+              "expanded_url": "https://x.com/Another_8012/status/1957388235816218696/photo/1",
+              "media_key": "3_1957388226492305408",
+              "start": 42,
+              "url": "https://t.co/w7SQ9wuZv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957388235816218696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1130,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "ww发一下以前拍的照片\n关注芥末喵\n关注芥末喵谢谢喵\n₍˄·͈༝·͈˄*₎◞ ̑̑ https://t.co/w7SQ9wuZv9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1952311599215399294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 484,
+          "like_count": 6054,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 1372
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T05:54:47.000Z",
+        "description": "日常推｜互fo会查成分｜⚠️这里有日常碎碎念  负能⚠️｜介意请善用屏蔽",
+        "id": "1817438378885009409",
+        "location": "鹈鹕镇   哈维的诊所内",
+        "name": "✟超频✟",
+        "pinned_tweet_id": "1906968279245283496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906969426282631168/zdrDBmNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 182,
+          "like_count": 689,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 106
+        },
+        "username": "Another_8012",
+        "verified": false
+      }
+    ]
+  }
+}

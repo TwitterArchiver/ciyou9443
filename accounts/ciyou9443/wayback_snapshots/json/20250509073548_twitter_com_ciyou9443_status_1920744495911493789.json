@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1920375946588090680",
+    "created_at": "2025-05-09T07:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T08:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920744495911493789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1702989845076037632",
+          "start": 0,
+          "username": "mmyouli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920744495911493789",
+    "in_reply_to_user_id": "1702989845076037632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920737927987970233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmyouli 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1920375946588090680",
+        "created_at": "2025-05-09T07:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T08:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920744495911493789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1702989845076037632",
+              "start": 0,
+              "username": "mmyouli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920744495911493789",
+        "in_reply_to_user_id": "1702989845076037632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920737927987970233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmyouli 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702989845076037632",
+        "conversation_id": "1920375946588090680",
+        "created_at": "2025-05-09T07:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T08:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920737927987970233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920737927987970233",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920375946588090680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 妙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/没有家长党",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1919285021896253823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 295,
+          "like_count": 2657,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 859
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T10:16:42.000Z",
+        "description": "🍥95后/MTF/温柔开朗，不搞黄色，有稳定工作，只想做一个普普通通女娃娃",
+        "id": "1702989845076037632",
+        "name": "沫沫不幽默🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917604405714796544/w6E6KhPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 55,
+          "like_count": 164,
+          "listed_count": 8,
+          "media_count": 212,
+          "tweet_count": 852
+        },
+        "username": "mmyouli",
+        "verified": false
+      }
+    ]
+  }
+}

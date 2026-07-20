@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1880444158831391130",
+    "created_at": "2025-01-18T12:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T13:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880589092448346216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1624705678593134592",
+          "start": 0,
+          "username": "Ripperdoc2034"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880589092448346216",
+    "in_reply_to_user_id": "1624705678593134592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880444158831391130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ripperdoc2034 摸摸胸口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1880444158831391130",
+        "created_at": "2025-01-18T12:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T13:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880589092448346216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1624705678593134592",
+              "start": 0,
+              "username": "Ripperdoc2034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880589092448346216",
+        "in_reply_to_user_id": "1624705678593134592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880444158831391130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ripperdoc2034 摸摸胸口"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624705678593134592",
+        "conversation_id": "1880444158831391130",
+        "created_at": "2025-01-18T02:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T03:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880444158831391130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880444158831391130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是难受，胸口疼\n睡不到两个小时就醒了\n我简直贱啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "含糖mtf/欢迎互fo/困困困困困要困死了",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 141,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 128
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-12T09:43:55.000Z",
+        "description": "06mtx/泛性恋/偏m属性但想要被爱/对于命理风水感兴趣/板绘练习中/东方众/二次元/biomedical engineering\n（名字是前主人@xunyexunyexunye赐的…）\n怎样都好…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "xunyexunyexunye"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "JohnWilliams2034.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://JohnWilliams2034.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/DBPSj6IdTv"
+              }
+            ]
+          }
+        },
+        "id": "1624705678593134592",
+        "location": "辽宁",
+        "name": "空弦🏳️‍⚧️🏳️‍🌈（互fo）",
+        "pinned_tweet_id": "1879142952507003391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879140268739616768/2Ij173Qd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 56,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/DBPSj6IdTv",
+        "username": "Ripperdoc2034",
+        "verified": false
+      }
+    ]
+  }
+}

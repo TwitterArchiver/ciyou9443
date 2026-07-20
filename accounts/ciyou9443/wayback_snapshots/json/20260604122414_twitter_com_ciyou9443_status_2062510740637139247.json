@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062510736916787201",
+        "3_2062510737952845824"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2062510740637139247",
+    "created_at": "2026-06-04T12:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T13:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062510740637139247"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zfA5C4jizy",
+          "end": 55,
+          "expanded_url": "https://x.com/ciyou9443/status/2062510740637139247/photo/1",
+          "media_key": "3_2062510736916787201",
+          "start": 32,
+          "url": "https://t.co/zfA5C4jizy"
+        },
+        {
+          "display_url": "pic.x.com/zfA5C4jizy",
+          "end": 55,
+          "expanded_url": "https://x.com/ciyou9443/status/2062510740637139247/photo/1",
+          "media_key": "3_2062510737952845824",
+          "start": 32,
+          "url": "https://t.co/zfA5C4jizy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062510740637139247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "素子帅帅的，素子帅帅的，素子帅帅的，素子是猛t，素子可以当抖s https://t.co/zfA5C4jizy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2062510736916787201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-ClmtasAEMqNw.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1757,
+        "media_key": "3_2062510737952845824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-ClqkbsAAZriH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062510736916787201",
+            "3_2062510737952845824"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2062510740637139247",
+        "created_at": "2026-06-04T12:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062510740637139247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zfA5C4jizy",
+              "end": 55,
+              "expanded_url": "https://x.com/ciyou9443/status/2062510740637139247/photo/1",
+              "media_key": "3_2062510736916787201",
+              "start": 32,
+              "url": "https://t.co/zfA5C4jizy"
+            },
+            {
+              "display_url": "pic.x.com/zfA5C4jizy",
+              "end": 55,
+              "expanded_url": "https://x.com/ciyou9443/status/2062510740637139247/photo/1",
+              "media_key": "3_2062510737952845824",
+              "start": 32,
+              "url": "https://t.co/zfA5C4jizy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062510740637139247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素子帅帅的，素子帅帅的，素子帅帅的，素子是猛t，素子可以当抖s https://t.co/zfA5C4jizy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 538,
+          "like_count": 11465,
+          "listed_count": 5,
+          "media_count": 404,
+          "tweet_count": 3072
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

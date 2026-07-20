@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969288414349705216",
+        "3_1969288422289522688",
+        "3_1969288437724561408"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1969288459786277171",
+    "created_at": "2025-09-20T06:32:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T07:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969288459786277171"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oyVrZrdJ9x",
+          "end": 32,
+          "expanded_url": "https://x.com/ciyou9443/status/1969288459786277171/photo/1",
+          "media_key": "3_1969288414349705216",
+          "start": 9,
+          "url": "https://t.co/oyVrZrdJ9x"
+        },
+        {
+          "display_url": "pic.x.com/oyVrZrdJ9x",
+          "end": 32,
+          "expanded_url": "https://x.com/ciyou9443/status/1969288459786277171/photo/1",
+          "media_key": "3_1969288422289522688",
+          "start": 9,
+          "url": "https://t.co/oyVrZrdJ9x"
+        },
+        {
+          "display_url": "pic.x.com/oyVrZrdJ9x",
+          "end": 32,
+          "expanded_url": "https://x.com/ciyou9443/status/1969288459786277171/photo/1",
+          "media_key": "3_1969288437724561408",
+          "start": 9,
+          "url": "https://t.co/oyVrZrdJ9x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969288459786277171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "让素大人来逗逗你 https://t.co/oyVrZrdJ9x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969288414349705216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1RRYQ2bQAAIIji.jpg",
+        "width": 1316
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969288422289522688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1RRYubbQAAQvkU.jpg",
+        "width": 1057
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969288437724561408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1RRZn7bQAAxSv_.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969288414349705216",
+            "3_1969288422289522688",
+            "3_1969288437724561408"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1969288459786277171",
+        "created_at": "2025-09-20T06:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T07:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969288459786277171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oyVrZrdJ9x",
+              "end": 32,
+              "expanded_url": "https://x.com/ciyou9443/status/1969288459786277171/photo/1",
+              "media_key": "3_1969288414349705216",
+              "start": 9,
+              "url": "https://t.co/oyVrZrdJ9x"
+            },
+            {
+              "display_url": "pic.x.com/oyVrZrdJ9x",
+              "end": 32,
+              "expanded_url": "https://x.com/ciyou9443/status/1969288459786277171/photo/1",
+              "media_key": "3_1969288422289522688",
+              "start": 9,
+              "url": "https://t.co/oyVrZrdJ9x"
+            },
+            {
+              "display_url": "pic.x.com/oyVrZrdJ9x",
+              "end": 32,
+              "expanded_url": "https://x.com/ciyou9443/status/1969288459786277171/photo/1",
+              "media_key": "3_1969288437724561408",
+              "start": 9,
+              "url": "https://t.co/oyVrZrdJ9x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969288459786277171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让素大人来逗逗你 https://t.co/oyVrZrdJ9x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 510,
+          "like_count": 6967,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 1571
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

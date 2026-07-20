@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1983503942626734080"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1983503980605952406",
+    "created_at": "2025-10-29T11:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T12:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983503980605952406"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AAPhEArqbP",
+          "end": 50,
+          "expanded_url": "https://x.com/ciyou9443/status/1983503980605952406/video/1",
+          "media_key": "7_1983503942626734080",
+          "start": 27,
+          "url": "https://t.co/AAPhEArqbP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983503980605952406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "记忆只有七秒了，忘掉了好多事，就连刚刚做的事也会忘掉 https://t.co/AAPhEArqbP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10054,
+        "height": 1278,
+        "media_key": "7_1983503942626734080",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1983503942626734080/pu/img/jE97YtfY2XAX4HSM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983503942626734080/pu/vid/avc1/320x568/C6Gkj7amNfeYo27e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983503942626734080/pu/vid/avc1/480x852/3QT-yMrgPwMfCyt9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983503942626734080/pu/vid/avc1/720x1278/VQtK0HJl_oeDX-LC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1983503942626734080/pu/pl/bg_TI5uK5AmyqQpk.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1983503942626734080"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1983503980605952406",
+        "created_at": "2025-10-29T11:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T12:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983503980605952406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AAPhEArqbP",
+              "end": 50,
+              "expanded_url": "https://x.com/ciyou9443/status/1983503980605952406/video/1",
+              "media_key": "7_1983503942626734080",
+              "start": 27,
+              "url": "https://t.co/AAPhEArqbP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983503980605952406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "记忆只有七秒了，忘掉了好多事，就连刚刚做的事也会忘掉 https://t.co/AAPhEArqbP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/虽然主包是个精神病但是buff叠太多我还是会害怕😨",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 516,
+          "like_count": 7787,
+          "listed_count": 4,
+          "media_count": 239,
+          "tweet_count": 1799
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

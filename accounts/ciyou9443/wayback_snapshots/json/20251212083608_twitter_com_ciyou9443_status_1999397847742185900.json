@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1999397847742185900",
+    "created_at": "2025-12-12T08:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T09:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999397847742185900"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ShylWuMiao/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/ShylWuMiao/status/1999352672189866314",
+          "start": 21,
+          "url": "https://t.co/ic5JnlE4Gg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999397847742185900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999352672189866314",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我嘞个身正不怕影子斜哇，恶心的我吃不下饭 https://t.co/ic5JnlE4Gg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999352665151819776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78gp-sa0AAxe2Q.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999352665139245056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78gp-pa8AAOJiD.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999352665122435072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78gp-lacAAdQFx.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999352665130827777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78gp-nagAEvFBk.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1999397847742185900",
+        "created_at": "2025-12-12T08:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999397847742185900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShylWuMiao/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/ShylWuMiao/status/1999352672189866314",
+              "start": 21,
+              "url": "https://t.co/ic5JnlE4Gg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999397847742185900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999352672189866314",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我嘞个身正不怕影子斜哇，恶心的我吃不下饭 https://t.co/ic5JnlE4Gg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999352665151819776",
+            "3_1999352665139245056",
+            "3_1999352665122435072",
+            "3_1999352665130827777"
+          ]
+        },
+        "author_id": "875356544535207936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1999350374873141277",
+        "created_at": "2025-12-12T05:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999352672189866314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BeNXy8n8xM",
+              "end": 53,
+              "expanded_url": "https://x.com/ShylWuMiao/status/1999352672189866314/photo/1",
+              "media_key": "3_1999352665151819776",
+              "start": 30,
+              "url": "https://t.co/BeNXy8n8xM"
+            },
+            {
+              "display_url": "pic.x.com/BeNXy8n8xM",
+              "end": 53,
+              "expanded_url": "https://x.com/ShylWuMiao/status/1999352672189866314/photo/1",
+              "media_key": "3_1999352665139245056",
+              "start": 30,
+              "url": "https://t.co/BeNXy8n8xM"
+            },
+            {
+              "display_url": "pic.x.com/BeNXy8n8xM",
+              "end": 53,
+              "expanded_url": "https://x.com/ShylWuMiao/status/1999352672189866314/photo/1",
+              "media_key": "3_1999352665122435072",
+              "start": 30,
+              "url": "https://t.co/BeNXy8n8xM"
+            },
+            {
+              "display_url": "pic.x.com/BeNXy8n8xM",
+              "end": 53,
+              "expanded_url": "https://x.com/ShylWuMiao/status/1999352672189866314/photo/1",
+              "media_key": "3_1999352665130827777",
+              "start": 30,
+              "url": "https://t.co/BeNXy8n8xM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999352672189866314",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999350374873141277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 我不打码了 小红书来源直接放上来 https://t.co/BeNXy8n8xM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠/深夜发的消息不关素的事",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 536,
+          "like_count": 9514,
+          "listed_count": 4,
+          "media_count": 296,
+          "tweet_count": 2294
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-15T14:17:18.000Z",
+        "description": "傻乐与焦虑状态反复心境情感障碍/性身份障碍/日常推/碎碎念/是个疯子～有医生开的证明～/我的车车（#Peugeot307 & #XpengP7i& #BMWE87 ），我的猫咪（小🍊叫沃沃，狸花叫马路 去喵星了，🐄猫叫特斯拉），我的爱人@B0coh ～，咪嗷痛车工作室小客服",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 49,
+                "tag": "Peugeot307"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "tag": "XpengP7i"
+              },
+              {
+                "end": 81,
+                "start": 74,
+                "tag": "BMWE87"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 124,
+                "start": 118,
+                "username": "B0coh"
+              }
+            ]
+          }
+        },
+        "id": "875356544535207936",
+        "location": "猫小窝",
+        "name": "呜喵哇～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929660311994617860/YQU5v8PF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 930,
+          "like_count": 33426,
+          "listed_count": 1,
+          "media_count": 1121,
+          "tweet_count": 6154
+        },
+        "username": "ShylWuMiao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968660791252631554",
+        "3_1968660792775254016",
+        "3_1968660794650017793",
+        "3_1968660794377478144"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1968660799070589241",
+    "created_at": "2025-09-18T12:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T13:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968660799070589241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gttVg05MlJ",
+          "end": 37,
+          "expanded_url": "https://x.com/ciyou9443/status/1968660799070589241/photo/1",
+          "media_key": "3_1968660791252631554",
+          "start": 14,
+          "url": "https://t.co/gttVg05MlJ"
+        },
+        {
+          "display_url": "pic.x.com/gttVg05MlJ",
+          "end": 37,
+          "expanded_url": "https://x.com/ciyou9443/status/1968660799070589241/photo/1",
+          "media_key": "3_1968660792775254016",
+          "start": 14,
+          "url": "https://t.co/gttVg05MlJ"
+        },
+        {
+          "display_url": "pic.x.com/gttVg05MlJ",
+          "end": 37,
+          "expanded_url": "https://x.com/ciyou9443/status/1968660799070589241/photo/1",
+          "media_key": "3_1968660794650017793",
+          "start": 14,
+          "url": "https://t.co/gttVg05MlJ"
+        },
+        {
+          "display_url": "pic.x.com/gttVg05MlJ",
+          "end": 37,
+          "expanded_url": "https://x.com/ciyou9443/status/1968660799070589241/photo/1",
+          "media_key": "3_1968660794377478144",
+          "start": 14,
+          "url": "https://t.co/gttVg05MlJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968660799070589241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猛t素出现，请说哈基素帅！ https://t.co/gttVg05MlJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968660791252631554",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1IWjynaQAIW0Hk.jpg",
+        "width": 1086
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968660792775254016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1IWj4SboAA_C1f.jpg",
+        "width": 1082
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968660794650017793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1IWj_RaQAEzD77.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968660794377478144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1IWj-QboAAH5H-.jpg",
+        "width": 1481
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968660791252631554",
+            "3_1968660792775254016",
+            "3_1968660794650017793",
+            "3_1968660794377478144"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1968660799070589241",
+        "created_at": "2025-09-18T12:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T13:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968660799070589241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gttVg05MlJ",
+              "end": 37,
+              "expanded_url": "https://x.com/ciyou9443/status/1968660799070589241/photo/1",
+              "media_key": "3_1968660791252631554",
+              "start": 14,
+              "url": "https://t.co/gttVg05MlJ"
+            },
+            {
+              "display_url": "pic.x.com/gttVg05MlJ",
+              "end": 37,
+              "expanded_url": "https://x.com/ciyou9443/status/1968660799070589241/photo/1",
+              "media_key": "3_1968660792775254016",
+              "start": 14,
+              "url": "https://t.co/gttVg05MlJ"
+            },
+            {
+              "display_url": "pic.x.com/gttVg05MlJ",
+              "end": 37,
+              "expanded_url": "https://x.com/ciyou9443/status/1968660799070589241/photo/1",
+              "media_key": "3_1968660794650017793",
+              "start": 14,
+              "url": "https://t.co/gttVg05MlJ"
+            },
+            {
+              "display_url": "pic.x.com/gttVg05MlJ",
+              "end": 37,
+              "expanded_url": "https://x.com/ciyou9443/status/1968660799070589241/photo/1",
+              "media_key": "3_1968660794377478144",
+              "start": 14,
+              "url": "https://t.co/gttVg05MlJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968660799070589241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猛t素出现，请说哈基素帅！ https://t.co/gttVg05MlJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 509,
+          "like_count": 6913,
+          "listed_count": 4,
+          "media_count": 156,
+          "tweet_count": 1553
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

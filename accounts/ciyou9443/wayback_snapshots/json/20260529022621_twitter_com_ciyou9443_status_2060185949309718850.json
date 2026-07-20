@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2059959004584190027",
+    "created_at": "2026-05-29T02:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T03:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060185949309718850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1895778392227921921",
+          "start": 0,
+          "username": "ypx0o0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060185949309718850",
+    "in_reply_to_user_id": "1895778392227921921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059959004584190027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ypx0o0 好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2059958991795687424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZxyfXakAA8KTx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059958991980244992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZxygDasAAGNES.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2059959004584190027",
+        "created_at": "2026-05-29T02:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060185949309718850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1895778392227921921",
+              "start": 0,
+              "username": "ypx0o0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060185949309718850",
+        "in_reply_to_user_id": "1895778392227921921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059959004584190027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ypx0o0 好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059958991795687424",
+            "3_2059958991980244992"
+          ]
+        },
+        "author_id": "1895778392227921921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059959004584190027",
+        "created_at": "2026-05-28T11:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059959004584190027"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "美食"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P5gBHhT8s5",
+              "end": 59,
+              "expanded_url": "https://x.com/ypx0o0/status/2059959004584190027/photo/1",
+              "media_key": "3_2059958991795687424",
+              "start": 36,
+              "url": "https://t.co/P5gBHhT8s5"
+            },
+            {
+              "display_url": "pic.x.com/P5gBHhT8s5",
+              "end": 59,
+              "expanded_url": "https://x.com/ypx0o0/status/2059959004584190027/photo/1",
+              "media_key": "3_2059958991980244992",
+              "start": 36,
+              "url": "https://t.co/P5gBHhT8s5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059959004584190027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 172,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "青椒海带丝炒腊肉\n麻辣腐竹土豆鸡丁\n皮蛋狮子头鱼丸汤\n黄瓜炒蛋 #美食 https://t.co/P5gBHhT8s5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 536,
+          "like_count": 11130,
+          "listed_count": 5,
+          "media_count": 399,
+          "tweet_count": 2955
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T10:10:02.000Z",
+        "description": "🐱mtf🍥hrt 2023.9.9🍥永久互关🍥美食分享🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/2UbqKVG2lG",
+                "end": 23,
+                "expanded_url": "https://qm.qq.com/q/2UbqKVG2lG",
+                "start": 0,
+                "url": "https://t.co/sILpJs1R60"
+              }
+            ]
+          }
+        },
+        "id": "1895778392227921921",
+        "location": "广州",
+        "name": "伊飘雪🍥",
+        "pinned_tweet_id": "2038901574635036710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966869746059800582/m23ovxF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2458,
+          "following_count": 416,
+          "like_count": 6643,
+          "listed_count": 7,
+          "media_count": 29,
+          "tweet_count": 1915
+        },
+        "url": "https://t.co/sILpJs1R60",
+        "username": "ypx0o0",
+        "verified": false
+      }
+    ]
+  }
+}

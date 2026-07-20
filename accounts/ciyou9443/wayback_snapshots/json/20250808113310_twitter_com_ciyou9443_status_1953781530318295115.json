@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953781526019420163",
+        "3_1953781525155393538",
+        "3_1953781524614275072",
+        "3_1953781525650280448"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1953781530318295115",
+    "created_at": "2025-08-08T11:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T12:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953781530318295115"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 10,
+          "tag": "mtf"
+        },
+        {
+          "end": 18,
+          "start": 15,
+          "tag": "药娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lI2WaPbR5L",
+          "end": 42,
+          "expanded_url": "https://x.com/ciyou9443/status/1953781530318295115/photo/1",
+          "media_key": "3_1953781526019420163",
+          "start": 19,
+          "url": "https://t.co/lI2WaPbR5L"
+        },
+        {
+          "display_url": "pic.x.com/lI2WaPbR5L",
+          "end": 42,
+          "expanded_url": "https://x.com/ciyou9443/status/1953781530318295115/photo/1",
+          "media_key": "3_1953781525155393538",
+          "start": 19,
+          "url": "https://t.co/lI2WaPbR5L"
+        },
+        {
+          "display_url": "pic.x.com/lI2WaPbR5L",
+          "end": 42,
+          "expanded_url": "https://x.com/ciyou9443/status/1953781530318295115/photo/1",
+          "media_key": "3_1953781524614275072",
+          "start": 19,
+          "url": "https://t.co/lI2WaPbR5L"
+        },
+        {
+          "display_url": "pic.x.com/lI2WaPbR5L",
+          "end": 42,
+          "expanded_url": "https://x.com/ciyou9443/status/1953781530318295115/photo/1",
+          "media_key": "3_1953781525650280448",
+          "start": 19,
+          "url": "https://t.co/lI2WaPbR5L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953781530318295115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢温婉汉服素吗～\n#mtf #药娘 https://t.co/lI2WaPbR5L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2036,
+        "media_key": "3_1953781526019420163",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx058kMbsAMT2-M.jpg",
+        "width": 1118
+      },
+      {
+        "height": 2145,
+        "media_key": "3_1953781525155393538",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx058g-bsAI35LM.jpg",
+        "width": 1212
+      },
+      {
+        "height": 1822,
+        "media_key": "3_1953781524614275072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx058e9a4AAXko4.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1953781525650280448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx058i0bEAA7zjJ.jpg",
+        "width": 1257
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953781526019420163",
+            "3_1953781525155393538",
+            "3_1953781524614275072",
+            "3_1953781525650280448"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1953781530318295115",
+        "created_at": "2025-08-08T11:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T12:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953781530318295115"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "mtf"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lI2WaPbR5L",
+              "end": 42,
+              "expanded_url": "https://x.com/ciyou9443/status/1953781530318295115/photo/1",
+              "media_key": "3_1953781526019420163",
+              "start": 19,
+              "url": "https://t.co/lI2WaPbR5L"
+            },
+            {
+              "display_url": "pic.x.com/lI2WaPbR5L",
+              "end": 42,
+              "expanded_url": "https://x.com/ciyou9443/status/1953781530318295115/photo/1",
+              "media_key": "3_1953781525155393538",
+              "start": 19,
+              "url": "https://t.co/lI2WaPbR5L"
+            },
+            {
+              "display_url": "pic.x.com/lI2WaPbR5L",
+              "end": 42,
+              "expanded_url": "https://x.com/ciyou9443/status/1953781530318295115/photo/1",
+              "media_key": "3_1953781524614275072",
+              "start": 19,
+              "url": "https://t.co/lI2WaPbR5L"
+            },
+            {
+              "display_url": "pic.x.com/lI2WaPbR5L",
+              "end": 42,
+              "expanded_url": "https://x.com/ciyou9443/status/1953781530318295115/photo/1",
+              "media_key": "3_1953781525650280448",
+              "start": 19,
+              "url": "https://t.co/lI2WaPbR5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953781530318295115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢温婉汉服素吗～\n#mtf #药娘 https://t.co/lI2WaPbR5L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1952311599215399294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 466,
+          "like_count": 5832,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 1365
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1880808015382945795",
+    "created_at": "2025-01-19T11:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T12:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880943374938820874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1827009216047153152",
+          "start": 0,
+          "username": "yuan_wu33078"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880943374938820874",
+    "in_reply_to_user_id": "1827009216047153152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880808015382945795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuan_wu33078 互fo喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1880808015382945795",
+        "created_at": "2025-01-19T11:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T12:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880943374938820874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1827009216047153152",
+              "start": 0,
+              "username": "yuan_wu33078"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880943374938820874",
+        "in_reply_to_user_id": "1827009216047153152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880808015382945795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuan_wu33078 互fo喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827009216047153152",
+        "conversation_id": "1880808015382945795",
+        "created_at": "2025-01-19T02:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T03:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880808015382945795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuan_wu33078/s…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/yuan_wu33078/status/1880565585861632124",
+              "start": 40,
+              "url": "https://t.co/NQg2DFgoXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880808015382945795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 868,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880565585861632124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "似乎要100fo了，那就把此帖作为一个长期帖吧，点赞的大家猫猫都会慢慢画的喵~ https://t.co/NQg2DFgoXY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "含糖mtf/欢迎互fo/困困困困困要困死了",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 143,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 131
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T15:45:39.000Z",
+        "description": "苑猫猫在此♪\n中国人~是猫猫高中生/友跨/ftx/负能/键政哒咩/米游三坑玩家/粥粥博士/手作分享/想要学习cs/喵~欢迎互fo",
+        "id": "1827009216047153152",
+        "location": "往世乐土♪",
+        "name": "苑云鹜",
+        "pinned_tweet_id": "1880808015382945795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877443369842126849/WSzl9hZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 250,
+          "like_count": 1205,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 118
+        },
+        "username": "yuan_wu33078",
+        "verified": false
+      }
+    ]
+  }
+}

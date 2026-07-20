@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960385299093323776"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1960385302465536237",
+    "created_at": "2025-08-26T16:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T17:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960385302465536237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RH0CvIhqOf",
+          "end": 37,
+          "expanded_url": "https://x.com/ciyou9443/status/1960385302465536237/photo/1",
+          "media_key": "3_1960385299093323776",
+          "start": 14,
+          "url": "https://t.co/RH0CvIhqOf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960385302465536237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又被哈基眠攻击了，偷发涩图 https://t.co/RH0CvIhqOf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960385299093323776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSwCv9bAAAAyeW.jpg",
+        "width": 1913
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960385299093323776"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1960385302465536237",
+        "created_at": "2025-08-26T16:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T17:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960385302465536237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RH0CvIhqOf",
+              "end": 37,
+              "expanded_url": "https://x.com/ciyou9443/status/1960385302465536237/photo/1",
+              "media_key": "3_1960385299093323776",
+              "start": 14,
+              "url": "https://t.co/RH0CvIhqOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960385302465536237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又被哈基眠攻击了，偷发涩图 https://t.co/RH0CvIhqOf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的成分",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1958676027850596862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 500,
+          "like_count": 6434,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 1423
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

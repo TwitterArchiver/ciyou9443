@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918702603984343040",
+        "3_1918702605775273984",
+        "3_1918702594194821121",
+        "3_1918702611924160512"
+      ],
+      "media_source_tweet_id": [
+        "1918702614750904640",
+        "1918702614750904640",
+        "1918702614750904640",
+        "1918702614750904640"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1920329918686085195",
+    "created_at": "2025-05-08T04:08:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T05:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920329918686085195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1767249379285741569",
+          "start": 3,
+          "username": "caomeiaaaok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BhkdrBd9lK",
+          "end": 52,
+          "expanded_url": "https://x.com/caomeiaaaok/status/1918702614750904640/photo/1",
+          "media_key": "3_1918702603984343040",
+          "start": 29,
+          "url": "https://t.co/BhkdrBd9lK"
+        },
+        {
+          "display_url": "pic.x.com/BhkdrBd9lK",
+          "end": 52,
+          "expanded_url": "https://x.com/caomeiaaaok/status/1918702614750904640/photo/1",
+          "media_key": "3_1918702605775273984",
+          "start": 29,
+          "url": "https://t.co/BhkdrBd9lK"
+        },
+        {
+          "display_url": "pic.x.com/BhkdrBd9lK",
+          "end": 52,
+          "expanded_url": "https://x.com/caomeiaaaok/status/1918702614750904640/photo/1",
+          "media_key": "3_1918702594194821121",
+          "start": 29,
+          "url": "https://t.co/BhkdrBd9lK"
+        },
+        {
+          "display_url": "pic.x.com/BhkdrBd9lK",
+          "end": 52,
+          "expanded_url": "https://x.com/caomeiaaaok/status/1918702614750904640/photo/1",
+          "media_key": "3_1918702611924160512",
+          "start": 29,
+          "url": "https://t.co/BhkdrBd9lK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920329918686085195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918702614750904640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @caomeiaaaok: 穿女装打游戏还真有加成 https://t.co/BhkdrBd9lK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1920329918686085195].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1920329918686085195",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1920329918686085195"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1918702603984343040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqCZ2kQakAAApV4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1072,
+        "media_key": "3_1918702605775273984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqCZ2q7aAAArhw3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1918702594194821121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqCZ1_yaUAECi1Z.jpg",
+        "width": 2048
+      },
+      {
+        "height": 863,
+        "media_key": "3_1918702611924160512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqCZ3B1akAAyLeS.jpg",
+        "width": 2250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918702603984343040",
+            "3_1918702605775273984",
+            "3_1918702594194821121",
+            "3_1918702611924160512"
+          ]
+        },
+        "author_id": "1767249379285741569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1918702614750904640",
+        "created_at": "2025-05-03T16:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T17:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918702614750904640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BhkdrBd9lK",
+              "end": 35,
+              "expanded_url": "https://x.com/caomeiaaaok/status/1918702614750904640/photo/1",
+              "media_key": "3_1918702603984343040",
+              "start": 12,
+              "url": "https://t.co/BhkdrBd9lK"
+            },
+            {
+              "display_url": "pic.x.com/BhkdrBd9lK",
+              "end": 35,
+              "expanded_url": "https://x.com/caomeiaaaok/status/1918702614750904640/photo/1",
+              "media_key": "3_1918702605775273984",
+              "start": 12,
+              "url": "https://t.co/BhkdrBd9lK"
+            },
+            {
+              "display_url": "pic.x.com/BhkdrBd9lK",
+              "end": 35,
+              "expanded_url": "https://x.com/caomeiaaaok/status/1918702614750904640/photo/1",
+              "media_key": "3_1918702594194821121",
+              "start": 12,
+              "url": "https://t.co/BhkdrBd9lK"
+            },
+            {
+              "display_url": "pic.x.com/BhkdrBd9lK",
+              "end": 35,
+              "expanded_url": "https://x.com/caomeiaaaok/status/1918702614750904640/photo/1",
+              "media_key": "3_1918702611924160512",
+              "start": 12,
+              "url": "https://t.co/BhkdrBd9lK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918702614750904640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 406,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "穿女装打游戏还真有加成 https://t.co/BhkdrBd9lK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/没有家长党",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1919285021896253823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 287,
+          "like_count": 2578,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 835
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T18:01:08.000Z",
+        "description": "你好，可以叫我橙子，   🚪30 要找我聊天或者干别的都得先过门   179  66kg 🍊🍥🏳️‍⚧️૮₍ ˃ ⤙ ˂ ₎ა  (我要是两个月没有更新那就是去另一个世界了)",
+        "id": "1767249379285741569",
+        "location": "离你2.5km",
+        "name": "橙橙橙橙子🍊（求转）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870327654165176321/S6kvAQW8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 346,
+          "like_count": 4416,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1473
+        },
+        "username": "caomeiaaaok",
+        "verified": false
+      }
+    ]
+  }
+}

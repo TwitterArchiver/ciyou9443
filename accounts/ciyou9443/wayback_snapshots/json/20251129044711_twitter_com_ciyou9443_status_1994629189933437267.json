@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994629186787659776"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1994629189933437267",
+    "created_at": "2025-11-29T04:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T05:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994629189933437267"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sug4OqF4YC",
+          "end": 34,
+          "expanded_url": "https://x.com/ciyou9443/status/1994629189933437267/photo/1",
+          "media_key": "3_1994629186787659776",
+          "start": 11,
+          "url": "https://t.co/Sug4OqF4YC"
+        },
+        {
+          "display_url": "x.com/hoshinemu123/s…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/hoshinemu123/status/1994600247029576160",
+          "start": 35,
+          "url": "https://t.co/RABSJj9Du6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994629189933437267",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994600247029576160",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "打下手(●'◡'●) https://t.co/Sug4OqF4YC https://t.co/RABSJj9Du6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994629186787659776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65YrWka0AAvC6H.jpg",
+        "width": 922
+      },
+      {
+        "height": 1153,
+        "media_key": "3_1994600235478519811",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G64-WKibkAM5vZL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994629186787659776"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1994629189933437267",
+        "created_at": "2025-11-29T04:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T05:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994629189933437267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sug4OqF4YC",
+              "end": 34,
+              "expanded_url": "https://x.com/ciyou9443/status/1994629189933437267/photo/1",
+              "media_key": "3_1994629186787659776",
+              "start": 11,
+              "url": "https://t.co/Sug4OqF4YC"
+            },
+            {
+              "display_url": "x.com/hoshinemu123/s…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/hoshinemu123/status/1994600247029576160",
+              "start": 35,
+              "url": "https://t.co/RABSJj9Du6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994629189933437267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994600247029576160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打下手(●'◡'●) https://t.co/Sug4OqF4YC https://t.co/RABSJj9Du6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994600235478519811"
+          ]
+        },
+        "author_id": "1907031442103943168",
+        "conversation_id": "1994600247029576160",
+        "created_at": "2025-11-29T02:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T03:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994600247029576160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i2QI932GSb",
+              "end": 27,
+              "expanded_url": "https://x.com/hoshinemu123/status/1994600247029576160/photo/1",
+              "media_key": "3_1994600235478519811",
+              "start": 4,
+              "url": "https://t.co/i2QI932GSb"
+            },
+            {
+              "display_url": "x.com/hoshinemu123/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/hoshinemu123/status/1994522483576496607",
+              "start": 28,
+              "url": "https://t.co/f0UkR4lITs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994600247029576160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 449,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994522483576496607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在现场 https://t.co/i2QI932GSb https://t.co/f0UkR4lITs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠/深夜发的消息不关素的事",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1992888264173441156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 538,
+          "like_count": 9329,
+          "listed_count": 4,
+          "media_count": 285,
+          "tweet_count": 2217
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；半个软件工程师加半个音乐人；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；文学少女；古风/汉服女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1992564566790918198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2435,
+          "following_count": 3168,
+          "like_count": 3055,
+          "listed_count": 3,
+          "media_count": 626,
+          "tweet_count": 7315
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1886245410420978111",
+    "created_at": "2025-02-04T06:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T07:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886660810963083453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1797211754017280000",
+          "start": 0,
+          "username": "MXF0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886660810963083453",
+    "in_reply_to_user_id": "1797211754017280000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886417198157345225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MXF0721 抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1886245410420978111",
+        "created_at": "2025-02-04T06:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T07:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886660810963083453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1797211754017280000",
+              "start": 0,
+              "username": "MXF0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886660810963083453",
+        "in_reply_to_user_id": "1797211754017280000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886417198157345225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MXF0721 抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797211754017280000",
+        "conversation_id": "1886245410420978111",
+        "created_at": "2025-02-03T14:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T15:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886417198157345225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886417198157345225",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886404768631074928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 抱我抱我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "含糖mtf/欢迎互fo/困困困困困要困死了/冬季濒死限定/欢迎xyn来找我玩♥(｡￫v￩｡)♥🏳️‍⚧️",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 101,
+          "like_count": 436,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 183
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T10:21:21.000Z",
+        "description": "现居吉林/2011.03.15生/无证含糖/推特社恐人不知道怎么跟大家交流qwq/100%回fo\n\n至今上不去推特的雑魚僕人@oWqmX6Nx1y12196\n笨蛋大姐大@Ripperdoc2034\n威嚴滿滿大小姐@MXF0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "oWqmX6Nx1y12196"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "Ripperdoc2034"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "MXF0721"
+              }
+            ]
+          }
+        },
+        "id": "1797211754017280000",
+        "location": "一个神秘的不知名的小行星",
+        "name": "NYA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880129686011015170/B6MESi_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 100,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 252
+        },
+        "username": "MXF0721",
+        "verified": false
+      }
+    ]
+  }
+}

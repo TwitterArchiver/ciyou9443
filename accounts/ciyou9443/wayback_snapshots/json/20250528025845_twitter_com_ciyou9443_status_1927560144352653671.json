@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1927378054935875894",
+    "created_at": "2025-05-28T02:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T03:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927560144352653671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910324259127439360",
+          "start": 0,
+          "username": "xinxinjiang0516"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927560144352653671",
+    "in_reply_to_user_id": "1910324259127439360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927547390501773475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinxinjiang0516 谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1927378054935875894",
+        "created_at": "2025-05-28T02:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T03:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927560144352653671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910324259127439360",
+              "start": 0,
+              "username": "xinxinjiang0516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927560144352653671",
+        "in_reply_to_user_id": "1910324259127439360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927547390501773475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinxinjiang0516 谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910324259127439360",
+        "conversation_id": "1927378054935875894",
+        "created_at": "2025-05-28T02:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T03:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927547390501773475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927547390501773475",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927378054935875894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 可爱的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/两个人格交替行动/没有家长党🏳️‍⚧️🍥/一星期没更就可以当我似了/大概是个清水推",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1902304011421888656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 311,
+          "like_count": 3166,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 963
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T13:29:39.000Z",
+        "description": "男娘/属性1/身高168cm/体重60kg减肥中/🦶39/坐标徐州/欢迎可爱的小男娘线下/涩涩/贴贴/交流/互fo！互推/🐧群：1046819814，欢迎小男娘，mtf进来交流贴贴呀。同好免门槛，直男好友位门槛随意。",
+        "id": "1910324259127439360",
+        "location": "徐州",
+        "name": "馨馨酱^_^（互fo)",
+        "pinned_tweet_id": "1916648407416139779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919200627852492800/4tSDDcZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 318,
+          "like_count": 1455,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 712
+        },
+        "username": "xinxinjiang0516",
+        "verified": false
+      }
+    ]
+  }
+}

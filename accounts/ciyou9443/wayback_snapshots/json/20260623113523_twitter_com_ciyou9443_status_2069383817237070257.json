@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069383814422700032"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2069383817237070257",
+    "created_at": "2026-06-23T11:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069383817237070257"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HGR0EgEJEs",
+          "end": 66,
+          "expanded_url": "https://x.com/ciyou9443/status/2069383817237070257/photo/1",
+          "media_key": "3_2069383814422700032",
+          "start": 43,
+          "url": "https://t.co/HGR0EgEJEs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069383817237070257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天在舞萌机旁边坐着的时候，打舞萌的小女孩送了我一包小零食(*˘︶˘*).。.:*♡ https://t.co/HGR0EgEJEs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069383814422700032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLftnXqboAAC4_J.jpg",
+        "width": 997
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069383814422700032"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069383817237070257",
+        "created_at": "2026-06-23T11:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069383817237070257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HGR0EgEJEs",
+              "end": 66,
+              "expanded_url": "https://x.com/ciyou9443/status/2069383817237070257/photo/1",
+              "media_key": "3_2069383814422700032",
+              "start": 43,
+              "url": "https://t.co/HGR0EgEJEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069383817237070257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天在舞萌机旁边坐着的时候，打舞萌的小女孩送了我一包小零食(*˘︶˘*).。.:*♡ https://t.co/HGR0EgEJEs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  \n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 575,
+          "like_count": 12278,
+          "listed_count": 5,
+          "media_count": 412,
+          "tweet_count": 3256
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      }
+    ]
+  }
+}

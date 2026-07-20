@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2063946545578529129",
+    "created_at": "2026-06-08T11:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T12:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063948967344525787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1526965927748571136",
+          "start": 0,
+          "username": "Natsumejuri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063948967344525787",
+    "in_reply_to_user_id": "1526965927748571136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063946545578529129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Natsumejuri 别逗你夏姐笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2063946545578529129",
+        "created_at": "2026-06-08T11:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063948967344525787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1526965927748571136",
+              "start": 0,
+              "username": "Natsumejuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063948967344525787",
+        "in_reply_to_user_id": "1526965927748571136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063946545578529129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Natsumejuri 别逗你夏姐笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526965927748571136",
+        "conversation_id": "2063946545578529129",
+        "created_at": "2026-06-08T11:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063946545578529129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063946545578529129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你推很多药娘没有认真化过一次妆，没认真抹过一次防晒霜和身体乳，没有认真做过一次照片后期，还有脸锐评上别人照片了。你们就是一帮井底之蛆，但凡了解过“东亚邪术”就知道没有什么不可能的事情，三四十岁的男人都能改成小女生去“rle”，你们对性别外观的改造没有一点想象力。\n\n我很生气。作为跨女我知道大家都不容易，但你们别把焦虑外化到我身上，外化到别人身上，尤其是外化到圈外人身上。只会显得你们很无知和跳梁小丑。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "你推很多药娘没有认真化过一次妆，没认真抹过一次防晒霜和身体乳，没有认真做过一次照片后期，还有脸锐评上别人照片了。你们就是一帮井底之蛆，但凡了解过“东亚邪术”就知道没有什么不可能的事情，三四十岁的男人都能改成小女生去“rle”，你们对性别外观的改造没有一点想象力。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2062510740637139247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1690,
+          "following_count": 548,
+          "like_count": 11704,
+          "listed_count": 5,
+          "media_count": 415,
+          "tweet_count": 3162
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-18T16:41:01.000Z",
+        "description": "MtF | Computer Science",
+        "id": "1526965927748571136",
+        "location": "亚空间",
+        "name": "夏子",
+        "pinned_tweet_id": "2032355055467446683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996966756427218944/EWv7GHnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5477,
+          "following_count": 504,
+          "like_count": 24627,
+          "listed_count": 6,
+          "media_count": 613,
+          "tweet_count": 3848
+        },
+        "username": "Natsumejuri",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1957071349907615992",
+    "created_at": "2025-08-18T20:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T21:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957539686534246843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "764856941151596549",
+          "start": 0,
+          "username": "_AkitaYura"
+        },
+        {
+          "end": 19,
+          "id": "1901165386709823490",
+          "start": 12,
+          "username": "wuruto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957539686534246843",
+    "in_reply_to_user_id": "764856941151596549",
+    "lang": "eu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957395141205151951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_AkitaYura @wuruto ruarua"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1957395137933529088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoQgdma0AA4kFT.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1957071349907615992",
+        "created_at": "2025-08-18T20:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T21:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957539686534246843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "764856941151596549",
+              "start": 0,
+              "username": "_AkitaYura"
+            },
+            {
+              "end": 19,
+              "id": "1901165386709823490",
+              "start": 12,
+              "username": "wuruto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957539686534246843",
+        "in_reply_to_user_id": "764856941151596549",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957395141205151951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_AkitaYura @wuruto ruarua"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957395137933529088"
+          ]
+        },
+        "author_id": "764856941151596549",
+        "conversation_id": "1957071349907615992",
+        "created_at": "2025-08-18T10:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T11:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957395141205151951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1901165386709823490",
+              "start": 0,
+              "username": "wuruto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8PzdjZanAg",
+              "end": 31,
+              "expanded_url": "https://x.com/_AkitaYura/status/1957395141205151951/photo/1",
+              "media_key": "3_1957395137933529088",
+              "start": 8,
+              "url": "https://t.co/8PzdjZanAg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957395141205151951",
+        "in_reply_to_user_id": "1901165386709823490",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957071349907615992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuruto https://t.co/8PzdjZanAg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1952311599215399294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 485,
+          "like_count": 6060,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 1376
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T16:11:19.000Z",
+        "description": "双性恋之颜性恋🏳‍🌈|喵拉图女爵👑|麻辣烫#1🌶|颜控💅|\n▫️🍰@I_love_yumira\n▫️🥜@ShikuiL23822",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "I_love_yumira"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "ShikuiL23822"
+              }
+            ]
+          }
+        },
+        "id": "764856941151596549",
+        "location": "R18禁止💢|文爱禁止💢",
+        "name": "Akita Yura",
+        "pinned_tweet_id": "1933062488725319684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878406135503540224/BC7Tb7V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 670,
+          "like_count": 59138,
+          "listed_count": 8,
+          "media_count": 1582,
+          "tweet_count": 14059
+        },
+        "username": "_AkitaYura",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T06:55:39.000Z",
+        "description": "山月不知心里事，水风空落眼前花。",
+        "id": "1901165386709823490",
+        "name": "wuruto",
+        "pinned_tweet_id": "1944656352191840572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910395468691226624/jWfQLWQn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 305,
+          "like_count": 22254,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 8882
+        },
+        "username": "wuruto",
+        "verified": false
+      }
+    ]
+  }
+}

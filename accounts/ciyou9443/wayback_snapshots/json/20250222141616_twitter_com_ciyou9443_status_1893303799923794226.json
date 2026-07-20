@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1893303799923794226",
+    "created_at": "2025-02-22T14:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T15:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893303799923794226"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kirino_ki/stat…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/kirino_ki/status/1892831649836257675",
+          "start": 42,
+          "url": "https://t.co/lut5Yuc5zH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893303799923794226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892831649836257675",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有谁愿意和小素互fo嘛？小素也想有很多朋友，扣1和纱纱做朋友好不好喵喵，求求你啦🥺 https://t.co/lut5Yuc5zH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_1892831643829723136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkSwWfYW4AAzAjJ.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1893303799923794226",
+        "created_at": "2025-02-22T14:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T15:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893303799923794226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kirino_ki/stat…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/kirino_ki/status/1892831649836257675",
+              "start": 42,
+              "url": "https://t.co/lut5Yuc5zH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893303799923794226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892831649836257675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有谁愿意和小素互fo嘛？小素也想有很多朋友，扣1和纱纱做朋友好不好喵喵，求求你啦🥺 https://t.co/lut5Yuc5zH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892831643829723136"
+          ]
+        },
+        "author_id": "1811250754193440768",
+        "conversation_id": "1892831649836257675",
+        "created_at": "2025-02-21T07:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T08:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892831649836257675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OETS3KaVYa",
+              "end": 65,
+              "expanded_url": "https://x.com/kirino_ki/status/1892831649836257675/photo/1",
+              "media_key": "3_1892831643829723136",
+              "start": 42,
+              "url": "https://t.co/OETS3KaVYa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892831649836257675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 83731,
+          "like_count": 1000,
+          "quote_count": 6,
+          "reply_count": 403,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "有谁愿意和纱纱互fo嘛？纱纱也想有很多朋友，扣1和纱纱做朋友好不好喵喵，求求你啦🥺 https://t.co/OETS3KaVYa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "含糖mtf/欢迎互fo/困困困困困要困死了/薛定谔的颜值/欢迎xyn来找我玩♥(｡￫v￩｡)♥🏳️‍⚧️🍥",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 123,
+          "like_count": 537,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 218
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T04:07:02.000Z",
+        "description": "如果在你心中出现一片乌云的时候。 悲伤的诗能给乌云一个小小的拥抱。 然后它就会变换成一道开心的彩虹！",
+        "id": "1811250754193440768",
+        "location": "（睡觉版）漏回fo了私信一下吧！",
+        "name": "Kirino",
+        "pinned_tweet_id": "1885363582906622104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876103345871683584/Y-cKgPel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2538,
+          "following_count": 1517,
+          "like_count": 10562,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 1445
+        },
+        "username": "kirino_ki",
+        "verified": true
+      }
+    ]
+  }
+}

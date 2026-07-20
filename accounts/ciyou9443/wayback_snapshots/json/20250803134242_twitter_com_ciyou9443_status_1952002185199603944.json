@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952002182355779584"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1952002185199603944",
+    "created_at": "2025-08-03T13:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T14:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952002185199603944"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3BBWt5hjsj",
+          "end": 44,
+          "expanded_url": "https://x.com/ciyou9443/status/1952002185199603944/photo/1",
+          "media_key": "3_1952002182355779584",
+          "start": 21,
+          "url": "https://t.co/3BBWt5hjsj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952002185199603944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "miku凑一起聊天*⁂((✪⥎✪))⁂* https://t.co/3BBWt5hjsj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1151,
+        "media_key": "3_1952002182355779584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxbnpIgagAAnFw_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952002182355779584"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1952002185199603944",
+        "created_at": "2025-08-03T13:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T14:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952002185199603944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3BBWt5hjsj",
+              "end": 44,
+              "expanded_url": "https://x.com/ciyou9443/status/1952002185199603944/photo/1",
+              "media_key": "3_1952002182355779584",
+              "start": 21,
+              "url": "https://t.co/3BBWt5hjsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952002185199603944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "miku凑一起聊天*⁂((✪⥎✪))⁂* https://t.co/3BBWt5hjsj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 454,
+          "like_count": 5676,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 1327
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1946509772897005776",
+    "created_at": "2025-07-20T02:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T03:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946764171980472655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1559543125432881152",
+          "start": 0,
+          "username": "d13090603"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946764171980472655",
+    "in_reply_to_user_id": "1559543125432881152",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946749164395839511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d13090603 !"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1946509772897005776",
+        "created_at": "2025-07-20T02:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T03:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946764171980472655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1559543125432881152",
+              "start": 0,
+              "username": "d13090603"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946764171980472655",
+        "in_reply_to_user_id": "1559543125432881152",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946749164395839511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d13090603 !"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559543125432881152",
+        "conversation_id": "1946509772897005776",
+        "created_at": "2025-07-20T01:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T02:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946749164395839511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946749164395839511",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946509772897005776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 啊  在x居然刷到了素素🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 406,
+          "like_count": 4467,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 1158
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-16T14:10:46.000Z",
+        "description": "同好可互fo/被动型人格/很孤独 梦想是希望有一个能够爱我的人/身高173 体重104/喜欢和同类搂搂抱抱啦",
+        "id": "1559543125432881152",
+        "location": "上海浦东",
+        "name": "木木子",
+        "pinned_tweet_id": "1945849199481737711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929777339086282752/8CKaJIcF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 89,
+          "like_count": 1271,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 206
+        },
+        "username": "d13090603",
+        "verified": false
+      }
+    ]
+  }
+}

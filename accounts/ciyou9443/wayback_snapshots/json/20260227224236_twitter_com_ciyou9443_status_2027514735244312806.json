@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2027429219119337745",
+    "created_at": "2026-02-27T22:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T23:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027514735244312806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844926832967286785",
+          "start": 0,
+          "username": "orisam123"
+        },
+        {
+          "end": 23,
+          "id": "1780369819310981120",
+          "start": 11,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027514735244312806",
+    "in_reply_to_user_id": "1844926832967286785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027429219119337745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orisam123 @520illusion 提前屏蔽依旧继续遭罪🙃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2027429210198085633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLgH_kbkAEQzbl.jpg",
+        "width": 591
+      },
+      {
+        "height": 1236,
+        "media_key": "3_2027429210441322500",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLgIAebEAQtmLY.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1269,
+        "media_key": "3_2027429211120799752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLgIDAbEAgh893.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2027429219119337745",
+        "created_at": "2026-02-27T22:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T23:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027514735244312806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "orisam123"
+            },
+            {
+              "end": 23,
+              "id": "1780369819310981120",
+              "start": 11,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027514735244312806",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027429219119337745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orisam123 @520illusion 提前屏蔽依旧继续遭罪🙃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027429210198085633",
+            "3_2027429210441322500",
+            "3_2027429211120799752"
+          ]
+        },
+        "author_id": "1844926832967286785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027429219119337745",
+        "created_at": "2026-02-27T17:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027429219119337745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1780369819310981120",
+              "start": 17,
+              "username": "520illusion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nHC7WiZCbP",
+              "end": 59,
+              "expanded_url": "https://x.com/orisam123/status/2027429219119337745/photo/1",
+              "media_key": "3_2027429210198085633",
+              "start": 36,
+              "url": "https://t.co/nHC7WiZCbP"
+            },
+            {
+              "display_url": "pic.x.com/nHC7WiZCbP",
+              "end": 59,
+              "expanded_url": "https://x.com/orisam123/status/2027429219119337745/photo/1",
+              "media_key": "3_2027429210441322500",
+              "start": 36,
+              "url": "https://t.co/nHC7WiZCbP"
+            },
+            {
+              "display_url": "pic.x.com/nHC7WiZCbP",
+              "end": 59,
+              "expanded_url": "https://x.com/orisam123/status/2027429219119337745/photo/1",
+              "media_key": "3_2027429211120799752",
+              "start": 36,
+              "url": "https://t.co/nHC7WiZCbP"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2027429219119337745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5657,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "补发一下，免得互联网失去记忆忘了 @520illusion 是什么玩意 https://t.co/nHC7WiZCbP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "长夜何萤，惭言朔月",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "常曦",
+        "pinned_tweet_id": "2025548927907586120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010721996909514752/qGj_peZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 530,
+          "like_count": 10214,
+          "listed_count": 5,
+          "media_count": 358,
+          "tweet_count": 2614
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "疯婆 取向异性微双 有点怕疼的sub |  \n从2024年七月初开始的饭桶（减肥中)\n   |     \n闺蜜&姐姐&引路人:  \n@zihou1968025650\n\ntg群组:\nhttps://t.co/ZsnfeGPdkA\n频道:\nhttps://t.co/S9Nk0R1gFs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "zihou1968025650"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/orisam123group",
+                "end": 113,
+                "expanded_url": "https://t.me/orisam123group",
+                "start": 90,
+                "url": "https://t.co/ZsnfeGPdkA"
+              },
+              {
+                "display_url": "t.me/orisam123catsl…",
+                "end": 141,
+                "expanded_url": "http://t.me/orisam123catsleeping",
+                "start": 118,
+                "url": "https://t.co/S9Nk0R1gFs"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "-0.15m",
+        "name": "折筱orisam🏳️‍⚧️（少女秃头中）",
+        "pinned_tweet_id": "1889966215923466584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972221628097708032/LU2zOJtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3746,
+          "following_count": 1395,
+          "like_count": 67624,
+          "listed_count": 3,
+          "media_count": 951,
+          "tweet_count": 18841
+        },
+        "username": "orisam123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/ecnOMDHn8U"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "中国",
+        "name": "ill🏳‍⚧",
+        "pinned_tweet_id": "2025864560574595570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027297969100500992/lla9gw6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3675,
+          "following_count": 456,
+          "like_count": 7786,
+          "listed_count": 6,
+          "media_count": 620,
+          "tweet_count": 4843
+        },
+        "url": "https://t.co/ecnOMDHn8U",
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

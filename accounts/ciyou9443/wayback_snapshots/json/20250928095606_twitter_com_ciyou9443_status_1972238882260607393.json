@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1972169910911631402",
+    "created_at": "2025-09-28T09:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T10:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972238882260607393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1346974977434771460",
+          "start": 0,
+          "username": "N0rthern_Land"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972238882260607393",
+    "in_reply_to_user_id": "1346974977434771460",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972169910911631402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N0rthern_Land 笑死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972169897539993600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G16OEqOXAAAdGeF.jpg",
+        "width": 1039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1972169910911631402",
+        "created_at": "2025-09-28T09:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T10:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972238882260607393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1346974977434771460",
+              "start": 0,
+              "username": "N0rthern_Land"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972238882260607393",
+        "in_reply_to_user_id": "1346974977434771460",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972169910911631402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N0rthern_Land 笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972169897539993600"
+          ]
+        },
+        "author_id": "1346974977434771460",
+        "conversation_id": "1972169910911631402",
+        "created_at": "2025-09-28T05:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T06:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972169910911631402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q3o8zeMVoz",
+              "end": 52,
+              "expanded_url": "https://x.com/N0rthern_Land/status/1972169910911631402/photo/1",
+              "media_key": "3_1972169897539993600",
+              "start": 29,
+              "url": "https://t.co/q3o8zeMVoz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972169910911631402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2634,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "id配合主页内容把我吓晕，感觉冲完马上建政一看主页果然🙄 https://t.co/q3o8zeMVoz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 510,
+          "like_count": 7124,
+          "listed_count": 4,
+          "media_count": 177,
+          "tweet_count": 1615
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-07T00:20:49.000Z",
+        "description": "从那不勒斯到今天走了有多远/🏳️‍🌈/粉红别关注我/女朋友@ayashikinoco/里账@san45142",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "ayashikinoco"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "username": "san45142"
+              }
+            ]
+          }
+        },
+        "id": "1346974977434771460",
+        "name": "北长尾山雀",
+        "pinned_tweet_id": "1777993830031302950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922171885707485184/cia_yxjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62862,
+          "following_count": 787,
+          "like_count": 93092,
+          "listed_count": 151,
+          "media_count": 3161,
+          "tweet_count": 30106
+        },
+        "username": "N0rthern_Land",
+        "verified": true
+      }
+    ]
+  }
+}

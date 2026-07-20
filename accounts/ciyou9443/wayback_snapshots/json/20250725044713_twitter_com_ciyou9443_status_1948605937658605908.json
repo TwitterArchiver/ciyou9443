@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1948337979740541063",
+    "created_at": "2025-07-25T04:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T05:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948605937658605908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1731709770955177984",
+          "start": 0,
+          "username": "ElifiaFlora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948605937658605908",
+    "in_reply_to_user_id": "1731709770955177984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948535938302574879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElifiaFlora 并无信心(•̩̩̩̩＿•̩̩̩̩)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1948337979740541063",
+        "created_at": "2025-07-25T04:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T05:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948605937658605908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1731709770955177984",
+              "start": 0,
+              "username": "ElifiaFlora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948605937658605908",
+        "in_reply_to_user_id": "1731709770955177984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948535938302574879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElifiaFlora 并无信心(•̩̩̩̩＿•̩̩̩̩)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731709770955177984",
+        "conversation_id": "1948337979740541063",
+        "created_at": "2025-07-25T00:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T01:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948535938302574879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948535938302574879",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948337979740541063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 你有信心帮我穿好和服吗？（无端联想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 424,
+          "like_count": 4907,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 1215
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T16:19:28.000Z",
+        "description": "小药娘 🏳️‍⚧️ 🍥／161 cm, 42 kg／坐标广东省汕头市，全国可✈️～ ／🚪 门槛50（支付宝口令红包），不过门槛不予回复／梦想是成为厉害的配乐作曲家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.163.com/#/artist?id=34…",
+                "end": 23,
+                "expanded_url": "https://music.163.com/#/artist?id=34230059",
+                "start": 0,
+                "url": "https://t.co/UWdC19n2Sg"
+              }
+            ]
+          }
+        },
+        "id": "1731709770955177984",
+        "location": "广东省",
+        "name": "神乐坂 马儿 🍥（接线下援交）",
+        "pinned_tweet_id": "1931588369592840510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900101780794728451/J67Gd_2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 381,
+          "like_count": 1736,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1026
+        },
+        "url": "https://t.co/UWdC19n2Sg",
+        "username": "ElifiaFlora",
+        "verified": false
+      }
+    ]
+  }
+}

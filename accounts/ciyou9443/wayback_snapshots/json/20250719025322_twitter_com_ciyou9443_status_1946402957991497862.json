@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1946402957991497862",
+    "created_at": "2025-07-19T02:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T03:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946402957991497862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1479696561302999042",
+          "start": 3,
+          "username": "quite8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946402957991497862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946289013222211756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @quite8964: 在和学校打电话的时候，我之前从未像现在这样认同自己是女生。\n\n“我不是很聪明，只是知道，中国医学界和法律都认为我是生理和法律层面上的女生。作为女生，去女生宿舍是基本权益。”\n\n“对于没有利益相关影响的、过去的经历，我觉得这属于个人隐私，别人没有权利…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1946402957991497862",
+        "created_at": "2025-07-19T02:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T03:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946402957991497862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1479696561302999042",
+              "start": 3,
+              "username": "quite8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946402957991497862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946289013222211756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @quite8964: 在和学校打电话的时候，我之前从未像现在这样认同自己是女生。\n\n“我不是很聪明，只是知道，中国医学界和法律都认为我是生理和法律层面上的女生。作为女生，去女生宿舍是基本权益。”\n\n“对于没有利益相关影响的、过去的经历，我觉得这属于个人隐私，别人没有权利…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479696561302999042",
+        "conversation_id": "1946289013222211756",
+        "created_at": "2025-07-18T19:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T20:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946289013222211756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946289013222211756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 12815,
+          "like_count": 120,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在和学校打电话的时候，我之前从未像现在这样认同自己是女生。\n\n“我不是很聪明，只是知道，中国医学界和法律都认为我是生理和法律层面上的女生。作为女生，去女生宿舍是基本权益。”\n\n“对于没有利益相关影响的、过去的经历，我觉得这属于个人隐私，别人没有权利了解，我也没有义务告知。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 401,
+          "like_count": 4406,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1147
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 想要得到更多的喜欢和爱 可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 56,
+                "start": 49,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "dominnicchina"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "枫糖小橘🍊",
+        "pinned_tweet_id": "1941924482798788819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938519215071481856/RGyMr1ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10105,
+          "following_count": 2854,
+          "like_count": 30161,
+          "listed_count": 23,
+          "media_count": 643,
+          "tweet_count": 13305
+        },
+        "username": "quite8964",
+        "verified": false
+      }
+    ]
+  }
+}

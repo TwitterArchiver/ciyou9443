@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2060633853988155845",
+    "created_at": "2026-06-02T10:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T11:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061757250260422679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1838866598427549696",
+          "start": 0,
+          "username": "Yunmengyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061757250260422679",
+    "in_reply_to_user_id": "1838866598427549696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060633853988155845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yunmengyue 加油"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2060633554116333568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjXTL1a0AAKt8W.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2060633581199020032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjXUwub0AAEnDq.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2060633853988155845",
+        "created_at": "2026-06-02T10:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061757250260422679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1838866598427549696",
+              "start": 0,
+              "username": "Yunmengyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061757250260422679",
+        "in_reply_to_user_id": "1838866598427549696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060633853988155845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yunmengyue 加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060633554116333568",
+            "3_2060633581199020032"
+          ]
+        },
+        "author_id": "1838866598427549696",
+        "conversation_id": "2060633853988155845",
+        "created_at": "2026-05-30T08:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060633853988155845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jZToI0TZUX",
+              "end": 76,
+              "expanded_url": "https://x.com/Yunmengyue/status/2060633853988155845/photo/1",
+              "media_key": "3_2060633554116333568",
+              "start": 53,
+              "url": "https://t.co/jZToI0TZUX"
+            },
+            {
+              "display_url": "pic.x.com/jZToI0TZUX",
+              "end": 76,
+              "expanded_url": "https://x.com/Yunmengyue/status/2060633853988155845/photo/1",
+              "media_key": "3_2060633581199020032",
+              "start": 53,
+              "url": "https://t.co/jZToI0TZUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060633853988155845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 498,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "记录自己学习化妆的第二天，我是不是化成男妆了，这不对吧，但好像比昨天有进步？感觉不扎头的观感好像好一些。 https://t.co/jZToI0TZUX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 536,
+          "like_count": 11272,
+          "listed_count": 5,
+          "media_count": 400,
+          "tweet_count": 2988
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T09:02:26.000Z",
+        "description": "2026.5开启hrt/持证含糖MtF/持续羡慕年轻小药娘/1997年老登",
+        "id": "1838866598427549696",
+        "name": "云梦玥🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060339603601854464/KKYNJjoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 178,
+          "like_count": 445,
+          "listed_count": 5,
+          "media_count": 6,
+          "tweet_count": 342
+        },
+        "username": "Yunmengyue",
+        "verified": false
+      }
+    ]
+  }
+}

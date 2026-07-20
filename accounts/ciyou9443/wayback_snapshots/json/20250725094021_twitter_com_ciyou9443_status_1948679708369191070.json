@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948679705231851523",
+        "3_1948679705298960385"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1948679708369191070",
+    "created_at": "2025-07-25T09:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T10:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948679708369191070"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "mtf"
+        },
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "药娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WTSFKR5FG3",
+          "end": 50,
+          "expanded_url": "https://x.com/ciyou9443/status/1948679708369191070/photo/1",
+          "media_key": "3_1948679705231851523",
+          "start": 27,
+          "url": "https://t.co/WTSFKR5FG3"
+        },
+        {
+          "display_url": "pic.x.com/WTSFKR5FG3",
+          "end": 50,
+          "expanded_url": "https://x.com/ciyou9443/status/1948679708369191070/photo/1",
+          "media_key": "3_1948679705298960385",
+          "start": 27,
+          "url": "https://t.co/WTSFKR5FG3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948679708369191070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哼～我要分开发～元气少女版哈基素～\n#mtf #药娘 https://t.co/WTSFKR5FG3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1227,
+        "media_key": "3_1948679705231851523",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwsZ3gtbgAMo8c5.jpg",
+        "width": 893
+      },
+      {
+        "height": 1246,
+        "media_key": "3_1948679705298960385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwsZ3g9bgAEbgcR.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948679705231851523",
+            "3_1948679705298960385"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1948679708369191070",
+        "created_at": "2025-07-25T09:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T10:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948679708369191070"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "mtf"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WTSFKR5FG3",
+              "end": 50,
+              "expanded_url": "https://x.com/ciyou9443/status/1948679708369191070/photo/1",
+              "media_key": "3_1948679705231851523",
+              "start": 27,
+              "url": "https://t.co/WTSFKR5FG3"
+            },
+            {
+              "display_url": "pic.x.com/WTSFKR5FG3",
+              "end": 50,
+              "expanded_url": "https://x.com/ciyou9443/status/1948679708369191070/photo/1",
+              "media_key": "3_1948679705298960385",
+              "start": 27,
+              "url": "https://t.co/WTSFKR5FG3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948679708369191070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哼～我要分开发～元气少女版哈基素～\n#mtf #药娘 https://t.co/WTSFKR5FG3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 427,
+          "like_count": 4962,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 1222
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

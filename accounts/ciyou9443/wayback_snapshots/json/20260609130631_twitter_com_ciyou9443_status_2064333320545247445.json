@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2064319998781436194",
+    "created_at": "2026-06-09T13:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064333320545247445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1876995622848610304",
+          "start": 0,
+          "username": "world_lover_vig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064333320545247445",
+    "in_reply_to_user_id": "1876995622848610304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064319998781436194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@world_lover_vig 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2064319998781436194",
+        "created_at": "2026-06-09T13:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064333320545247445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1876995622848610304",
+              "start": 0,
+              "username": "world_lover_vig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064333320545247445",
+        "in_reply_to_user_id": "1876995622848610304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064319998781436194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@world_lover_vig 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876995622848610304",
+        "conversation_id": "2064319998781436194",
+        "created_at": "2026-06-09T12:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064319998781436194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064319998781436194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2.5t氯硝西泮庆祝我高考顺利结束"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2062510740637139247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 549,
+          "like_count": 11751,
+          "listed_count": 5,
+          "media_count": 416,
+          "tweet_count": 3172
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T14:13:33.000Z",
+        "description": "ftx /高三",
+        "id": "1876995622848610304",
+        "name": "停息不眠",
+        "pinned_tweet_id": "1973790136631709975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981727606782193664/H4GnKcOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 503,
+          "like_count": 2768,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 652
+        },
+        "username": "world_lover_vig",
+        "verified": false
+      }
+    ]
+  }
+}

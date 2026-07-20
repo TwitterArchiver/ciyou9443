@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951584357904498688",
+        "3_1951584358512599040"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1951584361809318236",
+    "created_at": "2025-08-02T10:02:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T11:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951584361809318236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zN42oO3KQx",
+          "end": 34,
+          "expanded_url": "https://x.com/ciyou9443/status/1951584361809318236/photo/1",
+          "media_key": "3_1951584357904498688",
+          "start": 11,
+          "url": "https://t.co/zN42oO3KQx"
+        },
+        {
+          "display_url": "pic.x.com/zN42oO3KQx",
+          "end": 34,
+          "expanded_url": "https://x.com/ciyou9443/status/1951584361809318236/photo/1",
+          "media_key": "3_1951584358512599040",
+          "start": 11,
+          "url": "https://t.co/zN42oO3KQx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951584361809318236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们美颜大王是这样的 https://t.co/zN42oO3KQx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1104,
+        "media_key": "3_1951584357904498688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxVrojIbQAAZ0xe.jpg",
+        "width": 658
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1951584358512599040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxVrolZaIAAtdg4.jpg",
+        "width": 804
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951584357904498688",
+            "3_1951584358512599040"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1951584361809318236",
+        "created_at": "2025-08-02T10:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T11:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951584361809318236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zN42oO3KQx",
+              "end": 34,
+              "expanded_url": "https://x.com/ciyou9443/status/1951584361809318236/photo/1",
+              "media_key": "3_1951584357904498688",
+              "start": 11,
+              "url": "https://t.co/zN42oO3KQx"
+            },
+            {
+              "display_url": "pic.x.com/zN42oO3KQx",
+              "end": 34,
+              "expanded_url": "https://x.com/ciyou9443/status/1951584361809318236/photo/1",
+              "media_key": "3_1951584358512599040",
+              "start": 11,
+              "url": "https://t.co/zN42oO3KQx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951584361809318236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们美颜大王是这样的 https://t.co/zN42oO3KQx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 452,
+          "like_count": 5629,
+          "listed_count": 3,
+          "media_count": 156,
+          "tweet_count": 1317
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

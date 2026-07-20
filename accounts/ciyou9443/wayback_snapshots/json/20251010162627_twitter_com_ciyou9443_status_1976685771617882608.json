@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976685768350560256"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1976685771617882608",
+    "created_at": "2025-10-10T16:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T17:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976685771617882608"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jNBn19mrs1",
+          "end": 37,
+          "expanded_url": "https://x.com/ciyou9443/status/1976685771617882608/photo/1",
+          "media_key": "3_1976685768350560256",
+          "start": 14,
+          "url": "https://t.co/jNBn19mrs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976685771617882608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们怎么懂这么多奇怪的知识 https://t.co/jNBn19mrs1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1349,
+        "media_key": "3_1976685768350560256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G26ZO78a8AAeisH.jpg",
+        "width": 1308
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976685768350560256"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1976685771617882608",
+        "created_at": "2025-10-10T16:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T17:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976685771617882608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jNBn19mrs1",
+              "end": 37,
+              "expanded_url": "https://x.com/ciyou9443/status/1976685771617882608/photo/1",
+              "media_key": "3_1976685768350560256",
+              "start": 14,
+              "url": "https://t.co/jNBn19mrs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976685771617882608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们怎么懂这么多奇怪的知识 https://t.co/jNBn19mrs1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠/薛定谔的成分",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976625413150707712/NrmK902W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 514,
+          "like_count": 7392,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 1693
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

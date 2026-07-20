@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967975741565571074",
+        "3_1967975768912433163",
+        "3_1967975803599368192",
+        "3_1967975958532726784"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1967976567155601726",
+    "created_at": "2025-09-16T15:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T16:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967976567155601726"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Q3DixkyP3",
+          "end": 44,
+          "expanded_url": "https://x.com/ciyou9443/status/1967976567155601726/photo/1",
+          "media_key": "3_1967975741565571074",
+          "start": 21,
+          "url": "https://t.co/1Q3DixkyP3"
+        },
+        {
+          "display_url": "pic.x.com/1Q3DixkyP3",
+          "end": 44,
+          "expanded_url": "https://x.com/ciyou9443/status/1967976567155601726/photo/1",
+          "media_key": "3_1967975768912433163",
+          "start": 21,
+          "url": "https://t.co/1Q3DixkyP3"
+        },
+        {
+          "display_url": "pic.x.com/1Q3DixkyP3",
+          "end": 44,
+          "expanded_url": "https://x.com/ciyou9443/status/1967976567155601726/photo/1",
+          "media_key": "3_1967975803599368192",
+          "start": 21,
+          "url": "https://t.co/1Q3DixkyP3"
+        },
+        {
+          "display_url": "pic.x.com/1Q3DixkyP3",
+          "end": 44,
+          "expanded_url": "https://x.com/ciyou9443/status/1967976567155601726/photo/1",
+          "media_key": "3_1967975958532726784",
+          "start": 21,
+          "url": "https://t.co/1Q3DixkyP3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967976567155601726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "素还是太权威了，萌系的衣服也可以穿的很御 https://t.co/1Q3DixkyP3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1967975741565571074",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-ngpqaEAIyiro.jpg",
+        "width": 912
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1967975768912433163",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-niPiaEAsGsJd.jpg",
+        "width": 941
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1967975803599368192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-nkQwasAAE0ft.jpg",
+        "width": 1027
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1967975958532726784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-ntR7aIAA6Oeh.jpg",
+        "width": 965
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967975741565571074",
+            "3_1967975768912433163",
+            "3_1967975803599368192",
+            "3_1967975958532726784"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1967976567155601726",
+        "created_at": "2025-09-16T15:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T16:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967976567155601726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Q3DixkyP3",
+              "end": 44,
+              "expanded_url": "https://x.com/ciyou9443/status/1967976567155601726/photo/1",
+              "media_key": "3_1967975741565571074",
+              "start": 21,
+              "url": "https://t.co/1Q3DixkyP3"
+            },
+            {
+              "display_url": "pic.x.com/1Q3DixkyP3",
+              "end": 44,
+              "expanded_url": "https://x.com/ciyou9443/status/1967976567155601726/photo/1",
+              "media_key": "3_1967975768912433163",
+              "start": 21,
+              "url": "https://t.co/1Q3DixkyP3"
+            },
+            {
+              "display_url": "pic.x.com/1Q3DixkyP3",
+              "end": 44,
+              "expanded_url": "https://x.com/ciyou9443/status/1967976567155601726/photo/1",
+              "media_key": "3_1967975803599368192",
+              "start": 21,
+              "url": "https://t.co/1Q3DixkyP3"
+            },
+            {
+              "display_url": "pic.x.com/1Q3DixkyP3",
+              "end": 44,
+              "expanded_url": "https://x.com/ciyou9443/status/1967976567155601726/photo/1",
+              "media_key": "3_1967975958532726784",
+              "start": 21,
+              "url": "https://t.co/1Q3DixkyP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967976567155601726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素还是太权威了，萌系的衣服也可以穿的很御 https://t.co/1Q3DixkyP3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1966106570057724087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 509,
+          "like_count": 6897,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 1545
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

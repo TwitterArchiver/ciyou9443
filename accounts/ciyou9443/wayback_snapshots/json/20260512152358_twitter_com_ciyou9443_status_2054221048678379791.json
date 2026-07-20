@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2054180876528112026",
+    "created_at": "2026-05-12T15:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054221048678379791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "190484180",
+          "start": 0,
+          "username": "ls691208"
+        },
+        {
+          "end": 24,
+          "id": "1823835476366692352",
+          "start": 10,
+          "username": "naonao_927050"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054221048678379791",
+    "in_reply_to_user_id": "190484180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054217076706103641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ls691208 @naonao_927050 当然是因为我从农村出来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2054180876528112026",
+        "created_at": "2026-05-12T15:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054221048678379791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "190484180",
+              "start": 0,
+              "username": "ls691208"
+            },
+            {
+              "end": 24,
+              "id": "1823835476366692352",
+              "start": 10,
+              "username": "naonao_927050"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054221048678379791",
+        "in_reply_to_user_id": "190484180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054217076706103641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ls691208 @naonao_927050 当然是因为我从农村出来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "190484180",
+        "conversation_id": "2054180876528112026",
+        "created_at": "2026-05-12T15:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054217076706103641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            },
+            {
+              "end": 25,
+              "id": "1823835476366692352",
+              "start": 11,
+              "username": "naonao_927050"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054217076706103641",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054210364318023818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 @naonao_927050 哈哈哈哈哈哈，你們為啥也這麼說？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "常曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1545,
+          "following_count": 535,
+          "like_count": 10799,
+          "listed_count": 5,
+          "media_count": 389,
+          "tweet_count": 2828
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-14T01:55:36.000Z",
+        "description": "关我屁事，关你屁事！瞎说什么大实话？！牛排我要Rare！INTJ！小米黑+康師傅黑+三星黑！努力做一个有趣点儿的人！",
+        "id": "190484180",
+        "location": "Shanghai",
+        "name": "路客大酥🇮🇱🇺🇸🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030517309916545024/-mKSXLQP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24690,
+          "following_count": 4160,
+          "like_count": 5915,
+          "listed_count": 8,
+          "media_count": 5845,
+          "tweet_count": 168866
+        },
+        "username": "ls691208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T21:34:24.000Z",
+        "description": "憤世嫉俗的Architect",
+        "id": "1823835476366692352",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "丢了城的城主",
+        "pinned_tweet_id": "2044471949649461605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047037847324999681/xNZaJ9f3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 873,
+          "like_count": 75844,
+          "listed_count": 3,
+          "media_count": 1316,
+          "tweet_count": 17563
+        },
+        "username": "naonao_927050",
+        "verified": false
+      }
+    ]
+  }
+}

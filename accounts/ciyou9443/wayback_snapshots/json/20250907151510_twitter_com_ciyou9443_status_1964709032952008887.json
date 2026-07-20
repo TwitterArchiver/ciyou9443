@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1964645116200751105",
+        "3_1964645119229050880",
+        "3_1964645123272425472"
+      ],
+      "media_source_tweet_id": [
+        "1964645147809034696",
+        "1964645147809034696",
+        "1964645147809034696"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1964709032952008887",
+    "created_at": "2025-09-07T15:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T16:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964709032952008887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1907031442103943168",
+          "start": 3,
+          "username": "hoshinemu123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DzXGnn6zXV",
+          "end": 49,
+          "expanded_url": "https://x.com/hoshinemu123/status/1964645147809034696/video/1",
+          "media_key": "7_1964645116200751105",
+          "start": 26,
+          "url": "https://t.co/DzXGnn6zXV"
+        },
+        {
+          "display_url": "pic.x.com/DzXGnn6zXV",
+          "end": 49,
+          "expanded_url": "https://x.com/hoshinemu123/status/1964645147809034696/video/1",
+          "media_key": "3_1964645119229050880",
+          "start": 26,
+          "url": "https://t.co/DzXGnn6zXV"
+        },
+        {
+          "display_url": "pic.x.com/DzXGnn6zXV",
+          "end": 49,
+          "expanded_url": "https://x.com/hoshinemu123/status/1964645147809034696/video/1",
+          "media_key": "3_1964645123272425472",
+          "start": 26,
+          "url": "https://t.co/DzXGnn6zXV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964709032952008887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964645147809034696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinemu123: 老北京传统jk https://t.co/DzXGnn6zXV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6803,
+        "height": 720,
+        "media_key": "7_1964645116200751105",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1964645116200751105/pu/img/7XIrfkb9PNFKxk_i.jpg",
+        "public_metrics": {
+          "view_count": 61
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964645116200751105/pu/vid/avc1/480x270/AIhkYnk281gjbHcl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964645116200751105/pu/vid/avc1/640x360/3-ogJjVFt_CuGeEM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964645116200751105/pu/vid/avc1/1280x720/C-1kikC8iAgDifA6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1964645116200751105/pu/pl/b2MQATnKsmnpUzl7.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1964645119229050880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0PSU6laQAAmDrG.jpg",
+        "width": 1153
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1964645123272425472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0PSVJpbQAAL7x_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1964645116200751105",
+            "3_1964645119229050880",
+            "3_1964645123272425472"
+          ],
+          "media_source_tweet_id": [
+            "1964645147809034696",
+            "1964645147809034696",
+            "1964645147809034696"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1964709032952008887",
+        "created_at": "2025-09-07T15:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T16:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964709032952008887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907031442103943168",
+              "start": 3,
+              "username": "hoshinemu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DzXGnn6zXV",
+              "end": 49,
+              "expanded_url": "https://x.com/hoshinemu123/status/1964645147809034696/video/1",
+              "media_key": "7_1964645116200751105",
+              "start": 26,
+              "url": "https://t.co/DzXGnn6zXV"
+            },
+            {
+              "display_url": "pic.x.com/DzXGnn6zXV",
+              "end": 49,
+              "expanded_url": "https://x.com/hoshinemu123/status/1964645147809034696/video/1",
+              "media_key": "3_1964645119229050880",
+              "start": 26,
+              "url": "https://t.co/DzXGnn6zXV"
+            },
+            {
+              "display_url": "pic.x.com/DzXGnn6zXV",
+              "end": 49,
+              "expanded_url": "https://x.com/hoshinemu123/status/1964645147809034696/video/1",
+              "media_key": "3_1964645123272425472",
+              "start": 26,
+              "url": "https://t.co/DzXGnn6zXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964709032952008887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964645147809034696",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinemu123: 老北京传统jk https://t.co/DzXGnn6zXV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1964645116200751105",
+            "3_1964645119229050880",
+            "3_1964645123272425472"
+          ]
+        },
+        "author_id": "1907031442103943168",
+        "conversation_id": "1964645147809034696",
+        "created_at": "2025-09-07T11:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T12:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964645147809034696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DzXGnn6zXV",
+              "end": 31,
+              "expanded_url": "https://x.com/hoshinemu123/status/1964645147809034696/video/1",
+              "media_key": "7_1964645116200751105",
+              "start": 8,
+              "url": "https://t.co/DzXGnn6zXV"
+            },
+            {
+              "display_url": "pic.x.com/DzXGnn6zXV",
+              "end": 31,
+              "expanded_url": "https://x.com/hoshinemu123/status/1964645147809034696/video/1",
+              "media_key": "3_1964645119229050880",
+              "start": 8,
+              "url": "https://t.co/DzXGnn6zXV"
+            },
+            {
+              "display_url": "pic.x.com/DzXGnn6zXV",
+              "end": 31,
+              "expanded_url": "https://x.com/hoshinemu123/status/1964645147809034696/video/1",
+              "media_key": "3_1964645123272425472",
+              "start": 8,
+              "url": "https://t.co/DzXGnn6zXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964645147809034696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 304,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老北京传统jk https://t.co/DzXGnn6zXV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1961407992886411770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 493,
+          "like_count": 6773,
+          "listed_count": 4,
+          "media_count": 145,
+          "tweet_count": 1514
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；半个软件工程师加半个音乐人；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；文学少女；古风/汉服女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1964645147809034696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1817,
+          "following_count": 2945,
+          "like_count": 2207,
+          "listed_count": 1,
+          "media_count": 419,
+          "tweet_count": 5273
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      }
+    ]
+  }
+}

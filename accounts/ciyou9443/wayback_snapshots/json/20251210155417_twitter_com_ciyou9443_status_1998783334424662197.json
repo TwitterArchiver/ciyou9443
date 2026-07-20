@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1998783304234053633"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1998783334424662197",
+    "created_at": "2025-12-10T15:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T16:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998783334424662197"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c2wZ14SEjd",
+          "end": 46,
+          "expanded_url": "https://x.com/ciyou9443/status/1998783334424662197/photo/1",
+          "media_key": "16_1998783304234053633",
+          "start": 23,
+          "url": "https://t.co/c2wZ14SEjd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998783334424662197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来是脑子长瘤了呀，我还以为被眠眠猫拍坏了呢 https://t.co/c2wZ14SEjd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "16_1998783304234053633",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G70a0z_aMAEV2zL.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G70a0z_aMAEV2zL.mp4"
+          }
+        ],
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1998783304234053633"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1998783334424662197",
+        "created_at": "2025-12-10T15:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T16:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998783334424662197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c2wZ14SEjd",
+              "end": 46,
+              "expanded_url": "https://x.com/ciyou9443/status/1998783334424662197/photo/1",
+              "media_key": "16_1998783304234053633",
+              "start": 23,
+              "url": "https://t.co/c2wZ14SEjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998783334424662197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来是脑子长瘤了呀，我还以为被眠眠猫拍坏了呢 https://t.co/c2wZ14SEjd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠/深夜发的消息不关素的事",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 540,
+          "like_count": 9476,
+          "listed_count": 4,
+          "media_count": 294,
+          "tweet_count": 2280
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

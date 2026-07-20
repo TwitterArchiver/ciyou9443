@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948418567667638272",
+        "3_1948418566694522880"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "1948418571455045858",
+    "created_at": "2025-07-24T16:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T17:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948418571455045858"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5xhJXWE2E5",
+          "end": 40,
+          "expanded_url": "https://x.com/ciyou9443/status/1948418571455045858/photo/1",
+          "media_key": "3_1948418567667638272",
+          "start": 17,
+          "url": "https://t.co/5xhJXWE2E5"
+        },
+        {
+          "display_url": "pic.x.com/5xhJXWE2E5",
+          "end": 40,
+          "expanded_url": "https://x.com/ciyou9443/status/1948418571455045858/photo/1",
+          "media_key": "3_1948418566694522880",
+          "start": 17,
+          "url": "https://t.co/5xhJXWE2E5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948418571455045858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈基素也当一次萝莉(●'◡'●) https://t.co/5xhJXWE2E5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1948418567667638272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwosXTea4AA7VIv.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1948418566694522880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwosXP2aUAAokac.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948418567667638272",
+            "3_1948418566694522880"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1948418571455045858",
+        "created_at": "2025-07-24T16:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T17:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948418571455045858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5xhJXWE2E5",
+              "end": 40,
+              "expanded_url": "https://x.com/ciyou9443/status/1948418571455045858/photo/1",
+              "media_key": "3_1948418567667638272",
+              "start": 17,
+              "url": "https://t.co/5xhJXWE2E5"
+            },
+            {
+              "display_url": "pic.x.com/5xhJXWE2E5",
+              "end": 40,
+              "expanded_url": "https://x.com/ciyou9443/status/1948418571455045858/photo/1",
+              "media_key": "3_1948418566694522880",
+              "start": 17,
+              "url": "https://t.co/5xhJXWE2E5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948418571455045858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈基素也当一次萝莉(●'◡'●) https://t.co/5xhJXWE2E5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值/🏳️‍⚧️🍥/是我哦～跨女同/亲爱的大小姐 @hoshinemu123 /讨厌乐子人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 422,
+          "like_count": 4866,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 1208
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

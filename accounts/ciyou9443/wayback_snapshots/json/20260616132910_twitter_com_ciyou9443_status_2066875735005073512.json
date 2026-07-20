@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2066871070934933673",
+    "created_at": "2026-06-16T13:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T14:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066875735005073512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1720266757838184448",
+          "start": 0,
+          "username": "Nosugar2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066875735005073512",
+    "in_reply_to_user_id": "1720266757838184448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066872070013927463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nosugar2 安安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2066871070934933673",
+        "created_at": "2026-06-16T13:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066875735005073512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720266757838184448",
+              "start": 0,
+              "username": "Nosugar2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066875735005073512",
+        "in_reply_to_user_id": "1720266757838184448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066872070013927463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nosugar2 安安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720266757838184448",
+        "conversation_id": "2066871070934933673",
+        "created_at": "2026-06-16T13:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066872070013927463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066872070013927463",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066871070934933673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2062510740637139247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1719,
+          "following_count": 567,
+          "like_count": 12025,
+          "listed_count": 5,
+          "media_count": 430,
+          "tweet_count": 3284
+        },
+        "username": "ciyou9443",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-03T02:29:29.000Z",
+        "description": "爱吃爱拍。peace and love~",
+        "id": "1720266757838184448",
+        "location": "蘑菇树屋",
+        "name": "桔饭🍚🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836252859555569664/5XNb7xVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 42,
+          "like_count": 808,
+          "listed_count": 0,
+          "media_count": 1191,
+          "tweet_count": 2756
+        },
+        "username": "Nosugar2",
+        "verified": false
+      }
+    ]
+  }
+}

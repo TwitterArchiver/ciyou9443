@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1957757321708466686",
+    "created_at": "2025-08-19T10:53:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T11:53:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957757754564624460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1469665357908824064",
+          "start": 0,
+          "username": "FENG_825"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957757754564624460",
+    "in_reply_to_user_id": "1469665357908824064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957757321708466686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FENG_825 那很有实力了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1957757321708466686",
+        "created_at": "2025-08-19T10:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T11:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957757754564624460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1469665357908824064",
+              "start": 0,
+              "username": "FENG_825"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957757754564624460",
+        "in_reply_to_user_id": "1469665357908824064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957757321708466686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FENG_825 那很有实力了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1469665357908824064",
+        "conversation_id": "1957757321708466686",
+        "created_at": "2025-08-19T10:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T11:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957757321708466686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FENG_825/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/FENG_825/status/1957083789064118758",
+              "start": 5,
+              "url": "https://t.co/mSASLS6kTe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957757321708466686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957083789064118758",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "窜了两天 https://t.co/mSASLS6kTe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "薛定谔的颜值",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831631527325697/Wer-X8a4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 487,
+          "like_count": 6093,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 1363
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-11T13:48:41.000Z",
+        "description": "星巡大小姐想让你数学分析😠",
+        "id": "1469665357908824064",
+        "location": "Union of Britain ",
+        "name": "高木星巡",
+        "pinned_tweet_id": "1956300163133419927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956359690830684160/F-p-rgpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20708,
+          "following_count": 349,
+          "like_count": 11937,
+          "listed_count": 24,
+          "media_count": 42,
+          "tweet_count": 954
+        },
+        "username": "FENG_825",
+        "verified": false
+      }
+    ]
+  }
+}

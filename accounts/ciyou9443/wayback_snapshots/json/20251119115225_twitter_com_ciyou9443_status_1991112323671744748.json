@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1990788776822734872",
+    "created_at": "2025-11-19T11:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T12:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991112323671744748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1939985156778983424",
+          "start": 0,
+          "username": "Yan_17631997"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991112323671744748",
+    "in_reply_to_user_id": "1939985156778983424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991104472765079852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yan_17631997 有机会做给你吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1990788776822734872",
+        "created_at": "2025-11-19T11:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T12:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991112323671744748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1939985156778983424",
+              "start": 0,
+              "username": "Yan_17631997"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991112323671744748",
+        "in_reply_to_user_id": "1939985156778983424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991104472765079852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yan_17631997 有机会做给你吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939985156778983424",
+        "conversation_id": "1990788776822734872",
+        "created_at": "2025-11-19T11:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T12:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991104472765079852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991104472765079852",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990788776822734872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 神他妈吕后罐头😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠/深夜发的消息不关素的事",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974504976752984101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 534,
+          "like_count": 8933,
+          "listed_count": 4,
+          "media_count": 277,
+          "tweet_count": 2143
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T09:51:34.000Z",
+        "description": "#TS / 在英国🇬🇧 / 小厨娘 / 旅行家 / 毛绒胖胖海豹宝宝 / 孤独的灵魂",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "TS"
+              }
+            ]
+          }
+        },
+        "id": "1939985156778983424",
+        "location": "英国 伦敦",
+        "name": "言言",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987556662736031744/2ap1Joqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 140,
+          "like_count": 721,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 313
+        },
+        "username": "Yan_17631997",
+        "verified": false
+      }
+    ]
+  }
+}

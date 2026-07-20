@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2051226509084647642",
+    "created_at": "2026-05-04T09:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T10:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051226509084647642"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051226509084647642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“咋就欺负你不欺负别人呢”\n“别人哪有你这样的，咋就你和别人不一样呢”\n“不都是这么过来的，怎么就你不行”\n“你这样别人不都得议论咱们”\n“你能有什么病，就是闲出来的”\n“你寻死对得起我们吗，你自己好好想想吧”\n“在不听话就把你送去扭转机构”\n“我真是命苦咋就生了这么个玩意”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2051226509084647642",
+        "created_at": "2026-05-04T09:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051226509084647642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051226509084647642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“咋就欺负你不欺负别人呢”\n“别人哪有你这样的，咋就你和别人不一样呢”\n“不都是这么过来的，怎么就你不行”\n“你这样别人不都得议论咱们”\n“你能有什么病，就是闲出来的”\n“你寻死对得起我们吗，你自己好好想想吧”\n“在不听话就把你送去扭转机构”\n“我真是命苦咋就生了这么个玩意”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "常曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 536,
+          "like_count": 10748,
+          "listed_count": 5,
+          "media_count": 384,
+          "tweet_count": 2784
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1902968064716509617",
+    "created_at": "2025-03-21T11:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T12:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903040412643905923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1691343120254763009",
+          "start": 0,
+          "username": "JoyceRolan94348"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903040412643905923",
+    "in_reply_to_user_id": "1691343120254763009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903036727549149651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JoyceRolan94348 第一天不知道哦～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1902968064716509617",
+        "created_at": "2025-03-21T11:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T12:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903040412643905923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1691343120254763009",
+              "start": 0,
+              "username": "JoyceRolan94348"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903040412643905923",
+        "in_reply_to_user_id": "1691343120254763009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903036727549149651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JoyceRolan94348 第一天不知道哦～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691343120254763009",
+        "conversation_id": "1902968064716509617",
+        "created_at": "2025-03-21T10:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T11:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903036727549149651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903036727549149651",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902968064716509617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 好用吗宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/没回fo可以私我",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1899844039488286851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 219,
+          "like_count": 937,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 379
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T06:56:46.000Z",
+        "description": "无证含糖 （攒钱手术中）记录生活 @世界毁灭之时就是我炸柜之时 喜欢打王者 ps：脑子有坑 谁带我打游戏 我可以给敌人设陷 hi好痛苦 有人能安慰一下我嘛",
+        "id": "1691343120254763009",
+        "name": "liuuuuuu🏳️‍⚧️🍬🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860233238666731520/57DFLlXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 535,
+          "like_count": 220,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 216
+        },
+        "username": "JoyceRolan94348",
+        "verified": false
+      }
+    ]
+  }
+}

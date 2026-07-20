@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988281681531596801"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1988281684115288305",
+    "created_at": "2025-11-11T16:24:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T17:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988281684115288305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zY9gPrdcev",
+          "end": 30,
+          "expanded_url": "https://x.com/ciyou9443/status/1988281684115288305/photo/1",
+          "media_key": "3_1988281681531596801",
+          "start": 7,
+          "url": "https://t.co/zY9gPrdcev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988281684115288305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "素将红颜薄命 https://t.co/zY9gPrdcev"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1988281681531596801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5fLp60bcAElYid.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988281681531596801"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1988281684115288305",
+        "created_at": "2025-11-11T16:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T17:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988281684115288305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zY9gPrdcev",
+              "end": 30,
+              "expanded_url": "https://x.com/ciyou9443/status/1988281684115288305/photo/1",
+              "media_key": "3_1988281681531596801",
+              "start": 7,
+              "url": "https://t.co/zY9gPrdcev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988281684115288305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素将红颜薄命 https://t.co/zY9gPrdcev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "主包傻fufu的所以会偷吃你的大脑🧠",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1974828409944764563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980223146952183808/kEXCopJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 527,
+          "like_count": 8476,
+          "listed_count": 4,
+          "media_count": 264,
+          "tweet_count": 1957
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

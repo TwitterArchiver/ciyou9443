@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1914867972767973498",
+    "created_at": "2025-04-23T02:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T03:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914867972767973498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LiciiQAQ/statu…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/LiciiQAQ/status/1914738938486595716",
+          "start": 36,
+          "url": "https://t.co/sLb3y7pihV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914867972767973498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914738938486595716",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真羡慕那些天赋党，躺着就有人往你身上蹭，像我这样的哥布林真会有人喜欢？ https://t.co/sLb3y7pihV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1914867972767973498",
+        "created_at": "2025-04-23T02:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T03:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914867972767973498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LiciiQAQ/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/LiciiQAQ/status/1914738938486595716",
+              "start": 36,
+              "url": "https://t.co/sLb3y7pihV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914867972767973498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914738938486595716",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真羡慕那些天赋党，躺着就有人往你身上蹭，像我这样的哥布林真会有人喜欢？ https://t.co/sLb3y7pihV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1914738938486595716",
+        "created_at": "2025-04-22T17:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T18:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914738938486595716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meiqinyuban/st…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/meiqinyuban/status/1914641944996929892",
+              "start": 36,
+              "url": "https://t.co/Oc2jpzlWoV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914738938486595716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914641944996929892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真羡慕那些天赋党，躺着就有人往你身上蹭，像我这样的哥布林真会有人喜欢？ https://t.co/Oc2jpzlWoV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/愿你被世界温柔以待🏳️‍⚧️🍥/有两个人格/没有家长党",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "pinned_tweet_id": "1906693278533374051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 283,
+          "like_count": 2305,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 768
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 661,
+          "like_count": 9924,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1411
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}
