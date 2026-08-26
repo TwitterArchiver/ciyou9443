@@ -1,7 +1,7 @@
 {
   "name": "素素素素素",
   "username": "@ciyou9443",
-  "bio": "病树前头，毁肌销骨   眠眠猫：@hoshinemu123 叶老师：@ilobius",
+  "bio": "沉吟...思索💫素是辉夜姬💫💫💫💫\n电波系💫💫💫\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
   "location": "望舒",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,13 +10,13 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 29,
-        "start": 16,
+        "end": 42,
+        "start": 29,
         "username": "hoshinemu123"
       },
       {
-        "end": 42,
-        "start": 34,
+        "end": 55,
+        "start": 47,
         "username": "ilobius"
       }
     ]
