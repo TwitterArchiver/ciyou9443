@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2078800214102847605",
+    "created_at": "2026-07-19T11:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T12:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078800214102847605"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078800214102847605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "听好了素子，你必须严格按照医生开的处方吃药，动用苯二氮卓类要和眠报备"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2078800214102847605",
+        "created_at": "2026-07-19T11:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078800214102847605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078800214102847605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听好了素子，你必须严格按照医生开的处方吃药，动用苯二氮卓类要和眠报备"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨 \n素子总是窝囊的\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 593,
+          "like_count": 12667,
+          "listed_count": 5,
+          "media_count": 430,
+          "tweet_count": 3353
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      }
+    ]
+  }
+}

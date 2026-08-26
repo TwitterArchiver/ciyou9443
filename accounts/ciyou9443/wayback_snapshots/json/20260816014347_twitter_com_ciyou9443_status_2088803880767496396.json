@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2088349078031884523",
+    "created_at": "2026-08-16T01:43:47.000Z",
+    "display_text_range": [
+      11,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T02:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088803880767496396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926451442572754944",
+          "start": 0,
+          "username": "keiaiqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088803880767496396",
+    "in_reply_to_user_id": "1926451442572754944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088349078031884523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keiaiqing 素也连考三遍不过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2088349078031884523",
+        "created_at": "2026-08-16T01:43:47.000Z",
+        "display_text_range": [
+          11,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T02:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088803880767496396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926451442572754944",
+              "start": 0,
+              "username": "keiaiqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088803880767496396",
+        "in_reply_to_user_id": "1926451442572754944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088349078031884523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keiaiqing 素也连考三遍不过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926451442572754944",
+        "conversation_id": "2088349078031884523",
+        "created_at": "2026-08-14T19:36:34.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T20:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088349078031884523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088349078031884523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我根本不合适考驾照。我三遍都差一点，差一点差一点，给我考崩溃了！我的心理承受能力如同一个脆脆的薯片，然后驾照笔试像那个拿薯片碎做饭的人一样反复碾压我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "沉吟...思索💫素是辉夜姬💫💫💫💫\n电波系💫💫💫\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2088803880767496396",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2087500515471167676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805373961020260353/1720126400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2777,
+          "following_count": 367,
+          "like_count": 14241,
+          "listed_count": 6,
+          "media_count": 469,
+          "tweet_count": 3652
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-25T01:33:32.000Z",
+        "description": "追本溯源，爱和风会不会是一体？ 我是命运·冠位指定（fgo）中清姬这一角色的梦女…我是女同性恋。我讨厌百合破坏！",
+        "id": "1926451442572754944",
+        "is_identity_verified": false,
+        "location": "10.12生日（恋爱日是24.12.21",
+        "most_recent_tweet_id": "2088694948455678146",
+        "name": "ke（暗恋清姬小姐中",
+        "pinned_tweet_id": "2038059214665613736",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1926451442572754944/1751916621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071420429064171520/JyPnVw30_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 426,
+          "like_count": 46492,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 4354
+        },
+        "url": "",
+        "username": "keiaiqing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

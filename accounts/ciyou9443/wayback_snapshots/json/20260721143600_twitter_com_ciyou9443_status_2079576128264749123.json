@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2064340191167627414",
+    "created_at": "2026-07-21T14:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079576128264749123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1224033596249382912",
+          "start": 0,
+          "username": "Uturo_Bune"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079576128264749123",
+    "in_reply_to_user_id": "1224033596249382912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079574773978595414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uturo_Bune 越是破碎越容易接近美ლ(＾ω＾ლ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2064340191167627414",
+        "created_at": "2026-07-21T14:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079576128264749123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1224033596249382912",
+              "start": 0,
+              "username": "Uturo_Bune"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079576128264749123",
+        "in_reply_to_user_id": "1224033596249382912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079574773978595414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uturo_Bune 越是破碎越容易接近美ლ(＾ω＾ლ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224033596249382912",
+        "conversation_id": "2064340191167627414",
+        "created_at": "2026-07-21T14:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079574773978595414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079574773978595414",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079574299082727503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 我每天晚上的幻想就是这样&gt; &lt;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "生也茫茫，死也茫茫\n双相情感障碍\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2074463616150204444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 594,
+          "like_count": 12731,
+          "listed_count": 4,
+          "media_count": 428,
+          "tweet_count": 3360
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-02T18:15:59.000Z",
+        "description": "So wird die Zeit kommen, wo auch ihnen die Schuppen von den Augen fallen werden.",
+        "id": "1224033596249382912",
+        "location": "Narrenschiff",
+        "name": "兔兔牌皇室贵族小点心🥕（水晶萝卜版）",
+        "pinned_tweet_id": "2065192371772400055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051215790318448640/FvMvNz-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 395,
+          "like_count": 36284,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 8792
+        },
+        "url": "",
+        "username": "Uturo_Bune",
+        "verified": true
+      }
+    ]
+  }
+}

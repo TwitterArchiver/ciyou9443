@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2088773047088271864",
+    "created_at": "2026-08-16T01:41:02.000Z",
+    "display_text_range": [
+      12,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T02:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088803185955864611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1531264368914190337",
+          "start": 0,
+          "username": "114514jknm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088803185955864611",
+    "in_reply_to_user_id": "1531264368914190337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088773047088271864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@114514jknm ruarua你哦，抱出小窝😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2088773047088271864",
+        "created_at": "2026-08-16T01:41:02.000Z",
+        "display_text_range": [
+          12,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T02:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088803185955864611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1531264368914190337",
+              "start": 0,
+              "username": "114514jknm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088803185955864611",
+        "in_reply_to_user_id": "1531264368914190337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088773047088271864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@114514jknm ruarua你哦，抱出小窝😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531264368914190337",
+        "conversation_id": "2088773047088271864",
+        "created_at": "2026-08-15T23:41:16.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T00:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088773047088271864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088773047088271864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想要帮助 我有很严重的社交恐惧症(抱歉我不知道应该怎么称呼因为我不知道这个症状的学名) 具体表现在我不管在网络上还是现实中都不敢主动说话 那怕是买菜都要很久的心理建设  我在小学时候从来没有在学校里说过话 这些导致我的朋友很少敢主动聊天的朋友可能只有一个 我想要改善这件事 请给我一些帮助"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "沉吟...思索💫素是辉夜姬💫💫💫💫\n电波系💫💫💫\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2088803185955864611",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2087500515471167676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805373961020260353/1720126400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2777,
+          "following_count": 367,
+          "like_count": 14231,
+          "listed_count": 6,
+          "media_count": 469,
+          "tweet_count": 3651
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-30T13:21:10.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "emoji.supply/kitchen/?%F0%9…",
+                "end": 23,
+                "expanded_url": "https://emoji.supply/kitchen/?%F0%9F%98%98+%F0%9F%98%96=rt",
+                "start": 0,
+                "url": "https://t.co/ayNcXCV4gQ"
+              }
+            ]
+          }
+        },
+        "id": "1531264368914190337",
+        "is_identity_verified": false,
+        "location": "京都宇治",
+        "most_recent_tweet_id": "2088773047088271864",
+        "name": "章鱼头的小小吴",
+        "pinned_tweet_id": "1919776115201032646",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1531264368914190337/1784859970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059041310154334209/-q_6fHV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4040,
+          "following_count": 1703,
+          "like_count": 36095,
+          "listed_count": 11,
+          "media_count": 70,
+          "tweet_count": 10093
+        },
+        "url": "https://t.co/ayNcXCV4gQ",
+        "username": "114514jknm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

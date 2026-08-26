@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083394681204027392",
+        "3_2083394707544260608",
+        "3_2083394770374971392"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2083394801698038151",
+    "created_at": "2026-08-01T03:30:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:30:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083394801698038151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hGDX5JFEkH",
+          "end": 49,
+          "expanded_url": "https://x.com/ciyou9443/status/2083394801698038151/photo/1",
+          "media_key": "3_2083394681204027392",
+          "start": 26,
+          "url": "https://t.co/hGDX5JFEkH"
+        },
+        {
+          "display_url": "pic.x.com/hGDX5JFEkH",
+          "end": 49,
+          "expanded_url": "https://x.com/ciyou9443/status/2083394801698038151/photo/1",
+          "media_key": "3_2083394707544260608",
+          "start": 26,
+          "url": "https://t.co/hGDX5JFEkH"
+        },
+        {
+          "display_url": "pic.x.com/hGDX5JFEkH",
+          "end": 49,
+          "expanded_url": "https://x.com/ciyou9443/status/2083394801698038151/photo/1",
+          "media_key": "3_2083394770374971392",
+          "start": 26,
+          "url": "https://t.co/hGDX5JFEkH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083394801698038151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天的打野是比较失败的，但是在舞萌机旁收到了礼物🎁 https://t.co/hGDX5JFEkH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1807,
+        "media_key": "3_2083394681204027392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOm0bJwasAAGmC3.jpg",
+        "width": 3156
+      },
+      {
+        "height": 1816,
+        "media_key": "3_2083394707544260608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOm0cr4awAAOPy0.jpg",
+        "width": 2623
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2083394770374971392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOm0gV8bUAA-2gF.jpg",
+        "width": 1816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083394681204027392",
+            "3_2083394707544260608",
+            "3_2083394770374971392"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2083394801698038151",
+        "created_at": "2026-08-01T03:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083394801698038151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hGDX5JFEkH",
+              "end": 49,
+              "expanded_url": "https://x.com/ciyou9443/status/2083394801698038151/photo/1",
+              "media_key": "3_2083394681204027392",
+              "start": 26,
+              "url": "https://t.co/hGDX5JFEkH"
+            },
+            {
+              "display_url": "pic.x.com/hGDX5JFEkH",
+              "end": 49,
+              "expanded_url": "https://x.com/ciyou9443/status/2083394801698038151/photo/1",
+              "media_key": "3_2083394707544260608",
+              "start": 26,
+              "url": "https://t.co/hGDX5JFEkH"
+            },
+            {
+              "display_url": "pic.x.com/hGDX5JFEkH",
+              "end": 49,
+              "expanded_url": "https://x.com/ciyou9443/status/2083394801698038151/photo/1",
+              "media_key": "3_2083394770374971392",
+              "start": 26,
+              "url": "https://t.co/hGDX5JFEkH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083394801698038151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天的打野是比较失败的，但是在舞萌机旁收到了礼物🎁 https://t.co/hGDX5JFEkH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "上一个切片做的事不关下一个切片的事   \n电波系御姐/间期性水仙\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 63,
+                "start": 55,
+                "username": "ilobius"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cuyou9443",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cuyou9443",
+                "start": 0,
+                "url": "https://t.co/EHP2jgwnGK"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2069429729602793580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089,
+          "following_count": 485,
+          "like_count": 13095,
+          "listed_count": 5,
+          "media_count": 446,
+          "tweet_count": 3401
+        },
+        "url": "https://t.co/EHP2jgwnGK",
+        "username": "ciyou9443",
+        "verified": true
+      }
+    ]
+  }
+}

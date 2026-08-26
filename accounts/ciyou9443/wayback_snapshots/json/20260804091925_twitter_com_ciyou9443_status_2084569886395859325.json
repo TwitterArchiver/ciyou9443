@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084569865504051200",
+        "3_2084569879148163072"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2084569886395859325",
+    "created_at": "2026-08-04T09:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084569886395859325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gR1Jx3DMWm",
+          "end": 53,
+          "expanded_url": "https://x.com/ciyou9443/status/2084569886395859325/photo/1",
+          "media_key": "3_2084569865504051200",
+          "start": 30,
+          "url": "https://t.co/gR1Jx3DMWm"
+        },
+        {
+          "display_url": "pic.x.com/gR1Jx3DMWm",
+          "end": 53,
+          "expanded_url": "https://x.com/ciyou9443/status/2084569886395859325/photo/1",
+          "media_key": "3_2084569879148163072",
+          "start": 30,
+          "url": "https://t.co/gR1Jx3DMWm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084569886395859325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然很热，但是好喜欢头发披散在肩上，符合素对破碎感的想象🥺 https://t.co/gR1Jx3DMWm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2736,
+        "media_key": "3_2084569865504051200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3hP4baUAAEXdM.jpg",
+        "width": 2766
+      },
+      {
+        "height": 1820,
+        "media_key": "3_2084569879148163072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3hQrQa8AAYFSo.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084569865504051200",
+            "3_2084569879148163072"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2084569886395859325",
+        "created_at": "2026-08-04T09:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084569886395859325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gR1Jx3DMWm",
+              "end": 53,
+              "expanded_url": "https://x.com/ciyou9443/status/2084569886395859325/photo/1",
+              "media_key": "3_2084569865504051200",
+              "start": 30,
+              "url": "https://t.co/gR1Jx3DMWm"
+            },
+            {
+              "display_url": "pic.x.com/gR1Jx3DMWm",
+              "end": 53,
+              "expanded_url": "https://x.com/ciyou9443/status/2084569886395859325/photo/1",
+              "media_key": "3_2084569879148163072",
+              "start": 30,
+              "url": "https://t.co/gR1Jx3DMWm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084569886395859325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然很热，但是好喜欢头发披散在肩上，符合素对破碎感的想象🥺 https://t.co/gR1Jx3DMWm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "不想也无力在解释任何事，允许随意意淫揣测指摘素\n电波系御姐/间期性水仙\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2128,
+          "following_count": 488,
+          "like_count": 13247,
+          "listed_count": 5,
+          "media_count": 449,
+          "tweet_count": 3426
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      }
+    ]
+  }
+}

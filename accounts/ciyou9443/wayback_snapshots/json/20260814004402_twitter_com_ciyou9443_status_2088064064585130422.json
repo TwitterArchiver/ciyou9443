@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2087928524028154333",
+    "created_at": "2026-08-14T00:44:02.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T01:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088064064585130422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1500139191401074690",
+          "start": 0,
+          "username": "ban_yue_yao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088064064585130422",
+    "in_reply_to_user_id": "1500139191401074690",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087928524028154333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ban_yue_yao 好好看的喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2087927928567009280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnPY4LakAAMGCF.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2087927928525103104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnPY4BbIAABjim.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2087927929569435648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnPY76aYAAsZjO.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2087927929527496704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnPY7wacAAYuWb.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2087928524028154333",
+        "created_at": "2026-08-14T00:44:02.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T01:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088064064585130422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1500139191401074690",
+              "start": 0,
+              "username": "ban_yue_yao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088064064585130422",
+        "in_reply_to_user_id": "1500139191401074690",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087928524028154333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ban_yue_yao 好好看的喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087927928567009280",
+            "3_2087927928525103104",
+            "3_2087927929569435648",
+            "3_2087927929527496704"
+          ]
+        },
+        "author_id": "1500139191401074690",
+        "conversation_id": "2087928524028154333",
+        "created_at": "2026-08-13T15:45:26.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087928524028154333"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "伪娘"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "汉服"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "男娘"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "女装大佬"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tpZ3YSmrWi",
+              "end": 64,
+              "expanded_url": "https://x.com/ban_yue_yao/status/2087928524028154333/photo/1",
+              "media_key": "3_2087927928567009280",
+              "start": 41,
+              "url": "https://t.co/tpZ3YSmrWi"
+            },
+            {
+              "display_url": "pic.x.com/tpZ3YSmrWi",
+              "end": 64,
+              "expanded_url": "https://x.com/ban_yue_yao/status/2087928524028154333/photo/1",
+              "media_key": "3_2087927928525103104",
+              "start": 41,
+              "url": "https://t.co/tpZ3YSmrWi"
+            },
+            {
+              "display_url": "pic.x.com/tpZ3YSmrWi",
+              "end": 64,
+              "expanded_url": "https://x.com/ban_yue_yao/status/2087928524028154333/photo/1",
+              "media_key": "3_2087927929569435648",
+              "start": 41,
+              "url": "https://t.co/tpZ3YSmrWi"
+            },
+            {
+              "display_url": "pic.x.com/tpZ3YSmrWi",
+              "end": 64,
+              "expanded_url": "https://x.com/ban_yue_yao/status/2087928524028154333/photo/1",
+              "media_key": "3_2087927929527496704",
+              "start": 41,
+              "url": "https://t.co/tpZ3YSmrWi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087928524028154333",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087927928567009280"
+          },
+          {
+            "media_key": "3_2087927928525103104"
+          },
+          {
+            "media_key": "3_2087927929569435648"
+          },
+          {
+            "media_key": "3_2087927929527496704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 727,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男生怎么能这么好看\n不是原相机高P十级美颜😏\n#伪娘\n#汉服\n#男娘\n#女装大佬 https://t.co/tpZ3YSmrWi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "电波系💫💫💫\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2088064064585130422",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2087500515471167676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805373961020260353/1720126400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2691,
+          "following_count": 384,
+          "like_count": 13940,
+          "listed_count": 6,
+          "media_count": 466,
+          "tweet_count": 3578
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-05T16:00:48.000Z",
+        "description": "社畜男娘，喜欢口嗨\n#伪娘 #lovelive #COS #Lolita #JK #汉服 #和服 #浴衣",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "伪娘"
+              },
+              {
+                "end": 23,
+                "start": 14,
+                "tag": "lovelive"
+              },
+              {
+                "end": 28,
+                "start": 24,
+                "tag": "COS"
+              },
+              {
+                "end": 36,
+                "start": 29,
+                "tag": "Lolita"
+              },
+              {
+                "end": 40,
+                "start": 37,
+                "tag": "JK"
+              },
+              {
+                "end": 44,
+                "start": 41,
+                "tag": "汉服"
+              },
+              {
+                "end": 48,
+                "start": 45,
+                "tag": "和服"
+              },
+              {
+                "end": 52,
+                "start": 49,
+                "tag": "浴衣"
+              }
+            ]
+          }
+        },
+        "id": "1500139191401074690",
+        "is_identity_verified": false,
+        "location": "深圳",
+        "most_recent_tweet_id": "2087928524028154333",
+        "name": "不懂事の半月喵",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1500149789266432002/de1qpqNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1945,
+          "following_count": 1334,
+          "like_count": 2064,
+          "listed_count": 14,
+          "media_count": 95,
+          "tweet_count": 406
+        },
+        "url": "",
+        "username": "ban_yue_yao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

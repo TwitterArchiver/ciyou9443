@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2087412776033792482",
+    "created_at": "2026-08-13T08:03:28.000Z",
+    "display_text_range": [
+      16,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T09:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087812267517858006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1721354127807229952",
+          "start": 0,
+          "username": "GODFATHER_HANS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087812267517858006",
+    "in_reply_to_user_id": "1721354127807229952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087807672242581563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GODFATHER_HANS 啊这，听起来不太靠谱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2087412776033792482",
+        "created_at": "2026-08-13T08:03:28.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T09:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087812267517858006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721354127807229952",
+              "start": 0,
+              "username": "GODFATHER_HANS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087812267517858006",
+        "in_reply_to_user_id": "1721354127807229952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087807672242581563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GODFATHER_HANS 啊这，听起来不太靠谱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721354127807229952",
+        "conversation_id": "2087412776033792482",
+        "created_at": "2026-08-13T07:45:13.000Z",
+        "display_text_range": [
+          11,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087807672242581563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087807672242581563",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087412776033792482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 之前好像有个疗法就是三伏天赤脚在石板上走，据说可以补阳驱湿"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "严肃切割我和素💫💫💫💫\n努力不输出负面，害怕被传染负面\n电波系御姐/概率云切片\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 70,
+                "start": 62,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2087812267517858006",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2087500515471167676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805373961020260353/1720126400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2682,
+          "following_count": 385,
+          "like_count": 13895,
+          "listed_count": 6,
+          "media_count": 466,
+          "tweet_count": 3559
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-06T02:31:30.000Z",
+        "description": "本人会弹钢琴🎹会唱美声🎤是小说作家📖法餐厨师🥘星级咖啡师☕️高级技师调酒师🍷甜点师🍰精神科临床系医师🧑‍⚕️国家二级心理咨询师🩺会咏春和八极🥋现代搏击🥊巴西柔术，会弹吉他🎸会变魔术🪄会算卦看八字☯️是美食评论家🧑‍💻精神上的亿万富翁，欢迎关注～",
+        "id": "1721354127807229952",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2087807672242581563",
+        "name": "津岛溯石",
+        "pinned_tweet_id": "1928018241143673061",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721354127807229952/1740602083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065380461694857216/DQ-zOKF3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 297,
+          "like_count": 954,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1604
+        },
+        "url": "",
+        "username": "GODFATHER_HANS",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

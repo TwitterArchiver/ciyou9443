@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088574994267918336"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2088575003252138264",
+    "created_at": "2026-08-15T10:34:19.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T11:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088575003252138264"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gY9Kvixlsg",
+          "end": 134,
+          "expanded_url": "https://x.com/ciyou9443/status/2088575003252138264/photo/1",
+          "media_key": "3_2088574994267918336",
+          "start": 111,
+          "url": "https://t.co/gY9Kvixlsg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088575003252138264",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088574994267918336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "素素奇怪的收藏癖，每收集一种有趣的💊素都会有成就感，就会很开心💫💫\n这是素素备份仓库的一部分，大多数都是每种一盒，除了病情需要，眠同意我吃以外，素素不会吃里面的💊\n素素出门不带刀，精神也很稳定，只会粘着你让你陪我玩💫💫💫 https://t.co/gY9Kvixlsg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1748,
+        "media_key": "3_2088574994267918336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwb5DwaUAAZuAE.jpg",
+        "width": 2722
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088574994267918336"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2088575003252138264",
+        "created_at": "2026-08-15T10:34:19.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088575003252138264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gY9Kvixlsg",
+              "end": 134,
+              "expanded_url": "https://x.com/ciyou9443/status/2088575003252138264/photo/1",
+              "media_key": "3_2088574994267918336",
+              "start": 111,
+              "url": "https://t.co/gY9Kvixlsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088575003252138264",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088574994267918336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素素奇怪的收藏癖，每收集一种有趣的💊素都会有成就感，就会很开心💫💫\n这是素素备份仓库的一部分，大多数都是每种一盒，除了病情需要，眠同意我吃以外，素素不会吃里面的💊\n素素出门不带刀，精神也很稳定，只会粘着你让你陪我玩💫💫💫 https://t.co/gY9Kvixlsg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "电波系💫💫💫\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2088575003252138264",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2087500515471167676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805373961020260353/1720126400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2731,
+          "following_count": 376,
+          "like_count": 14132,
+          "listed_count": 6,
+          "media_count": 470,
+          "tweet_count": 3619
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

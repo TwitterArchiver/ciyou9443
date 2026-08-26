@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2084210378742075412",
+    "created_at": "2026-08-03T09:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084210378742075412"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ciyou9443/stat…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/ciyou9443/status/2084135391029023006",
+          "start": 26,
+          "url": "https://t.co/ZZ0bEHP0Vn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084210378742075412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084135391029023006",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也可能是没以为那个身份证是我（人脸识别过不了了🤓） https://t.co/ZZ0bEHP0Vn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3617,
+        "media_key": "3_2084135364823048192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxWEnQbYAABZ5N.jpg",
+        "width": 1677
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2084135377326235648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxWFV1a4AAQCIR.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2084135384443912192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxWFwWaAAAAwTR.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2084210378742075412",
+        "created_at": "2026-08-03T09:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084210378742075412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ciyou9443/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/ciyou9443/status/2084135391029023006",
+              "start": 26,
+              "url": "https://t.co/ZZ0bEHP0Vn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084210378742075412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084135391029023006",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也可能是没以为那个身份证是我（人脸识别过不了了🤓） https://t.co/ZZ0bEHP0Vn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084135364823048192",
+            "3_2084135377326235648",
+            "3_2084135384443912192"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2084135391029023006",
+        "created_at": "2026-08-03T04:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084135391029023006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DCJJHuhAU3",
+              "end": 105,
+              "expanded_url": "https://x.com/ciyou9443/status/2084135391029023006/photo/1",
+              "media_key": "3_2084135364823048192",
+              "start": 82,
+              "url": "https://t.co/DCJJHuhAU3"
+            },
+            {
+              "display_url": "pic.x.com/DCJJHuhAU3",
+              "end": 105,
+              "expanded_url": "https://x.com/ciyou9443/status/2084135391029023006/photo/1",
+              "media_key": "3_2084135377326235648",
+              "start": 82,
+              "url": "https://t.co/DCJJHuhAU3"
+            },
+            {
+              "display_url": "pic.x.com/DCJJHuhAU3",
+              "end": 105,
+              "expanded_url": "https://x.com/ciyou9443/status/2084135391029023006/photo/1",
+              "media_key": "3_2084135384443912192",
+              "start": 82,
+              "url": "https://t.co/DCJJHuhAU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084135391029023006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1535,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拼尽全力无法绷住，素子发现前两天把自己套着卡套的身份证当成物料送出去了。\n刚刚才把身份证拿回来，幸好对方没有打开看，不然素子不知该怎么面对一位初中小女孩(╥﹏╥) https://t.co/DCJJHuhAU3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "不想也无力在解释任何事，允许随意意淫揣测指摘素\n电波系御姐/间期性水仙\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 488,
+          "like_count": 13190,
+          "listed_count": 5,
+          "media_count": 448,
+          "tweet_count": 3420
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      }
+    ]
+  }
+}

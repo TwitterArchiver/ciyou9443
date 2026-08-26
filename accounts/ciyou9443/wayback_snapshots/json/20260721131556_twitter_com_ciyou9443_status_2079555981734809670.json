@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079555973249916928"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2079555981734809670",
+    "created_at": "2026-07-21T13:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079555981734809670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《铁花飞》，由 Mili、塞壬唱片-MSR 演唱，收录于《铁花飞》专辑中，《铁花飞》下载，《铁花飞》在线试听，更多铁花飞相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/bbvbtF8Z",
+          "end": 84,
+          "expanded_url": "https://163cn.tv/bbvbtF8Z",
+          "start": 61,
+          "status": 200,
+          "title": "铁花飞 - Mili/塞壬唱片-MSR - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=3342981041&uct2=9M9zoWcscCIkZ2Ii3boHaw%3D%3D&fx-wechatnew=t1&fx-wxqd=t1&fx-wordtest=c&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.50&sc=wm&tn=",
+          "url": "https://t.co/uiyfAKfskt"
+        },
+        {
+          "display_url": "pic.x.com/KXNiTpYrqH",
+          "end": 119,
+          "expanded_url": "https://x.com/ciyou9443/status/2079555981734809670/photo/1",
+          "media_key": "3_2079555973249916928",
+          "start": 96,
+          "url": "https://t.co/KXNiTpYrqH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079555981734809670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么会这么好听好听好听好听好听好听好听好听好听好听好听好听好听好听好听\n分享Mili/塞壬唱片-MSR的单曲《铁花飞》: https://t.co/uiyfAKfskt (来自@网易云音乐) https://t.co/KXNiTpYrqH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2079555973249916928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwRI8QaYAAXRfp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079555973249916928"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2079555981734809670",
+        "created_at": "2026-07-21T13:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079555981734809670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《铁花飞》，由 Mili、塞壬唱片-MSR 演唱，收录于《铁花飞》专辑中，《铁花飞》下载，《铁花飞》在线试听，更多铁花飞相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/bbvbtF8Z",
+              "end": 84,
+              "expanded_url": "https://163cn.tv/bbvbtF8Z",
+              "start": 61,
+              "status": 200,
+              "title": "铁花飞 - Mili/塞壬唱片-MSR - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=3342981041&uct2=9M9zoWcscCIkZ2Ii3boHaw%3D%3D&fx-wechatnew=t1&fx-wxqd=t1&fx-wordtest=c&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.50&sc=wm&tn=",
+              "url": "https://t.co/uiyfAKfskt"
+            },
+            {
+              "display_url": "pic.x.com/KXNiTpYrqH",
+              "end": 119,
+              "expanded_url": "https://x.com/ciyou9443/status/2079555981734809670/photo/1",
+              "media_key": "3_2079555973249916928",
+              "start": 96,
+              "url": "https://t.co/KXNiTpYrqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079555981734809670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么会这么好听好听好听好听好听好听好听好听好听好听好听好听好听好听好听\n分享Mili/塞壬唱片-MSR的单曲《铁花飞》: https://t.co/uiyfAKfskt (来自@网易云音乐) https://t.co/KXNiTpYrqH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨\n双相情感障碍\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2074463616150204444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1945,
+          "following_count": 594,
+          "like_count": 12721,
+          "listed_count": 4,
+          "media_count": 428,
+          "tweet_count": 3357
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      }
+    ]
+  }
+}

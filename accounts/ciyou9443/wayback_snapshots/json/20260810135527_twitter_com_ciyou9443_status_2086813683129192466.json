@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2086708503691899380",
+    "created_at": "2026-08-10T13:55:27.000Z",
+    "display_text_range": [
+      9,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T14:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086813683129192466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1849098966039969792",
+          "start": 0,
+          "username": "36duola"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086813683129192466",
+    "in_reply_to_user_id": "1849098966039969792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086810044855980535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@36duola 介也是好包"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2086810024048029696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXWqRUbcAAf8qH.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2086708503691899380",
+        "created_at": "2026-08-10T13:55:27.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T14:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086813683129192466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1849098966039969792",
+              "start": 0,
+              "username": "36duola"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086813683129192466",
+        "in_reply_to_user_id": "1849098966039969792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086810044855980535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@36duola 介也是好包"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086810024048029696"
+          ]
+        },
+        "author_id": "1849098966039969792",
+        "conversation_id": "2086708503691899380",
+        "created_at": "2026-08-10T13:41:00.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T14:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086810044855980535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DfZxZlGiwd",
+              "end": 38,
+              "expanded_url": "https://x.com/36duola/status/2086810044855980535/photo/1",
+              "media_key": "3_2086810024048029696",
+              "start": 15,
+              "url": "https://t.co/DfZxZlGiwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086810044855980535",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2086810024048029696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086708503691899380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 😅😅😅 https://t.co/DfZxZlGiwd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "沉吟...思索💫素是辉夜姬💫💫💫💫\n电波系御姐/间期性水仙/回收态切片\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2086813683129192466",
+        "name": "素素素素素",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805373961020260353/1720126400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2436,
+          "following_count": 444,
+          "like_count": 13679,
+          "listed_count": 5,
+          "media_count": 462,
+          "tweet_count": 3513
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-23T14:42:13.000Z",
+        "description": "一抔净土掩风流。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "duola.ryuuguu.live",
+                "end": 23,
+                "expanded_url": "https://duola.ryuuguu.live/",
+                "start": 0,
+                "url": "https://t.co/SFtXT7qQYL"
+              }
+            ]
+          }
+        },
+        "id": "1849098966039969792",
+        "is_identity_verified": false,
+        "location": "Peking",
+        "most_recent_tweet_id": "2086810044855980535",
+        "name": "小啦",
+        "pinned_tweet_id": "2042738888159224261",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849098966039969792/1784598139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079381424860549120/_P_ivVDa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 60,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 1209
+        },
+        "url": "https://t.co/SFtXT7qQYL",
+        "username": "36duola",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

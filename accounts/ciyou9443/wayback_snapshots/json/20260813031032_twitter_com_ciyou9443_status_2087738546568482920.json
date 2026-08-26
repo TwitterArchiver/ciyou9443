@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2087412776033792482",
+    "created_at": "2026-08-13T03:10:32.000Z",
+    "display_text_range": [
+      12,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T04:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087738546568482920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1092769397523935233",
+          "start": 0,
+          "username": "parsley999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087738546568482920",
+    "in_reply_to_user_id": "1092769397523935233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087736444924342576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@parsley999 素没感觉羞耻，只感觉是寻常的一件事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2087412776033792482",
+        "created_at": "2026-08-13T03:10:32.000Z",
+        "display_text_range": [
+          12,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T04:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087738546568482920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1092769397523935233",
+              "start": 0,
+              "username": "parsley999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087738546568482920",
+        "in_reply_to_user_id": "1092769397523935233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087736444924342576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@parsley999 素没感觉羞耻，只感觉是寻常的一件事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1092769397523935233",
+        "conversation_id": "2087412776033792482",
+        "created_at": "2026-08-13T03:02:11.000Z",
+        "display_text_range": [
+          11,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T04:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087736444924342576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087736444924342576",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087412776033792482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 我也经常赤脚出门 感觉好羞耻 好喜欢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "严肃切割我和素💫💫💫💫\n电波系御姐/概率云切片\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2087738546568482920",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2087500515471167676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805373961020260353/1720126400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2632,
+          "following_count": 386,
+          "like_count": 13867,
+          "listed_count": 7,
+          "media_count": 465,
+          "tweet_count": 3552
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-02-05T12:58:21.000Z",
+        "description": "0571 药娘🍥 Q3489256751 好友位🚪5 (注明交友目的哦",
+        "id": "1092769397523935233",
+        "is_identity_verified": false,
+        "location": "杭州",
+        "most_recent_tweet_id": "2087736444924342576",
+        "name": "Parsley🏳️‍⚧️",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848905796689776640/khOC4ecz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 199,
+          "like_count": 180,
+          "listed_count": 3,
+          "media_count": 38,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "parsley999",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

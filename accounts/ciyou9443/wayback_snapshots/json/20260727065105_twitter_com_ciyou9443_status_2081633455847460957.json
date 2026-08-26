@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081633430257950720",
+        "3_2081633440114569216",
+        "3_2081633447135830016"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2081633455847460957",
+    "created_at": "2026-07-27T06:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T07:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081633455847460957"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h8Wt93ox5l",
+          "end": 70,
+          "expanded_url": "https://x.com/ciyou9443/status/2081633455847460957/photo/1",
+          "media_key": "3_2081633430257950720",
+          "start": 47,
+          "url": "https://t.co/h8Wt93ox5l"
+        },
+        {
+          "display_url": "pic.x.com/h8Wt93ox5l",
+          "end": 70,
+          "expanded_url": "https://x.com/ciyou9443/status/2081633455847460957/photo/1",
+          "media_key": "3_2081633440114569216",
+          "start": 47,
+          "url": "https://t.co/h8Wt93ox5l"
+        },
+        {
+          "display_url": "pic.x.com/h8Wt93ox5l",
+          "end": 70,
+          "expanded_url": "https://x.com/ciyou9443/status/2081633455847460957/photo/1",
+          "media_key": "3_2081633447135830016",
+          "start": 47,
+          "url": "https://t.co/h8Wt93ox5l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081633455847460957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天在万达被小妹妹夸衣品好，素子很大方的请她们吃了烤鱼（其实是素自己特别想吃ლ(＾ω＾ლ)） https://t.co/h8Wt93ox5l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3577,
+        "media_key": "3_2081633430257950720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONyk2saYAALKgf.jpg",
+        "width": 1816
+      },
+      {
+        "height": 1768,
+        "media_key": "3_2081633440114569216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONylbaacAAa2Zl.jpg",
+        "width": 828
+      },
+      {
+        "height": 2319,
+        "media_key": "3_2081633447135830016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONyl1kaYAAdXLM.jpg",
+        "width": 1515
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081633430257950720",
+            "3_2081633440114569216",
+            "3_2081633447135830016"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2081633455847460957",
+        "created_at": "2026-07-27T06:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081633455847460957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h8Wt93ox5l",
+              "end": 70,
+              "expanded_url": "https://x.com/ciyou9443/status/2081633455847460957/photo/1",
+              "media_key": "3_2081633430257950720",
+              "start": 47,
+              "url": "https://t.co/h8Wt93ox5l"
+            },
+            {
+              "display_url": "pic.x.com/h8Wt93ox5l",
+              "end": 70,
+              "expanded_url": "https://x.com/ciyou9443/status/2081633455847460957/photo/1",
+              "media_key": "3_2081633440114569216",
+              "start": 47,
+              "url": "https://t.co/h8Wt93ox5l"
+            },
+            {
+              "display_url": "pic.x.com/h8Wt93ox5l",
+              "end": 70,
+              "expanded_url": "https://x.com/ciyou9443/status/2081633455847460957/photo/1",
+              "media_key": "3_2081633447135830016",
+              "start": 47,
+              "url": "https://t.co/h8Wt93ox5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081633455847460957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天在万达被小妹妹夸衣品好，素子很大方的请她们吃了烤鱼（其实是素自己特别想吃ლ(＾ω＾ლ)） https://t.co/h8Wt93ox5l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "总是要问，我是谁？   \n双相情感障碍/电波系\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2074463616150204444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 598,
+          "like_count": 12887,
+          "listed_count": 4,
+          "media_count": 438,
+          "tweet_count": 3378
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      }
+    ]
+  }
+}

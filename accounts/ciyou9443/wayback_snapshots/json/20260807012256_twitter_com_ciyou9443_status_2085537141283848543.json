@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2085383850436485376",
+    "created_at": "2026-08-07T01:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T02:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085537141283848543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965448764686303235",
+          "start": 0,
+          "username": "mio_negimeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085537141283848543",
+    "in_reply_to_user_id": "1965448764686303235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085383850436485376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mio_negimeow 极度支持，炒作这种的真该死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2085383850436485376",
+        "created_at": "2026-08-07T01:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T02:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085537141283848543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965448764686303235",
+              "start": 0,
+              "username": "mio_negimeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085537141283848543",
+        "in_reply_to_user_id": "1965448764686303235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085383850436485376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio_negimeow 极度支持，炒作这种的真该死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965448764686303235",
+        "conversation_id": "2085383850436485376",
+        "created_at": "2026-08-06T15:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085383850436485376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lxgy1024/statu…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/lxgy1024/status/2085048024263516254",
+              "start": 53,
+              "url": "https://t.co/18PZauHka9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085383850436485376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3933,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085048024263516254",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别吃人血馒头了好不好？最近死的人还不少吗\n在我们这种群体里，这种话题真的很敏感，我真第一眼觉得有人又走了 https://t.co/18PZauHka9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "素子不瓜的，一点也不瓜\n电波系御姐/间期性水仙\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 485,
+          "like_count": 13378,
+          "listed_count": 5,
+          "media_count": 451,
+          "tweet_count": 3450
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T16:14:58.000Z",
+        "description": "笨葱猫喵~｜姛｜Feminist ｜喜欢探索世界的理工女 ｜ 日常碎碎念  |  🏳️‍⚧️  |  姐姐🥰@RrkwM10400",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "RrkwM10400"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "snowmiku-home.top/ask/",
+                "end": 23,
+                "expanded_url": "https://snowmiku-home.top/ask/",
+                "start": 0,
+                "url": "https://t.co/D65FRZl7CC"
+              }
+            ]
+          }
+        },
+        "id": "1965448764686303235",
+        "location": "提问箱📦→",
+        "name": "酱葱🌱",
+        "pinned_tweet_id": "2076361084647444658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993376877587972104/nec22BPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2625,
+          "following_count": 102,
+          "like_count": 1678,
+          "listed_count": 6,
+          "media_count": 111,
+          "tweet_count": 921
+        },
+        "url": "https://t.co/D65FRZl7CC",
+        "username": "mio_negimeow",
+        "verified": true
+      }
+    ]
+  }
+}

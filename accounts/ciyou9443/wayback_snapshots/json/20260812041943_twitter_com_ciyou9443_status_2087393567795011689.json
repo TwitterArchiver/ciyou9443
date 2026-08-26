@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087393555706949632",
+        "3_2087393561935491072"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2087393567795011689",
+    "created_at": "2026-08-12T04:19:43.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T05:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087393567795011689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FCc8ew9rA1",
+          "end": 84,
+          "expanded_url": "https://x.com/ciyou9443/status/2087393567795011689/photo/1",
+          "media_key": "3_2087393555706949632",
+          "start": 61,
+          "url": "https://t.co/FCc8ew9rA1"
+        },
+        {
+          "display_url": "pic.x.com/FCc8ew9rA1",
+          "end": 84,
+          "expanded_url": "https://x.com/ciyou9443/status/2087393567795011689/photo/1",
+          "media_key": "3_2087393561935491072",
+          "start": 61,
+          "url": "https://t.co/FCc8ew9rA1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087393567795011689",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087393555706949632"
+      },
+      {
+        "media_key": "3_2087393561935491072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "学...学院风？\n素发现自己拥有大长腿🥰🥰🥰\n脚链成“永久”了，睡觉洗澡也不摘，叮铃叮铃的声音素好喜欢\n请喜欢素素🥰🥰🥰 https://t.co/FCc8ew9rA1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1325,
+        "media_key": "3_2087393555706949632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfpYSJaMAAJY13.jpg",
+        "width": 1143
+      },
+      {
+        "height": 1354,
+        "media_key": "3_2087393561935491072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfpYpWaMAAPMkW.jpg",
+        "width": 1310
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087393555706949632",
+            "3_2087393561935491072"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2087393567795011689",
+        "created_at": "2026-08-12T04:19:43.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087393567795011689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FCc8ew9rA1",
+              "end": 84,
+              "expanded_url": "https://x.com/ciyou9443/status/2087393567795011689/photo/1",
+              "media_key": "3_2087393555706949632",
+              "start": 61,
+              "url": "https://t.co/FCc8ew9rA1"
+            },
+            {
+              "display_url": "pic.x.com/FCc8ew9rA1",
+              "end": 84,
+              "expanded_url": "https://x.com/ciyou9443/status/2087393567795011689/photo/1",
+              "media_key": "3_2087393561935491072",
+              "start": 61,
+              "url": "https://t.co/FCc8ew9rA1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087393567795011689",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087393555706949632"
+          },
+          {
+            "media_key": "3_2087393561935491072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学...学院风？\n素发现自己拥有大长腿🥰🥰🥰\n脚链成“永久”了，睡觉洗澡也不摘，叮铃叮铃的声音素好喜欢\n请喜欢素素🥰🥰🥰 https://t.co/FCc8ew9rA1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "沉吟...思索💫素是辉夜姬💫💫💫💫\n隐藏一些时间线 清除一些时间线 远离舆论风波\n电波系御姐/间期性水仙/概率云切片\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2087393567795011689",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2062510740637139247",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805373961020260353/1720126400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2472,
+          "following_count": 408,
+          "like_count": 13744,
+          "listed_count": 5,
+          "media_count": 464,
+          "tweet_count": 3528
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

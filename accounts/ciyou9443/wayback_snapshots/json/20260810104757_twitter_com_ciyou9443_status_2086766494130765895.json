@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086766487214387200"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2086766494130765895",
+    "created_at": "2026-08-10T10:47:57.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T11:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086766494130765895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5ruQEARFCs",
+          "end": 55,
+          "expanded_url": "https://x.com/ciyou9443/status/2086766494130765895/photo/1",
+          "media_key": "3_2086766487214387200",
+          "start": 32,
+          "url": "https://t.co/5ruQEARFCs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086766494130765895",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086766487214387200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "素好想穿这件出门，但是现在太热了，只是随便穿一下就汗流浃背了。 https://t.co/5ruQEARFCs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2086766487214387200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWvEF-acAAa44N.jpg",
+        "width": 1257
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086766487214387200"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2086766494130765895",
+        "created_at": "2026-08-10T10:47:57.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T11:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086766494130765895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ruQEARFCs",
+              "end": 55,
+              "expanded_url": "https://x.com/ciyou9443/status/2086766494130765895/photo/1",
+              "media_key": "3_2086766487214387200",
+              "start": 32,
+              "url": "https://t.co/5ruQEARFCs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086766494130765895",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086766487214387200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素好想穿这件出门，但是现在太热了，只是随便穿一下就汗流浃背了。 https://t.co/5ruQEARFCs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "自娱自乐也是极好的\n电波系御姐/间期性水仙\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 52,
+                "start": 44,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2086766494130765895",
+        "name": "素素素素素",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805373961020260353/1720126400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 443,
+          "like_count": 13654,
+          "listed_count": 5,
+          "media_count": 461,
+          "tweet_count": 3505
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

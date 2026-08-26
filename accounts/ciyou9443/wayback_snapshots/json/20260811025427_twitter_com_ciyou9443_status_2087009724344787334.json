@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2087008967713296664",
+    "created_at": "2026-08-11T02:54:27.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T03:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087009724344787334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1797833325039726592",
+          "start": 0,
+          "username": "chanliuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087009724344787334",
+    "in_reply_to_user_id": "1805373961020260353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087009217970643247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chanliuko 素子想推倒🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2087008967713296664",
+        "created_at": "2026-08-11T02:54:27.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T03:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087009724344787334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1797833325039726592",
+              "start": 0,
+              "username": "chanliuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087009724344787334",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087009217970643247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chanliuko 素子想推倒🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2087008967713296664",
+        "created_at": "2026-08-11T02:52:26.000Z",
+        "display_text_range": [
+          11,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T03:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087009217970643247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1797833325039726592",
+              "start": 0,
+              "username": "chanliuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087009217970643247",
+        "in_reply_to_user_id": "1797833325039726592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087008967713296664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chanliuko 主包主包你真好看*⁂((✪⥎✪))⁂*"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "沉吟...思索💫素是辉夜姬💫💫💫💫\n电波系御姐/间期性水仙/概率云切片\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2087009724344787334",
+        "name": "素素素素素",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805373961020260353/1720126400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2450,
+          "following_count": 430,
+          "like_count": 13696,
+          "listed_count": 5,
+          "media_count": 462,
+          "tweet_count": 3516
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-04T03:30:51.000Z",
+        "description": "男的 爱打音游 喜欢音乐 可能会画些画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/32289237",
+                "end": 23,
+                "expanded_url": "https://osu.ppy.sh/users/32289237",
+                "start": 0,
+                "url": "https://t.co/w4gCrytzVx"
+              }
+            ]
+          }
+        },
+        "id": "1797833325039726592",
+        "is_identity_verified": false,
+        "location": "沪",
+        "most_recent_tweet_id": "2087008967713296664",
+        "name": "chanliuko",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797833325039726592/1774797339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905946190451191808/qO2A05tS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 738,
+          "like_count": 1105,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 411
+        },
+        "url": "https://t.co/w4gCrytzVx",
+        "username": "chanliuko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

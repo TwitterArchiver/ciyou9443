@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2083882438975955145",
+    "created_at": "2026-08-02T12:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T13:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083893614678298914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1227411116499722240",
+          "start": 0,
+          "username": "Qoooooooo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083893614678298914",
+    "in_reply_to_user_id": "1227411116499722240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083890389405278710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qoooooooo_ 吃桔桔！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2083890389405278710].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2083890389405278710",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2083890389405278710"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2083882438975955145",
+        "created_at": "2026-08-02T12:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083893614678298914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1227411116499722240",
+              "start": 0,
+              "username": "Qoooooooo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083893614678298914",
+        "in_reply_to_user_id": "1227411116499722240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083890389405278710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qoooooooo_ 吃桔桔！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "上一个切片做的事不关下一个切片的事   \n电波系御姐/间期性水仙\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 63,
+                "start": 55,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089,
+          "following_count": 486,
+          "like_count": 13168,
+          "listed_count": 5,
+          "media_count": 447,
+          "tweet_count": 3413
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-12T01:56:38.000Z",
+        "description": "不可思议之国居民",
+        "id": "1227411116499722240",
+        "location": "兔子窝",
+        "name": "JuJu",
+        "pinned_tweet_id": "1718273633695744309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072684870376267776/jQgzke0w_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 141,
+          "like_count": 9306,
+          "listed_count": 1,
+          "media_count": 1371,
+          "tweet_count": 20402
+        },
+        "url": "",
+        "username": "Qoooooooo_",
+        "verified": false
+      }
+    ]
+  }
+}

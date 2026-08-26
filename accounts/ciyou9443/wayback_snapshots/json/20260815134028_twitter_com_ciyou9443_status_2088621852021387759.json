@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2088615436321771598",
+    "created_at": "2026-08-15T13:40:28.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T14:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088621852021387759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1830445638284398592",
+          "start": 0,
+          "username": "Lingwings_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088621852021387759",
+    "in_reply_to_user_id": "1830445638284398592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088616783645413830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lingwings_ 抱抱乖宝宝🥰💫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2088615436321771598",
+        "created_at": "2026-08-15T13:40:28.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088621852021387759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1830445638284398592",
+              "start": 0,
+              "username": "Lingwings_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088621852021387759",
+        "in_reply_to_user_id": "1830445638284398592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088616783645413830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lingwings_ 抱抱乖宝宝🥰💫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830445638284398592",
+        "conversation_id": "2088615436321771598",
+        "created_at": "2026-08-15T13:20:20.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088616783645413830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088616783645413830",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088615436321771598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 素妈妈ww"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "沉吟...思索💫素是辉夜姬💫💫💫💫\n电波系💫💫💫\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2088621852021387759",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2087500515471167676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805373961020260353/1720126400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2733,
+          "following_count": 374,
+          "like_count": 14166,
+          "listed_count": 6,
+          "media_count": 470,
+          "tweet_count": 3626
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-02T03:20:31.000Z",
+        "description": "♂孩子哦｜取向♀｜早泄杂鱼肉棒\n榨精｜switch｜足控｜伪百合｜♡娼年♡母狗♡\n涩涩服务准备中～♡",
+        "id": "1830445638284398592",
+        "is_identity_verified": false,
+        "location": "shanghai",
+        "most_recent_tweet_id": "2088616783645413830",
+        "name": "澪_♡",
+        "pinned_tweet_id": "1962862087841178030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830445638284398592/1759633602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998955990344151040/wLS5W-n1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5051,
+          "following_count": 4240,
+          "like_count": 7176,
+          "listed_count": 24,
+          "media_count": 18,
+          "tweet_count": 230
+        },
+        "url": "",
+        "username": "Lingwings_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

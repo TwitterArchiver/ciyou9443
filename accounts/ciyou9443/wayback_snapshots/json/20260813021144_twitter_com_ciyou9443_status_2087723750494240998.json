@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2087721748385137050",
+    "created_at": "2026-08-13T02:11:44.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T03:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087723750494240998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1616696567549034496",
+          "start": 0,
+          "username": "LovelyJerry2013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087723750494240998",
+    "in_reply_to_user_id": "1616696567549034496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087721748385137050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LovelyJerry2013 日常且可爱🥰🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2087721721545777152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPkT2DKaYAAGPS0.jpg",
+        "width": 2302
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2087721737077346304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPkT29BbUAAa4wn.jpg",
+        "width": 2302
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2087721748385137050",
+        "created_at": "2026-08-13T02:11:44.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T03:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087723750494240998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1616696567549034496",
+              "start": 0,
+              "username": "LovelyJerry2013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087723750494240998",
+        "in_reply_to_user_id": "1616696567549034496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087721748385137050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LovelyJerry2013 日常且可爱🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087721721545777152",
+            "3_2087721737077346304"
+          ]
+        },
+        "author_id": "1616696567549034496",
+        "conversation_id": "2087721748385137050",
+        "created_at": "2026-08-13T02:03:47.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T03:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087721748385137050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6LP0u0A84N",
+              "end": 35,
+              "expanded_url": "https://x.com/LovelyJerry2013/status/2087721748385137050/photo/1",
+              "media_key": "3_2087721721545777152",
+              "start": 12,
+              "url": "https://t.co/6LP0u0A84N"
+            },
+            {
+              "display_url": "pic.x.com/6LP0u0A84N",
+              "end": 35,
+              "expanded_url": "https://x.com/LovelyJerry2013/status/2087721748385137050/photo/1",
+              "media_key": "3_2087721737077346304",
+              "start": 12,
+              "url": "https://t.co/6LP0u0A84N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087721748385137050",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087721721545777152"
+          },
+          {
+            "media_key": "3_2087721737077346304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉日常这样穿其实还行 https://t.co/6LP0u0A84N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "严肃切割我和素💫💫💫💫\n电波系御姐/概率云切片\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2087723750494240998",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2087500515471167676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805373961020260353/1720126400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2625,
+          "following_count": 387,
+          "like_count": 13854,
+          "listed_count": 6,
+          "media_count": 465,
+          "tweet_count": 3550
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-21T07:18:09.000Z",
+        "description": "社交焦虑障碍\\历史学\\ Trotskyism ☭⁴\\异端托派\\mtx\\🏳️‍⚧️\\Lolita\\清水\\DDLC&Just Yuri💜\\芙兰秀秀\\点兔\\晓美焰\\猫和老鼠\\q娃\\北方谦三\\♡HMS光辉号♡\\幸德秋水\\坂井三郎\\本体花枝鼠\\2013\\照片大部分在媒体里\\里推@KawaiiYuri2013",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 134,
+                "username": "KawaiiYuri2013"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "http://marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/UnTrdQV65b"
+              }
+            ]
+          }
+        },
+        "id": "1616696567549034496",
+        "is_identity_verified": false,
+        "location": "佐賀県唐津市",
+        "most_recent_tweet_id": "2087721785655755183",
+        "name": "✧*♡𝓝𝓪𝓽𝓼𝓾𝓶𝓮𝓢𝓱𝓾𝓼𝓾𝓲♡*⊹🍀✒️🍬",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1616696567549034496/1783564026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078024494439100416/UG3fmVyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 1617,
+          "like_count": 57121,
+          "listed_count": 4,
+          "media_count": 322,
+          "tweet_count": 4835
+        },
+        "url": "https://t.co/UnTrdQV65b",
+        "username": "LovelyJerry2013",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

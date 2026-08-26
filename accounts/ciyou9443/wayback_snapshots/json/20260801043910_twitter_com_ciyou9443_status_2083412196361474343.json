@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2082792257204502594",
+    "created_at": "2026-08-01T04:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T05:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083412196361474343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1616696567549034496",
+          "start": 0,
+          "username": "LovelyJerry2013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083412196361474343",
+    "in_reply_to_user_id": "1616696567549034496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083143777095753806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LovelyJerry2013 抱抱你🫂🫂🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2082792257204502594",
+        "created_at": "2026-08-01T04:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083412196361474343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1616696567549034496",
+              "start": 0,
+              "username": "LovelyJerry2013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083412196361474343",
+        "in_reply_to_user_id": "1616696567549034496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083143777095753806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LovelyJerry2013 抱抱你🫂🫂🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616696567549034496",
+        "conversation_id": "2082792257204502594",
+        "created_at": "2026-07-31T10:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083143777095753806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083143777095753806",
+        "in_reply_to_user_id": "1616696567549034496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083138097529905282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在连和我家人说话都害怕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "上一个切片做的事不关下一个切片的事   \n电波系御姐/间期性水仙\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 63,
+                "start": 55,
+                "username": "ilobius"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cuyou9443",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cuyou9443",
+                "start": 0,
+                "url": "https://t.co/EHP2jgwnGK"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2069429729602793580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089,
+          "following_count": 485,
+          "like_count": 13102,
+          "listed_count": 5,
+          "media_count": 446,
+          "tweet_count": 3403
+        },
+        "url": "https://t.co/EHP2jgwnGK",
+        "username": "ciyou9443",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-21T07:18:09.000Z",
+        "description": "社交焦虑障碍\\历史学\\ Trotskyism ☭⁴\\异端托派\\含糖🍥\\mtx🏳️‍⚧️\\Lolita\\清水\\DDLC&Just Yuri💜\\芙兰秀秀\\点兔\\晓美焰\\猫和老鼠\\q娃\\北方谦三\\♡HMS光辉号♡\\幸德秋水\\坂井三郎\\本体花枝鼠\\2013\\照片大部分在媒体里\\里推@KawaiiYuri2013",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "KawaiiYuri2013"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "http://marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/UnTrdQV65b"
+              }
+            ]
+          }
+        },
+        "id": "1616696567549034496",
+        "location": "佐賀県唐津市",
+        "name": "✧*♡𝓝𝓪𝓽𝓼𝓾𝓶𝓮𝓢𝓱𝓾𝓼𝓾𝓲♡*⊹🍀✒️🍬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078024494439100416/UG3fmVyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 1611,
+          "like_count": 56336,
+          "listed_count": 4,
+          "media_count": 319,
+          "tweet_count": 4736
+        },
+        "url": "https://t.co/UnTrdQV65b",
+        "username": "LovelyJerry2013",
+        "verified": false
+      }
+    ]
+  }
+}

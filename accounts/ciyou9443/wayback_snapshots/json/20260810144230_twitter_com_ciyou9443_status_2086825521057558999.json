@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2086811635285635251",
+    "created_at": "2026-08-10T14:42:30.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T15:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086825521057558999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1729426446538698752",
+          "start": 0,
+          "username": "AurelianoRen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086825521057558999",
+    "in_reply_to_user_id": "1729426446538698752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086811635285635251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AurelianoRen 宝宝...抱抱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2996,
+        "media_key": "3_2086811626276302848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXYHiFasAAdPZ5.jpg",
+        "width": 2603
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2086811635285635251",
+        "created_at": "2026-08-10T14:42:30.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086825521057558999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1729426446538698752",
+              "start": 0,
+              "username": "AurelianoRen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086825521057558999",
+        "in_reply_to_user_id": "1729426446538698752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086811635285635251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AurelianoRen 宝宝...抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086811626276302848"
+          ]
+        },
+        "author_id": "1729426446538698752",
+        "conversation_id": "2086811635285635251",
+        "created_at": "2026-08-10T13:47:19.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T14:45:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086811156568801646",
+          "2086811635285635251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rq6I4v5nMh",
+              "end": 65,
+              "expanded_url": "https://x.com/AurelianoRen/status/2086811635285635251/photo/1",
+              "media_key": "3_2086811626276302848",
+              "start": 42,
+              "url": "https://t.co/rq6I4v5nMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086811635285635251",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086811626276302848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好孤独\n所有人的心都离我好远\n\n我的身体出了问题\n我无法卸下防备\n无法感到善意与爱 https://t.co/rq6I4v5nMh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "沉吟...思索💫素是辉夜姬💫💫💫💫\n电波系御姐/间期性水仙/概率云切片\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2086825521057558999",
+        "name": "素素素素素",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805373961020260353/1720126400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2439,
+          "following_count": 444,
+          "like_count": 13682,
+          "listed_count": 5,
+          "media_count": 462,
+          "tweet_count": 3514
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-28T09:06:27.000Z",
+        "description": "制服と銃器が好きな文学少女\nよかったら、友達になってください",
+        "id": "1729426446538698752",
+        "is_identity_verified": false,
+        "location": "Barranquilla, Colombia",
+        "most_recent_tweet_id": "2086815154319286709",
+        "name": "Aureliano",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1729426446538698752/1785832442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083714407205683200/GH99b-hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 68,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "AurelianoRen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

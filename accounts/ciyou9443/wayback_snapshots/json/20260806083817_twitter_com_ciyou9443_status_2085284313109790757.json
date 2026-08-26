@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085284299948101632",
+        "3_2085284307422392320"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2085284313109790757",
+    "created_at": "2026-08-06T08:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T09:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085284313109790757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kk1nKyEnVQ",
+          "end": 168,
+          "expanded_url": "https://x.com/ciyou9443/status/2085284313109790757/photo/1",
+          "media_key": "3_2085284299948101632",
+          "start": 145,
+          "url": "https://t.co/kk1nKyEnVQ"
+        },
+        {
+          "display_url": "pic.x.com/kk1nKyEnVQ",
+          "end": 168,
+          "expanded_url": "https://x.com/ciyou9443/status/2085284313109790757/photo/1",
+          "media_key": "3_2085284307422392320",
+          "start": 145,
+          "url": "https://t.co/kk1nKyEnVQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085284313109790757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "素这两天是甜妹！（糖糖糖）\n素拿着没缴费的就诊码就冲到导医台\n护士：“欸，怎么扫不上，算了，你直接去五号门吧。”\n素进了五号门之后，开始说自己的诉求\n医生：“停停停，你是哪个。”\n素报了自己的名字，医生查询电脑后发现没有，俩人迷茫，随后医生表示给我看看你的就诊码\n查阅后：“你这没缴费呀”\n(〃'▽'〃) (〃'▽'〃) (〃'▽'〃) (〃'▽'〃) (〃'▽'〃) (〃'▽'〃)"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "素这两天是甜妹！（糖糖糖）\n素拿着没缴费的就诊码就冲到导医台\n护士：“欸，怎么扫不上，算了，你直接去五号门吧。”\n素进了五号门之后，开始说自己的诉求\n医生：“停停停，你是哪个。”\n素报了自己的名字，医生查询电脑后发现没有，俩人迷茫，随后医生表示给我看看你的就诊码\n查阅后：“你这没缴费呀” https://t.co/kk1nKyEnVQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2085284299948101632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBrBcIbEAA3qHB.jpg",
+        "width": 1508
+      },
+      {
+        "height": 1494,
+        "media_key": "3_2085284307422392320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBrB3-bsAAOlsM.jpg",
+        "width": 1265
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085284299948101632",
+            "3_2085284307422392320"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2085284313109790757",
+        "created_at": "2026-08-06T08:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085284313109790757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kk1nKyEnVQ",
+              "end": 168,
+              "expanded_url": "https://x.com/ciyou9443/status/2085284313109790757/photo/1",
+              "media_key": "3_2085284299948101632",
+              "start": 145,
+              "url": "https://t.co/kk1nKyEnVQ"
+            },
+            {
+              "display_url": "pic.x.com/kk1nKyEnVQ",
+              "end": 168,
+              "expanded_url": "https://x.com/ciyou9443/status/2085284313109790757/photo/1",
+              "media_key": "3_2085284307422392320",
+              "start": 145,
+              "url": "https://t.co/kk1nKyEnVQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085284313109790757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "素这两天是甜妹！（糖糖糖）\n素拿着没缴费的就诊码就冲到导医台\n护士：“欸，怎么扫不上，算了，你直接去五号门吧。”\n素进了五号门之后，开始说自己的诉求\n医生：“停停停，你是哪个。”\n素报了自己的名字，医生查询电脑后发现没有，俩人迷茫，随后医生表示给我看看你的就诊码\n查阅后：“你这没缴费呀”\n(〃'▽'〃) (〃'▽'〃) (〃'▽'〃) (〃'▽'〃) (〃'▽'〃) (〃'▽'〃)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素这两天是甜妹！（糖糖糖）\n素拿着没缴费的就诊码就冲到导医台\n护士：“欸，怎么扫不上，算了，你直接去五号门吧。”\n素进了五号门之后，开始说自己的诉求\n医生：“停停停，你是哪个。”\n素报了自己的名字，医生查询电脑后发现没有，俩人迷茫，随后医生表示给我看看你的就诊码\n查阅后：“你这没缴费呀” https://t.co/kk1nKyEnVQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "素子不瓜的，一点也不瓜\n电波系御姐/间期性水仙\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 486,
+          "like_count": 13346,
+          "listed_count": 5,
+          "media_count": 451,
+          "tweet_count": 3444
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      }
+    ]
+  }
+}

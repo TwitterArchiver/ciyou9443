@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086383132530610176",
+        "3_2086383139925172224"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2086383145830785311",
+    "created_at": "2026-08-09T09:24:39.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T10:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086383145830785311"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AgS11QQEJB",
+          "end": 81,
+          "expanded_url": "https://x.com/ciyou9443/status/2086383145830785311/photo/1",
+          "media_key": "3_2086383132530610176",
+          "start": 58,
+          "url": "https://t.co/AgS11QQEJB"
+        },
+        {
+          "display_url": "pic.x.com/AgS11QQEJB",
+          "end": 81,
+          "expanded_url": "https://x.com/ciyou9443/status/2086383145830785311/photo/1",
+          "media_key": "3_2086383139925172224",
+          "start": 58,
+          "url": "https://t.co/AgS11QQEJB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086383145830785311",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086383132530610176"
+      },
+      {
+        "media_key": "3_2086383139925172224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "素是友跨顺跨，同类快来找我玩\n做不被定义的素（bushi）\n和服是好看的，汉服是好看的\n她真的好好看，但天真的好热 https://t.co/AgS11QQEJB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2086383132530610176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRSZ6fakAAy5HU.jpg",
+        "width": 1269
+      },
+      {
+        "height": 1484,
+        "media_key": "3_2086383139925172224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRSaWCaoAAFk5H.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086383132530610176",
+            "3_2086383139925172224"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2086383145830785311",
+        "created_at": "2026-08-09T09:24:39.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T10:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086383145830785311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AgS11QQEJB",
+              "end": 81,
+              "expanded_url": "https://x.com/ciyou9443/status/2086383145830785311/photo/1",
+              "media_key": "3_2086383132530610176",
+              "start": 58,
+              "url": "https://t.co/AgS11QQEJB"
+            },
+            {
+              "display_url": "pic.x.com/AgS11QQEJB",
+              "end": 81,
+              "expanded_url": "https://x.com/ciyou9443/status/2086383145830785311/photo/1",
+              "media_key": "3_2086383139925172224",
+              "start": 58,
+              "url": "https://t.co/AgS11QQEJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086383145830785311",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086383132530610176"
+          },
+          {
+            "media_key": "3_2086383139925172224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素是友跨顺跨，同类快来找我玩\n做不被定义的素（bushi）\n和服是好看的，汉服是好看的\n她真的好好看，但天真的好热 https://t.co/AgS11QQEJB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "卖惨是错误的\n电波系御姐/间期性水仙\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2086383145830785311",
+        "name": "素素素素素",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805373961020260353/1720126400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2367,
+          "following_count": 470,
+          "like_count": 13533,
+          "listed_count": 5,
+          "media_count": 458,
+          "tweet_count": 3489
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

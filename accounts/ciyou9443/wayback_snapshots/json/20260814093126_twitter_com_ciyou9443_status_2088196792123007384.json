@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2087879809544372401",
+    "created_at": "2026-08-14T09:31:26.000Z",
+    "display_text_range": [
+      14,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T10:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088196792123007384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1728669135104835584",
+          "start": 0,
+          "username": "Hitori_63339"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088196792123007384",
+    "in_reply_to_user_id": "1728669135104835584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088196218388181027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hitori_63339 完全不管别人的情况下，还不想承担责任，我看你毒驾了，出了问题不该你全责吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2087879809544372401",
+        "created_at": "2026-08-14T09:31:26.000Z",
+        "display_text_range": [
+          14,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088196792123007384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1728669135104835584",
+              "start": 0,
+              "username": "Hitori_63339"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088196792123007384",
+        "in_reply_to_user_id": "1728669135104835584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088196218388181027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hitori_63339 完全不管别人的情况下，还不想承担责任，我看你毒驾了，出了问题不该你全责吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728669135104835584",
+        "conversation_id": "2087879809544372401",
+        "created_at": "2026-08-14T09:29:09.000Z",
+        "display_text_range": [
+          11,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088196218388181027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088196218388181027",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088195132906774801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 上海快闪那个是吧？我o大了虽然是轻躁狂，但是o的是抑制剂，路都走不稳或者全身软绵绵的哪有力气去捅人呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "电波系💫💫💫\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2088196792123007384",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2087500515471167676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805373961020260353/1720126400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 381,
+          "like_count": 13989,
+          "listed_count": 6,
+          "media_count": 467,
+          "tweet_count": 3589
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-26T06:57:24.000Z",
+        "description": "ocd/mdd/oder💊\n摇滚🎸/前摇/迷幻/ACG/哲学/泛性向/社恐倾向\n同类互fo喵~(可以叫我小霁",
+        "id": "1728669135104835584",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2088196218388181027",
+        "name": "✞Rain霁✞",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1728669135104835584/1786134537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087810200648691712/cAbHBYai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 11,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "Hitori_63339",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

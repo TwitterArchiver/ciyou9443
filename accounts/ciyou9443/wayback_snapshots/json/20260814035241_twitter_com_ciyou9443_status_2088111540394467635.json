@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088111529719939072"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2088111540394467635",
+    "created_at": "2026-08-14T03:52:41.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T04:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088111540394467635"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/deCdoxKcFy",
+          "end": 68,
+          "expanded_url": "https://x.com/ciyou9443/status/2088111540394467635/photo/1",
+          "media_key": "3_2088111529719939072",
+          "start": 45,
+          "url": "https://t.co/deCdoxKcFy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088111540394467635",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088111529719939072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "显而易见，今天素是大帅哥\n不对，素公子～\n往日里喊素姐姐，素不挑你理\n今个该叫素什么～？ https://t.co/deCdoxKcFy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2088111529719939072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPp2X3xawAA_cE0.jpg",
+        "width": 1419
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088111529719939072"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2088111540394467635",
+        "created_at": "2026-08-14T03:52:41.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088111540394467635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/deCdoxKcFy",
+              "end": 68,
+              "expanded_url": "https://x.com/ciyou9443/status/2088111540394467635/photo/1",
+              "media_key": "3_2088111529719939072",
+              "start": 45,
+              "url": "https://t.co/deCdoxKcFy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088111540394467635",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088111529719939072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "显而易见，今天素是大帅哥\n不对，素公子～\n往日里喊素姐姐，素不挑你理\n今个该叫素什么～？ https://t.co/deCdoxKcFy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "电波系💫💫💫\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2088111540394467635",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2087500515471167676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805373961020260353/1720126400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2690,
+          "following_count": 381,
+          "like_count": 13964,
+          "listed_count": 6,
+          "media_count": 467,
+          "tweet_count": 3582
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

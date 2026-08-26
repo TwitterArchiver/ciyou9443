@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083541948305231872"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2083541960418373652",
+    "created_at": "2026-08-01T13:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083541960418373652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/94oqxJaBvy",
+          "end": 52,
+          "expanded_url": "https://x.com/ciyou9443/status/2083541960418373652/photo/1",
+          "media_key": "3_2083541948305231872",
+          "start": 29,
+          "url": "https://t.co/94oqxJaBvy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083541960418373652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "素子收集癖上来了，继续收集中🥰\n手抖的几乎写不来字😮‍💨 https://t.co/94oqxJaBvy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2083541948305231872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOo6XOdb0AAuK5B.jpg",
+        "width": 1816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083541948305231872"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2083541960418373652",
+        "created_at": "2026-08-01T13:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083541960418373652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/94oqxJaBvy",
+              "end": 52,
+              "expanded_url": "https://x.com/ciyou9443/status/2083541960418373652/photo/1",
+              "media_key": "3_2083541948305231872",
+              "start": 29,
+              "url": "https://t.co/94oqxJaBvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083541960418373652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素子收集癖上来了，继续收集中🥰\n手抖的几乎写不来字😮‍💨 https://t.co/94oqxJaBvy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "上一个切片做的事不关下一个切片的事   \n电波系御姐/间期性水仙\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 63,
+                "start": 55,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089,
+          "following_count": 485,
+          "like_count": 13151,
+          "listed_count": 5,
+          "media_count": 447,
+          "tweet_count": 3410
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true
+      }
+    ]
+  }
+}

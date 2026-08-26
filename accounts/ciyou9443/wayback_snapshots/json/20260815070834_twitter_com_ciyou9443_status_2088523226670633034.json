@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088523212498079744",
+        "3_2088523220442025984"
+      ]
+    },
+    "author_id": "1805373961020260353",
+    "conversation_id": "2088523226670633034",
+    "created_at": "2026-08-15T07:08:34.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T08:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088523226670633034"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZAV02ABiWi",
+          "end": 113,
+          "expanded_url": "https://x.com/ciyou9443/status/2088523226670633034/photo/1",
+          "media_key": "3_2088523212498079744",
+          "start": 90,
+          "url": "https://t.co/ZAV02ABiWi"
+        },
+        {
+          "display_url": "pic.x.com/ZAV02ABiWi",
+          "end": 113,
+          "expanded_url": "https://x.com/ciyou9443/status/2088523226670633034/photo/1",
+          "media_key": "3_2088523220442025984",
+          "start": 90,
+          "url": "https://t.co/ZAV02ABiWi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088523226670633034",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088523212498079744"
+      },
+      {
+        "media_key": "3_2088523220442025984"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近要么穿拖鞋要么不穿鞋出门，今天正经穿了一次鞋袜出门💫💫💫\n在外面正烦的时候遇到了推销的，跟素说了一通废话之后素才发现是推销的，直接给素整力竭了。\n素穿这个好御，应该喊素妈妈💫 https://t.co/ZAV02ABiWi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1848,
+        "media_key": "3_2088523212498079744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvsy9obEAAlz64.jpg",
+        "width": 992
+      },
+      {
+        "height": 1574,
+        "media_key": "3_2088523220442025984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvszbOaEAAx6Xc.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088523212498079744",
+            "3_2088523220442025984"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2088523226670633034",
+        "created_at": "2026-08-15T07:08:34.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088523226670633034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZAV02ABiWi",
+              "end": 113,
+              "expanded_url": "https://x.com/ciyou9443/status/2088523226670633034/photo/1",
+              "media_key": "3_2088523212498079744",
+              "start": 90,
+              "url": "https://t.co/ZAV02ABiWi"
+            },
+            {
+              "display_url": "pic.x.com/ZAV02ABiWi",
+              "end": 113,
+              "expanded_url": "https://x.com/ciyou9443/status/2088523226670633034/photo/1",
+              "media_key": "3_2088523220442025984",
+              "start": 90,
+              "url": "https://t.co/ZAV02ABiWi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088523226670633034",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088523212498079744"
+          },
+          {
+            "media_key": "3_2088523220442025984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近要么穿拖鞋要么不穿鞋出门，今天正经穿了一次鞋袜出门💫💫💫\n在外面正烦的时候遇到了推销的，跟素说了一通废话之后素才发现是推销的，直接给素整力竭了。\n素穿这个好御，应该喊素妈妈💫 https://t.co/ZAV02ABiWi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "电波系💫💫💫\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2088523226670633034",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2087500515471167676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805373961020260353/1720126400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2721,
+          "following_count": 376,
+          "like_count": 14033,
+          "listed_count": 6,
+          "media_count": 469,
+          "tweet_count": 3602
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

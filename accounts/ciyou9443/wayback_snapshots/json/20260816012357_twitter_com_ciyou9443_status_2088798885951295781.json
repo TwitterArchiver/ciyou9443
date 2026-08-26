@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2088701805098365386",
+    "created_at": "2026-08-16T01:23:57.000Z",
+    "display_text_range": [
+      10,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T02:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088798885951295781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1967167200059645952",
+          "start": 0,
+          "username": "aomiao_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088798885951295781",
+    "in_reply_to_user_id": "1967167200059645952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088701805098365386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aomiao_o 当然是爸妈都是女同💫💫💫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2088701805098365386",
+        "created_at": "2026-08-16T01:23:57.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T02:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088798885951295781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1967167200059645952",
+              "start": 0,
+              "username": "aomiao_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088798885951295781",
+        "in_reply_to_user_id": "1967167200059645952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088701805098365386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aomiao_o 当然是爸妈都是女同💫💫💫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967167200059645952",
+        "conversation_id": "2088701805098365386",
+        "created_at": "2026-08-15T18:58:11.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T19:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088701805098365386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088701805098365386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3368,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女同就女同 主页写个纯血女同到底啥意思 啥是纯血 妈爸都是女同啊 还是两个妈妈 到底啥意思"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "沉吟...思索💫素是辉夜姬💫💫💫💫\n电波系💫💫💫\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2088798885951295781",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2087500515471167676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805373961020260353/1720126400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2776,
+          "following_count": 367,
+          "like_count": 14227,
+          "listed_count": 6,
+          "media_count": 469,
+          "tweet_count": 3648
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T10:03:14.000Z",
+        "description": "我重生了丨1i3i4i丨18岁奔向大一丨纯绿聊天🚪88丨防炸备用小号@mimaodemao 我辨别出是人就能关注丨私信看情况回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "mimaodemao"
+              }
+            ]
+          }
+        },
+        "id": "1967167200059645952",
+        "is_identity_verified": false,
+        "location": "置顶推广自辨",
+        "most_recent_tweet_id": "2088712081298378867",
+        "name": "咪猫",
+        "pinned_tweet_id": "2029885618801758295",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967167200059645952/1757902006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004593627616722944/gAw7wrQB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4167,
+          "following_count": 307,
+          "like_count": 4863,
+          "listed_count": 10,
+          "media_count": 102,
+          "tweet_count": 2033
+        },
+        "url": "",
+        "username": "aomiao_o",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
