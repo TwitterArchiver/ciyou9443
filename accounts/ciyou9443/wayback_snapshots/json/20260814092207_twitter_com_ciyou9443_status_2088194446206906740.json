@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "2088141533363261913",
+    "created_at": "2026-08-14T09:22:07.000Z",
+    "display_text_range": [
+      8,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T10:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088194446206906740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088194446206906740",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088141533363261913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@aoim33 拼尽全力无法绷住"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 746,
+        "media_key": "3_2088141500744142848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqRoaibEAAYkZL.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "2088141533363261913",
+        "created_at": "2026-08-14T09:22:07.000Z",
+        "display_text_range": [
+          8,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088194446206906740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088194446206906740",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088141533363261913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@aoim33 拼尽全力无法绷住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088141500744142848"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088141533363261913",
+        "created_at": "2026-08-14T05:51:52.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088141533363261913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YxHx8DcoCA",
+              "end": 23,
+              "expanded_url": "https://x.com/aoim33/status/2088141533363261913/photo/1",
+              "media_key": "3_2088141500744142848",
+              "start": 0,
+              "url": "https://t.co/YxHx8DcoCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088141533363261913",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088141500744142848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 458,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "https://t.co/YxHx8DcoCA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "电波系💫💫💫\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2088194446206906740",
+        "name": "素素素素素",
+        "pinned_tweet_id": "2087500515471167676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805373961020260353/1720126400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2693,
+          "following_count": 381,
+          "like_count": 13986,
+          "listed_count": 6,
+          "media_count": 467,
+          "tweet_count": 3587
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课 / tg ID 和推特ID相同",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ibUg3"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2088181026518667487",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6810,
+          "following_count": 3223,
+          "like_count": 59676,
+          "listed_count": 22,
+          "media_count": 3859,
+          "tweet_count": 15385
+        },
+        "url": "https://t.co/cIk53ibUg3",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
