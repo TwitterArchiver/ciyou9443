@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805373961020260353",
+    "conversation_id": "1886693918806564899",
+    "created_at": "2025-02-04T10:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T11:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886729644189344110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1735700650472955904",
+          "start": 0,
+          "username": "ErQiu8013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886729644189344110",
+    "in_reply_to_user_id": "1735700650472955904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886693918806564899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ErQiu8013 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805373961020260353",
+        "conversation_id": "1886693918806564899",
+        "created_at": "2025-02-04T10:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T11:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886729644189344110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1735700650472955904",
+              "start": 0,
+              "username": "ErQiu8013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886729644189344110",
+        "in_reply_to_user_id": "1735700650472955904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886693918806564899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ErQiu8013 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886693915052691456"
+          ]
+        },
+        "author_id": "1735700650472955904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1886693918806564899",
+        "created_at": "2025-02-04T08:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T09:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886693918806564899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LDo80iiY4u",
+              "end": 29,
+              "expanded_url": "https://x.com/ErQiu8013/status/1886693918806564899/photo/1",
+              "media_key": "3_1886693915052691456",
+              "start": 6,
+              "url": "https://t.co/LDo80iiY4u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886693918806564899",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 563,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已死，勿念 https://t.co/LDo80iiY4u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "含糖mtf/欢迎互fo/困困困困困要困死了/冬季濒死限定/欢迎xyn来找我玩♥(｡￫v￩｡)♥🏳️‍⚧️🍥",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 107,
+          "like_count": 455,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 189
+        },
+        "username": "ciyou9443",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T16:37:52.000Z",
+        "description": "当有选择的时候不要让自己后悔\n           氟伏沙明，奥氮平暂停   是点赞，关注bot\n 无偏向日常，o多了会癫，难受了会死。\n米家，Cytoid音游，赛博朋克拥护者，要是都不是默认睡死了/-—-/打算在自己有生之年爬雪山，互fo，没被fo请私信，会被吞，会fo有内容    发推",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/erqiu80131",
+                "end": 23,
+                "expanded_url": "https://ngl.link/erqiu80131",
+                "start": 0,
+                "url": "https://t.co/rQbp7InDUv"
+              }
+            ]
+          }
+        },
+        "id": "1735700650472955904",
+        "location": "精神卫生中心",
+        "name": "𝓦𝓪𝓷𝓰 𝓠𝓲𝓾𝓮𝓻（秋儿）降临派",
+        "pinned_tweet_id": "1884258298402390470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866537587122515968/8WVcBKAk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 1120,
+          "like_count": 10912,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 1620
+        },
+        "url": "https://t.co/rQbp7InDUv",
+        "username": "ErQiu8013",
+        "verified": false
+      }
+    ]
+  }
+}
